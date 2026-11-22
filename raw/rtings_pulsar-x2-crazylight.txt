@@ -1,0 +1,697 @@
+URL: https://www.rtings.com/mouse/reviews/pulsar/x2-crazylight
+TITLE: Pulsar X2 CrazyLight Review - RTINGS.com
+SAVED: 2026-11-22T04:23:14.091Z
+
+Products
+In The Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Wireless Mouse Ergonomic Wireless Gaming Lightweight Work MMO Logitech Budget Gaming MacBooks FPS Wired Trackball Razer Claw Grip Corsair SteelSeries
+TOOLS
+Compare 3D Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Logitech G PRO X2 SUPERSTRIKE Razer Viper V4 Pro Logitech MX Master 4 Razer Naga V3 Pro Logitech G PRO X3 SUPERSTRIKE Logitech G502 X PLUS Logitech G305 LIGHTSPEED MCHOSE L7 Ultra Razer Basilisk V3 Logitech G PRO X SUPERLIGHT 2 VXE R1 Pro Finalmouse Starlight X Logitech M720 Triathlon MCHOSE L7 Pro Endgame Gear OP1 8k v2 Razer Viper V3 Pro Logitech G502 X Keychron M6 LAMZU THORN V2 Logitech G305 X SUPERLIGHT
+420 MICE BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Mouse  Reviews  Pulsar  X2 CrazyLight  Review
+Notice: We've revamped our membership program.
+Pulsar X2 CrazyLight  Mouse Review
+By James Alex Chérubin, Gregory Vodden, John Peroramas
+Reviewed Sep 02, 2025 at 10:10am
+Writing modified Nov 12, 2026 at 09:19am
+Tested using Methodology v1.5.2 
+Type
+Standard
+Ambidextrous
+Shape Only
+Default Weight
+38.3 g
+Connectivity
+Wireless
+N/A
+Work 
+N/A
+Video Games (FPS) 
+N/A
+Video Games (MMO) 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Amazon
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 5
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Style
+Shape
+Build Quality
+Weight
+Hand Size Recommendation
+Wireless Versatility
+Cable
+Mouse Feet
+In The Box
+Control
+Main Button
+Additional Buttons
+Click Latency
+CPI
+Sensor Latency
+Sensor Specifications
+Mouse Wheel
+Noise
+Operating System And Software
+Configuration Software
+Mouse Compatibility
+Retailers
+Comments
+Staff Pick Deal: The Pulsar X2 CrazyLight has dropped in price by $45.00 at amazon.com.
+BUY NOW
+Visit our Deals Page for more!
+Recommended in:
+CLAW GRIP
+
+The Pulsar X2 CrazyLight is a wireless gaming mouse that continues Pulsar's X2 series. It shares the same shape as the Pulsar X2V2, but it's smaller in size and, true to its name, more lightweight. It uses the same optical left-and right-click switches, a Pulsar-branded blue scroll wheel encoder, and an XS-1 sensor (a Pulsar-exclusive sensor based on PixArt's PAW 3950). It has a maximum polling rate of 8000Hz out of the box and comes with large-sized PTFE feet installed on the mouse as well as a sheet of alternate dot skates, which are generally preferred for harder mouse pads.
+
+Our Verdict
+N/AVideo Games (FPS) 
+
+The Pulsar X2 CrazyLight is outstanding for FPS gaming. It's extremely lightweight, making it easy to move around quickly and accurately. Its small symmetrical shape is well-suited for claw and fingertip grips if you have small or medium-sized hands. Performance-wise, it supports a wireless polling rate of 8000Hz and offers exceptionally low click and sensor latency, ideal for competitive play. In order to save weight, it has a fairly small battery, so you'll need to recharge it fairly often, especially when using higher polling rates. Additionally, its open baseplate design also helps save weight, but it leaves the interior of the mouse open to collecting dust and debris.
+
+Pros
+
+Excellent build quality.
+
+Extremely low click latency.
+
+Outstanding sensor performance.
+
+Extremely lightweight.
+
+Cons
+
+Lightweight bottom plate design means the inside is open to dust and debris.
+
+Small battery size helps reduce weight but means more frequent recharging.
+
+SEE PRICEAmazon
+SEE OUR VIDEO GAMES (FPS) RECOMMENDATIONS 
+N/A
+Work
+N/A
+Video Games (FPS)
+N/A
+Video Games (MMO)
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Nov 12, 2026: 
+
+We've added a link to the G-Wolves LYCAN in the Weight section of the review.
+
+ Updated May 22, 2026: 
+
+We've added a link to the ATK Blazing Sky F1 Extreme in the Build Quality section of this review.
+
+ Updated May 15, 2026: 
+
+We've adjusted the text in the Click Latency section after retesting the mouse at different polling rate settings.
+
+ Updated May 11, 2026: 
+
+We've added a link to the newly reviewed Pulsar X2N CrazyLight in the Hand Size Recommendation section of the review.
+
+Show more 
+Check Price
+Aqua Zest
+SEE PRICEAmazon
+Jet Black
+SEE PRICEAmazon
+LA Edition
+SEE PRICEAmazon
+Sunset Haze
+SEE PRICEAmazon
+Uyuni White
+SEE PRICEBestBuy.com
+Volt Shadow
+SEE PRICEAmazon
+Differences Between Sizes And Variants
+
+The Pulsar X2 CrazyLight is available in several colorways. We bought and tested a Uyuni White unit. Pulsar also releases many limited edition or regional colorways, but we've chosen to avoid including mention of them because, apart from the visual design of the shell, these "edition" models are identical to their base model counterparts. You can see a photo of our unit's label for reference.
+
+This mouse is part of Pulsar's wider X2 series of lightweight wireless mice. However, the lineup includes some major differences between variants, making it extremely confusing to consider them as a single family.
+
+In the table below, we've identified major differences between current X2 lineup models. We expect many of our test results to broadly apply to other models in the series, though we expect differences between models with different sensors, sizes, shapes, or due to features like additional buttons. For the sake of clarity, we've intentionally excluded models in Pulsar's "eS" series, a subcategory of variants with other differences, such as aluminum scroll wheels and OLED screens.
+
+Name	Size	Colorways	Sensor Model	Notes
+X2V2	Medium	Black, White	PixArt PAW 3395	Standard shape
+X2V3	Medium	Black, White	Pulsar XS-1	Standard shape
+X2V2 Mini	Small	Black, White	PixArt PAW 3395	Standard shape, smaller size
+X2V3 Mini	Small	Black, White	Pulsar XS-1	Standard shape, smaller size, 8k receiver compatible
+X2 CrazyLight	Small	Jet Black, Uyuni White, Sunset Haze, Aqua Zest, Volt Shadow	Pulsar XS-1	Standard shape, smaller size, significantly lighter, 8k receiver included
+X2H	Medium	Black, White	PixArt PAW 3395	Higher hump that's positioned towards the back
+X2H V3	Medium	Black, White	Pulsar XS-1	Higher hump that's positioned towards the back, 8k receiver compatible*
+X2H Mini	Small	Black, White	PixArt PAW 3395	Higher hump that's positioned towards the back, smaller size
+X2H Mini V3	Small	Black, White	Pulsar XS-1	Higher hump that's positioned towards the back, smaller size, 8k receiver compatible*
+X2A	Medium	Black, White	PixArt PAW 3395	Fully ambidextrous with two additional buttons on the right side
+X2AV3	Medium	Black, White	Pulsar XS-1	Fully ambidextrous with two additional buttons on the right side, 8k receiver compatible*
+ X2A Mini	Small	Black, White	PixArt PAW 3395	Fully ambidextrous with two additional buttons on the right side, smaller size
+X2F	Extra Small	Black	Pulsar XS-1	Fingertip-only shape, "missing" the rear half of the mouse, 8k receiver included
+
+*Models marked 8k compatible require separate purchase for 8000Hz polling.
+
+Popular Mouse Comparisons
+
+The Pulsar X2 CrazyLight is a lightweight gaming mouse in Pulsar's broader X2 lineup. It has the same size and shape as the Pulsar X2V2 Mini and X2V3 Mini but is significantly lighter and includes an 8K-capable receiver.
+
+This mouse is aimed at competitive FPS players with small to medium hands who want the lightest possible option for fast, consistent movements. It's positioned at an upper mid-range price and compares most directly with the MCHOSE L7 Ultra, which has virtually the same shape and is only slightly heavier but much cheaper. Another close competitor is the Ninjutso Sora V2, which offers a similar shape and weight at a comparable cost if you purchase Ninjutso's 8K receiver separately. It's worth noting that one element that also makes the Pulsar stand out in this comparison is that it has an open baseplate design that helps further reduce its weight but leaves the interior more exposed to dust and debris.
+
+Between these three mice, there are no meaningful performance differences using optimal settings, and although the MCHOSE may be the most compelling option due to its price, the CrazyLight has noticeably better build quality. The MCHOSE we tested suffered from some minor flaws, including slightly mushy post-travel on its switches and some flexing under moderate pressure on the top panel. Finally, the Pulsar may also appeal if you prefer its more distinctive colorway options, which stand out in a market where most mice are still limited to black or white.
+
+For more recommendations, see our picks for the best lightweight mice, the best wireless gaming mice, and the best gaming mice. 
+
+Razer Viper V3 Pro
+SEE PRICEAmazon
+
+The Pulsar X2 CrazyLight and the Razer Viper V3 Pro are both lightweight wireless gaming mice aimed at competitive FPS players. Both deliver outstanding raw performance, and their symmetrical shapes make them well-suited for a claw or fingertip grip for small or medium-sized hands. The Pulsar is smaller and noticeably lighter. It also has a wider range of colorways available. The Razer, on the other hand, is slightly larger, especially in length. It has a solid baseplate design that protects the internals from dust and debris.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Logitech G PRO X SUPERLIGHT 2
+SEE PRICEAmazon
+
+The Pulsar X2 CrazyLight and the Logitech G PRO X SUPERLIGHT 2 are lightweight wireless mice designed for competitive FPS play. Both mice have outstanding performance. The Pulsar is smaller and noticeably lighter. It's also available in a wider range of color options. However, its open baseplate design leaves the internals more exposed to dust and debris. The Logitech, by comparison, is larger with a safer, more accommodating shape that suits a wider range of hand sizes and grips. It has a more conventional closed bottom for protection.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Pulsar X2N CrazyLight
+SEE PRICEAmazon
+
+The Pulsar X2N CrazyLight and the Pulsar X2 CrazyLight are wireless gaming mice from the same lineup. The biggest difference between the two mice is their shape. The medium-sized variant of the X2N is significantly larger than the X2 and has a much more rounded center hump and a wider rear end. As a result, the X2N is slightly heavier than the X2.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+G-Wolves LYCAN
+SEE PRICEG-Wolves
+
+The G-Wolves LYCAN and the Pulsar X2 CrazyLight are ultralight wireless gaming mice with symmetrical shapes. The G-Wolves is much lighter, and it's a bit longer, wider, and lower, so it's better suited to larger hands. The Pulsar's smaller shape works best if you have small or medium-sized hands. The G-Wolves also has lower click and sensor latency, though the difference in latency isn't noticeable in-game, and both are more than capable of competitive play.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SHOW MORE 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+9 TESTS
+HIDE TEST DETAILS
+Style
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Type
+LockedStandard
+Coating
+LockedLocked
+Lighting ColorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Shape
+SAMPLE
+Join Now
+
+for pictures & test results
+
+LengthLockedLock" (Lock mm)
+WidthLockedLock" (Lock mm)
+HeightLockedLock" (Lock mm)
+Grip Width
+LockedLock mm
+Ambidextrous
+LockedShape Only
+Left-Handed Friendly
+LockedLocked
+Finger Rest
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SHAPE 
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Weight
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Lowest Weight
+LockedLock g
+Default Weight
+Locked38.3 g
+Weight Distribution
+LockedLocked
+Extra Weights
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Hand Size Recommendation
+Palm Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Claw Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Fingertip Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT HAND SIZE RECOMMENDATION 
+N/A
+Wireless Versatility
+Maximum Of Paired Devices
+LockedLocked
+Bluetooth
+LockedLocked
+Receiver
+LockedLocked
+Battery Type
+LockedLocked
+Use When Charging
+LockedLocked
+On/Off Activation
+LockedLocked
+Receiver Extender
+LockedLocked
+Receiver Storing
+LockedLocked
+Battery IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable
+ConnectivityLockedWireless
+Cable Length
+LockedLock ft (Lock m)
+Cable Type
+LockedLocked
+Permanent Kink
+LockedLocked
+Port Type: Mouse End
+LockedLocked
+Port Type: PC End
+LockedLocked
+N/A
+Mouse Feet
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Gliding Experience
+LockedLocked
+Material
+LockedLocked
+Extra Included
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+CONTROL
+8 TESTS
+HIDE TEST DETAILS
+Main Button
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Switch Type
+LockedLocked
+Switch Model
+LockedLocked
+N/A
+Additional Buttons
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Total Number Of Buttons
+LockedLock
+Number Of Side Buttons
+LockedLock
+Number Of Programmable Inputs 
+LockedLock
+Profile Switching Button
+LockedLocked
+Gesture Support
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Click Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Expected Connection
+LockedLock ms
+Wired
+LockedLock ms
+Receiver
+LockedLock ms
+Bluetooth
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CLICK LATENCY 
+N/A
+CPI
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SRAV @ 1600 CPI
+LockedLock%
+SRAV @ 800 CPI
+LockedLock%
+SRAV @ 400 CPI
+LockedLock%
+SRAV @ Fixed CPI
+LockedN/A
+Precision Error Between Speeds
+LockedLock%
+Precision Error Between CPI
+LockedLock%
+Worst Tracking Error
+LockedLock%
+Minimum CPI
+LockedLock CPI
+Maximum CPI
+LockedLock CPI
+CPI Adjustment Steps
+LockedLock CPI
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CPI 
+N/A
+Sensor Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Delay At Half Movement
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR LATENCY 
+Sensor Specifications
+Sensor Technology
+LockedLocked
+Sensor Model
+LockedLocked
+Works On Glass
+LockedLocked
+Minimum Lift Off Distance
+LockedLock mm
+Maximum Polling Rate
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR SPECIFICATIONS 
+Mouse Wheel
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Scroll Wheel Type
+LockedLocked
+Scroll Wheel Tilt
+LockedLocked
+Thumb Wheel Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Click Noise
+LockedLocked
+OPERATING SYSTEM AND SOFTWARE
+2 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatibility
+LockedLocked
+Software macOS Compatibility
+LockedLocked
+On-Board Memory
+LockedLocked
+CPI (DPI) Adjustment 
+LockedLocked
+Polling Rate Adjustment
+LockedLocked
+Profile Configuration
+LockedLocked
+Profile Auto-Switching
+LockedLocked
+RGB On/Off
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Compatibility
+Windows CompatibilityLockedLocked
+macOS CompatibilityLockedLocked
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The Best Gaming Mouse
+The Best Wireless Mouse
+The Best Mouse
+The Best Ergonomic Mouse
+The Best Wireless Gaming Mouse
+The Best Lightweight Mouse
+The Best Mouse For Work
+The Best MMO Mouse
+The 5 Best Logitech Mice
+The Best Cheap And Budget Gaming Mouse
+The Best Mouse For MacBooks
+The Best FPS Mouse
+The Best Wired Mouse
+The Best Trackball Mouse
+The 5 Best Razer Mice
+The Best Claw Grip Mouse
+The 4 Best Corsair Mice
+The 4 Best SteelSeries Mice
+Comments
+PRODUCT
+ACTIVE 1 YEAR AGO · 
+ • POSTED 1 YEAR AGO
+Pulsar X2 CrazyLight: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+5 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+ • POSTED 9 DAYS AGO
+
+Update: We’ve added a link to the G-Wolves LYCAN in the Weight section of the review.
+
+Show More Updates
+2
+1
+0
+ James Alex Chérubin
+ • UPDATED 1 YEAR AGO • POSTED 1 YEAR AGO
+JUL 29, 2025 02:39 PM BY firatozkms  6
+
+It appears they updated their firmware and improved wireless connection and also added the turbo mode feature.
+https://x.com/PulsarGears/status/1947922261241172475
+I really would like to see if this turbo mode (I believe lamzu and wlmouse also started using this 20k locking) makes any difference or not!
+
+Hey firatozkms! Thank you for the notification! 😄
+I went ahead and did the firmware update and there was no difference in performance with turbo mode on.
+I compared it to another pulsar we currently are testing and the results are similar. They have the same sensor and is part of the update. I think considering it’s a beta firmware, maybe it’s not perfect yet.
+Thank you again and have a great week!
+
+Edited 1 year ago: typo =)
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Our testers have started testing this product; is there anything specific you’re looking to see? Let us know in this thread.
+
+2
+1
+0
+firatozkms 6
+ • POSTED 1 YEAR AGO
+
+It appears they updated their firmware and improved wireless connection and also added the turbo mode feature.
+
+https://x.com/PulsarGears/status/1947922261241172475
+
+I really would like to see if this turbo mode (I believe lamzu and wlmouse also started using this 20k locking) makes any difference or not!
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Our testers have started testing this product; is there anything specific you’re looking to see? Let us know in this thread.
+
+2
+1
+0
+ Dylan Crete
+ • POSTED 1 YEAR AGO
+JUN 30, 2025 06:42 PM BY RtingsUser7244342  1
+
+I’m looking for a new mouse and this is a new product. I would like to see a detailed review before buying. When do you guys plan to review it ?
+
+Our tester James anticipates starting testing on the unit we purchased early next week!
+
+Reply
+Copy link
+2
+1
+0
+RtingsUser7244342 1
+ • POSTED 1 YEAR AGO
+
+I’m looking for a new mouse and this is a new product. I would like to see a detailed review before buying. When do you guys plan to review it ?
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+The product has arrived in our lab, and our testers will start evaluating it soon.
+
+3
+2
+1
+crab31 2
+ • POSTED 1 YEAR AGO
+
+I’m looking for a new mouse and this is a new product. I would like to see a detailed review before buying.
+
+Reply
+Copy link
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

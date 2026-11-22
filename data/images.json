@@ -215,19 +215,244 @@
    "date_checked": "2026-11-18",
    "fit": "contain",
    "note": "Photo of the ICE V2 set for the G PRO X SUPERLIGHT 2."
+  },
+  "razer-viper-v3-pro": {
+   "file": "data/img/razer-viper-v3-pro.webp",
+   "image_url": "https://assets2.razerzone.com/images/pnx.assets/24970f67be4ba9644e28720377d91cfb/razer-viper-v3-pro-1200x630.webp",
+   "page_url": "https://www.razer.com/gaming-mice/razer-viper-v3-pro",
+   "owner": "Razer",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "The maker's share image; shows two colors."
+  },
+  "wlmouse-huan": {
+   "file": "data/img/wlmouse-huan.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0774/7531/6010/files/d989fb3d858de6f43d8f71c126e55425.png?v=1764566484",
+   "page_url": "https://www.wlmouse.com/products/huan",
+   "owner": "WLMOUSE",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "First photo on the Black model page; shows the mouse and its receiver."
+  },
+  "arye-rcc-1": {
+   "file": "data/img/arye-rcc-1.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0843/1294/9009/files/RCC-1_Hero.png?v=1749192121",
+   "page_url": "https://arye.hk/products/rcc-1-arye-edition",
+   "owner": "ARYE",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "pulsar-x2-crazylight": {
+   "file": "data/img/pulsar-x2-crazylight.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0455/0914/8840/files/Pulsar-X2-CrazyLight_medium_black_01-medium.png?v=1761106455",
+   "page_url": "https://www.pulsar.gg/products/x2-crazylight-gaming-mouse-1",
+   "owner": "Pulsar",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Medium size, Jet Black."
+  },
+  "endgame-gear-op1-8k-v2": {
+   "file": "data/img/endgame-gear-op1-8k-v2.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0698/4538/5436/files/OP1_Black_top_down.jpg?v=1736944464",
+   "page_url": "https://www.endgamegear.com/products/op1-8k-v2-wired-gaming-mouse",
+   "owner": "Endgame Gear",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "finalmouse-starlight-x": {
+   "file": "data/img/finalmouse-starlight-x.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/2377/4861/files/SLX_shot1_FINAL_half.jpg?v=1779676282",
+   "page_url": "https://finalmouse.com/products/slx-nightfall",
+   "owner": "Finalmouse",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "SLX Nightfall color."
+  },
+  "vxe-v3-pro": {
+   "file": "data/img/vxe-v3-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0691/4942/5882/files/d92e076f69cb1a6f81c9bab8cd8f57a2_b728b392-d746-4510-aca0-7707b62cac03.jpg?v=1773396942",
+   "page_url": "https://www.atk.store/products/vxe-dragonfly-v3-series-lightweight-wireless-mouse",
+   "owner": "ATK (VXE)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "First photo on the V3 series page (white)."
+  },
+  "lamzu-thorn-v2": {
+   "file": "data/img/lamzu-thorn-v2.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0581/9675/4466/files/1_ff95c640-6e49-4e04-a7ef-ce95afb96313.jpg?v=1781664433",
+   "page_url": "https://www.lamzu.com/products/lamzu-thorn-v2",
+   "owner": "LAMZU",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Shows the top and the bottom of one color."
+  },
+  "g-wolves-fenrir-max": {
+   "file": "data/img/g-wolves-fenrir-max.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0540/7981/5877/files/01-01-01_9a3cc9bc-aa8f-4128-9256-9128e7f54f4f.png?v=1741744714",
+   "page_url": "https://shop.g-wolves.com/products/g-wolves-fenris-max-8k-wireless-mouse",
+   "owner": "G-Wolves",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "drunkdeer-a75": {
+   "file": "data/img/drunkdeer-a75.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0671/4694/0719/files/a75_-_black_HE_Keyboard.jpg?v=1765162231",
+   "page_url": "https://drunkdeer.com/products/adjustable-keyboard-magnetic-switch-a75",
+   "owner": "DrunkDeer",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "wired-in-protagonist-he": {
+   "file": "data/img/wired-in-protagonist-he.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0618/5310/6330/files/Thumbnail_Front.png?v=1778695812",
+   "page_url": "https://wiredin.design/products/protagonist-he",
+   "owner": "Wired In",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "atk-a87-pro": {
+   "file": "data/img/atk-a87-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0691/4942/5882/files/A87_Shadow_Black.jpg?v=1750751714",
+   "page_url": "https://www.atk.store/products/atk-a87-wireless-mechanical-gaming-tkl-keyboard",
+   "owner": "ATK",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "A87 Pro, Shadow Black."
+  },
+  "everglide-su75-pro": {
+   "file": "data/img/everglide-su75-pro.webp",
+   "image_url": "https://keebforce.com/wp-content/uploads/2026/08/su75-pro-with-pc-white-transparent-keycap.webp",
+   "page_url": "https://keebforce.com/su75-pro/",
+   "owner": "Everglide (from the KeebForce store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Shown with clear keycaps."
+  },
+  "lgg-saturn-pro": {
+   "file": "data/img/lgg-saturn-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0255/9832/8929/files/pulsar-SATURN-PRO_SOFT-black-01.jpg?v=1765902960",
+   "page_url": "https://lethal.gg/products/es-saturn-pro-gaming-mousepad-soft",
+   "owner": "Pulsar / Lethal Gaming Gear (from the Lethal Gaming Gear store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "eS Saturn Pro SOFT, Jet Black."
+  },
+  "tekkusai-kohaku-glass": {
+   "file": "data/img/tekkusai-kohaku-glass.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0255/9832/8929/files/kohaku-1.jpg?v=1789492795",
+   "page_url": "https://lethal.gg/products/kohaku-glass-mousepad",
+   "owner": "Tekkusai (from the Lethal Gaming Gear store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "mitsuki-koku-cloth": {
+   "file": "data/img/mitsuki-koku-cloth.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0255/9832/8929/files/mitsuki-CLOTH-1.jpg?v=1781812795",
+   "page_url": "https://lethal.gg/products/koku-the-void-cloth-edition",
+   "owner": "MITSUKI (from the Lethal Gaming Gear store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "pulsar-superglide-glass-pad": {
+   "file": "data/img/pulsar-superglide-glass-pad.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0255/9832/8929/files/PulsarSuperglidev3GreenL-Front-w.jpg?v=1770212144",
+   "page_url": "https://lethal.gg/products/superglide3-glass-mousepad-type-s",
+   "owner": "Pulsar / Superglide (from the Lethal Gaming Gear store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Photo of the newer Superglide3 Type S (green, size L), not the earlier version DiamondLobby picked."
+  },
+  "xraypad-jade": {
+   "file": "data/img/xraypad-jade.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0674/0672/5349/files/x-raypad-jade-universal-dots-skates-01.jpg?v=1765385312",
+   "page_url": "https://jpgamingusa.com/products/x-raypad-jade-mouse-skates-universal-dots",
+   "owner": "X-raypad (from the JP Gaming USA store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Universal dots."
+  },
+  "xraypad-obsidian": {
+   "file": "data/img/xraypad-obsidian.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0674/0672/5349/files/x-raypad-obsidian-universal-dots-skates-01.jpg?v=1765330818",
+   "page_url": "https://jpgamingusa.com/products/x-raypad-obsidian-mouse-skates-universal-dots",
+   "owner": "X-raypad (from the JP Gaming USA store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Universal dots."
+  },
+  "xraypad-obsidian-air": {
+   "file": "data/img/xraypad-obsidian-air.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0674/0672/5349/files/x-raypad-obsidian-air-universal-dots-skates-01.jpg?v=1765330443",
+   "page_url": "https://jpgamingusa.com/products/x-raypad-obsidian-air-mouse-skates-universal-dots",
+   "owner": "X-raypad (from the JP Gaming USA store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Universal dots."
+  },
+  "xraypad-obsidian-pro": {
+   "file": "data/img/xraypad-obsidian-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0674/0672/5349/files/x-raypad-obsidian-pro-air-universal-dots-skates-01.jpg",
+   "page_url": "https://jpgamingusa.com/products/x-raypad-obsidian-pro-air-mouse-skates-universal-dots",
+   "owner": "X-raypad (from the JP Gaming USA store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Photo of the Obsidian PRO Air, a related version. No photo of the plain Obsidian Pro was found."
+  },
+  "pulsar-superglide-skates": {
+   "file": "data/img/pulsar-superglide-skates.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0455/0914/8840/files/4f71dffb113a57149cf19e69076e2ab5.png?v=1795298111",
+   "page_url": "https://pulsar.gg/products/addonsuperglide1-type-s-feet-white",
+   "owner": "Pulsar",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Small image from the '[ADDON]Superglide1 (Type S) Feet - White' listing."
+  },
+  "unusual-way-magic-ice": {
+   "file": "data/img/unusual-way-magic-ice.webp",
+   "image_url": "https://us.maxgaming.com/bilder/artiklar/37294.jpg?m=1763543897",
+   "page_url": "https://us.maxgaming.com/us/mouse-skates/unusual-way-sports-magic-ice-skates-g-pro-x-superlight-2c",
+   "owner": "Unusual Way Sports (from the MaxGaming US store page)",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Set for the G PRO X SUPERLIGHT 2c."
+  },
+  "corepad-skatez-pro-max": {
+   "file": "data/img/corepad-skatez-pro-max.webp",
+   "image_url": "https://www.corepad.de/images/product_images/info_images/Corepad%20Skatez%20PRO%20MAX%20Logitech%20G%20PRO%20X%20SUPERLIGHT%201%20GPX%20V1%20GPX1.jpg",
+   "page_url": "https://www.corepad.de/en/Corepad-Skatez-Logitech-Teflon-Mousefeet-Mouse-Feet-Hyperglides-Hyperglide/Corepad-CNC-Machined-Milled-Next-Gen-Skatez-PRO-MAX-M210-Logitech-G-PRO-X-Superlight-1-GPX1-GPX.html",
+   "owner": "Corepad",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Set for the original G PRO X SUPERLIGHT."
+  },
+  "zowie-g-sr-ii": {
+   "file": "data/img/zowie-g-sr-ii.webp",
+   "image_url": "https://buy.benq.com/us-buy-zowie/media/catalog/product/g/-/g-sr_ii_01_top45_.png",
+   "page_url": "https://buy.benq.com/us-buy-zowie/gsr-ii.html",
+   "owner": "BenQ ZOWIE",
+   "date_checked": "2026-11-21",
+   "fit": "contain"
+  },
+  "cooler-master-mp511": {
+   "file": "data/img/cooler-master-mp511.webp",
+   "image_url": "https://www.coolermaster.com/on/demandware.static/-/Sites-cooler-master-main/default/dw2cf236c8/Assets/mp511-30th-anniversary-edition/large/mp751-30th-gallery-01.png",
+   "page_url": "https://www.coolermaster.com/en-us/products/mp511-30th-anniversary-edition.html",
+   "owner": "Cooler Master",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Photo of the MP511 30th Anniversary Edition, a special edition. No photo of the standard MP511 was found (its US page is gone)."
+  },
+  "corsair-mm350": {
+   "file": "data/img/corsair-mm350.webp",
+   "image_url": "https://res.cloudinary.com/corsair-pwa/image/upload/c_scale,q_auto,w_1000/products/Gaming-Mousepads/base-mm350-pro-config/Gallery/MM350_PRO_Extended_XL_BLACK_01.png",
+   "page_url": "https://www.corsair.com/us/en/p/mousepads/ch-9413770-ww/mm350-pro-premium-spill-proof-cloth-gaming-mouse-pad-extended-xl-black-ch-9413770-ww",
+   "owner": "Corsair",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Photo of the MM350 PRO Extended XL, the version Corsair now sells in the extended size."
   }
  },
  "no_photo": {
-  "cooler-master-mp511": "No maker product photo found.",
-  "corsair-mm350": "No maker product photo found.",
-  "pulsar-superglide-skates": "No maker product photo found.",
-  "unusual-way-magic-ice": "No maker product photo found.",
-  "xraypad-jade": "No maker product photo found.",
-  "xraypad-obsidian": "No maker product photo found.",
-  "xraypad-obsidian-air": "No maker product photo found.",
-  "xraypad-obsidian-pro": "No maker product photo found.",
-  "zowie-g-sr-ii": "No maker product photo found.",
-  "pulsar-superglide-glass-pad": "Only a photo of a special edition (Superglide3 T1 Edition) was found, so it is not shown.",
-  "corepad-skatez-pro-max": "No maker product photo found."
+  "skypad-glass-3": "No maker or store photo could be saved: the stores showed a bot check, and the maker's old site is gone."
  }
 }

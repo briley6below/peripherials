@@ -1,0 +1,219 @@
+URL: https://endgamegear.com/products/op1-8k-v2-wired-gaming-mouse
+TITLE: OP1 8k v2 Gaming Mouse | Endgame Gear
+SAVED: 2026-11-22T04:25:28.470Z
+
+PRODUCT DATA (store product record)
+Title: OP1 8k v2 Wired Gaming Mouse
+Vendor: Endgame Gear
+Price: $89.99
+Variants: Black $89.99; White $89.99; Dark Frost $89.99
+The OP1 8k v2 is built for competitive gaming, featuring the PixArt PAW3950 U+1F95A sensor, a high-speed Nuvoton MCU, and true 8000Hz polling for exceptional precision and responsiveness. Equipped with exclusive Kailh GX mechanical switches, a dustproof Kailh encoder, and hot-swappable main button switches, it offers outstanding click performance and extensive customization. Two skate sets and interchangeable side skins let you tailor the mouse to your preferred playstyle.
+
+Skip to content
+
+Shipping Update: USPS deliveries may experience delays due to increased shipping volumes. Thank you for your patience!
+
+Menu
+Endgame Gear
+Search
+Login
+Cart
+0 items
+0
+Zoom
+Go to item 1
+Go to item 2
+Go to item 3
+Go to item 4
+Go to item 5
+Go to item 6
+Go to item 7
+Go to item 8
+Go to item 9
+Go to item 10
+Go to item 11
+Go to item 12
+Go to item 13
+Go to item 14
+Go to item 15
+OP1 8k v2 Wired Gaming Mouse
+
+The OP1 8k v2 is built for competitive gaming, featuring the PixArt PAW3950 U+1F95A sensor, a high-speed Nuvoton MCU, and true 8000Hz polling for exceptional precision and responsiveness. Equipped with exclusive Kailh GX mechanical switches, a dustproof Kailh encoder, and hot-swappable main button switches, it offers outstanding click performance and extensive customization. Two skate sets and interchangeable side skins let you tailor the mouse to your preferred playstyle.
+
+
+Color:
+Black
+Black
+White
+Dark Frost
+Quantity:
+Sale price
+$89.99
+
+Tax excluded.
+
+Add to cart
+
+OP1 8k v2 - Performance Redefined
+
+Presenting the OP1 8k v2 – the next evolution in wired gaming mice.
+
+Built for elite-level performance, the OP1 8k v2 pushes boundaries with our custom PixArt PAW3950 U+1F95A sensor for unparalleled tracking performance. Combined with a Nuvoton high-speed MCU and true 8000Hz polling, it delivers raw precision, ultra-fast responsiveness without the compromise of power-saving.The OP1 8k v2 features our exclusive, mechanical Kailh GX switches for a crisp, tactile click feel and industry-leading click latency. The GX Speed Mode puts it in its own league – execute clicks faster than you can hear them. The new dustproof Kailh encoder adds refined scroll control with increased reliability. Customize your gaming experience with hot-swappable main button switches, two different skate sets and side skins, allowing you to tailor your gaming mouse to match your unique playstyle. Precision-engineered. Performance-optimized.
+
+Ultra-fast Polling Rate with up to 8000Hz
+
+Experience ultimate responsiveness and real-time precision with the incredible 8000Hz polling rate of the OP1 8k v2. Powered by the Nuvoton M483 high-speed MCU, this gaming mouse delivers up to 8000 data reports per second, ensuring lightning-fast speeds and minimal delay. With every move flawlessly executed, you'll have the upper hand in the most intense and fast-paced gaming scenarios. With the rising trend of games supporting higher polling rates, coupled with ongoing OS optimizations, you can ensure your gameplay is optimized for maximum responsiveness and precision. For older games without 8000Hz support, effortlessly adjust the polling rate with a simple long press of the mode button at the bottom of the mouse to cycle through the polling rates. Elevate your gaming experience with the unmatched precision and responsiveness of the OP1 8k v2.
+
+Custom PixArt PAW3950 U+1F95A
+
+Powered by our custom PixArt PAW3950 U+1F95A sensor, the OP1 8k v2 delivers uncompromising precision at up to 30,000 CPI with ultra-fine adjustability in 10 CPI steps below 10,000 and 50 CPI steps above. We’ve locked the sensor’s frame rate at a blazing 20,500fps to ensure stable tracking and ultra-fast responsiveness at all times*. Combined with a maximum of 750 IPS and 50G of acceleration, this sensor doesn’t just keep up – it stays ahead. Fine-tune your lift-off distance with 11 settings in 0.1mm increments, ranging from 0.7mm to 1.7mm, for a perfectly dialed-in feel on any surface. For grip styles where the mouse is not held straight to the direction of movement, the "Sensor Angle Tuning" feature allows the tracking axis to be adjusted from -127 to +127 degrees in 1-degree increments, facilitating swift swipes and opponent tracking. With optional Motion Sync up to 8000Hz, tracking becomes even smoother, at the cost of just one polling event of delay. Ultimate performance meets ultimate customizability.
+
+* requires firmware 1.02 or above.
+
+Kailh GX Switches developed by Endgame Gear
+
+Designed for lightning-fast precision at all polling rates, the mechanical Kailh GX switches guarantee you won't miss a crucial click. Their SPDT configuration ensures optimal electrical contact and unmatched reliability. Featuring both top and bottom contacts, Kailh GX Switches excel whether you prefer low click latency in GX Speed Mode or security in GX Safe Mode. What sets them apart is their crisp, defined click sensation, offering tactile feedback for enhanced gaming control. Precise actuation and a balanced design ensure flawless, spam-friendly rapid-fire actions.
+
+Industry-Leading Latency
+
+The OP1 8k v2 raises the bar for wired mouse performance, boasting click latency averaging below 70 microseconds (equivalent to 0.070ms)*. With a steady 8000Hz polling rate for the clicks, you'll enjoy ultra-low click latency across all sensor polling rate settings. GX Speed Mode further lowers click latency by about 1.4ms – your PC executes clicks faster than you can hear the physical click. This exceptional responsiveness of the Kailh GX switches in combination with the GX Speed Mode guarantees instant registration of every click, empowering you in crucial gaming moments and helping secure those game-winning duels.
+
+* Tested with 10,000 clicks on XLAT v.1.4.0
+
+** Tested with 10,000 motion data points on XLAT v.1.4.0
+
+Redesigned Shape for Versatile Claw Grip
+
+With a lightweight build of just below 50g, the OP1 8k v2 gaming mouse offers unparalleled comfort during those intense gaming sessions, allowing you to focus on your own performance. Drawing inspiration from the popular XM shape, the OP1 takes it up a notch while keeping an emphasis on claw grips. Its flatter sides provide ultimate flexibility for finger placement, making it an excellent fit even for gamers with larger hands. The extended side walls prevent accidental clicks, allowing you to rest your fingers on the edge without any interruptions. This subtle yet significant design change offers additional comfort and control, catering to gamers with various hand sizes and grip styles.
+
+Swappable Main Button Switches with Optional Switch Packs
+
+What makes a mouse click great? Ask this question to 10 people and get 11 different answers. Everyone has their own preferences and sometimes we just want to use what nobody else is using. While the Kailh GX is a switch with a very good combination of short internal travel, crisp actuation point and spammability, you may still want to try your favourite switch. All OP1 mice have a swappable main button switch design with accessible screws at the bottom plate. This allows for effortless customization, giving you the perfect click feel tailored to your liking. Choose from a variety of switch packs offering different click sensations, and follow our simple step-by-step guide to replace the switches. With the universal switch pack, you can use any mechanical switch you can find, solder-free.
+
+No Power-Saving
+
+Thanks to its Flex Cord 5.0 cable and therefor permanent data connection to the PC, the OP1 8k v2 doesn't need to save power. The lack of power saving features and permanent sensor corded mode mean that the device is always at its peak performance, ready to execute your every move (or click) with unrivalled accuracy, precision and speed. While other mice may experience a slight delay as they ramp up sensor and MCU, ours remains ready for action at all times. The result? Instantaneous response times and pixel-perfect tracking, giving you the competitive edge. Say goodbye to the tiniest delays caused by power-saving measures. Say hello to the ultimate gaming mouse that never sleeps, the Endgame Gear OP1 8k v2.
+
+Technical Specifications
+Sensor
+
+PixArt PAW3950 U+1F95A
+
+
+Resolution
+
+up to 26000 CPI (steps of 50 CPI; pre-defined: 400, 800 (default), 1600, 3200)
+
+Polling Rate
+
+1000 Hz, 2000 Hz, 4000 Hz, 8000 Hz (8000Hz by default)
+
+Weight
+
+49.5g
+
+Max Speed
+
+750 IPS
+
+Acceleration
+
+50 G
+
+Primary Buttons (right/left)
+
+Kailh GX Mechanical switches
+
+Lifetime
+
+80 Million Actuations
+
+Connection Type
+
+wired (USB 2.0 Type A)
+
+Dimensions
+
+~118.2 x 60.5 x 37.2mm (L x W x H)
+
+Lift-Off Distance (LOD)
+
+1mm (2mm via software)
+
+Microcontroller
+
+NUVOTON M483
+
+Click Detection
+
+digital (adjustable via software)
+
+Number of Buttons
+
+5 + 1 (2x top, 2x side, 1x mouse wheel, 1x CPI on bottom)
+
+Wheel Encoder
+
+Kailh Dustproof
+
+Mouse Wheel Scrolling
+
+2-way
+
+Middle Mouse Button
+
+pre-sorted Kailh GM 2.0 switches (20 million actuations)
+
+Side Buttons
+
+pre-sorted Kailh GM 2.0 switches (20 million actuations)
+
+Materials
+
+Plastic (Chassis), PTFE (Glides), Dry Grip Coating (Surface)
+
+Skates
+
+Hybrid Skate Design (small skates pre-installed, big skates included in the box)
+
+Cable
+
+Black Flex Cord 5.0 (180cm, USB 2.0)
+
+Products
+
+All Products
+Gaming Mice
+Mousepads
+Gaming Keyboards
+Accessories
+
+About
+
+About Us
+International Resellers
+B2B Inquiries
+Shipping & Returns
+
+Support
+
+Help Center
+Contact
+Downloads
+Warranty Policy
+Warranty Support
+
+Legal
+
+Terms of Service
+Privacy Policy
+Imprint
+
+Join the Endgear Game community
+
+Sign up for exclusive updates, the latest product releases, and special offers straight to your inbox!
+
+E-mail
+Subscribe
+
+© 2026, Endgame Gear. “Endgame Gear” is a trademark of Pro Gamersware GmbH. All rights reserved.

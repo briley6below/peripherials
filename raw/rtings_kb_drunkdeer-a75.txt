@@ -1,0 +1,750 @@
+URL: https://www.rtings.com/keyboard/reviews/drunkdeer/a75
+TITLE: DrunkDeer A75 Review - RTINGS.com
+SAVED: 2026-11-22T04:27:04.713Z
+
+Products
+In The Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Keyboards Mechanical Wireless Ergonomic Budget Gaming Typing iPad Mac Office Budget And Cheap Programming Logitech Budget Mechanical 75% Keychron Low-Profile Razer 60% Quiet
+TOOLS
+Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Wooting 80HE Keychron Q6 [Q1, Q3, etc.] Ultra 8K Logitech MX Keys S NuPhy Air75 V3 [Air65 V3, Air100 V3] Corsair K70 CORE AULA F99/F75 NuPhy WH80 Lemokey P1 HE Ducky OK-M NuPhy Node Series Keychron K5 Max [K1 Max, K3 Max, etc.] Keychron K2 [K4, K8, K10, etc.] Ultra 8K MonsGeek FUN60 Ultra MonsGeek M1 V5 TMR Razer Huntsman V3 Pro 8KHz Wooting 60HE v2 Lofree Flow 2 Logitech G316 X Keychron B33/B36 Logitech Signature K650
+303 KEYBOARDS BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Keyboard  Reviews  DrunkDeer  A75  Review
+Notice: We've revamped our membership program.
+DrunkDeer A75  Keyboard Review
+By Kelsey Linhares, Gregory Vodden, John Peroramas
+Reviewed Aug 09, 2023 at 10:19am
+Test bench update Jan 06, 2026 at 12:15pm
+Tested using Methodology v1.4.3 
+Size
+Compact (75%)
+Hot-Swappable Switches
+Yes
+Connectivity
+Wired
+Switch Type
+Magnetic
+Output Type
+Adjustable Actuation
+N/A
+Gaming 
+N/A
+Office 
+N/A
+Mobile/Tablet 
+N/A
+Programming 
+N/A
+Entertainment / HTPC 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Walmart.com
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 35
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Dimensions
+Build Quality
+Ergonomics
+Hardware Customizability
+Backlight Features
+Backlight Clarity
+Cable & Connector
+Wireless Versatility
+Macro Keys And Programming
+Extra Features
+In The Box
+Typing Experience
+Typing Quality
+Typing Noise
+Keystrokes
+Adjustable Input Granularity
+Switches
+Performance
+Single-Key Latency
+Multi-Key Latency
+Data Transmission
+Chord Split
+Software and Operating System
+Configuration Software
+Computer Compatibility
+Wireless Mobile Compatibility
+Retailers
+Comments
+
+The DrunkDeer A75 is a wired gaming keyboard with a compact (75%) form factor that uses Hall effect switches. These switches use magnetic sensors to detect the depth of your keypress and allow you to customize the pre-travel distance of individual switches. This keyboard also has RGB lighting with individually backlit keys, media hotkeys, and a control knob. You can customize many settings directly on the keyboard, including pre-travel customization and backlighting control. You can customize additional options like rapid trigger sensitivity and create custom profiles using the web-based configuration software.
+
+Our Verdict
+N/AGaming 
+
+The DrunkDeer A75 is excellent for gaming. It has outstanding latency, and you can customize the pre-travel distance and reset point of each individual switch, allowing you to fine-tune the sensitivity to your preferences, providing an extremely snappy and responsive feeling experience for gaming in any genre. The build quality is good overall, but the plastic chassis feels a bit cheap, and the high-profile design means it may be fatiguing to use for longer periods without a wrist rest.
+
+Pros
+Good build quality.
+Outstanding low latency.
+Can adjust switch pre-travel with key combinations or using the web-based configuration software.
+Cons
+High profile design; can be can be fatiguing to use for long periods without a wrist rest.
+SEE PRICEWalmart.com
+SEE OUR GAMING RECOMMENDATIONS 
+N/A
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Jan 06, 2026: Our Test Bench 1.4.3 update adds clearer terminology and new measurements to our Keystrokes test group. For more details, see the full changelog.
+ Updated Oct 02, 2025: Our 1.4.2 Test Bench Update makes changes to the Hardware Customizability test group. We've created a new Magnetic Switch Compatibility test and renamed our previous PCB Socket test to Mechanical Switch Compatibility. See our full changelog.
+ Updated Aug 26, 2025: We've converted this review to Test Bench 1.4.1. This update removes the Key Release test and a video element from the Multi-Key Latency section, resulting in minor score changes. See our full 1.4.1 changelog for details.
+ Updated Jun 13, 2025: 
+
+We've added a link to the Akko MOD007-HE PC in the Hardware Customizability section.
+
+Show more 
+Check Price
+Black
+SEE PRICEWalmart.com
+White
+SEE PRICEWalmart.com
+Differences Between Sizes And Variants
+
+The DrunkDeer A75 is available in Black or White case color options and in several configurations, detailed in the chart below. No variants of this keyboard are available at the time of writing, and no additional switch options exist. Still, DrunkDeer indicates on their website that they may release more size variants and switch options. If you see a variant of this keyboard not represented in this review, feel free to comment in the discussions at the end of this page.
+
+We bought and tested the fully assembled configuration with OEM-ABS keycaps and a black case. You can see the label for our unit here.
+
+       Configuration	Size	Switches	Case Color
+ OEM-ABS (fully assembled)	Compact (75%)	DrunkDeer Magnetic Switch	Black, White
+ Cherry-profile PBT B-Gray Peri (packaged separately)	Compact (75%)	DrunkDeer Magnetic Switch	Black, White
+Cherry-profile PBT B-Gray Orange (packaged separately)	Compact (75%)	DrunkDeer Magnetic Switch	Black, White
+ OEM-profile PBT B-Peri Shine-Through (packaged separately)	Compact (75%)	DrunkDeer Magnetic Switch	Black, White
+ OEM-profile PBT B-Orange Shine-Through (packaged separately)	Compact (75%)	DrunkDeer Magnetic Switch	Black, White
+Barebones (No keycaps included)	Compact (75%)	DrunkDeer Magnetic Switch	Black, White
+
+Popular Keyboard Comparisons
+
+The DrunkDeer A75 is a wired gaming keyboard with Hall effect switches, allowing you to customize the sensitivity of individual keys. Like several other gaming keyboards with Hall effect switches, this keyboard has a rapid-trigger feature that lets you set a custom reset point. This means you can activate keys more quickly than with standard mechanical switches, giving you an advantage in certain gaming situations, like rapid strafing in FPS titles or repeating tap inputs in rhythm games.
+
+Overall, this keyboard is more affordable than options with similar features from major manufacturers, including the SteelSeries Apex Pro TKL (2023), the Huntsman Mini Analog, or the more expensive Wooting 60HE. However, the DrunkDeer doesn't match these other options regarding build quality, and its web-based software isn't as intuitive or easy to use. Specifically compared to the more premium-priced Wooting 60HE, it lacks several advanced features, such as dynamic rapid trigger reset, true analog output for gradual controller-style input, and the ability to assign multiple actions to different actuation points within a single keystroke.
+
+For more recommendations, see our picks for the best keyboards, the best mechanical keyboards, and the best gaming keyboards.
+
+Wooting 60HE
+SEE PRICEWooting
+
+The Wooting 60HE and the DrunkDeer A75 are wired gaming keyboards that use hall-effect switches, allowing you to customize the pre-travel distance of individual switches. The Wooting is a compact 60% model with considerably better build quality, more comprehensive and intuitive software, and lower latency. It also supports some advanced software features the DrunkDeer doesn't, including dynamic reset points and analog control mimicking controller input. On the other hand, the DrunkDeer has a slightly larger 75% form factor and has a control knob, which the Wooting lacks.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+AULA F99/F75
+SEE PRICEAmazon
+
+The DrunkDeer A75 and the AULA F75 are mechanical gaming keyboards. The major difference between them is that the DrunkDeer keyboard uses Hall-effect switches, allowing you to customize individual switches' actuation and reset points. It's also a wired-only model and has a tray mount design that makes it noticeably stiffer to type on. Comparatively, the AULA uses standard mechanical switches. It's also a wireless model and has a much softer and springy-feeling gasket mount design. Unfortunately, it's a more confusing buying experience with poor documentation and some uncertainty about what components you'll receive.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Geonworks Venom 60 HE
+SEARCHAmazon
+
+The DrunkDeer A75 and Geonworks Venom 60 HE are both hall-effect gaming keyboards. The DrunkDeer is a fully pre-built keyboard while the Geonworks is only a custom PCB that requires you to buy all its separate components and build the rest of the keyboard yourself. The Geonworks also has better latency and input granularity performance, making it better-suited for high-level competitive play.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SteelSeries Apex Pro
+SEE PRICEBestBuy.com
+
+The SteelSeries Apex Pro and the DrunkDeer A75 are wired gaming keyboards that use hall-effect switches, allowing you to customize the pre-travel distance of individual switches. The SteelSeries has a larger, full-size form factor. It also has better build quality, slightly lower latency, and more intuitive software. It also includes a wrist rest and has a programmable OLED screen with a control wheel on the top right corner. On the other hand, the DrunkDeer has a Compact (75%) form factor and a rotary control knob on the top right corner. It doesn't include a wrist rest, but DrunkDeer sells wrist rests separately on its website.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SHOW MORE 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+11 TESTS
+HIDE TEST DETAILS
+Dimensions
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Size
+LockedCompact (75%)
+Height
+LockedLock" (Lock cm)
+WidthLockedLock" (Lock cm)
+Depth
+LockedLock" (Lock cm)
+Depth With Wrist Rest
+LockedN/A
+Weight
+LockedLock lbs (Lock kg)
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Keycap MaterialLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Ergonomics
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Curved/Angled
+LockedLocked
+Split Keyboard
+LockedLocked
+Key Alignment
+LockedLocked
+Minimum Incline
+LockedLock°
+Medium Incline
+LockedN/A
+Maximum Incline
+LockedLock°
+Home Row Height
+LockedLock mm (Lock")
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Hardware Customizability
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Replaceable Cherry Stabilizers
+LockedLocked
+Stabilizer Fixation
+LockedLocked
+Spacebar Stabilizer Size
+LockedLocked
+Size Of Right Mod Keys
+LockedLocked
+Hot-Swappable Switches
+LockedYes
+Switch Stem Shape
+LockedLocked
+Mechanical Switch Compatibility
+LockedLocked
+Magnetic Switch Compatibility
+LockedLocked
+North-Facing Cherry MX Interference
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Backlight Features
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+BacklightingLockedLocked
+RGB
+LockedLocked
+Per-Key Backlighting
+LockedLocked
+Effects
+LockedLocked
+Software Controllable
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Backlight Clarity
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable & Connector
+ConnectivityLockedWired
+Detachable
+LockedLocked
+LengthLockedLock ft (Lock m)
+Connector (Keyboard side)
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Wireless Versatility
+Bluetooth
+LockedLocked
+Bluetooth Multi-Device Pairing
+LockedLocked
+Proprietary Receiver
+LockedLocked
+Battery Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Macro Keys And Programming
+Dedicated Macro Keys CountLockedLock
+Onboard Macro Programming
+LockedLocked
+Macro Programming With Software
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Extra Features
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Media Keys
+LockedLocked
+Trackpad / TrackballLockedLocked
+Scroll Wheel
+LockedLocked
+Control Knob
+LockedLocked
+USB Passthrough
+LockedLocked
+NumpadLockedLocked
+Windows Key Lock
+LockedLocked
+Lock IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+TYPING EXPERIENCE
+5 TESTS
+HIDE TEST DETAILS
+N/A
+Typing Quality
+Key Spacing
+LockedLock mm (Lock")
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT TYPING QUALITY 
+N/A
+Typing Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Average Loudness
+LockedLock dBA
+High Pitch Clicks
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT TYPING NOISE 
+Keystrokes
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Initial Force
+LockedLock gf
+Peak Tactile Force
+LockedN/A
+Actuation Force
+LockedLock gf
+Bottom-Out Force
+LockedLock gf
+Pre-Travel Distance
+LockedLock mm
+Total Travel Distance
+LockedLock mm
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT KEYSTROKES 
+N/A
+Adjustable Input Granularity
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Top Deadzone
+LockedLock mm
+Bottom Deadzone
+LockedLock mm
+Detection Ratio
+LockedLock%
+Minimum Step Depth
+LockedLock mm
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Switches
+SAMPLE
+Join Now
+
+for videos & test results
+
+Switch Name
+LockedLocked
+Switch Type
+LockedMagnetic
+Feel
+LockedLocked
+Output Type
+LockedAdjustable Actuation
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+PERFORMANCE
+4 TESTS
+HIDE TEST DETAILS
+N/A
+Single-Key Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Best Connection
+LockedLock ms
+Best Connection Std DevLocked±Lock ms
+Wired
+LockedLock ms
+Receiver
+LockedN/A
+Bluetooth
+LockedN/A
+PCB (Estimated)
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SINGLE-KEY LATENCY 
+N/A
+Multi-Key Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Connection EvaluatedLockedLocked
+Key Press
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Data Transmission
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Connection EvaluatedLockedLocked
+USB Polling Rate
+LockedLock Hz
+Effective Update Rate
+LockedLock Hz
+N-Key Rollover (NKRO)
+LockedLocked
+Multiple Keys Per USB Report
+LockedLocked
+N/A
+Chord Split
+SAMPLE
+Join Now
+
+for pictures & test results
+
+4 Chord Split Delay
+LockedLock ms
+8 Chord Split Delay
+LockedLock ms
+SOFTWARE AND OPERATING SYSTEM
+3 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatible
+LockedLocked
+Software macOS Compatible
+LockedLocked
+Onboard Memory
+LockedLocked
+Profiles
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Computer Compatibility
+Windows
+LockedLocked
+macOS
+LockedLocked
+Linux
+LockedLocked
+Media Key Compatibility
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Wireless Mobile Compatibility
+Android
+LockedLocked
+iOS
+LockedLocked
+iPadOS
+LockedLocked
+Media Key Compatibility
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The 6 Best Gaming Keyboards
+The 5 Best Keyboards
+The 5 Best Mechanical Keyboards
+The 5 Best Wireless Keyboards
+The 6 Best Ergonomic Keyboards
+The 4 Best Budget Gaming Keyboards
+The 5 Best Keyboards For Typing
+The 5 Best iPad And iPad Pro Keyboards
+The 6 Best Keyboards For Mac
+The 5 Best Office Keyboards
+The 6 Best Budget And Cheap Keyboards
+The 5 Best Keyboards For Programming
+The 5 Best Logitech Keyboards
+The 4 Best Budget Mechanical Keyboards
+The 6 Best 75% Keyboards
+The 4 Best Keychron Keyboards
+The 5 Best Low-Profile Keyboards
+The 4 Best Razer Keyboards
+The 4 Best 60% Keyboards
+The 6 Best Quiet Keyboards
+The 5 Best TKL Keyboards
+The 5 Best RGB Keyboards
+The 4 Best Corsair Keyboards
+The 3 Best Ducky Keyboards
+Comments
+PRODUCT
+ACTIVE 1 YEAR AGO · 
+ • POSTED 3 YEARS AGO
+DrunkDeer A75: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+35 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+ • POSTED 10 MONTHS AGO
+
+Update: Our Test Bench 1.4.3 update adds clearer terminology and new measurements to our Keystrokes test group. For more details, see the full changelog.
+
+Show More Updates
+3
+2
+1
+ Dylan Crete
+ • POSTED 1 YEAR AGO
+JUL 14, 2025 03:47 PM BY  pepsi  11
+
+plans to review a75 pro?
+
+No immediate plans to buy and test it unfortunately. But we’ll consider it in in the future if there’s enough user interest!
+
+Reply
+Copy link
+3
+2
+1
+ 
+pepsi 11
+ • POSTED 1 YEAR AGO
+
+plans to review a75 pro?
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Update: We’ve added a link to the Akko MOD007-HE PC in the Hardware Customizability section.
+
+Show More Updates
+3
+2
+1
+ Dylan Crete
+ • POSTED 1 YEAR AGO
+MAR 08, 2025 05:49 PM BY  KabuTheFox  14
+
+they keep putting out new ones i see, any chance we can put the a75 master on the vote list as well?
+
+It has been added! So we’ll consider buying and testing it if there’s enough user interest!
+
+Reply
+Copy link
+2
+1
+0
+ 
+KabuTheFox 14
+ • POSTED 1 YEAR AGO
+
+they keep putting out new ones i see, any chance we can put the a75 master on the vote list as well?
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Update: We’ve added a link to the Lemokey P1 HE to the Build Quality section.
+
+Show More Updates
+2
+1
+0
+ Gregory Vodden
+ • POSTED 1 YEAR AGO
+NOV 30, 2024 12:43 PM BY  KabuTheFox  14
+
+any plans to review the a75 pro and a75 ultra?
+
+Hey KabuTheFox! 
+
+We don’t have any current plans to review the A75 Pro or he A75 Ultra, but we’ve added them to our potential list, and you can vote for them here. If there’s enough public interest, we’ll be sure to buy and test them.
+
+Thanks for reaching out!
+
+Reply
+Copy link
+2
+1
+0
+ 
+KabuTheFox 14
+ • POSTED 1 YEAR AGO
+
+any plans to review the a75 pro and a75 ultra?
+
+Reply
+Copy link
+ • POSTED 2 YEARS AGO
+
+Update: We’ve added a link to the newly-reviewed SteelSeries Apex Pro Gen 3. to the Dimensions section.
+
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

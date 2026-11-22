@@ -1,0 +1,697 @@
+URL: https://www.rtings.com/mouse/reviews/endgame-gear/op1-8k-v2
+TITLE: Endgame Gear OP1 8k v2 Review - RTINGS.com
+SAVED: 2026-11-22T04:23:25.889Z
+
+Products
+In The Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Wireless Mouse Ergonomic Wireless Gaming Lightweight Work MMO Logitech Budget Gaming MacBooks FPS Wired Trackball Razer Claw Grip Corsair SteelSeries
+TOOLS
+Compare 3D Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Logitech G PRO X2 SUPERSTRIKE Razer Viper V4 Pro Logitech MX Master 4 Razer Naga V3 Pro Logitech G PRO X3 SUPERSTRIKE Logitech G502 X PLUS Logitech G305 LIGHTSPEED MCHOSE L7 Ultra Razer Basilisk V3 Logitech G PRO X SUPERLIGHT 2 VXE R1 Pro Finalmouse Starlight X Logitech M720 Triathlon MCHOSE L7 Pro Endgame Gear OP1 8k v2 Razer Viper V3 Pro Logitech G502 X Keychron M6 LAMZU THORN V2 Logitech G305 X SUPERLIGHT
+420 MICE BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Mouse  Reviews  Endgame Gear  OP1 8k v2  Review
+Notice: We've revamped our membership program.
+Endgame Gear OP1 8k v2  Mouse Review
+By James Alex Chérubin, Gregory Vodden, John Peroramas
+Reviewed Oct 24, 2025 at 10:41am
+Writing modified Sep 01, 2026 at 11:02am
+Tested using Methodology v1.5.2 
+Type
+Standard
+Ambidextrous
+Shape Only
+Default Weight
+46.6 g
+Connectivity
+Wired
+N/A
+Work 
+N/A
+Video Games (FPS) 
+N/A
+Video Games (MMO) 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Amazon
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 44
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Style
+Shape
+Build Quality
+Weight
+Hand Size Recommendation
+Wireless Versatility
+Cable
+Mouse Feet
+In The Box
+Control
+Main Button
+Additional Buttons
+Click Latency
+CPI
+Sensor Latency
+Sensor Specifications
+Mouse Wheel
+Noise
+Operating System And Software
+Configuration Software
+Mouse Compatibility
+Retailers
+Comments
+Recommended in:
+FPS
+WIRED
+
+The Endgame Gear OP1 8k v2 is a lightweight wired gaming mouse that continues the Endgame Gear OP1 lineup. It retains the same shape, coating options, and Kailh GX SPDT (single-pole double-throw) switches as the original Endgame Gear OP1 8k. These switches offer multiple performance modes and deliver a measurable travel latency advantage over the mechanical switches found in most gaming mice. Like its predecessor, it features hot-swappable main buttons, a rare feature that lets you customize the click feel to your preference with the purchase of additional switch packs. New for this version is a PAW3950 U+1F95A sensor, a Nuvoton MCU, and a Kailh dustproof scroll wheel encoder.
+
+Our Verdict
+N/AVideo Games (FPS) 
+
+The Endgame Gear OP1 8k v2 is exceptionally well-suited for FPS gaming. It features outstanding build quality and an ultra-lightweight design that makes it easy to move quickly and precisely. Its click latency is extremely low and consistent, and its sensor delivers excellent all-around performance. The symmetrical shape is particularly comfortable for claw or fingertip grips, especially for users with medium or smaller hands.
+
+Pros
+
+Excellent build quality.
+
+Incredible click latency.
+
+Exceptional sensor latency.
+
+8000Hz polling rate.
+
+Cons
+SEE PRICEAmazon
+SEE OUR VIDEO GAMES (FPS) RECOMMENDATIONS 
+N/A
+Work
+N/A
+Video Games (FPS)
+N/A
+Video Games (MMO)
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Sep 01, 2026: 
+
+We've added a link to the Endgame Gear XM2 8k v2 in the Hand Size Recommendation section.
+
+ Updated Jun 10, 2026: 
+
+We've retested this mouse's Sensor Latency and recorded a new Software Tour in response to a new firmware update that adds a "Force max Sensor fps" toggle in the software.
+
+ Updated Mar 10, 2026: We've converted this review to Test Bench 1.5.2. This update removes the Delay To Start Of Movement and Delay To End Of Movement measurements from the Sensor Latency test. See our full 1.5.2 changelog for details.
+ Updated Oct 24, 2025: Review published.
+Show more 
+Check Price
+Black
+SEE PRICEAmazon
+Dark Frost
+SEE PRICEAmazon
+White
+SEE PRICEAmazon
+Differences Between Sizes And Variants
+
+The Endgame Gear OP1 8k v2 is available in Black, White, and Dark Frost colorway/finish options. Endgame Gear identifies that both the Black and White versions have a matte plastic body with a chalky coating, reminiscent of a smooth dry stone, while the Dark Frost has a translucent plastic body with a slightly soft, rubberized feel.
+
+We tested the Black version, and you can see our unit's label here.
+
+Popular Mouse Comparisons
+
+The Endgame Gear OP1 8k v2 is a wired gaming mouse that continues Endgame Gear's OP1 lineup. Alongside its XM series mice, the company's recent models rank among the best-performing gaming mice on the market. Just like the original, the Endgame Gear OP1 8k, this new version features Kailh GX switches and a hot-swappable switch design but adds modest internal updates, including a new sensor package, MCU, and a dust-proof encoder designed to mitigate the scroll wheel durability issues reported on earlier models. However, these changes don’t yield measurable performance improvements over the already exceptional OP1 8k.
+
+In raw performance, the OP1 8k v2 matches or slightly exceeds leading wireless flagships like the Logitech G PRO X SUPERLIGHT 2 and the Razer Viper V3 Pro, yet it's significantly cheaper. It’s priced similarly to newer budget wireless options like the MCHOSE L7 Ultra, which also shares a similar shape. For most users, there simply isn't any tangible performance advantage to the OP1 8k v2 over its predecessor. However, you may find it appealing for its higher build quality and the peace of mind that comes with knowing it remains among the highest-performing mice available, rather than for any measurable edge. Its only real drawback is that it’s wired, though the lightweight, flexible cable keeps it from feeling restrictive, so it ultimately comes down to personal preference. Overall, the OP1 8k v2 remains one of the best gaming mice available.
+
+For more recommendations, see our picks for the best gaming mouse, the best FPS mouse, and the best claw grip mouse.
+
+Logitech G PRO X3 SUPERSTRIKE
+SEE PRICEAmazon
+
+The Endgame Gear OP1 8k v2 and the Logitech G PRO X3 SUPERSTRIKE are lightweight gaming mice with exceptionally low click and sensor latency. The Endgame Gear is wired-only, with a narrow shape and a pronounced rear hump that's particularly well-suited for claw grip. It's also lighter and has smoother-gliding feet. It uses SPDT (single-pole, double-throw) mechanical switches, which are largely responsible for its exceptionally low click latency. On the other hand, the Logitech is a wireless model with a shape that's more broadly accommodating to all grip types. It uses inductive switches that let you customize how far the main buttons travel before a click registers, while adjustable haptic feedback simulates a tactile click to match your actuation setting.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Endgame Gear XM2 8k v2
+SEE PRICEAmazon
+
+The Endgame Gear OP1 8k v2 and the Endgame Gear XM2 8k v2 are wired gaming mice aimed at enthusiast, competitive gamers. The two mice share nearly identical internal components and have virtually the same exceptional raw performance. The biggest difference between them is their shape: the OP1 is smaller and much narrower, making it best suited for small or medium hands, while the XM2 is larger and wider with a somewhat prominent rearward hump, making it best suited for medium or large hands.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Logitech G PRO X2 SUPERSTRIKE
+SEE PRICEAmazon
+
+The Endgame Gear OP1 8k v2 and the Logitech G PRO X2 SUPERSTRIKE are gaming mice designed for competitive play. The Endgame Gear is a wired model with a shape best suited to a claw grip for medium-sized hands, while the Logitech is wireless and has a comparatively safer shape that accommodates a wider range of hand sizes and grip types. The biggest difference between them is their switch technology. The Endgame Gear uses SPDT switches that trigger on contact separation. By comparison, the Logitech uses inductive switches with haptic feedback, which allow you to adjust actuation and reset settings. Even at its lowest actuation setting, which shortens pre-travel and reduces total click latency, it doesn't quite match the click latency performance of the Endgame Gear. However, its Rapid Trigger feature can facilitate faster follow-up inputs. Ultimately, the small latency difference between them isn't large enough to be noticeable in-game.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Endgame Gear OP1 8k
+SEE PRICEEndgame Gear
+
+The Endgame Gear OP1 8k v2 is the successor to the Endgame Gear OP1 8k. It shares the same shape and Kailh GX switches and supports the same hot-swappable switch packs sold separately. The v2 introduces a new sensor, MCU, and scroll wheel encoder. These internal updates don't result in any measurable or noticeable performance improvement, but the OP1 8k v2 continues the series' legacy, and both versions remain among the best-performing and highest-quality wired mice available.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SHOW MORE 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+9 TESTS
+HIDE TEST DETAILS
+Style
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Type
+LockedStandard
+Coating
+LockedLocked
+Lighting ColorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Shape
+SAMPLE
+Join Now
+
+for pictures & test results
+
+LengthLockedLock" (Lock mm)
+WidthLockedLock" (Lock mm)
+HeightLockedLock" (Lock mm)
+Grip Width
+LockedLock mm
+Ambidextrous
+LockedShape Only
+Left-Handed Friendly
+LockedLocked
+Finger Rest
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SHAPE 
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Weight
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Lowest Weight
+LockedLock g
+Default Weight
+Locked46.6 g
+Weight Distribution
+LockedLocked
+Extra Weights
+LockedLocked
+Hand Size Recommendation
+Palm Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Claw Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Fingertip Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT HAND SIZE RECOMMENDATION 
+N/A
+Wireless Versatility
+Maximum Of Paired Devices
+LockedLocked
+Bluetooth
+LockedLocked
+Receiver
+LockedLocked
+Battery Type
+LockedLocked
+Use When Charging
+LockedLocked
+On/Off Activation
+LockedLocked
+Receiver Extender
+LockedLocked
+Receiver Storing
+LockedLocked
+Battery IndicatorLockedLocked
+Cable
+ConnectivityLockedWired
+Cable Length
+LockedLock ft (Lock m)
+Cable Type
+LockedLocked
+Permanent Kink
+LockedLocked
+Port Type: Mouse End
+LockedLocked
+Port Type: PC End
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Feet
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Gliding Experience
+LockedLocked
+Material
+LockedLocked
+Extra Included
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+CONTROL
+8 TESTS
+HIDE TEST DETAILS
+Main Button
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Switch Type
+LockedLocked
+Switch Model
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Additional Buttons
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Total Number Of Buttons
+LockedLock
+Number Of Side Buttons
+LockedLock
+Number Of Programmable Inputs 
+LockedLock
+Profile Switching Button
+LockedLocked
+Gesture Support
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Click Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Expected Connection
+LockedLock ms
+Wired
+LockedLock ms
+Receiver
+LockedN/A
+Bluetooth
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CLICK LATENCY 
+N/A
+CPI
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SRAV @ 1600 CPI
+LockedLock%
+SRAV @ 800 CPI
+LockedLock%
+SRAV @ 400 CPI
+LockedLock%
+SRAV @ Fixed CPI
+LockedN/A
+Precision Error Between Speeds
+LockedLock%
+Precision Error Between CPI
+LockedLock%
+Worst Tracking Error
+LockedLock%
+Minimum CPI
+LockedLock CPI
+Maximum CPI
+LockedLock CPI
+CPI Adjustment Steps
+LockedLock CPI
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CPI 
+N/A
+Sensor Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Delay At Half Movement
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR LATENCY 
+Sensor Specifications
+Sensor Technology
+LockedLocked
+Sensor Model
+LockedLocked
+Works On Glass
+LockedLocked
+Minimum Lift Off Distance
+LockedLock mm
+Maximum Polling Rate
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR SPECIFICATIONS 
+Mouse Wheel
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Scroll Wheel Type
+LockedLocked
+Scroll Wheel Tilt
+LockedLocked
+Thumb Wheel Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Click Noise
+LockedLocked
+OPERATING SYSTEM AND SOFTWARE
+2 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatibility
+LockedLocked
+Software macOS Compatibility
+LockedLocked
+On-Board Memory
+LockedLocked
+CPI (DPI) Adjustment 
+LockedLocked
+Polling Rate Adjustment
+LockedLocked
+Profile Configuration
+LockedLocked
+Profile Auto-Switching
+LockedLocked
+RGB On/Off
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Compatibility
+Windows CompatibilityLockedLocked
+macOS CompatibilityLockedLocked
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The Best Gaming Mouse
+The Best Wireless Mouse
+The Best Mouse
+The Best Ergonomic Mouse
+The Best Wireless Gaming Mouse
+The Best Lightweight Mouse
+The Best Mouse For Work
+The Best MMO Mouse
+The 5 Best Logitech Mice
+The Best Cheap And Budget Gaming Mouse
+The Best Mouse For MacBooks
+The Best FPS Mouse
+The Best Wired Mouse
+The Best Trackball Mouse
+The 5 Best Razer Mice
+The Best Claw Grip Mouse
+The 4 Best Corsair Mice
+The 4 Best SteelSeries Mice
+Comments
+PRODUCT
+ACTIVE 1 MONTH AGO · 
+ • POSTED 1 YEAR AGO
+Endgame Gear OP1 8k v2: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+44 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+3
+2
+1
+ James Alex Chérubin
+ • POSTED 1 MONTH AGO
+SEP 23, 2026 07:45 AM BY  JavaMachine  3
+
+Hi, I new firmware is out which might affect sensor related graphs/data.
+Version 1.10
+
+Increased SPI clock from 8 MHz to 16 MHz for more up-to-date sensor data
+Added multiple new settings for CPI Downshift and Smoothing/Ripple Control, accessible via software (thanks to XBAB Tech)
+Added 125 Hz, 250 Hz, and 500 Hz polling rate options, accessible via software
+Force max Sensor FPS is now disabled by default
+
+Hi JavaMachine! 😄 After a few sensor tests, the data and graph are pretty similar to what we’ve encountered 2 months ago.
+The new settings and the fact that Force max Sensor FPS is Off by default is a nice touch to help some of the issues users experienced previously.
+Thank you and have a great weekend!
+
+Reply
+Copy link
+3
+2
+1
+ 
+JavaMachine 3
+ • POSTED 1 MONTH AGO
+
+Hi, I new firmware is out which might affect sensor related graphs/data.
+
+Version 1.10
+
+Increased SPI clock from 8 MHz to 16 MHz for more up-to-date sensor data
+Added multiple new settings for CPI Downshift and Smoothing/Ripple Control, accessible via software (thanks to XBAB Tech)
+Added 125 Hz, 250 Hz, and 500 Hz polling rate options, accessible via software
+Force max Sensor FPS is now disabled by default
+Reply
+Copy link
+ • POSTED 2 MONTHS AGO
+
+Update: We’ve added a link to the Endgame Gear XM2 8k v2 in the Hand Size Recommendation section.
+
+3
+2
+1
+ Alexander Tozzi
+ • POSTED 3 MONTHS AGO
+JUL 31, 2026 01:39 PM BY Duckling  2
+
+Hi rtings, I don’t know if this is something you guys plan on doing, but I would be very interested in seeing how the sensor latency looks like with motion sync enabled compared to disabled (ideally at 8k). Would appreciate if it was included in the tests whenever you plan to retest the mouse
+
+Hey! We don’t have plans to retest this mouse so soon, but if we do I’ll see if we can squeeze it in.
+
+However, after testing hundreds of mice, I can tell you that motion sync will typically add latency, depending on your polling rate. At 1000Hz, the largest difference I’ve seen was 0.5ms, but at 8000hz, I can’t think of a mouse I’ve seen where the results were worse than 0.1ms of added latency. Personally, I keep it on. The minuscule latency is worth eliminating micro-jitters, imo.
+
+Reply
+Copy link
+3
+2
+1
+Duckling 2
+ • POSTED 3 MONTHS AGO
+
+Hi rtings, I don’t know if this is something you guys plan on doing, but I would be very interested in seeing how the sensor latency looks like with motion sync enabled compared to disabled (ideally at 8k). Would appreciate if it was included in the tests whenever you plan to retest the mouse
+
+Reply
+Copy link
+3
+2
+1
+ James Alex Chérubin
+ • POSTED 4 MONTHS AGO
+JUL 02, 2026 11:48 AM BY  JavaMachine  3
+
+Hi, I just received this mouse and first thing I did is to update firmware from 1.04 to 1.07.
+Changelog states:
+Version 1.07
+
+Added force max sensor fps toggle (default: on) Version 1.06
+Fixed: USB Descriptor for Linux
+Improved: High CPI tracking accuracy for micro-movements Version 1.04
+Fixed: MCF unlock not working as intended
+Fixed: CPI switching not working as intended I did not tested yet in game, but is issue still persists? What firmware was used when testing mouse?
+
+Hi RtingsUser4251341 ! 😄
+The review was with 1.04 but I recently did a few runs with the newer firmware update for a user not too long ago actually! We’ve concluded that it might be better to have the force max sensor fps set to Off as of right now as it doesn’t seem to affect the performance but prevents stuttering issues that was an issue for some users. 
+Thank you and have a great week! 😄
+
+Reply
+Copy link
+2
+1
+0
+ 
+JavaMachine 3
+ • POSTED 4 MONTHS AGO
+
+Hi, I just received this mouse and first thing I did is to update firmware from 1.04 to 1.07.
+
+Changelog states:
+
+Version 1.07
+
+Added force max sensor fps toggle (default: on)
+
+Version 1.06
+
+Fixed: USB Descriptor for Linux
+Improved: High CPI tracking accuracy for micro-movements
+
+Version 1.04
+
+Fixed: MCF unlock not working as intended
+Fixed: CPI switching not working as intended
+
+I did not tested yet in game, but is issue still persists? What firmware was used when testing mouse?
+
+Reply
+Copy link
+ • POSTED 5 MONTHS AGO
+
+Update: We’ve retested this mouse’s Sensor Latency and recorded a new Software Tour in response to a new firmware update that adds a “Force max Sensor fps” toggle in the software.
+
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

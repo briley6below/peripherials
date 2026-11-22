@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "currency": "USD",
   "rules": [
     "A spec needs at least one source.",
@@ -2322,6 +2322,1452 @@
       ]
     },
     {
+      "id": "razer-viper-v3-pro",
+      "name": "Razer Viper V3 Pro",
+      "category": "mouse",
+      "brand": "Razer",
+      "picked_by": [],
+      "mentioned_by": [
+        "rt_best_gaming_mouse"
+      ],
+      "price": {
+        "usd": 159.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_v3pro"
+        ],
+        "note": "Maker list US$159.99; on sale for US$119.99 on 2026-11-21."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 54,
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "note": "Maker: 54 g (55 g for the White Edition). RTINGS measured 53.8 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 53.8,
+          "status": "verified",
+          "sources": [
+            "rt_viper-v3-pro"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "sensor": {
+          "value": "Razer Focus Pro 35K Optical Sensor Gen-2",
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 35,000",
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_v3pro",
+            "rt_viper-v3-pro"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: 8000 Hz with the HyperPolling Wireless Dongle. RTINGS: 8000 Hz wireless out of the box.",
+          "basis": "maker and RTINGS"
+        },
+        "switches": {
+          "value": "Razer Optical Mouse Switches Gen-3",
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "basis": "maker's figure"
+        },
+        "programmable_buttons": {
+          "value": 8,
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "note": "Maker: 8 programmable controls.",
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "up to 95",
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless (HyperSpeed)",
+          "status": "verified",
+          "sources": [
+            "mk_v3pro"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "mk_v3pro",
+            "rt_viper-v3-pro"
+          ],
+          "note": "The maker words it 'right-handed symmetrical'. RTINGS calls it symmetrical.",
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "A very light, very fast wireless mouse with a shape that suits many hand sizes and grips.",
+        "kind": "opinion",
+        "sources": [
+          "rt_viper-v3-pro"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Exceptional click latency and outstanding sensor latency (very low delay).",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v3-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Extremely lightweight.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v3-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v3-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Comfortable symmetrical shape that suits a variety of hand sizes and grip types.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v3-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "boardzy says that for most people it is a better buy than the newer Viper V4 Pro.",
+          "kind": "opinion",
+          "sources": [
+            "bz_v4_value"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "bz_v4_value",
+          "label": "boardzy - Razer Viper V4 Pro review (8:35)",
+          "url": "https://www.youtube.com/watch?v=g56fX2fBdM8&t=515s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_viper-v4-pro_g56fX2fBdM8.txt",
+          "timestamp": "8:35",
+          "published": "2026-03-24",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_v3pro",
+          "label": "Razer - Viper V3 Pro product page",
+          "url": "https://www.razer.com/gaming-mice/razer-viper-v3-pro",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_razer_viper-v3-pro.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_viper-v3-pro",
+          "label": "RTINGS review - Razer Viper V3 Pro (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/razer/viper-v3-pro",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_razer-viper-v3-pro.txt",
+          "published": "2024-05-21",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "wlmouse-huan",
+      "name": "WLmouse HUAN",
+      "category": "mouse",
+      "brand": "WLmouse",
+      "picked_by": [],
+      "price": {
+        "usd": 155.0,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_huan"
+        ],
+        "note": "Maker list US$155.00 for Black; on sale for US$142.60 on 2026-11-21. Patterned colors cost more."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 48,
+          "status": "verified",
+          "sources": [
+            "mk_huan"
+          ],
+          "shown": "48 ± 2",
+          "note": "Maker: 48 ± 2 g. RTINGS measured 49.7 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 49.7,
+          "status": "verified",
+          "sources": [
+            "rt_huan"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "116 x 61 x 38",
+          "status": "verified",
+          "sources": [
+            "mk_huan"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "PAW3950HS",
+          "status": "verified",
+          "sources": [
+            "mk_huan"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_huan",
+            "rt_huan"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: 8K wireless and 8K wired. RTINGS: up to 8000 Hz with the included receiver.",
+          "basis": "maker and RTINGS"
+        },
+        "switches": {
+          "value": "OMRON Opticals",
+          "status": "verified",
+          "sources": [
+            "mk_huan"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "300 mAh",
+          "status": "verified",
+          "sources": [
+            "mk_huan"
+          ],
+          "basis": "maker's figure"
+        },
+        "material": {
+          "value": "magnesium alloy",
+          "status": "verified",
+          "sources": [
+            "mk_huan",
+            "rt_huan"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "connectivity": {
+          "value": "wireless or wired",
+          "status": "verified",
+          "sources": [
+            "mk_huan"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical, on the small side",
+          "status": "verified",
+          "sources": [
+            "rt_huan"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A small, very light magnesium mouse that RTINGS rates outstanding for FPS games.",
+        "kind": "opinion",
+        "sources": [
+          "rt_huan"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Exceptional build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_huan"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Very lightweight.",
+          "kind": "opinion",
+          "sources": [
+            "rt_huan"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Remarkable speed test results ('raw performance' in RTINGS' words).",
+          "kind": "opinion",
+          "sources": [
+            "rt_huan"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Its small shape suits claw and fingertip grips best, says RTINGS.",
+          "kind": "opinion",
+          "sources": [
+            "rt_huan"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_huan",
+          "label": "WLMOUSE - HUAN product page",
+          "url": "https://www.wlmouse.com/products/huan",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_wlmouse_huan.txt",
+          "outlet": "WLMOUSE",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_huan",
+          "label": "RTINGS review - WLmouse HUAN (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/wlmouse/huan",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_wlmouse-huan.txt",
+          "published": "2026-05-05",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "arye-rcc-1",
+      "name": "ARYE RCC-1",
+      "category": "mouse",
+      "brand": "ARYE",
+      "picked_by": [],
+      "price": {
+        "usd": 169.99,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "maxg_rcc1"
+        ],
+        "note": "Listed at US$169.99 by two US stores on 2026-11-21: MaxGaming US (on sale for US$79.99, in stock) and Lethal Gaming Gear (on sale for US$99.99, sold out). ARYE's own Hong Kong store shows 899.00 without naming the currency, so that figure is not used."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 46,
+          "status": "verified",
+          "sources": [
+            "mk_rcc1",
+            "lgg_rcc1",
+            "maxg_rcc1"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "117 x 61.6 x 35",
+          "status": "reported",
+          "sources": [
+            "lgg_rcc1",
+            "maxg_rcc1"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear",
+            "MaxGaming"
+          ]
+        },
+        "sensor": {
+          "value": "PAW3950",
+          "status": "reported",
+          "sources": [
+            "lgg_rcc1",
+            "maxg_rcc1"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear",
+            "MaxGaming"
+          ]
+        },
+        "dpi": {
+          "value": "up to 32,000",
+          "status": "verified",
+          "sources": [
+            "mk_rcc1",
+            "maxg_rcc1"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_rcc1",
+            "lgg_rcc1",
+            "maxg_rcc1"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: '8K Hz refresh rate out of the box'.",
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "Omron optical",
+          "status": "reported",
+          "sources": [
+            "lgg_rcc1",
+            "maxg_rcc1"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear",
+            "MaxGaming"
+          ]
+        },
+        "material": {
+          "value": "carbon fiber and nylon composite",
+          "status": "verified",
+          "sources": [
+            "mk_rcc1"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "narrow front, made for claw and fingertip grips",
+          "status": "verified",
+          "sources": [
+            "mk_rcc1",
+            "maxg_rcc1"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A 46 g carbon-composite wireless mouse with a narrow front, made for claw and fingertip grips.",
+        "kind": "fact",
+        "sources": [
+          "mk_rcc1",
+          "maxg_rcc1"
+        ],
+        "status": "verified"
+      },
+      "pros": [
+        {
+          "text": "The maker says its narrow front suits claw and fingertip grips. No review has tested this yet.",
+          "kind": "fact",
+          "sources": [
+            "mk_rcc1",
+            "maxg_rcc1"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "lgg_rcc1",
+          "label": "Lethal Gaming Gear store - Arye RCC-1",
+          "url": "https://lethal.gg/products/arye-rcc1-gaming-mouse",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_arye-rcc-1.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
+          "id": "maxg_rcc1",
+          "label": "MaxGaming US store - ARYE RCC-1 (Arye Edition)",
+          "url": "https://us.maxgaming.com/us/wireless-mouses/arye-rcc-1-arye-edition",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/reseller_maxgaming_arye-rcc-1.txt",
+          "outlet": "MaxGaming",
+          "type": "store page"
+        },
+        {
+          "id": "mk_rcc1",
+          "label": "ARYE - RCC-1 [ARYE EDITION] product page",
+          "url": "https://arye.hk/products/rcc-1-arye-edition",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_arye_rcc-1.txt",
+          "outlet": "ARYE",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "pulsar-x2-crazylight",
+      "name": "Pulsar X2 CrazyLight (Medium)",
+      "category": "mouse",
+      "brand": "Pulsar",
+      "picked_by": [],
+      "price": {
+        "usd": 129.95,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_x2cl"
+        ],
+        "note": "Maker list US$129.95; on sale for US$103.96 (Jet Black, Uyuni White) and US$90.96 (Forest) on 2026-11-21."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 39,
+          "status": "verified",
+          "sources": [
+            "mk_x2cl"
+          ],
+          "shown": "39 ± 1",
+          "note": "Maker: 39 g ± 1 g with dot skates, 41 g with the regular skates. RTINGS measured 38.3 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 38.3,
+          "status": "verified",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "120.4 x 63 x 38",
+          "status": "verified",
+          "sources": [
+            "mk_x2cl"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "Pulsar XS-1",
+          "status": "verified",
+          "sources": [
+            "mk_x2cl"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 32,000",
+          "status": "verified",
+          "sources": [
+            "mk_x2cl"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_x2cl",
+            "rt_x2-crazylight"
+          ],
+          "shown": "up to 8000",
+          "note": "RTINGS: 8000 Hz out of the box.",
+          "basis": "maker and RTINGS"
+        },
+        "switches": {
+          "value": "Pulsar optical",
+          "status": "verified",
+          "sources": [
+            "mk_x2cl"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless",
+          "status": "verified",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "mk_x2cl",
+            "rt_x2-crazylight"
+          ],
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "An extremely light, small symmetrical mouse that RTINGS rates outstanding for FPS games; its small battery needs charging often.",
+        "kind": "opinion",
+        "sources": [
+          "rt_x2-crazylight"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Extremely lightweight.",
+          "kind": "opinion",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Extremely low click latency and outstanding sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Its small symmetrical shape suits claw and fingertip grips for small or medium hands, says RTINGS.",
+          "kind": "opinion",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "The open bottom plate lets dust and debris get inside.",
+          "kind": "opinion",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Small battery, so it needs charging more often, especially at high polling rates.",
+          "kind": "opinion",
+          "sources": [
+            "rt_x2-crazylight"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_x2cl",
+          "label": "Pulsar - X2 CrazyLight Medium product page",
+          "url": "https://www.pulsar.gg/products/x2-crazylight-gaming-mouse-1",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_pulsar_x2-crazylight.txt",
+          "outlet": "Pulsar",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_x2-crazylight",
+          "label": "RTINGS review - Pulsar X2 CrazyLight (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/pulsar/x2-crazylight",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_pulsar-x2-crazylight.txt",
+          "published": "2025-09-02",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "endgame-gear-op1-8k-v2",
+      "name": "Endgame Gear OP1 8k v2",
+      "category": "mouse",
+      "brand": "Endgame Gear",
+      "picked_by": [],
+      "price": {
+        "usd": 89.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_op1v2"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 49.5,
+          "status": "verified",
+          "sources": [
+            "mk_op1v2"
+          ],
+          "note": "Maker: 49.5 g. RTINGS measured 46.6 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 46.6,
+          "status": "verified",
+          "sources": [
+            "rt_op1-8k-v2"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "118.2 x 60.5 x 37.2",
+          "status": "verified",
+          "sources": [
+            "mk_op1v2"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "PixArt PAW3950",
+          "status": "verified",
+          "sources": [
+            "mk_op1v2"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 30,000",
+          "status": "verified",
+          "sources": [
+            "mk_op1v2"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_op1v2",
+            "rt_op1-8k-v2"
+          ],
+          "shown": "up to 8000",
+          "basis": "maker and RTINGS"
+        },
+        "switches": {
+          "value": "Kailh GX mechanical",
+          "status": "verified",
+          "sources": [
+            "mk_op1v2"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wired",
+          "status": "verified",
+          "sources": [
+            "rt_op1-8k-v2"
+          ],
+          "note": "A wired-only mouse, so it has no battery.",
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "rt_op1-8k-v2"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A light, wired-only mouse that RTINGS rates exceptionally well suited to FPS games.",
+        "kind": "opinion",
+        "sources": [
+          "rt_op1-8k-v2"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_op1-8k-v2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Incredible click latency and exceptional sensor latency.",
+          "kind": "opinion",
+          "sources": [
+            "rt_op1-8k-v2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Its shape is particularly comfortable for claw or fingertip grips, says RTINGS.",
+          "kind": "opinion",
+          "sources": [
+            "rt_op1-8k-v2"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Wired only.",
+          "kind": "fact",
+          "sources": [
+            "rt_op1-8k-v2",
+            "mk_op1v2"
+          ],
+          "status": "verified"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_op1v2",
+          "label": "Endgame Gear - OP1 8k v2 product page",
+          "url": "https://www.endgamegear.com/products/op1-8k-v2-wired-gaming-mouse",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_endgamegear_op1-8k-v2.txt",
+          "outlet": "Endgame Gear",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_op1-8k-v2",
+          "label": "RTINGS review - Endgame Gear OP1 8k v2 (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/endgame-gear/op1-8k-v2",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_endgame-gear-op1-8k-v2.txt",
+          "published": "2025-10-24",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "finalmouse-starlight-x",
+      "name": "Finalmouse Starlight X (SLX)",
+      "category": "mouse",
+      "brand": "Finalmouse",
+      "picked_by": [],
+      "price": {
+        "usd": 179.0,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_slx"
+        ],
+        "note": "Maker price US$179 for the SLX Nightfall; sold out on 2026-11-21. Finalmouse sells its mice in limited batches."
+      },
+      "specs": {
+        "weight_measured_g": {
+          "value": 41.7,
+          "status": "verified",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "note": "RTINGS: 'PerfectPolling', a 1000 Hz rate that Finalmouse says gives latency close to 8000 Hz. The maker's spec sheet is a PDF that we did not save.",
+          "basis": "RTINGS review"
+        },
+        "switches": {
+          "value": "mechanical switches with TMR sensors; adjustable actuation and Rapid Trigger",
+          "status": "verified",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wireless",
+          "status": "verified",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A very light symmetrical mouse whose clicks you can tune; RTINGS rates it outstanding for FPS games.",
+        "kind": "opinion",
+        "sources": [
+          "rt_starlight-x"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Extremely lightweight.",
+          "kind": "opinion",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Incredibly low click latency and outstanding sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "You can set how deep a click must go, and use Rapid Trigger.",
+          "kind": "fact",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [
+        {
+          "text": "In its TMR analog mode, the click you feel does not line up with where the click registers, which could feel disorienting.",
+          "kind": "opinion",
+          "sources": [
+            "rt_starlight-x"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_slx",
+          "label": "Finalmouse - SLX Nightfall product page",
+          "url": "https://finalmouse.com/products/slx-nightfall",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_finalmouse_slx-nightfall.txt",
+          "outlet": "Finalmouse",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_starlight-x",
+          "label": "RTINGS review - Finalmouse Starlight X (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/finalmouse/starlight-x",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_finalmouse-starlight-x.txt",
+          "published": "2026-10-22",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "vxe-v3-pro",
+      "name": "VXE V3 Pro (Dragonfly V3 Pro)",
+      "category": "mouse",
+      "brand": "VXE",
+      "picked_by": [],
+      "price": {
+        "usd": 23.98,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_vxev3"
+        ],
+        "note": "ATK store list ('compare at') price US$23.98; on sale for US$19.98 on 2026-11-21. MaxGaming US lists it at US$24.99 (on sale for US$19.99)."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 49,
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s",
+            "maxg_vxev3"
+          ],
+          "shown": "49 ± 3",
+          "note": "Maker: 49 ± 3 g. MaxGaming lists 49 g. No lab weight found.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "116.6 x 62.15 x 38.2",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s",
+            "maxg_vxev3"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "PAW3395 SE",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s",
+            "maxg_vxev3"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "200 - 18,000",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s"
+          ],
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "Huano Blue Glow Pink Dot V2",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "up to 65 at 1000 Hz (300 mAh)",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s"
+          ],
+          "note": "MaxGaming also lists 65 h.",
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wired, 2.4 GHz or Bluetooth",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s",
+            "maxg_vxev3"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "mk_vxev3s"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A 49 g tri-mode (wired, 2.4 GHz, Bluetooth) mouse made for small to medium hands.",
+        "kind": "fact",
+        "sources": [
+          "mk_vxev3",
+          "mk_vxev3s"
+        ],
+        "status": "verified"
+      },
+      "pros": [
+        {
+          "text": "The maker says it fits small to medium hands, in claw, palm or fingertip grip. No review has tested this yet.",
+          "kind": "fact",
+          "sources": [
+            "mk_vxev3",
+            "mk_vxev3s"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "maxg_vxev3",
+          "label": "MaxGaming US store - VXE V3 Pro (Black)",
+          "url": "https://us.maxgaming.com/us/wireless-mouses/vxe-v3-pro-wireless-gaming-mouse-black",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/reseller_maxgaming_vxe-v3-pro.txt",
+          "outlet": "MaxGaming",
+          "type": "store page"
+        },
+        {
+          "id": "mk_vxev3",
+          "label": "ATK store - VXE Dragonfly V3 Series (product data)",
+          "url": "https://www.atk.store/products/vxe-dragonfly-v3-series-lightweight-wireless-mouse",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_atk_vxe-v3-series.txt",
+          "outlet": "ATK",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_vxev3s",
+          "label": "ATK store - VXE Dragonfly V3 PRO (Black) spec list",
+          "url": "https://www.atk.store/products/vxe-dragonfly-v3-series-lightweight-wireless-mouse?variant=47668872446170",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_atk_vxe-v3-pro-black.txt",
+          "outlet": "ATK",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "lamzu-thorn-v2",
+      "name": "LAMZU THORN V2",
+      "category": "mouse",
+      "brand": "LAMZU",
+      "picked_by": [],
+      "price": {
+        "usd": 129.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_thorn2"
+        ]
+      },
+      "specs": {
+        "weight_measured_g": {
+          "value": 55.5,
+          "status": "verified",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "note": "The maker page shows its specs only as pictures, so we have no maker weight.",
+          "basis": "measured by RTINGS"
+        },
+        "sensor": {
+          "value": "PixArt PAW NEXT 1",
+          "status": "verified",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "basis": "RTINGS review"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "shown": "up to 8000",
+          "note": "RTINGS: an 8000 Hz receiver is included.",
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wireless",
+          "status": "verified",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "right-handed ergonomic",
+          "status": "verified",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A light right-handed mouse that RTINGS rates excellent for FPS games.",
+        "kind": "opinion",
+        "sources": [
+          "rt_thorn-v2"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Lightweight and easy to move quickly.",
+          "kind": "opinion",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Exceptionally low click latency and outstanding sensor latency.",
+          "kind": "opinion",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Supportive right-handed shape, well suited to average-sized hands in a palm or claw grip.",
+          "kind": "opinion",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "The finish scratches easily or shows fingerprints, depending on the color.",
+          "kind": "opinion",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "More speed-related tracking variation than usual.",
+          "kind": "opinion",
+          "sources": [
+            "rt_thorn-v2"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_thorn2",
+          "label": "LAMZU - THORN V2 product page",
+          "url": "https://www.lamzu.com/products/lamzu-thorn-v2",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_lamzu_thorn-v2.txt",
+          "outlet": "LAMZU",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_thorn-v2",
+          "label": "RTINGS review - LAMZU THORN V2 (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/lamzu/thorn-v2",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_lamzu-thorn-v2.txt",
+          "published": "2026-10-09",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "g-wolves-fenrir-max",
+      "name": "G-Wolves Fenrir Max",
+      "category": "mouse",
+      "brand": "G-Wolves",
+      "picked_by": [],
+      "price": {
+        "usd": 153.0,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_fenrir"
+        ],
+        "note": "Maker price US$153 for Black or White; other colors US$159."
+      },
+      "name_note": {
+        "value": "Some stores call it the 'Fenris'. RTINGS says it is the same mouse.",
+        "status": "verified",
+        "sources": [
+          "rt_fenris-max-wireless"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 22.4,
+          "status": "verified",
+          "sources": [
+            "mk_fenrir"
+          ],
+          "shown": "about 22.4",
+          "note": "Maker: ~22.4 g. RTINGS measured 24.6 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 24.6,
+          "status": "verified",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "75 x 61 x 31",
+          "status": "verified",
+          "sources": [
+            "mk_fenrir"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "PixArt PAW3950",
+          "status": "verified",
+          "sources": [
+            "mk_fenrir",
+            "rt_fenris-max-wireless"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "dpi": {
+          "value": "up to 30,000",
+          "status": "verified",
+          "sources": [
+            "mk_fenrir"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_fenrir",
+            "rt_fenris-max-wireless"
+          ],
+          "shown": "up to 8000",
+          "basis": "maker and RTINGS"
+        },
+        "switches": {
+          "value": "SPDT main switches",
+          "status": "verified",
+          "sources": [
+            "mk_fenrir"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless",
+          "status": "verified",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "made only for fingertip grip",
+          "status": "verified",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "note": "The maker calls it a 'fingertip-focused shape'.",
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "An extremely small, light mouse made only for fingertip grip; RTINGS calls it amazing for competitive players who grip that way.",
+        "kind": "opinion",
+        "sources": [
+          "rt_fenris-max-wireless"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Astonishingly lightweight.",
+          "kind": "opinion",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Exceptionally low click latency and exceptional sensor latency.",
+          "kind": "opinion",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Impressive build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "The open baseplate lets dust and debris collect inside.",
+          "kind": "opinion",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Only suits a fingertip grip.",
+          "kind": "fact",
+          "sources": [
+            "rt_fenris-max-wireless"
+          ],
+          "status": "verified"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_fenrir",
+          "label": "G-Wolves - Fenrir Max 8K product page",
+          "url": "https://shop.g-wolves.com/products/g-wolves-fenris-max-8k-wireless-mouse",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_gwolves_fenrir-max.txt",
+          "outlet": "G-Wolves",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_fenris-max-wireless",
+          "label": "RTINGS review - G-Wolves Fenrir Max (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/g-wolves/fenris-max-wireless",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_g-wolves-fenrir-max.txt",
+          "published": "2025-11-10",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
       "id": "wooting-80he",
       "name": "Wooting 80HE",
       "category": "keyboard",
@@ -4015,6 +5461,401 @@
       ]
     },
     {
+      "id": "drunkdeer-a75",
+      "name": "DrunkDeer A75",
+      "category": "keyboard",
+      "brand": "DrunkDeer",
+      "picked_by": [],
+      "price": {
+        "usd": 103.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_a75"
+        ],
+        "note": "Price of the assembled ANSI version with ABS keycaps (black or white). Both were sold out on 2026-11-21. Other versions on the maker page run from US$93.99 (grey barebone, sold out) to US$159.99 (aluminum barebone)."
+      },
+      "availability": {
+        "value": "Most versions were sold out on the maker's page on 2026-11-21; the aluminum barebone versions and one ISO-UK version were still listed as available.",
+        "status": "verified",
+        "sources": [
+          "mk_a75"
+        ]
+      },
+      "specs": {
+        "size": {
+          "value": "75%",
+          "status": "verified",
+          "sources": [
+            "rtk_a75"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "magnetic, adjustable actuation",
+          "status": "verified",
+          "sources": [
+            "rtk_a75",
+            "mk_a75"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "actuation_mm": {
+          "value": "0.2 - 3.8, in 0.1 mm steps",
+          "status": "verified",
+          "sources": [
+            "mk_a75"
+          ],
+          "basis": "maker's figure"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "rtk_a75"
+          ],
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wired",
+          "status": "verified",
+          "sources": [
+            "rtk_a75",
+            "mk_a75"
+          ],
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "A wired 75% magnetic keyboard that RTINGS rates excellent for gaming, with very low latency.",
+        "kind": "opinion",
+        "sources": [
+          "rtk_a75"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Outstanding low latency.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_a75"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "You can set how far each key travels before it registers, with key combinations or the web software.",
+          "kind": "fact",
+          "sources": [
+            "rtk_a75"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "Good build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_a75"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "High profile: it can be tiring to use for long periods without a wrist rest.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_a75"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "The plastic chassis feels a bit cheap.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_a75"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_a75",
+          "label": "DrunkDeer - A75 product page",
+          "url": "https://drunkdeer.com/products/adjustable-keyboard-magnetic-switch-a75",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_drunkdeer_a75.txt",
+          "outlet": "DrunkDeer",
+          "type": "maker page"
+        },
+        {
+          "id": "rtk_a75",
+          "label": "RTINGS review - DrunkDeer A75 (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/drunkdeer/a75",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/rtings_kb_drunkdeer-a75.txt",
+          "published": "2023-08-09",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "wired-in-protagonist-he",
+      "name": "Wired In Protagonist HE",
+      "category": "keyboard",
+      "brand": "Wired In",
+      "picked_by": [],
+      "price": {
+        "usd": 189.0,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_phe"
+        ],
+        "note": "Maker price US$189 for both colors (Carbonite, Raven); both sold out on 2026-11-21."
+      },
+      "specs": {
+        "switch_type": {
+          "value": "magnetic (Hall effect), adjustable actuation",
+          "status": "verified",
+          "sources": [
+            "mk_phe"
+          ],
+          "basis": "maker's figure"
+        },
+        "mount": {
+          "value": "isolated top mount or gasket mount (both kits in the box)",
+          "status": "verified",
+          "sources": [
+            "mk_phe"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A custom-style Hall effect keyboard from Wired In; the box has both a top-mount kit and a gasket-mount kit.",
+        "kind": "fact",
+        "sources": [
+          "mk_phe"
+        ],
+        "status": "verified"
+      },
+      "picked_by_note": "Only the maker's page was found for this keyboard. No review or second store listed it, so its facts are not checked against a second source.",
+      "pros": [],
+      "cons": [],
+      "sources": [
+        {
+          "id": "mk_phe",
+          "label": "Wired In - Protagonist HE product page",
+          "url": "https://wiredin.design/products/protagonist-he",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_wiredin_protagonist-he.txt",
+          "outlet": "Wired In",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "atk-a87-pro",
+      "name": "ATK A87 Pro",
+      "category": "keyboard",
+      "brand": "ATK",
+      "picked_by": [],
+      "price": {
+        "usd": "44.98 - 59.98",
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_a87"
+        ],
+        "note": "ATK store prices for the A87 Pro versions (switch and color) on 2026-11-21. KeebForce lists the ATK A87 Pro at US$69.99 to US$89.90."
+      },
+      "specs": {
+        "size": {
+          "value": "80% (TKL), ANSI",
+          "status": "verified",
+          "sources": [
+            "mk_a87"
+          ],
+          "basis": "maker's figure"
+        },
+        "switch_type": {
+          "value": "mechanical",
+          "status": "verified",
+          "sources": [
+            "mk_a87"
+          ],
+          "basis": "maker's figure"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "mk_a87"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wired, 2.4 GHz or Bluetooth",
+          "status": "verified",
+          "sources": [
+            "mk_a87"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "12000 mAh",
+          "status": "verified",
+          "sources": [
+            "mk_a87"
+          ],
+          "note": "The maker page's description gives 12000 mAh. KeebForce lists 6000 mAh for the Sea Salt version and 12000 mAh for others, but we could not save that part of its page.",
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A wireless (2.4 GHz and Bluetooth) TKL mechanical keyboard with hot-swap sockets.",
+        "kind": "fact",
+        "sources": [
+          "mk_a87"
+        ],
+        "status": "verified"
+      },
+      "pros": [],
+      "cons": [],
+      "sources": [
+        {
+          "id": "mk_a87",
+          "label": "ATK store - A87 / A87 Pro keyboard page (A87 Pro selected)",
+          "url": "https://www.atk.store/products/atk-a87-wireless-mechanical-gaming-tkl-keyboard?variant=46581497659610",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_atk_a87-pro-page.txt",
+          "outlet": "ATK",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "everglide-su75-pro",
+      "name": "Everglide SU75 Pro",
+      "category": "keyboard",
+      "brand": "Everglide",
+      "picked_by": [],
+      "price": {
+        "usd": "49 - 179",
+        "type": "US store price range",
+        "status": "unverified",
+        "sources": [
+          "kf_su75"
+        ],
+        "note": "KeebForce (which sells Everglide boards) shows a price range of US$49 to US$179 across its versions, plates and switches. The page does not say what the US$49 option includes, so this price is not used in the price filters."
+      },
+      "specs": {
+        "size": {
+          "value": "75%",
+          "status": "reported",
+          "sources": [
+            "kbf_su75"
+          ],
+          "reported_by": [
+            "KeebFinder"
+          ]
+        },
+        "switch_type": {
+          "value": "magnetic (Hall effect)",
+          "status": "reported",
+          "sources": [
+            "kf_su75"
+          ],
+          "note": "The store page also lists an adjustable actuation point and Rapid Trigger, further down in its description.",
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "reported",
+          "sources": [
+            "kf_su75"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "reported",
+          "sources": [
+            "kf_su75"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "connectivity": {
+          "value": "wired (USB-C) (store)",
+          "status": "unverified",
+          "sources": [
+            "kf_su75",
+            "kbf_su75"
+          ],
+          "note": "Sources disagree. KeebForce lists 'USB-C Wired'. KeebFinder lists Bluetooth, 2.4 GHz and wired, and an 8000 mAh battery. We show the store's figure.",
+          "conflict": true
+        },
+        "case": {
+          "value": "CNC aluminum",
+          "status": "reported",
+          "sources": [
+            "kf_su75"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "weight_g": {
+          "value": "2000 ± 50",
+          "status": "reported",
+          "sources": [
+            "kf_su75"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "An aluminum Hall effect keyboard with 8000 Hz polling.",
+        "kind": "fact",
+        "sources": [
+          "kf_su75"
+        ],
+        "status": "reported (unknown)"
+      },
+      "pros": [],
+      "cons": [],
+      "sources": [
+        {
+          "id": "kbf_su75",
+          "label": "KeebFinder - Everglide SU75 Pro HE spec page",
+          "url": "https://keeb-finder.com/keyboards/everglide-su75-pro",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/specdb_keebfinder_everglide-su75-pro.txt",
+          "outlet": "KeebFinder",
+          "type": "review site"
+        },
+        {
+          "id": "kf_su75",
+          "label": "KeebForce store - Everglide Su75 Pro",
+          "url": "https://keebforce.com/su75-pro/",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_keebforce_everglide-su75-pro-page.txt",
+          "outlet": "KeebForce",
+          "type": "store page"
+        }
+      ]
+    },
+    {
       "id": "steelseries-qck-heavy",
       "name": "SteelSeries QcK Heavy",
       "category": "mousepad",
@@ -4885,13 +6726,21 @@
         "bz_pad_pulsar",
         "bz_pad_pulsar2"
       ],
-      "price": null,
-      "price_note": {
-        "value": "Pulsar's own store lists only special editions of its glass pad (Superglide3 T1 Edition M $49.95, L $84.95, XL $94.95; other editions $99.95), all sold out on 2026-11-19. No price for the plain pad was found.",
-        "status": "unverified",
+      "price": {
+        "usd": 49.95,
+        "type": "US store price",
+        "status": "verified",
         "sources": [
-          "mk_pulsar_pads",
-          "mk_pulsar"
+          "lgg_sg3"
+        ],
+        "note": "Price of the newer Superglide3 Glass Mousepad (Type S), size M, at Lethal Gaming Gear: list US$49.95, on sale for US$34.96 on 2026-11-21. Sizes L, XL and XLE cost more. DiamondLobby's 2024 pick was an earlier version. Pulsar's own store listed only special editions on 2026-11-19."
+      },
+      "name_note": {
+        "value": "The price and photo are of the newer Superglide3 (Type S). DiamondLobby and boardzy talked about an earlier Superglide glass pad in 2024.",
+        "status": "verified",
+        "sources": [
+          "lgg_sg3",
+          "dl_glass"
         ]
       },
       "specs": {
@@ -4995,20 +6844,20 @@
           "type": "video"
         },
         {
+          "id": "lgg_sg3",
+          "label": "Lethal Gaming Gear store - Superglide3 Glass Mousepad, Type S",
+          "url": "https://lethal.gg/products/superglide3-glass-mousepad-type-s",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_superglide3-glass-type-s.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
           "id": "mk_pulsar",
           "label": "Pulsar store - Superglide products (saved store data)",
           "url": "https://www.pulsar.gg/search?q=superglide",
           "date_checked": "2026-11-18",
           "raw_file": "data/raw/maker_pulsar_superglide-catalog.txt",
-          "outlet": "Pulsar",
-          "type": "maker page"
-        },
-        {
-          "id": "mk_pulsar_pads",
-          "label": "Pulsar store - Superglide glass pad listings",
-          "url": "https://www.pulsar.gg/search?q=superglide+glass+mousepad",
-          "date_checked": "2026-11-19",
-          "raw_file": "data/raw/maker_pulsar_superglide-pads.txt",
           "outlet": "Pulsar",
           "type": "maker page"
         }
@@ -5341,6 +7190,403 @@
           "raw_file": "data/raw/maker_artisan_fx-zero-prices.txt",
           "outlet": "ARTISAN",
           "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "lgg-saturn-pro",
+      "name": "Lethal Gaming Gear Saturn Pro (now Pulsar eS Saturn Pro)",
+      "category": "mousepad",
+      "brand": "Lethal Gaming Gear / Pulsar",
+      "picked_by": [
+        "bz_pad_saturn"
+      ],
+      "price": {
+        "usd": 49.95,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "lgg_saturn"
+        ],
+        "note": "SOFT base, XL size, at Lethal Gaming Gear: list US$49.95, on sale for US$39.96 on 2026-11-21. XSoft and Firm bases are sold separately."
+      },
+      "name_note": {
+        "value": "Lethal Gaming Gear now sells the Saturn Pro under the name 'Pulsar eS Saturn Pro'. We found no statement on whether the surface changed since boardzy's 2024 video.",
+        "status": "verified",
+        "sources": [
+          "lgg_saturn"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "circular knit fabric",
+          "status": "reported",
+          "sources": [
+            "lgg_saturn"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear"
+          ]
+        },
+        "base_options": {
+          "value": "Soft, XSoft, Firm",
+          "status": "reported",
+          "sources": [
+            "lgg_saturn"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear"
+          ]
+        },
+        "sizes": {
+          "value": "XL 490 x 420 x 4 mm; XLSQ 500 x 500 x 4 mm",
+          "status": "reported",
+          "sources": [
+            "lgg_saturn"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A cloth control pad. boardzy calls the Saturn Pro a top control pad, a bit smoother and more controlled than ARTISAN's Blitz.",
+        "kind": "opinion",
+        "sources": [
+          "bz_pad_saturn"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [
+        {
+          "text": "One of the top control pads; smoother and more controlled than the ARTISAN Blitz.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_saturn"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "A cheaper base version (the plain Saturn, about $20 in 2024) is one of the best budget pads, says boardzy.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_saturn2"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "bz_pad_saturn",
+          "label": "boardzy - 2024 Mousepad Tier List (31:46)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1906s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "31:46",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_saturn2",
+          "label": "boardzy - 2024 Mousepad Tier List (32:28)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1948s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "32:28",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "lgg_saturn",
+          "label": "Lethal Gaming Gear store - eS Saturn Pro SOFT",
+          "url": "https://lethal.gg/products/es-saturn-pro-gaming-mousepad-soft",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_es-saturn-pro-soft.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        }
+      ]
+    },
+    {
+      "id": "skypad-glass-3",
+      "name": "SkyPAD Glass 3.0",
+      "category": "mousepad",
+      "brand": "SkyPAD",
+      "picked_by": [],
+      "price": null,
+      "price_note": {
+        "value": "No US price found. Tom's Hardware reviewed it in 2023. European stores (Galaxus, Digitec) showed a bot check, which we do not bypass, and Amazon blocks automated access.",
+        "status": "unverified",
+        "sources": [
+          "thr_skypad"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "glass",
+          "status": "reported",
+          "sources": [
+            "thr_skypad"
+          ],
+          "reported_by": [
+            "Tom's Hardware"
+          ]
+        },
+        "sizes": {
+          "value": "350 x 300 x 3.6 mm; XL 500 x 400 x 3.6 mm",
+          "status": "reported",
+          "sources": [
+            "thr_skypad"
+          ],
+          "reported_by": [
+            "Tom's Hardware"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A glass pad that Tom's Hardware says is not as smooth as the Razer Atlas but performs just as well.",
+        "kind": "opinion",
+        "sources": [
+          "thr_skypad"
+        ],
+        "status": "opinion: Tom's Hardware"
+      },
+      "pros": [
+        {
+          "text": "Comes in two sizes.",
+          "kind": "opinion",
+          "sources": [
+            "thr_skypad"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Durable and easy to clean.",
+          "kind": "opinion",
+          "sources": [
+            "thr_skypad"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Fast, accurate tracking.",
+          "kind": "opinion",
+          "sources": [
+            "thr_skypad"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Glass is rigid and cold.",
+          "kind": "opinion",
+          "sources": [
+            "thr_skypad"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "thr_skypad"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Not as smooth as the Razer Atlas.",
+          "kind": "opinion",
+          "sources": [
+            "thr_skypad"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "sources": [
+        {
+          "id": "thr_skypad",
+          "label": "Tom's Hardware - Skypad Mousepad 3.0 review",
+          "url": "https://www.tomshardware.com/reviews/skypad-mousepad-3",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/review_tomshardware_skypad-mousepad-3.txt",
+          "outlet": "Tom's Hardware",
+          "type": "review site",
+          "published": "2023-06-19"
+        }
+      ]
+    },
+    {
+      "id": "tekkusai-kohaku-glass",
+      "name": "Tekkusai Kohaku Glass Mousepad",
+      "category": "mousepad",
+      "brand": "Tekkusai",
+      "picked_by": [],
+      "price": {
+        "usd": 39.0,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "lgg_kohaku"
+        ],
+        "note": "At Lethal Gaming Gear; sold out on 2026-11-21. MaxGaming US lists it at US$44.99 (also sold out). Tekkusai sells through stores; we found no maker store."
+      },
+      "specs": {
+        "surface": {
+          "value": "hardened glass with a nano-coating",
+          "status": "reported",
+          "sources": [
+            "maxg_kohaku"
+          ],
+          "reported_by": [
+            "MaxGaming"
+          ]
+        },
+        "dimensions_mm": {
+          "value": "500 x 450 x 2",
+          "status": "reported",
+          "sources": [
+            "maxg_kohaku"
+          ],
+          "reported_by": [
+            "MaxGaming"
+          ]
+        },
+        "base": {
+          "value": "silicone, to the edges",
+          "status": "reported",
+          "sources": [
+            "maxg_kohaku"
+          ],
+          "reported_by": [
+            "MaxGaming"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A 500 x 450 mm glass pad with a nano-coating and a full silicone base.",
+        "kind": "fact",
+        "sources": [
+          "maxg_kohaku"
+        ],
+        "status": "reported (unknown)"
+      },
+      "pros": [],
+      "cons": [],
+      "sources": [
+        {
+          "id": "lgg_kohaku",
+          "label": "Lethal Gaming Gear store - Tekkusai Kohaku Glass Mousepad",
+          "url": "https://lethal.gg/products/kohaku-glass-mousepad",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_tekkusai-kohaku-glass.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
+          "id": "maxg_kohaku",
+          "label": "MaxGaming US store - Tekkusai Kohaku Glass Mousepad",
+          "url": "https://us.maxgaming.com/us/mousepads/tekkusai-kohaku-glass-mousepad",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/reseller_maxgaming_tekkusai-kohaku-glass.txt",
+          "outlet": "MaxGaming",
+          "type": "store page"
+        }
+      ]
+    },
+    {
+      "id": "mitsuki-koku-cloth",
+      "name": "MITSUKI Kokū — The Void (Cloth Edition)",
+      "category": "mousepad",
+      "brand": "MITSUKI",
+      "picked_by": [],
+      "price": {
+        "usd": 49.99,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "maxg_koku"
+        ],
+        "note": "At MaxGaming US, in stock on 2026-11-21. Lethal Gaming Gear lists it at US$54.99 (sold out)."
+      },
+      "specs": {
+        "surface": {
+          "value": "woven polyester fabric",
+          "status": "reported",
+          "sources": [
+            "maxg_koku"
+          ],
+          "reported_by": [
+            "MaxGaming"
+          ]
+        },
+        "base": {
+          "value": "SlimFlex Poron",
+          "status": "reported",
+          "sources": [
+            "lgg_koku",
+            "maxg_koku"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear",
+            "MaxGaming"
+          ]
+        },
+        "dimensions_mm": {
+          "value": "490 x 420 x 4",
+          "status": "reported",
+          "sources": [
+            "maxg_koku"
+          ],
+          "reported_by": [
+            "MaxGaming"
+          ]
+        },
+        "edition": {
+          "value": "limited to 1,000 units",
+          "status": "reported",
+          "sources": [
+            "lgg_koku",
+            "maxg_koku"
+          ],
+          "reported_by": [
+            "Lethal Gaming Gear",
+            "MaxGaming"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A limited (1,000 units) cloth control pad with a soft Poron base and stitched edges.",
+        "kind": "fact",
+        "sources": [
+          "lgg_koku",
+          "maxg_koku"
+        ],
+        "status": "reported (unknown)"
+      },
+      "pros": [],
+      "cons": [],
+      "sources": [
+        {
+          "id": "lgg_koku",
+          "label": "Lethal Gaming Gear store - MITSUKI Koku: The Void, Cloth Edition",
+          "url": "https://lethal.gg/products/koku-the-void-cloth-edition",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_mitsuki-koku-cloth.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
+          "id": "maxg_koku",
+          "label": "MaxGaming US store - MITSUKI Koku Gaming Mousepad",
+          "url": "https://us.maxgaming.com/us/mousepads/mitsuki-koku-gaming-mousepad",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/reseller_maxgaming_mitsuki-koku-cloth.txt",
+          "outlet": "MaxGaming",
+          "type": "store page"
         }
       ]
     },
@@ -5981,13 +8227,14 @@
       "avoid_by": [
         "bz_sk_corepad_avoid"
       ],
-      "price": null,
-      "price_note": {
-        "value": "9.49 EUR (euro) on the maker's store, for the G PRO X SUPERLIGHT set. No US dollar price found.",
+      "price": {
+        "usd": 9.99,
+        "type": "US store price",
         "status": "verified",
         "sources": [
-          "mk_corepad"
-        ]
+          "lgg_corepad"
+        ],
+        "note": "Set for the G PRO X SUPERLIGHT 2 / X2 SUPERSTRIKE at Lethal Gaming Gear, a US store, on 2026-11-21. The maker's own store lists the set for the original G PRO X SUPERLIGHT at 9.49 EUR (euro)."
       },
       "specs": {
         "material": {
@@ -6087,6 +8334,15 @@
           "published": "2024-12-23",
           "outlet": "boardzy",
           "type": "video"
+        },
+        {
+          "id": "lgg_corepad",
+          "label": "Lethal Gaming Gear store - Corepad CNC Skatez PRO MAX for G PRO X SUPERLIGHT 2",
+          "url": "https://lethal.gg/products/corepad-cnc-skatez-pro-max-logitech-g-pro-x-superlight-2",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_corepad-pro-max-superlight-2.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
         },
         {
           "id": "mk_corepad",

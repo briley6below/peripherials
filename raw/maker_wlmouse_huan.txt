@@ -1,0 +1,383 @@
+URL: https://www.wlmouse.com/products/huan
+TITLE: Gaming Mouse - HUAN Magnesium 8K Wireless, Black – WLMOUSE
+SAVED: 2026-11-22T04:22:05.239Z
+
+PRODUCT DATA (store product record)
+Title: WLMOUSE HUAN Stainless Magnesium Alloy Gaming Mouse - Black
+Vendor: WLmouse
+Price: $142.60 (compare at $155.00)
+Variants: Default Title $142.60
+HUAN in Black is a stainless magnesium alloy gaming mouse measuring 116 × 61 × 38 mm and weighing 48 ±2 g.
+
+  .wl-size-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    max-width: 900px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+
+  .wl-size-block__col {
+    flex: 1 1 0;
+  }
+
+  .wl-size-block__col--text {
+    flex-basis: 40%;
+  }
+
+  .wl-size-block__col--img {
+    flex-basis: 60%;
+    text-align: center;
+  }
+
+  /* 加大线稿图尺寸 */
+  .wl-size-block__img-wrap img {
+    max-width: 380px;  /* <- 这里让线稿更大 */
+    width: 100%;
+    height: auto;
+    display: inline-block;
+  }
+
+  /* 字体改为黑色 */
+  .wl-size-block__text {
+    font-size: 15px;
+    line-height: 1.75;
+    color: #000;
+  }
+
+  .wl-size-block__text span {
+    display: block;
+    margin-bottom: 8px;
+  }
+
+  @media (max-width: 768px) {
+    .wl-size-block {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .wl-size-block__col--text,
+    .wl-size-block__col--img {
+      flex-basis: 100%;
+    }
+
+    .wl-size-block__text span {
+      text-align: center;
+    }
+  }
+
+Length: 4.57in / 116mm Width: 2.4in / 61mm Height: 1.5in / 38mm Weight: 48 ±2g
+
+
+
+Skip to content
+BLACK FRIDAY IS LIVE
+Through Nov 30 (UTC+8)
+ENDS IN
+08
+D
+11
+H
+37
+M
+56
+S
+Explore Black Friday
+→
+
+BEAST X V2 is LIVE. ⚡ 
+
+Join WLMOUSE Discord community!
+
+Site navigation
+WLMOUSE
+Search
+Open cart
+WLMOUSE
+ 
+HUAN
+ 
+Stainless
+ 
+Magnesium
+ 
+Alloy
+ 
+Gaming
+ 
+Mouse
+ 
+-
+ 
+Black
+Sale price
+$142.60 USD
+Regular price
+$155.00 USD
+Material
+
+Magnesium alloy
+
+Battery
+
+300 mAh
+
+Weight
+
+48g
+
+Polling Rate
+
+8K Wireless / 8K Wired
+
+Sensor
+
+PAW 3950HS
+
+Switch
+
+OMRON Opticals
+
+MCU
+
+Nordic 54H20
+
+Color
+Color:
+Black / Gold
+White / Silver
+Blue/Pink
+Celadon
+Nekko - Sold Out
+Pinkko - Sold Out
+Purple
+Saku
+Silver
+White
+Add Accessories
+
+Grip tape for HUAN
+
+Black
+White
+$5.88 USD
+
+PTFE Skates for HUAN
+
+Black
+$3.99 USD
+
+WL PTFE White Dot Skate (40PCS)
+
+White / 6.4 mm / 0.7mm
+$6.60 USD
+Quantity
+Add to cart
+More payment options
+
+Share:
+
+Share on Facebook
+Share on X
+Pin on Pinterest
+Share on Telegram
+Share on WhatsApp
+DIMENSIONS
+Length: 4.57in / 116mm
+Width: 2.4in / 61mm
+Height: 1.5in / 38mm
+Weight: 48 ±2g
+SPECIFICATION
+MCU: Nordic 54H20
+Sensor: PAW3950HS
+Polling Rate: Wired 8K / Wireless 8k (Polling Rate)
+Encoder: TTC Dust - Proof silver
+Switches: OMRON Opticals
+Side Buttons: Omron Blue Dots
+Battery: 300mAh
+PACKAGE CONTENTS
+Wireless Mouse *1
+USB-C Cable *1
+8K Dongle *1
+User Manual *1
+PTFE Skates*1
+Mouse Grip Tape *1
+
+In stock! Ships within 1-2 business days.
+
+1-Year Warranty
+
+Fast Support
+
+WEB HUB for mouse
+
+Privacy first: The microphone operates locally and is used only for trigger word detection and commands. There is no recording, no uploading, and no data collection. You also have a toggle in the web based software to turn the feature on or off as you prefer.
+
+Customer service
+
+Always ready to help you get what you need.
+
+Fast Shipping
+
+Fast delivery to over 103 countries.
+
+12-Month Warranty
+
+Available on eligible purchases from the WLMOUSE official store.
+
+AfterPay Available
+
+Personalise now, pay later with AfterPay.
+
+WLMOUSE
+
+Facebook
+X (Twitter)
+Instagram
+YouTube
+TikTok
+Discord
+Mouse
+HUAN
+Beast X Mini Pro
+Beast X Pro
+Beast X Max
+Beast Miao
+Swords
+Strider
+YING
+Support
+Contact Us
+FAQS
+Download
+Reseller
+Explore
+About Us
+Discord
+News
+Programs
+AFFILIATE
+WL Testers
+Review Program
+Policy
+Shipping Policy
+Return Policy
+Warranty Policy
+Payment Method
+Privacy Policy
+Terms of Service
+© 2026 WLMOUSE. 
+Refund policy
+Privacy policy
+Terms of service
+Contact information
+Language
+English
+English
+
+HIDDEN TAB TEXT (collapsed sections of the same page)
+Facebook
+ X (Twitter)
+ Instagram
+ YouTube
+ TikTok
+ Discord
+Product
+ Mouse
+ Keyboard
+ IEM
+ MousePad
+ Support
+ Software
+ English
+ United States (USD $)
+ Login
+ Facebook
+ X (Twitter)
+ Instagram
+ YouTube
+ TikTok
+ Discord
+Product
+ Mouse
+ Keyboard
+ IEM
+ MousePad
+ Support
+ Software
+Cart
+ 0
+ , 0 items
+ Recently viewed
+ Cart
+ Your cart is currently empty.
+ Not sure where to start?Try these collections:
+ Continue shopping
+ Order note
+ Shipping
+ Discount
+ Order special instructions
+ Order note
+ Apply
+ Estimate shipping
+ Discount
+ Discount code
+ Apply
+ Taxes included and shipping calculated at checkout.
+ Subtotal
+ $0.00 USD
+ Check out
+ Recently viewed
+Search
+ Search
+ Clear
+ Voice search isn't available on this device
+ Beast Miao
+ STRIDER
+ YING
+ Sword X
+ Beast X Mini Pro
+ Beast X Pro
+ Beast X Max
+ Mousepad
+ QISHA 七殺
+ Keyboard
+ YING63 Keyboard
+ YING75 Keyboard
+We use cookies
+This site uses cookies for better user experience and analytics.
+ Accept
+ Decline
+Home
+ Menu
+ Search
+ Shop
+Open cart
+ 0
+ , 0 items
+ Cart
+ Account
+Share
+ Facebook
+ Share on Facebook
+ X (Twitter)
+ Share on X
+ Pinterest
+ Pin on Pinterest
+ Telegram
+ Share on Telegram
+ WhatsApp
+ Share on WhatsApp
+Need help?
+ If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.
+ Order Processing & Pre-orders
+ Orders are typically processed within 2-3 business days.If your order contains pre-ordered items, they will usually ship together once all products are in stock.However, if the pre-order period exceeds 15 days, we will prioritize shipping the in-stock items first.
+ Shipping Methods & Delivery Times
+ Orders are shipped using carriers like UPS, Yunexpress, 4PX, DHL, etc., depending on the best available option.Estimated delivery time from China is 7-15 business days.Deliveries to remote areas or non-continental U.S. islands may take several additional days.Delivery times may also be extended due to customs inspections, flight delays, or force majeure events.
+ Shipping Coverage & Split Shipments
+ We offer worldwide shipping to most countries.However, we do not ship to U.S. military zones (APO, AP, FPO, AA) or certain PO Box addresses.Your order may be split into multiple shipments due to size or quantity, with each shipment having its own tracking number.
+ Order Changes & Cancellations
+ Orders can only be canceled before they are shipped. Once dispatched, orders cannot be changed or canceled.We do not support address modifications after the package has been shipped.For any further assistance, please contact us at support@wlmouse.com.
+Product reviews (4) Product reviews (4)Store reviews (79)

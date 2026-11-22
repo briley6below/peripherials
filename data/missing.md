@@ -1,6 +1,6 @@
 # Missing and unverified data
 
-Checked: 2026-11-18 and 2026-11-19
+Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 
 ## Sources we could not use
 
@@ -11,14 +11,19 @@ Checked: 2026-11-18 and 2026-11-19
 - **Mouse channels not yet read**: hausegaming, wasabi (mouse reviews), diamond lobby (mouse reviews), sunwoo, himacopter, migss. (boardzy was used for one mouse. Wasabi and DiamondLobby were used for skates and pads.)
 - **X-raypad's own site** is a parked domain. X-raypad prices come from JP Gaming USA, a US store. Magic Ice comes from MaxGaming US. Corepad's price is in euros on the maker's store.
 - **Micro Center** showed a bot check, which we do not bypass, so its Pulsar skate pages were not used.
+- **Galaxus and Digitec** (SkyPAD stores) showed a bot check and **Amazon** blocks automated access, so the SkyPAD Glass 3.0 has no store price or photo. SkyPAD's old site (skypad.eu) is a parked domain.
+- **Only one source** (2026-11-21 additions): Wired In Protagonist HE (maker page only), ATK A87 Pro specs (maker page; KeebForce confirms the price only), SkyPAD Glass 3.0 (Tom's Hardware review only), Tekkusai Kohaku and MITSUKI Kokū specs (stores only; no maker store found).
 - **Older videos**: the pad and skate tier lists are from 2024 (boardzy Jul 2024 and Dec 2024; DiamondLobby Oct 2024; Wasabi Jun 2024). Newer models may be missing.
 
 ## Open questions from the 2026-11-18 review
 
 - **ZOWIE G-SR II**: resolved on 2026-11-19. BenQ's US ZOWIE store sells it at US$34.99.
 - **Corepad Skatez**: boardzy's bad review (1:23 to 2:03) is of the "Pro Max" version. At 20:15 he says standard Corepads could be A tier. Only the Pro Max review is used, so standard Corepads are not rated.
-- **Pulsar glass pad**: the only price and photo found were for a special edition (Superglide3 T1 Edition), so neither is shown.
-- **No product photo** (card shows a plain picture instead): cooler-master-mp511, corsair-mm350, pulsar-superglide-skates, unusual-way-magic-ice, xraypad-jade, xraypad-obsidian, xraypad-obsidian-air, xraypad-obsidian-pro, zowie-g-sr-ii, pulsar-superglide-glass-pad, corepad-skatez-pro-max.
+- **Pulsar glass pad**: resolved on 2026-11-21 (site owner's choice). The price and photo are of the newer Superglide3 Type S at Lethal Gaming Gear, labelled as v3.
+- **Corepad PRO MAX price**: resolved on 2026-11-21 (site owner's choice). US$9.99 at Lethal Gaming Gear is shown; the maker's 9.49 EUR price is kept in the note.
+- **Photos of a close relative** (site owner's choice, 2026-11-21): X-raypad Obsidian Pro (photo is the Obsidian PRO Air), Cooler Master MP511 (photo is the 30th Anniversary Edition) and Corsair MM350 (photo is the MM350 PRO Extended XL). Each caption names the version shown.
+- **'vxw'**: taken to mean VXE (site owner confirmed on 2026-11-21); the VXE V3 Pro was added.
+- **No product photo** (card shows a plain picture instead): skypad-glass-3.
 
 ## Per item
 
@@ -57,6 +62,52 @@ Checked: 2026-11-18 and 2026-11-19
 ### VXE R1 Pro (Dragonfly R1 Pro) (`vxe-r1-pro`)
 - Missing: cons (no sourced cons found)
 - 3 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### Razer Viper V3 Pro (`razer-viper-v3-pro`)
+- Missing: cons (no sourced cons found)
+- Missing: spec: dimensions_mm
+- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### WLmouse HUAN (`wlmouse-huan`)
+- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### ARYE RCC-1 (`arye-rcc-1`)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+- Missing: spec: battery_hours
+
+### Pulsar X2 CrazyLight (Medium) (`pulsar-x2-crazylight`)
+- Missing: spec: battery_hours
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### Endgame Gear OP1 8k v2 (`endgame-gear-op1-8k-v2`)
+- 3 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### Finalmouse Starlight X (SLX) (`finalmouse-starlight-x`)
+- Missing: spec: dimensions_mm
+- Missing: spec: battery_hours
+- Missing: spec: sensor
+- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### VXE V3 Pro (Dragonfly V3 Pro) (`vxe-v3-pro`)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+
+### LAMZU THORN V2 (`lamzu-thorn-v2`)
+- Missing: spec: dimensions_mm
+- Missing: spec: battery_hours
+- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### G-Wolves Fenrir Max (`g-wolves-fenrir-max`)
+- Missing: spec: battery_hours
+- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Wooting 80HE (`wooting-80he`)
@@ -103,6 +154,34 @@ Checked: 2026-11-18 and 2026-11-19
 - 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
+### DrunkDeer A75 (`drunkdeer-a75`)
+- Missing: spec: weight_g
+- Missing: spec: polling_hz
+- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: RTINGS).
+
+### Wired In Protagonist HE (`wired-in-protagonist-he`)
+- Missing: pros (no sourced pros found)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+- Missing: spec: weight_g
+- Missing: spec: polling_hz
+- Missing: spec: connectivity
+
+### ATK A87 Pro (`atk-a87-pro`)
+- Missing: pros (no sourced pros found)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+- Missing: spec: weight_g
+- Missing: spec: polling_hz
+
+### Everglide SU75 Pro (`everglide-su75-pro`)
+- Missing: pros (no sourced pros found)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+- Unverified: `price`
+- Unverified: `specs.connectivity`
+
 ### SteelSeries QcK Heavy (`steelseries-qck-heavy`)
 - Missing: lab test data (no lab source tests this category)
 - 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
@@ -124,9 +203,7 @@ Checked: 2026-11-18 and 2026-11-19
 - 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Pulsar Superglide Glass Mousepad (`pulsar-superglide-glass-pad`)
-- Missing: US list price
 - Missing: lab test data (no lab source tests this category)
-- Unverified: `price_note`
 - 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: DiamondLobby).
 
@@ -150,6 +227,29 @@ Checked: 2026-11-18 and 2026-11-19
 - Unverified: `price`
 - 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: boardzy).
+
+### Lethal Gaming Gear Saturn Pro (now Pulsar eS Saturn Pro) (`lgg-saturn-pro`)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab source tests this category)
+- 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: boardzy).
+
+### SkyPAD Glass 3.0 (`skypad-glass-3`)
+- Missing: US list price
+- Missing: lab test data (no lab source tests this category)
+- Unverified: `price_note`
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: Tom's Hardware).
+
+### Tekkusai Kohaku Glass Mousepad (`tekkusai-kohaku-glass`)
+- Missing: pros (no sourced pros found)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab source tests this category)
+
+### MITSUKI Kokū — The Void (Cloth Edition) (`mitsuki-koku-cloth`)
+- Missing: pros (no sourced pros found)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab source tests this category)
 
 ### ESPTiger ICE V2 (`esptiger-ice-v2`)
 - Missing: cons (no sourced cons found)
@@ -189,7 +289,6 @@ Checked: 2026-11-18 and 2026-11-19
 - Verdict rests on one reviewer (opinion: boardzy).
 
 ### Corepad PRO MAX Skatez (`corepad-skatez-pro-max`)
-- Missing: US list price
 - Missing: pros (no sourced pros found)
 - Missing: lab test data (no lab source tests this category)
 - Missing: which mice it fits

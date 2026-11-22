@@ -1,0 +1,698 @@
+URL: https://www.rtings.com/mouse/reviews/finalmouse/starlight-x
+TITLE: Finalmouse Starlight X Review - RTINGS.com
+SAVED: 2026-11-22T04:23:19.994Z
+
+Products
+In The Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Wireless Mouse Ergonomic Wireless Gaming Lightweight Work MMO Logitech Budget Gaming MacBooks FPS Wired Trackball Razer Claw Grip Corsair SteelSeries
+TOOLS
+Compare 3D Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Logitech G PRO X2 SUPERSTRIKE Razer Viper V4 Pro Logitech MX Master 4 Razer Naga V3 Pro Logitech G PRO X3 SUPERSTRIKE Logitech G502 X PLUS Logitech G305 LIGHTSPEED MCHOSE L7 Ultra Razer Basilisk V3 Logitech G PRO X SUPERLIGHT 2 VXE R1 Pro Finalmouse Starlight X Logitech M720 Triathlon MCHOSE L7 Pro Endgame Gear OP1 8k v2 Razer Viper V3 Pro Logitech G502 X Keychron M6 LAMZU THORN V2 Logitech G305 X SUPERLIGHT
+420 MICE BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Mouse  Reviews  Finalmouse  Starlight X  Review
+Notice: We've revamped our membership program.
+Finalmouse Starlight X  Mouse Review
+By James Alex Chérubin, Duncan MacRae, John Peroramas
+Reviewed Oct 22, 2026 at 10:42am
+Writing modified Nov 12, 2026 at 09:10am
+Tested using Methodology v1.5.2 
+Type
+Standard
+Ambidextrous
+Shape Only
+Default Weight
+41.7 g
+Connectivity
+Wireless
+N/A
+Work 
+N/A
+Video Games (FPS) 
+N/A
+Video Games (MMO) 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Finalmouse
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 32
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Style
+Shape
+Build Quality
+Weight
+Hand Size Recommendation
+Wireless Versatility
+Cable
+Mouse Feet
+In The Box
+Control
+Main Button
+Additional Buttons
+Click Latency
+CPI
+Sensor Latency
+Sensor Specifications
+Mouse Wheel
+Noise
+Operating System And Software
+Configuration Software
+Mouse Compatibility
+Retailers
+Comments
+
+The Finalmouse Starlight X, also known as the Finalmouse SLX, is a lightweight wireless gaming mouse with a symmetrical shape. It features a similar shape to previous Finalmouse UltralightX and Starlight models, but with some minor tweaks. It has a mostly solid carbon-fiber composite shell instead of the honeycomb cutouts on the brand's UltralightX models. Its main buttons still use standard mechanical switches, but they add separate tunnel magnetoresistance (TMR) sensors to detect your inputs. This lets you choose how far you press before a click registers, and it turns on Rapid Trigger, which allows you to adjust the point at which the click resets. It connects through a USB receiver or a cable, and you set it up through Finalmouse's web-based software.
+
+Our Verdict
+N/AVideo Games (FPS) 
+
+The Finalmouse SLX is an outstanding FPS gaming mouse. It's extremely lightweight, so you can flick and reposition it with very little effort. It also has incredibly low click latency and a remarkably accurate, responsive sensor, making it well-suited for competitive play at any level. Its main buttons let you adjust the actuation point and use Rapid Trigger, which gives you more control over your clicks and makes fast follow-up shots easier than on a conventional switch, especially with semi-automatic weapons. However, the most sensitive settings, where these features help most, can be hard to control, and the click you feel doesn't line up with where your input registers, which can feel disorienting.
+
+Pros
+
+Extremely lightweight.
+
+Excellent build quality.
+
+Incredibly low click latency.
+
+Outstanding sensor performance.
+
+Adjustable actuation point and Rapid Trigger.
+
+Cons
+
+Tactile click feedback is decoupled from the click actuation point in TMR analog mode, which could feel disorienting.
+
+SEE PRICEFinalmouse
+SEE OUR VIDEO GAMES (FPS) RECOMMENDATIONS 
+N/A
+Work
+N/A
+Video Games (FPS)
+N/A
+Video Games (MMO)
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Nov 12, 2026: 
+
+We've added a link to the G-Wolves LYCAN in the Weight section of the review.
+
+ Updated Oct 23, 2026: 
+
+We've added a link to the Logitech G PRO X3 SUPERSTRIKE in the Main Button section.
+
+ Updated Oct 22, 2026: Review published.
+ Updated Oct 16, 2026: Early access published.
+Show more 
+Check Price
+Achilles, Son of Peleus
+SEARCHAmazon
+Achilles, Son of Thetis
+SEARCHAmazon
+Nightfall
+SEE PRICEFinalmouse
+Differences Between Sizes And Variants
+
+Since Finalmouse releases its products in limited production runs and discontinues them once sold out, the dark blue 'Nightfall' colorway that we bought and tested is no longer available. On October 26, 2026, the Finalmouse Starlight X was released in two more colorways: 'Achilles, Son of Peleus' (black and gold) and 'Achilles, Son of Thetis' (white and gold).
+
+Here's a photo of our unit's label.
+
+Popular Mouse Comparisons
+
+The Finalmouse SLX is a lightweight wireless gaming mouse. It has largely the same shape as Finalmouse's recent releases from the UltralightX lineup with a few tweaks, and it uses the same carbon-fiber composite construction. The big differentiator is that it uses TMR sensors in its main buttons, which let you adjust where clicks register, and it also features Rapid Trigger, a setting that allows for faster repeated inputs. It also has what Finalmouse calls 'PerfectPolling,' which is a 1000Hz polling rate that delivers latency performance similar to 8000Hz polling rates.
+
+The SLX competes with the high-end Logitech G PRO X3 SUPERSTRIKE and the Logitech G PRO X2 SUPERSTRIKE, which also have adjustable click actuation. The biggest difference is that the Logitech mice use haptic motors to simulate the feeling of mechanical clicks wherever you have the actuation point set to, whereas the Finalmouse still has mechanical switches, so the physical click sensation happens at the same point, no matter what you have the actuation point set to. This can feel unnatural compared to the Logitech's implementation.
+
+Finalmouse also sells its mice in limited drops, so the SLX can be harder to buy than rivals that are readily available.
+
+For more recommendations, see our picks for the best FPS mice, the best lightweight mice, and the best wireless gaming mice.
+
+Logitech G PRO X3 SUPERSTRIKE
+SEE PRICEAmazon
+
+Both the Finalmouse Starlight X and the Logitech G PRO X3 SUPERSTRIKE are lightweight wireless gaming mice that let you adjust the actuation distance of the main buttons. Both perform exceptionally well and are well-suited for competitive play. The biggest difference is how they provide click feedback: the Finalmouse's mechanical tactile click occurs at a fixed point in the button travel regardless of your actuation setting, while the Logitech's adjustable haptic feedback simulates a click to match that setting, which can feel more natural. The Logitech also has better build quality with a fully enclosed plastic body. On the other hand, the Finalmouse is noticeably lighter, with a carbon-fiber composite body, small cutouts on top, and honeycomb cutouts underneath. It also has smoother-gliding feet.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Razer Viper V4 Pro
+SEE PRICEAmazon
+
+The Finalmouse Starlight X and the Razer Viper V4 Pro are lightweight wireless gaming mice with very similar symmetrical shapes, though the Finalmouse is a bit narrower, and its hump sits slightly further back. The Finalmouse is noticeably lighter, its clicks are quieter, and it has lower click latency. You can also adjust where its clicks activate and turn on Rapid Trigger.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Logitech G PRO X2 SUPERSTRIKE
+SEE PRICEAmazon
+
+The Finalmouse Starlight X and the Logitech G PRO X2 SUPERSTRIKE are lightweight gaming mice that both let you adjust where their clicks actuate and use Rapid Trigger, but they feel very different. The Finalmouse keeps a physical mechanical click, while the Logitech uses inductive switches with haptic motors that simulate one, with the advantage being that there's tactile feedback no matter where you set the actuation point. The Finalmouse is much lighter and better balanced, its PTFE feet glide more smoothly, and its click latency is lower. The Logitech has an even sturdier build, quieter clicks, and fully programmable buttons.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Logitech G PRO X SUPERLIGHT 2
+SEE PRICEAmazon
+
+The Finalmouse Starlight X and the Logitech G PRO X SUPERLIGHT 2 are lightweight wireless gaming mice. The Finalmouse is much lighter, has better build quality, quieter clicks, and lower click latency, and you can adjust where its clicks activate. Its feet also glide more smoothly.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SHOW MORE 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+9 TESTS
+HIDE TEST DETAILS
+Style
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Type
+LockedStandard
+Coating
+LockedLocked
+Lighting ColorLockedLocked
+Shape
+SAMPLE
+Join Now
+
+for pictures & test results
+
+LengthLockedLock" (Lock mm)
+WidthLockedLock" (Lock mm)
+HeightLockedLock" (Lock mm)
+Grip Width
+LockedLock mm
+Ambidextrous
+LockedShape Only
+Left-Handed Friendly
+LockedLocked
+Finger Rest
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SHAPE 
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Weight
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Lowest Weight
+LockedLock g
+Default Weight
+Locked41.7 g
+Weight Distribution
+LockedLocked
+Extra Weights
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Hand Size Recommendation
+Palm Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Claw Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Fingertip Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT HAND SIZE RECOMMENDATION 
+N/A
+Wireless Versatility
+Maximum Of Paired Devices
+LockedLocked
+Bluetooth
+LockedLocked
+Receiver
+LockedLocked
+Battery Type
+LockedLocked
+Use When Charging
+LockedLocked
+On/Off Activation
+LockedLocked
+Receiver Extender
+LockedLocked
+Receiver Storing
+LockedLocked
+Battery IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable
+ConnectivityLockedWireless
+Cable Length
+LockedLock ft (Lock m)
+Cable Type
+LockedLocked
+Permanent Kink
+LockedLocked
+Port Type: Mouse End
+LockedLocked
+Port Type: PC End
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Feet
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Gliding Experience
+LockedLocked
+Material
+LockedLocked
+Extra Included
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+CONTROL
+8 TESTS
+HIDE TEST DETAILS
+Main Button
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Switch Type
+LockedLocked
+Switch Model
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Additional Buttons
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Total Number Of Buttons
+LockedLock
+Number Of Side Buttons
+LockedLock
+Number Of Programmable Inputs 
+LockedLock
+Profile Switching Button
+LockedLocked
+Gesture Support
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Click Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Expected Connection
+LockedLock ms
+Wired
+LockedLock ms
+Receiver
+LockedLock ms
+Bluetooth
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CLICK LATENCY 
+N/A
+CPI
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SRAV @ 1600 CPI
+LockedLock%
+SRAV @ 800 CPI
+LockedLock%
+SRAV @ 400 CPI
+LockedLock%
+SRAV @ Fixed CPI
+LockedN/A
+Precision Error Between Speeds
+LockedLock%
+Precision Error Between CPI
+LockedLock%
+Worst Tracking Error
+LockedLock%
+Minimum CPI
+LockedLock CPI
+Maximum CPI
+LockedLock CPI
+CPI Adjustment Steps
+LockedLock CPI
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CPI 
+N/A
+Sensor Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Delay At Half Movement
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR LATENCY 
+Sensor Specifications
+Sensor Technology
+LockedLocked
+Sensor Model
+LockedLocked
+Works On Glass
+LockedLocked
+Minimum Lift Off Distance
+LockedLock mm
+Maximum Polling Rate
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR SPECIFICATIONS 
+Mouse Wheel
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Scroll Wheel Type
+LockedLocked
+Scroll Wheel Tilt
+LockedLocked
+Thumb Wheel Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Click Noise
+LockedLocked
+OPERATING SYSTEM AND SOFTWARE
+2 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatibility
+LockedLocked
+Software macOS Compatibility
+LockedLocked
+On-Board Memory
+LockedLocked
+CPI (DPI) Adjustment 
+LockedLocked
+Polling Rate Adjustment
+LockedLocked
+Profile Configuration
+LockedLocked
+Profile Auto-Switching
+LockedLocked
+RGB On/Off
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Compatibility
+Windows CompatibilityLockedLocked
+macOS CompatibilityLockedLocked
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The Best Gaming Mouse
+The Best Wireless Mouse
+The Best Mouse
+The Best Ergonomic Mouse
+The Best Wireless Gaming Mouse
+The Best Lightweight Mouse
+The Best Mouse For Work
+The Best MMO Mouse
+The 5 Best Logitech Mice
+The Best Cheap And Budget Gaming Mouse
+The Best Mouse For MacBooks
+The Best FPS Mouse
+The Best Wired Mouse
+The Best Trackball Mouse
+The 5 Best Razer Mice
+The Best Claw Grip Mouse
+The 4 Best Corsair Mice
+The 4 Best SteelSeries Mice
+Comments
+PRODUCT
+ACTIVE 12 DAYS AGO · 
+ • POSTED 6 MONTHS AGO
+Finalmouse Starlight X: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+32 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+ • POSTED 9 DAYS AGO
+
+Update: We’ve added a link to the G-Wolves LYCAN in the Weight section of the review.
+
+2
+1
+0
+ James Alex Chérubin
+ • POSTED 12 DAYS AGO
+NOV 09, 2026 04:55 AM BY rite2ace  5
+
+Hello,
+I have heard because of perfect polling, the mouse is locked at 1000hz and dongle at 8000hz. How is the sensor latency? could you share the numbers?
+
+Hi rite2ace! 😄The perfect polling  cannot be adjusted and seems to run as an optimized 1000hz with the latency of 8000hz no matter if you connect it wirelessly or wired. While testing, Wired and wireless both game me a 1ms. 
+Thank you and have a great week!
+
+Reply
+Copy link
+2
+1
+0
+rite2ace 5
+ • POSTED 12 DAYS AGO
+
+Hello,
+I have heard because of perfect polling, the mouse is locked at 1000hz and dongle at 8000hz. How is the sensor latency? could you share the numbers?
+
+Reply
+Copy link
+ • POSTED 29 DAYS AGO
+
+Update: We’ve added a link to the Logitech G PRO X3 SUPERSTRIKE in the Main Button section.
+
+2
+1
+0
+ 
+RtingsUser3821764 7
+ • POSTED 1 MONTH AGO
+OCT 11, 2026 05:11 PM BY  RtingsUser6288532  48
+
+Como sabes, nadie te habló ni te pidió tu opinión. Si no trabajas aquí con ellos, ocúpate de tus asuntos. Desde el principio, tus respuestas han sido innecesarias y no nos han beneficiado en absoluto. Parece que tienes una lengua viperina y sucia; lo único que sabes hacer es insultar Y también insultos, así que si crees que mi opinión no importa, tienes razón. No iba dirigido a gente maleducada como tú, sino a gente respetable.
+
+Most of this is wrong.  However, since I have spoken to you, you seem to be engaging with the staff in a respectful manner, which pleases me very much.  Have a great life.
+
+Reply
+Copy link
+ • POSTED 1 MONTH AGO
+
+The full review has been posted here. Let us know what you think!
+
+2
+1
+0
+ Duncan MacRae
+ • POSTED 1 MONTH AGO
+OCT 18, 2026 02:26 PM BY  RtingsUser2532718  1
+
+Which settings do you recommend for the mouse?
+
+Hi there! If you’re asking about which adjustable actuation settings to use in analog mode, the answer depends on your personal preference. All settings have fantastic click latency, so there’s no significant performance difference. Technically, an actuation setting of 0.10mm has the lowest click latency, but it’s only a few tenths of a milisecond faster than even mechanical mode. I’d encourage you to experiment with the actuation settings to see what you prefer.
+
+Thanks for the question!
+
+Reply
+Copy link
+4
+3
+2
+ Simon-Pierre Côté
+ • POSTED 1 MONTH AGO
+OCT 16, 2026 10:38 AM BY  Mayank_j  14
+
+A bit late, but this is related to the click latency measurements:
+
+In their video, Finalmouse argues that using a solenoid to actuate mouse buttons introduces unrealistic force and velocity, potentially skewing results in favour of mechanical/SPDT switches. Do you guys have any observations or response to this criticism?
+
+From what I understand, end-to-end click latency can be broken down into:
+
+Button pre-travel
+Switch/internal actuation latency
+PCB/firmware processing
+Wired/wireless transmission The concern, is that if the solenoid moves too quickly or applies force differently from a human finger, it could compress the physical component of the measurement, potentially affecting different switch tech differently. However, I’m not entirely convinced that this is necessarily a significant issue with the setup.
+From the videos I’ve seen, the solenoid doesn’t look dramatically faster than a human click, and it gets time to reset between clicks, unlike the actuator shown in the FM video. I also looked up the solenoid model and found that it’s rated for 6 N of force, which doesn’t seem particularly high compared to what a human finger can produce. In your earlier keyboard testing, you also mentioned that the solenoid was around 20% faster: I want to confirm of the solenoid force value and speed is what I listed above.
+*** This brings me to the methodology itself. If the goal is to characterise the limits of the device itself, wouldn’t there be some value in testing beyond typical human input speeds? Rather than asking ‘how quickly can a person realistically click this mouse?’, the question would be ‘at what point does the device itself become the limiting factor?’ I’m not sure if that line of thinking is correct, but I’d like to understand how you guys approach this. Have you tested how changing the solenoid’s speed or force affects the results, particularly when comparing different switch technologies? There also another thought that I’ve heard from reviewers that 1. aka button pre-travel should be measured separately in length and not time. Any thoughts on this approach.
+
+Hey there, great question! It’s pretty loaded too, I’ll do my best to answer all of it, but don’t hesitate to ask more questions! 
+
+The short answer is: The speed at which the solenoid or the linear motor used to test the click latency will highly impact test results. And more so, digital mice will get a hefty penalty in their results when using slower actuators during test since they all have more pre-travel than analog mice, by design. However, while pre-travel does increase click latency (due to how we, and finalmouse, choose to include this in our test method), it is not a bad thing since it helps avoid having a mouse being too sensitive to misclicks which is a lot more penalizing in games when you fire without wanting too, than adding 1ms to your latency chain. The long answer explains more!
+
+The long answer: 
+The main difference between digital and analog mouse is what happens when the mouse triggers.
+
+For digital, it’s a mechanical switch that needs to fully move for metal parts to come into contact and trigger the click. Since the click latency test includes pre-travel, the speed at which the actuator move will impact the test result.
+For analog, the switch is always sending signals and will return a trigger signal when a certain distance threshold is reached. The distance for actuation is controlled by the software. In the Finalmouse video, the presenter sets this distance to their smallest possible pre-travel of 0.01mm(and there is a disclaimer now saying that anything below 0.1mm is intended for benchmarking only!). The Pro X2 Superstrike uses discrete distance instead (in levels, not millimeters, so it’s hard to compare). In the analog case, the speed of the actuator will not be nearly as important, since the mouse can be set up to have virtually no pre-travel.
+
+The second thing to consider: Human speed is a range, not a defined value. Our solenoid moves fast, yes, and its at the upper range of the human speed range. Our solenoid is also not controlled in speed, but in force, so the actual speed at which the test is conducted is a complex calculations that is defined by a few test parameters. We have a methodology to reduce the variance of these factors, so all of our tests are conducted at similar speeds. For Finalmouse, their linear actuator is most likely controlled by speed. The presenter doesn’t say it outright, but it’s a common control scheme of linear actuator, so I assume it. Finalmouse also never mention their test speed. They just say they mimic better human speed, but are not basing those facts on available references either. That said, it’s very possible that we both test in the human speed range, while still having two different testing speed.
+
+Considering that we can test at two different valid speeds, and considering how impactful the actuator speed is to account for pre-travel, it is completely normal for Finalmouse to prefer slower testing speed which advantages analog mouse for their video. And again, the difference in results between the Superlight X and the Pro X2 Superstrike might just well be their different pre-travel of 0.01mm VS whatever the Superlight level 1 distance is (likely 0.1mm).  One thing I don’t like from Finalmouse however is while they perform their test at 0.01mm actuation distance, they do not recommend playing at that settings since it makes the mouse too sensitive. This brings me to my next point. 
+
+Logitech has published the presets of a few pro gamers using their Superstrike: https://www.logitechg.com/en-us/discover/learn/superstrike-hits-codes. As you can see, no pro player is playing at Level 1 actuation distance (the smallest). All pro players will prefer a mouse with slightly more pre-travel to avoid misclicks by sacrifice a little bit of click latency. The exception is of course rapid trigger, but this is not related to the click latency test. So the open question to ask here is if it is normal to test a mouse with incredibly small 0.01mm pre-travel for click latency if we know that is not how players use their mouse while gaming. 
+
+This brings us to the RTINGS philosophy for test. We have a lot of driving test design principles, but there are two main ones at play here: 1) We want repeatable and comparable test results between products and 2) We want to test products the same way users use them. While there can be exception to these principles here and there, the click latency test follows both. In the case of the Finalmouse, we had a big internal discussion to see where we should set the actuation level, which we landed on 0.1mm in the end. This is the minimal value at which the mouse felt usable for gaming. Anything below that was way too prone to mistriggers and a real pain to use. This is the first difference between our test and the Finalmouse test. The second difference between our two test is the speed of the actuator, as already discussed. From my point of view, both test speeds are valid and properly mimic a human press. I see why Finalmouse would push for slower test speed, since it’s an advantage for them, but this is where being an independent tester shines, we can make our own decision :), and not be driven by another company’s agenda.
+
+For anyone with doubt about our testing speed, we did a lengthy post comparing our solenoid test to human reaction test here 
+
+This all said, as you can very well see the Starlight X click latency gets a perfect 10 and the 0.5ms measured click latency is one of the best we’ve ever seen. While having a higher speed lower click latency of other mice, it doesn’t penalize analog ones. 
+
+Considering all that, while click latency is an important metric, it should not be the main focus when making a buying decision. As you can see from the Logitech Pro Players settings, pre-travel is a personal choice and it’s sometimes worth sacrificing click latency over it. Games are not decided down to 1-2ms of click latency, as marketing often presents it. 
+
+The last question about Pre-Travel is an interesting one. We’ve thought many times to add it to our review, but never implemented it since users don’t seem to care or talk about it. It used to be a set value based on the mouse design, but with analog mouse and their variable actuation point, it might be something that more users think about, and now know what to do with the information. My take on it is that pre-travel is a big feeling thing: Some users will like their mouse very sensitive with close to no pre-travel, while others will prefer deep mouse strokes. Just like keyboards. Previously, we could have shown that value, but we could never score it. Users would have been left with a value, and not much way to understand how that value would affect them. Any people fortunate enough to have been able to use the adjustable Superstrike or Starlight, or have tried many different mice, might understand what they prefer as pre-travel value. And to directly answer your question, it would definitely be a distance not a speed. This should now be clearer with what I exposed about the test method above. 
+
+Hopefully this was a good read! Let me know if you have any more questions!
+
+Reply
+Copy link
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

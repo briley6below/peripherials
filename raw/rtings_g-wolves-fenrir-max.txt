@@ -1,0 +1,668 @@
+URL: https://www.rtings.com/mouse/reviews/g-wolves/fenris-max-wireless
+TITLE: G-Wolves Fenrir Max Review - RTINGS.com
+SAVED: 2026-11-22T04:27:01.530Z
+
+Products
+In The Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Wireless Mouse Ergonomic Wireless Gaming Lightweight Work MMO Logitech Budget Gaming MacBooks FPS Wired Trackball Razer Claw Grip Corsair SteelSeries
+TOOLS
+Compare 3D Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Logitech G PRO X2 SUPERSTRIKE Razer Viper V4 Pro Logitech MX Master 4 Razer Naga V3 Pro Logitech G PRO X3 SUPERSTRIKE Logitech G502 X PLUS Logitech G305 LIGHTSPEED MCHOSE L7 Ultra Razer Basilisk V3 Logitech G PRO X SUPERLIGHT 2 VXE R1 Pro Finalmouse Starlight X Logitech M720 Triathlon MCHOSE L7 Pro Endgame Gear OP1 8k v2 Razer Viper V3 Pro Logitech G502 X Keychron M6 LAMZU THORN V2 Logitech G305 X SUPERLIGHT
+420 MICE BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Mouse  Reviews  G-Wolves  Fenrir Max  Review
+Notice: We've revamped our membership program.
+G-Wolves Fenrir Max  Mouse Review
+By Tate Landis, Gregory Vodden, John Peroramas
+Reviewed Nov 10, 2025 at 11:06am
+Test bench update Mar 10, 2026 at 10:10am
+Tested using Methodology v1.5.2 
+Type
+Standard
+Ambidextrous
+Shape Only
+Default Weight
+24.6 g
+Connectivity
+Wireless
+N/A
+Work 
+N/A
+Video Games (FPS) 
+N/A
+Video Games (MMO) 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEARCH
+Amazon
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 5
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Style
+Shape
+Build Quality
+Weight
+Hand Size Recommendation
+Wireless Versatility
+Cable
+Mouse Feet
+In The Box
+Control
+Main Button
+Additional Buttons
+Click Latency
+CPI
+Sensor Latency
+Sensor Specifications
+Mouse Wheel
+Noise
+Operating System And Software
+Configuration Software
+Mouse Compatibility
+Retailers
+Comments
+
+The G-Wolves Fenrir Max is a lightweight wireless gaming mouse, part of G-Wolves' Fenrir lineup, designed for a fingertip grip. It's significantly smaller and lighter than most FPS gaming mice but still includes a pair of side buttons, which not all fingertip mice offer. Its shell has a minimalist design with an open baseplate. While this exposes the interior and makes it more prone to collecting dust and debris, it also helps further reduce weight. It utilizes a PixArt PAW 3950 sensor, supports a maximum wireless polling rate of 8,000Hz, and features Huano Transparent Blue Shell Pink Dot mechanical switches.
+
+Our Verdict
+N/AVideo Games (FPS) 
+
+The G-Wolves Fenrir Max is an extremely small, lightweight mouse designed exclusively for fingertip grip. It delivers exceptional sensor and click latency performance for FPS gaming, making it an amazing option for competitive players who prefer this grip type. Despite its ultralight design, it also feels very well-built. Its only notable drawback is the open baseplate design, which leaves the interior more exposed to potential damage and allows dust and debris to collect inside. However, this isn't a problem during normal use, and G-Wolves includes a set of stickers to cover the bottom to mitigate it.
+
+Pros
+
+Impressive build quality.
+
+Exceptionally low click latency
+
+Exceptional sensor latency.
+
+Maximum wireless polling rate of 8,000Hz.
+
+Astonishingly lightweight.
+
+Cons
+
+Open baseplate design leaves the interior open to collecting dust and debris.
+
+SEARCHAmazon
+SEE OUR VIDEO GAMES (FPS) RECOMMENDATIONS 
+N/A
+Work
+N/A
+Video Games (FPS)
+N/A
+Video Games (MMO)
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Mar 10, 2026: We've converted this review to Test Bench 1.5.2. This update removes the Delay To Start Of Movement and Delay To End Of Movement measurements from the Sensor Latency test. See our full 1.5.2 changelog for details.
+ Updated Nov 11, 2025: 
+
+We've retested on G-Wolves' latest software (version 1.0.0.20), which adds properly implemented debounce settings that were missing from the version we originally tested. The unexpectedly poor click latency results we initially measured are now dramatically improved and in line with this model's expected performance. We've updated our review text in several places to reflect this change. See the Click Latency section for more details.
+
+ Updated Nov 10, 2025: Review published.
+ Updated Sep 10, 2025: Early access published.
+Show more 
+Check Price
+Black
+SEARCHAmazon
+Violet
+SEARCHAmazon
+White
+SEARCHAmazon
+Differences Between Sizes And Variants
+
+The G-Wolves Fenrir Max is available in three colorways: Black, White, and Violet. We tested a Violet unit. We typically include a photo of the unit label, but this mouse doesn't have a visible label to photograph. Some other review sources and retailers refer to this mouse as the G-Wolves Fenris, but they're actually referring to the same mouse.
+
+Within the wider Fenrir lineup, G-Wolves offers another model called the G-Wolves Fenrir Asym, which shares the same internal components but has an asymmetrical shape and additional weight-saving cutouts in the shell. We expect our performance results in this review to also apply to that model.
+
+There's an additional model within the Fenrir lineup called the G-Wolves Fenrir Pro. It shares the same shape as the Fenrir Max but is significantly lighter, featuring a more minimalist plastic shell with extensive weight-saving cutouts. While it uses the same sensor model, it has different main switches. We consider it different enough to be treated as a separate product, and we don't expect our performance results from this review to apply to it.
+
+Popular Mouse Comparisons
+
+The G-Wolves Fenrir Max is part of G-Wolves' latest lineup of wireless mice designed for fingertip grip users. Note that the name of this mouse is somewhat inconsistent. Some G-Wolves' documentation and some retailer listings refer to this mouse as the Fenrir Max, but it's the same mouse.
+
+The company has carved out a niche in this space and is widely regarded as one of the top options for competitive players who favor this grip style. This model sits among G-Wolves' premium-priced offerings alongside the Fenrir Asym, a model in the same lineup with an asymmetrical shape for those who prefer more of an 'ergo' design approach with added pinky support.
+
+Weighing in at under 30g, the Fenrir Max is one of the lightest gaming mice on the market, featuring cutting-edge internals, including a flagship PixArt PAW 3950 sensor and support for 8,000Hz polling. Its specifications are comparable to current high-end models from Logitech, Razer, and other industry leaders. Compared directly to other fingertip options, it outperforms budget models like the Keychron M4 and earlier G-Wolves models such as the HSK Pro 4K, and even slightly edges out premium wired alternatives like the Zaunkoenig M2K. Altogether, it's an outstanding wireless choice for competitive fingertip users. Its only major downside is the price, which places it in the same category as flagship models from Logitech and Razer at the top end of the market.
+
+For more recommendations, see our picks for the lightest mouse, the best FPS mouse, and the best wireless gaming mouse.
+
+G-Wolves HSK Pro 4K
+SEARCHAmazon
+
+The G-Wolves HSK Pro 4K and G-Wolves Fenrir Max are wireless mice designed exclusively for a fingertip grip. While they share a similar wedge-shaped design, the HSK Pro 4K is slightly narrower and lower profile, with honeycomb perforations on its top shell. Despite being a bit larger and using a solid plastic shell, the Fenrir Max is actually slightly lighter. It also supports a higher maximum polling rate of 8000Hz and provides significantly better sensor latency.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Zaunkoenig M2K
+SEARCHAmazon
+
+The Zaunkoenig M2K and G-Wolves Fenrir Max are both extremely lightweight gaming mice designed for fingertip grip use. While they share a similarly wedge-shaped design, the Zaunkoenig is a wired-only model that's noticeably taller and wider than the G-Wolves. It also offers better build quality. By comparison, the G-Wolves is a wireless model with marginally better overall performance, though both are excellent options for competitive play with no perceptible performance differences in practice.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Keychron M4
+SEARCHAmazon
+
+The Keychron M4 and G-Wolves Fenrir Max are lightweight wireless gaming mice designed exclusively for fingertip grip. The Keychron is much longer and slightly taller, with a more centered hump and a fully enclosed plastic shell. In contrast, the G-Wolves is noticeably smaller and lighter, featuring a closed plastic top shell and an open bottom plate design that leaves it more exposed to dust and debris. The G-Wolves mouse also offers better build quality, higher-quality mouse feet, and better sensor performance.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Razer Viper V3 Pro
+SEE PRICEAmazon
+
+The Razer Viper V3 Pro and G-Wolves Fenrir Max are both lightweight wireless gaming mice, but they have very different shapes. The Razer has a much larger, more traditional design that suits a wide range of hand sizes and grip types, while the G-Wolves is much smaller with a wedge-shaped body intended exclusively for fingertip grip. The G-Wolves is also significantly lighter, though its open baseplate design makes it more prone to collecting dust and debris. Both mice offer outstanding raw performance and support a maximum polling rate of 8000Hz, making them well-suited for competitive play.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SHOW MORE 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+9 TESTS
+HIDE TEST DETAILS
+Style
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Type
+LockedStandard
+Coating
+LockedLocked
+Lighting ColorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Shape
+SAMPLE
+Join Now
+
+for pictures & test results
+
+LengthLockedLock" (Lock mm)
+WidthLockedLock" (Lock mm)
+HeightLockedLock" (Lock mm)
+Grip Width
+LockedLock mm
+Ambidextrous
+LockedShape Only
+Left-Handed Friendly
+LockedLocked
+Finger Rest
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SHAPE 
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Weight
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Lowest Weight
+LockedLock g
+Default Weight
+Locked24.6 g
+Weight Distribution
+LockedLocked
+Extra Weights
+LockedLocked
+Hand Size Recommendation
+Palm Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Claw Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Fingertip Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT HAND SIZE RECOMMENDATION 
+N/A
+Wireless Versatility
+Maximum Of Paired Devices
+LockedLocked
+Bluetooth
+LockedLocked
+Receiver
+LockedLocked
+Battery Type
+LockedLocked
+Use When Charging
+LockedLocked
+On/Off Activation
+LockedLocked
+Receiver Extender
+LockedLocked
+Receiver Storing
+LockedLocked
+Battery IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable
+ConnectivityLockedWireless
+Cable Length
+LockedLock ft (Lock m)
+Cable Type
+LockedLocked
+Permanent Kink
+LockedLocked
+Port Type: Mouse End
+LockedLocked
+Port Type: PC End
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Feet
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Gliding Experience
+LockedLocked
+Material
+LockedLocked
+Extra Included
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+CONTROL
+8 TESTS
+HIDE TEST DETAILS
+Main Button
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Switch Type
+LockedLocked
+Switch Model
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Additional Buttons
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Total Number Of Buttons
+LockedLock
+Number Of Side Buttons
+LockedLock
+Number Of Programmable Inputs 
+LockedLock
+Profile Switching Button
+LockedLocked
+Gesture Support
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Click Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Expected Connection
+LockedLock ms
+Wired
+LockedLock ms
+Receiver
+LockedLock ms
+Bluetooth
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CLICK LATENCY 
+N/A
+CPI
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SRAV @ 1600 CPI
+LockedLock%
+SRAV @ 800 CPI
+LockedLock%
+SRAV @ 400 CPI
+LockedLock%
+SRAV @ Fixed CPI
+LockedN/A
+Precision Error Between Speeds
+LockedLock%
+Precision Error Between CPI
+LockedLock%
+Worst Tracking Error
+LockedLock%
+Minimum CPI
+LockedLock CPI
+Maximum CPI
+LockedLock CPI
+CPI Adjustment Steps
+LockedLock CPI
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CPI 
+N/A
+Sensor Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Delay At Half Movement
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR LATENCY 
+Sensor Specifications
+Sensor Technology
+LockedLocked
+Sensor Model
+LockedLocked
+Works On Glass
+LockedLocked
+Minimum Lift Off Distance
+LockedLock mm
+Maximum Polling Rate
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR SPECIFICATIONS 
+Mouse Wheel
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Scroll Wheel Type
+LockedLocked
+Scroll Wheel Tilt
+LockedLocked
+Thumb Wheel Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Click Noise
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+OPERATING SYSTEM AND SOFTWARE
+2 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatibility
+LockedLocked
+Software macOS Compatibility
+LockedLocked
+On-Board Memory
+LockedLocked
+CPI (DPI) Adjustment 
+LockedLocked
+Polling Rate Adjustment
+LockedLocked
+Profile Configuration
+LockedLocked
+Profile Auto-Switching
+LockedLocked
+RGB On/Off
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Compatibility
+Windows CompatibilityLockedLocked
+macOS CompatibilityLockedLocked
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The Best Gaming Mouse
+The Best Wireless Mouse
+The Best Mouse
+The Best Ergonomic Mouse
+The Best Wireless Gaming Mouse
+The Best Lightweight Mouse
+The Best Mouse For Work
+The Best MMO Mouse
+The 5 Best Logitech Mice
+The Best Cheap And Budget Gaming Mouse
+The Best Mouse For MacBooks
+The Best FPS Mouse
+The Best Wired Mouse
+The Best Trackball Mouse
+The 5 Best Razer Mice
+The Best Claw Grip Mouse
+The 4 Best Corsair Mice
+The 4 Best SteelSeries Mice
+Comments
+PRODUCT
+ACTIVE 1 YEAR AGO · 
+ • POSTED 1 YEAR AGO
+G-Wolves Fenrir Max: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+5 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+ • POSTED 8 MONTHS AGO
+
+Update: We’ve converted this review to Test Bench 1.5.2. This update removes the Delay To Start Of Movement and Delay To End Of Movement measurements from the Sensor Latency test. See our full 1.5.2 changelog for details.
+
+3
+2
+1
+ 
+Stratz 62
+ • POSTED 1 YEAR AGO
+NOV 21, 2025 06:19 PM BY   Tate Landis
+
+Hey! thanks for your question! I checked out what the performance would be like at 8k with the same all debounce at 0 settings the same way we have it on the review just with competitive mode OFF instead, the change is extremely small, click latency went from 1.1ms to 1.3ms. This can be extrapolated to the sensor latency results as well having almost no real world difference in latency, its also within testing margin of error. so you should be fine leaving it off or on completely unaffected!
+Hope that clears things up for you, cheers!
+
+Very interesting. Sounds good, thank you very much for the extra testing.
+
+Reply
+Copy link
+3
+2
+1
+ Tate Landis
+ • UPDATED 1 YEAR AGO • POSTED 1 YEAR AGO
+NOV 13, 2025 07:17 PM BY  Stratz  62
+
+Out of curiosity, did you test the sensor/click latency with competitive mode on vs off? I tried it on my own g-wolves mouse and it feels like to me that the sensor latency is increased slightly and also the click de-bounce is higher as a result as well. If not, no worries just thought I would ask.
+
+Hey! thanks for your question! I checked out what the performance would be like at 8k with the same all debounce at 0 settings the same way we have it on the review just with competitive mode OFF instead, the change is extremely small, click latency went from 1.1ms to 1.3ms. This can be extrapolated to the sensor latency results as well having almost no real world difference in latency, its also within testing margin of error. so you should be fine leaving it off or on completely unaffected!
+
+Hope that clears things up for you, cheers!
+
+Edited 1 year ago: typo
+Reply
+Copy link
+3
+2
+1
+ 
+Stratz 62
+ • POSTED 1 YEAR AGO
+
+Out of curiosity, did you test the sensor/click latency with competitive mode on vs off? I tried it on my own g-wolves mouse and it feels like to me that the sensor latency is increased slightly and also the click de-bounce is higher as a result as well. If not, no worries just thought I would ask.
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Update: We’ve retested on G-Wolves’ latest software (version 1.0.0.20), which adds properly implemented debounce settings that were missing from the version we originally tested. The unexpectedly poor click latency results we initially measured are now dramatically improved and in line with this model’s expected performance. We’ve updated our review text in several places to reflect this change. See the Click Latency section for more details.
+
+Show More Updates
+5
+4
+3
+ 
+Stratz 62
+ • POSTED 1 YEAR AGO
+
+Oof, man I feel like g-wolves just has so many issues with hardware/firmware these days. I bought the HTS Ultra 8k and can tell it has pretty bad sensor latency compared to something like Vaxee. 1k vs 4k or even 8k feels no different in making the sensor latency any better. Real shame because the mouse is pretty great in terms of sensor positioning, surprisingly good shell integrity with how light it is, shape/size, and has no other real issues other than the sensor latency. The left and right clicks are a little “spongy” though and lack a bit of sharpness that you get from other mice. But still impressive for weighing like 30 grams. Real shame because they’ve had this same issue with their firmware for so long now. Seems like these days its really down to Vaxee, Razer, and Logitech for the best wireless sensor latency implementations.
+
+Reply
+Copy link
+4
+3
+2
+ Gregory Vodden
+ • UPDATED 1 YEAR AGO • POSTED 1 YEAR AGO
+
+Just a note on our current pipeline:
+
+We have limited resources at the moment and are shifting priorities, so we don’t yet have a timeline for when we’ll begin the full review of the G-Wolves Fenris Max.
+
+We have, however, released early access results, where the mouse received unexpectedly poor click latency scores. We were surprised by this outcome and performed extensive retesting and validation at both optimized and non-optimized settings, over wired and wireless connections, and on both current and previous firmware versions. We also ran sanity checks against other mice to confirm our rig, and the results remained consistently poor.
+
+It’s possible there’s a firmware or hardware issue with the unit we tested, and G-Wolves is welcome to take advantage of our out-of-spec policy if they’d like. 
+
+Because the results are so unexpected, we wanted to provide this context alongside our early access data. We’ll share an update on the full review timeline once we have more clarity. In the meantime, thank you for your patience, and feel free to reach out with any questions about the early access results.
+
+Edited 1 year ago: Typo
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Early access to our full test results is now available for Insiders! Become an insider to check it out here.
+
+Show More Updates
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

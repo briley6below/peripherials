@@ -1,0 +1,408 @@
+URL: https://shop.g-wolves.com/products/g-wolves-fenris-max-8k-wireless-mouse
+TITLE: G-Wolves Fenrir Max 8K Wireless Mouse | ~22.4g PAW3950
+SAVED: 2026-11-22T04:26:49.848Z
+
+PRODUCT DATA (store product record)
+Title: G-Wolves Fenrir Max 8K Wireless Gaming Mouse ~22.4g
+Vendor: GWolves
+Price: $153.00
+Variants: Black $153.00; White $153.00; Violet $159.00; Fast Silver Grey $159.00; Sky Blue $159.00
+
+.gw-product-desc{--gw:#c9850a;--ink:#1d1d1f;--muted:#3a3a3c;--panel:#1f1f21;--line:rgba(29,29,31,.12);color:var(--ink);max-width:1040px;margin:0 auto}
+.gw-product-desc *{box-sizing:border-box}
+.gw-product-desc h2{margin:0 0 .45em;color:var(--ink)!important;font-size:clamp(1.65rem,4vw,2.45rem);line-height:1.15;letter-spacing:-.02em}
+.gw-product-desc h3{margin:2.2em 0 1em;color:var(--ink)!important;font-size:1.3rem;letter-spacing:.03em}
+.gw-product-desc h3:after{content:"";display:block;width:44px;height:3px;margin-top:.55em;background:var(--gw);border-radius:3px}
+.gw-product-desc p,.gw-product-desc li{line-height:1.7;color:var(--muted)!important}
+.gw-product-desc .gw-kicker{display:inline-block;margin-bottom:1em;padding:.35em .75em;background:rgba(201,133,10,.12);border:1px solid rgba(201,133,10,.45);border-radius:999px;color:#8a5a00!important;font-size:.78rem;font-weight:700;letter-spacing:.12em}
+.gw-product-desc .gw-lead{max-width:760px;margin:0 0 1.6em;color:var(--muted)!important;font-size:1.05rem}
+.gw-product-desc .gw-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:1.5em 0 2.4em}
+.gw-product-desc .gw-stat{padding:18px 12px;background:linear-gradient(145deg,#2c2c2e,#1f1f21);border:1px solid rgba(255,255,255,.1);border-radius:12px;text-align:center;box-shadow:0 8px 24px rgba(0,0,0,.12)}
+.gw-product-desc .gw-stat strong{display:block;color:#fdba3b!important;font-size:1.3rem;line-height:1.2}
+.gw-product-desc .gw-stat span{display:block;margin-top:.45em;color:#e8e8ed!important;font-size:.8rem}
+.gw-product-desc .gw-features{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.gw-product-desc .gw-feature{padding:20px;background:var(--panel);border:1px solid rgba(255,255,255,.1);border-radius:12px}
+.gw-product-desc .gw-feature strong{display:block;margin-bottom:.45em;color:#fff!important;font-size:1.02rem}
+.gw-product-desc .gw-feature p{margin:0;color:#e5e5ea!important;font-size:.92rem}
+.gw-product-desc .gw-table-wrap{overflow-x:auto;border-radius:12px;border:1px solid var(--line);background:#fff}
+.gw-product-desc table{width:100%;min-width:560px;border-collapse:collapse;margin:0;background:#fff;color:#111}
+.gw-product-desc th,.gw-product-desc td{border-bottom:1px solid #e4e4e4;padding:.8em 1em;text-align:left;vertical-align:top;color:#111!important}
+.gw-product-desc tr:last-child th,.gw-product-desc tr:last-child td{border-bottom:0}
+.gw-product-desc tr:nth-child(even){background:#fafafa}
+.gw-product-desc th{width:30%;background:#f4f4f4;font-weight:700}
+.gw-product-desc .gw-prices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.gw-product-desc .gw-price-card{position:relative;padding:22px 18px;background:var(--panel);border:1px solid rgba(255,255,255,.1);border-radius:12px}
+.gw-product-desc .gw-price-card--active{border-color:#fdba3b;box-shadow:0 0 0 1px #fdba3b,0 12px 28px rgba(253,186,59,.18)}
+.gw-product-desc .gw-price-label{margin:0;color:#d1d1d6!important;font-size:.76rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+.gw-product-desc .gw-price{margin:.35em 0 .45em;color:#fdba3b!important;font-size:1.75rem;font-weight:800;line-height:1.1}
+.gw-product-desc .gw-price-card p:last-child{margin:0;color:#e5e5ea!important;font-size:.88rem}
+.gw-product-desc .gw-note{margin-top:1.1em;padding:18px 20px;background:#fff7e8;color:#222!important;border-left:4px solid #fdba3b;border-radius:0 10px 10px 0}
+.gw-product-desc .gw-note p,.gw-product-desc .gw-note strong{margin:0;color:#222!important}
+.gw-product-desc .gw-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:1em}
+.gw-product-desc .gw-btn{display:inline-flex;padding:.75em 1.05em;border-radius:9px;background:#fdba3b;color:#151515!important;text-decoration:none!important;font-weight:700}
+.gw-product-desc .gw-btn--secondary{background:#1f1f21;color:#fff!important;border:1px solid rgba(29,29,31,.2)}
+.gw-product-desc .gw-btn:hover{filter:brightness(1.07)}
+.gw-product-desc .gw-faq{display:grid;gap:10px}
+.gw-product-desc .gw-faq details{padding:15px 17px;background:var(--panel);border:1px solid rgba(255,255,255,.1);border-radius:10px}
+.gw-product-desc .gw-faq details[open]{border-color:rgba(253,186,59,.6)}
+.gw-product-desc .gw-faq summary{cursor:pointer;color:#fff!important;font-weight:700;list-style:none}
+.gw-product-desc .gw-faq summary::-webkit-details-marker{display:none}
+.gw-product-desc .gw-faq summary:after{content:"+";float:right;color:#fdba3b;font-size:1.2em}
+.gw-product-desc .gw-faq details[open] summary:after{content:"−"}
+.gw-product-desc .gw-faq p{margin:.8em 0 0;color:#e5e5ea!important}
+.gw-product-desc .gw-footnote{margin-top:2em;padding-top:1.2em;border-top:1px solid var(--line);color:#636366!important;font-size:.86rem}
+@media(max-width:749px){.gw-product-desc .gw-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.gw-product-desc .gw-features,.gw-product-desc .gw-prices{grid-template-columns:1fr}.gw-product-desc h3{margin-top:1.8em}}
+FENRIR MAX · 8K
+~22.4g fingertip speed and control
+G-Wolves Fenrir Max is an ultralight ~22.4g wireless gaming mouse with PixArt PAW3950, up to 8000Hz polling, SPDT main switches (~80M clicks), and a compact 75 × 61 × 31 mm fingertip shape engineered for violent speed and momentum.
+~22.4gUltralight
+PAW3950Flagship sensor
+8KUp to 8000Hz
+SPDT~80M main switches
+Key features
+~22.4g ultralightLow mass for faster starts, stops, and less fatigue during high-speed aim.
+Fingertip-focused shapeCompact 75 × 61 × 31 mm geometry for aggressive flicks and momentum-based fingertip control.
+PixArt PAW3950Flagship optical sensor with up to 30000 DPI, 750 IPS tracking, and 50G acceleration.
+Up to 8000Hz pollingHigh reporting rate for lower click-to-pixel latency when your system can support it.
+SPDT main switches
+SPDT (Single Pole Double Throw): the signal fires when the spring leaf leaves the contact — about ~30ms faster than ordinary switches — for earlier, more direct click triggering.
+USB-C connectivityModern Type-C interface with ultra-flexible paracord cable support.
+What is an SPDT switch
+SPDT = Single Pole Double Throw
+SPDT is a faster switch design: the switch signal fires as soon as the spring leaf leaves the contact — you don’t wait for a conventional switch to finish a longer press/travel path. On mouse main buttons, that means an earlier, more direct click trigger — about ~30ms faster than ordinary switches — helping cut click latency.
+Triggers on breakaway
+When the spring leaf leaves the contact, the switch signal fires immediately — without waiting for a traditional switch’s fuller press/return travel — for a more direct response.
+~30ms faster than ordinary switches
+Compared with ordinary switch structures, SPDT has a shorter trigger path. Click signals can arrive about ~30ms earlier, helping reduce click latency and speed up rapid-click feedback.
+Clearer click feedback
+More complete make/break detection helps firmware identify clicks more consistently for clearer main-button feel (exact feel still depends on the specific switch and firmware tuning).
+Built for competitive clicking
+Faster triggering and clear feedback suit high-frequency clicking and precise stop-and-adjust play.
+Technical specifications
+Weight note: Black is typically lightest; other solid colors ~3% heavier, transparent ~5% heavier (vs black).
+Weight
+~22.4g
+Dimensions
+75 × 61 × 31 mm
+Shape
+Compact symmetrical fingertip mouse
+Sensor
+PixArt PAW3950
+Main switches
+SPDT switch (Single Pole Double Throw; fires when the spring leaf leaves the contact; ~30ms faster)
+Polling rate
+Up to 8000Hz
+Connectivity
+2.4GHz wireless / USB-C
+Skates
+0.70mm PTFE
+Buttons
+5
+Colors
+Black, White, Violet, Fast Silver Grey, Sky Blue
+Detailed parameters
+Max DPI
+30000
+Default DPI
+400 / 800 / 1600 / 3200 (remappable via software)
+Max tracking / acceleration
+750 IPS / 50G
+Lift-off distance
+1.0mm / 2.0mm
+DPI indicator
+PCB LED or software
+LED
+RGB; can be disabled
+Cable
+Ultra-flexible paracord, about 1.6m
+OS compatibility
+Windows / Mac / Linux; full software configuration on Windows 7 or newer
+Warranty
+1 year
+Who it is for
+Fenrir Max suits fingertip players who want a slightly taller compact shell than ultra-short Fenrir shapes, with ultralight feel and high polling rates. Check the 75 × 61 × 31 mm size against your hand before buying.
+Shipping & fulfillment
+Typical fulfillment: ships within about 1–7 working days after the order is received (excluding holidays). Final timing follows order notifications and carrier tracking.
+Driver & support
+ Open web driver
+ Alternate driver
+ Contact support
+Returns & customs
+ Return & refund policy
+ Who pays customs duties?
+Duties & taxes: Depending on your country/region, import duties or taxes may be charged separately. See the customs page above for details.
+FAQ
+What is an SPDT switch, and what makes it different?SPDT means Single Pole Double Throw. Its key trait: the switch signal fires when the spring leaf leaves the contact, so clicks trigger earlier — about ~30ms faster than ordinary switches — for a more direct feel. Exact click feel still depends on the specific switch model and firmware tuning.
+ How much does the Fenrir Max weigh?About 22.4g. Actual weight may vary slightly due to manufacturing tolerance and configuration.
+ Which sensor does it use?PixArt PAW3950, with up to 30000 DPI, 750 IPS tracking, and 50G acceleration.
+ Does it support 8000Hz?Yes. Maximum polling rate is up to 8000Hz.
+ What size is the Fenrir Max?About 75 × 61 × 31 mm — a compact fingertip shape.
+ What main switches does it use?SPDT (Single Pole Double Throw). The signal fires when the spring leaf leaves the contact — about ~30ms faster than ordinary switches.
+ Which colors are available?Black, White, Violet, Fast Silver Grey, and Sky Blue. Availability depends on inventory.
+ What is the warranty?1-year warranty. Return, refund, and customs details are available via the policy links on this page.
+Purchase note: Availability depends on the Buy button on this page. Different colors may show different prices at checkout — the final amount is always what you see at checkout.
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is an SPDT switch on the G-Wolves Fenrir Max, and what makes it different?","acceptedAnswer":{"@type":"Answer","text":"SPDT means Single Pole Double Throw. Its key trait: the switch signal fires when the spring leaf leaves the contact, so clicks trigger earlier — about ~30ms faster than ordinary switches — for a more direct feel. Exact click feel still depends on the specific switch model and firmware tuning."}},{"@type":"Question","name":"How much does the Fenrir Max weigh?","acceptedAnswer":{"@type":"Answer","text":"About 22.4g. Actual weight may vary slightly due to manufacturing tolerance and configuration."}},{"@type":"Question","name":"Which sensor does Fenrir Max use?","acceptedAnswer":{"@type":"Answer","text":"PixArt PAW3950, with up to 30000 DPI, 750 IPS tracking, and 50G acceleration."}},{"@type":"Question","name":"Does Fenrir Max support 8000Hz?","acceptedAnswer":{"@type":"Answer","text":"Yes. Maximum polling rate is up to 8000Hz."}},{"@type":"Question","name":"What size is the Fenrir Max?","acceptedAnswer":{"@type":"Answer","text":"About 75 × 61 × 31 mm — a compact fingertip shape."}},{"@type":"Question","name":"What main switches does Fenrir Max use?","acceptedAnswer":{"@type":"Answer","text":"SPDT (Single Pole Double Throw). The signal fires when the spring leaf leaves the contact — about ~30ms faster than ordinary switches."}},{"@type":"Question","name":"What is the Fenrir Max warranty?","acceptedAnswer":{"@type":"Answer","text":"1-year warranty. Return, refund, and customs details follow the policy links on the product page."}}]}
+
+
+Skip to content
+
+★Official Notice: Tax-Inclusive Pricing★ Learn more
+
+Skip to main content
+Shop
+Wireless Mouse
+Wired Mouse
+Accessories
+Latest
+Support
+Driver
+Navigation
+G-WOLVES
+Newsletter
+0
+Home
+G-Wolves Fenrir Max 8K Wireless Gaming Mouse ~22.4g
+Zoom
+Go to slide 1
+Go to slide 2
+Go to slide 3
+Go to slide 4
+Go to slide 5
+Go to slide 6
+Go to slide 7
+Go to slide 8
+Go to slide 9
+Go to slide 10
+Go to slide 11
+Go to slide 12
+Go to slide 13
+Go to slide 14
+Go to slide 15
+Go to slide 16
+Go to slide 17
+Go to slide 18
+Go to slide 19
+Go to slide 20
+Go to slide 21
+Go to slide 22
+Go to slide 23
+Go to slide 24
+GWOLVES
+G-WOLVES FENRIR MAX 8K WIRELESS GAMING MOUSE ~22.4G
+Sale price
+$153.00
+Color:
+Black
+Black
+White
+Violet
+Fast Silver Grey
+Sky Blue
+Quantity:
+Decrease quantity
+Increase quantity
+ADD TO CART
+More payment options
+
+CUSTOMER SUPPORT
+
+Email: support@g-wolves.com
+
+Working hours (Hong Kong time): Monday–Friday, 10:00–17:00. We reply to emails during these hours.
+
+Share
+DESCRIPTION
+FENRIR MAX · 8K
+~22.4G FINGERTIP SPEED AND CONTROL
+
+G-Wolves Fenrir Max is an ultralight ~22.4g wireless gaming mouse with PixArt PAW3950, up to 8000Hz polling, SPDT main switches (~80M clicks), and a compact 75 × 61 × 31 mm fingertip shape engineered for violent speed and momentum.
+
+~22.4g
+Ultralight
+PAW3950
+Flagship sensor
+8K
+Up to 8000Hz
+SPDT
+~80M main switches
+KEY FEATURES
+~22.4g ultralight
+
+Low mass for faster starts, stops, and less fatigue during high-speed aim.
+
+Fingertip-focused shape
+
+Compact 75 × 61 × 31 mm geometry for aggressive flicks and momentum-based fingertip control.
+
+PixArt PAW3950
+
+Flagship optical sensor with up to 30000 DPI, 750 IPS tracking, and 50G acceleration.
+
+Up to 8000Hz polling
+
+High reporting rate for lower click-to-pixel latency when your system can support it.
+
+SPDT main switches
+
+SPDT (Single Pole Double Throw): the signal fires when the spring leaf leaves the contact — about ~30ms faster than ordinary switches — for earlier, more direct click triggering.
+
+USB-C connectivity
+
+Modern Type-C interface with ultra-flexible paracord cable support.
+
+WHAT IS AN SPDT SWITCH
+SPDT = Single Pole Double Throw
+
+SPDT is a faster switch design: the switch signal fires as soon as the spring leaf leaves the contact — you don’t wait for a conventional switch to finish a longer press/travel path. On mouse main buttons, that means an earlier, more direct click trigger — about ~30ms faster than ordinary switches — helping cut click latency.
+
+Triggers on breakaway
+
+When the spring leaf leaves the contact, the switch signal fires immediately — without waiting for a traditional switch’s fuller press/return travel — for a more direct response.
+
+~30ms faster than ordinary switches
+
+Compared with ordinary switch structures, SPDT has a shorter trigger path. Click signals can arrive about ~30ms earlier, helping reduce click latency and speed up rapid-click feedback.
+
+Clearer click feedback
+
+More complete make/break detection helps firmware identify clicks more consistently for clearer main-button feel (exact feel still depends on the specific switch and firmware tuning).
+
+Built for competitive clicking
+
+Faster triggering and clear feedback suit high-frequency clicking and precise stop-and-adjust play.
+
+TECHNICAL SPECIFICATIONS
+
+Weight note: Black is typically lightest; other solid colors ~3% heavier, transparent ~5% heavier (vs black).
+
+Weight	~22.4g
+Dimensions	75 × 61 × 31 mm
+Shape	Compact symmetrical fingertip mouse
+Sensor	PixArt PAW3950
+Main switches	SPDT switch (Single Pole Double Throw; fires when the spring leaf leaves the contact; ~30ms faster)
+Polling rate	Up to 8000Hz
+Connectivity	2.4GHz wireless / USB-C
+Skates	0.70mm PTFE
+Buttons	5
+Colors	Black, White, Violet, Fast Silver Grey, Sky Blue
+DETAILED PARAMETERS
+Max DPI	30000
+Default DPI	400 / 800 / 1600 / 3200 (remappable via software)
+Max tracking / acceleration	750 IPS / 50G
+Lift-off distance	1.0mm / 2.0mm
+DPI indicator	PCB LED or software
+LED	RGB; can be disabled
+Cable	Ultra-flexible paracord, about 1.6m
+OS compatibility	Windows / Mac / Linux; full software configuration on Windows 7 or newer
+Warranty	1 year
+WHO IT IS FOR
+
+Fenrir Max suits fingertip players who want a slightly taller compact shell than ultra-short Fenrir shapes, with ultralight feel and high polling rates. Check the 75 × 61 × 31 mm size against your hand before buying.
+
+SHIPPING & FULFILLMENT
+
+Typical fulfillment: ships within about 1–7 working days after the order is received (excluding holidays). Final timing follows order notifications and carrier tracking.
+
+DRIVER & SUPPORT
+Open web driver
+Alternate driver
+Contact support
+RETURNS & CUSTOMS
+Return & refund policy
+Who pays customs duties?
+
+Duties & taxes: Depending on your country/region, import duties or taxes may be charged separately. See the customs page above for details.
+
+FAQ
+What is an SPDT switch, and what makes it different?
+
+SPDT means Single Pole Double Throw. Its key trait: the switch signal fires when the spring leaf leaves the contact, so clicks trigger earlier — about ~30ms faster than ordinary switches — for a more direct feel. Exact click feel still depends on the specific switch model and firmware tuning.
+
+How much does the Fenrir Max weigh?
+
+About 22.4g. Actual weight may vary slightly due to manufacturing tolerance and configuration.
+
+Which sensor does it use?
+
+PixArt PAW3950, with up to 30000 DPI, 750 IPS tracking, and 50G acceleration.
+
+Does it support 8000Hz?
+
+Yes. Maximum polling rate is up to 8000Hz.
+
+What size is the Fenrir Max?
+
+About 75 × 61 × 31 mm — a compact fingertip shape.
+
+What main switches does it use?
+
+SPDT (Single Pole Double Throw). The signal fires when the spring leaf leaves the contact — about ~30ms faster than ordinary switches.
+
+Which colors are available?
+
+Black, White, Violet, Fast Silver Grey, and Sky Blue. Availability depends on inventory.
+
+What is the warranty?
+
+1-year warranty. Return, refund, and customs details are available via the policy links on this page.
+
+Purchase note: Availability depends on the Buy button on this page. Different colors may show different prices at checkout — the final amount is always what you see at checkout.
+
+CUSTOMER SUPPORT
+
+Email: support@g-wolves.com
+
+Working hours (Hong Kong time): Monday–Friday, 10:00–17:00. We reply to emails during these hours.
+
+YOU MAY ALSO LIKE
+G-Wolves Fenrir Anti-Slip Sticker & Foot Skates
+Sale price
+$9.90
+G-Wolves Fenrir Pro 8K Wireless Gaming Mouse ~18.9g
+Sale price
+From $159.00
+
+6 colors available
+
+G-Wolves USB-C Cable for Wireless Mouse (2 pcs)
+Sale price
+$11.90
+G-Wolves Fenrir Asym 8K Wireless Gaming Mouse ~20.4g
+Sale price
+From $159.00
+
+8 colors available
+
+ABOUT OUR STORE
+
+We are G-Wolves Mouse and welcome you to come here and become our friend. We will do our best to help you do well in esports. We also hope that you can help us keep improving.
+
+FOOTER MENU
+
+Search
+About us
+Privacy policy
+Terms of service
+Shipping policy
+Return & Refund policy
+Contact us
+
+NEWSLETTER
+
+We regularly send you discount codes by email to inform you of various promotions. We will also tell you about our latest product progress.
+
+Your e-mail
+
+FOLLOW US
+
+Twitter: g_wolves
+
+Country/region
+United States (USD $)
+G-Wolves
+Powered by Shopify
+We accept
+ 
+ 
+© 2026, G-Wolves
+Powered by Shopify
