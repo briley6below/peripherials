@@ -450,6 +450,51 @@
    "date_checked": "2026-11-21",
    "fit": "contain",
    "note": "Photo of the MM350 PRO Extended XL, the version Corsair now sells in the extended size."
+  },
+  "pulsar-xlite-v4-es-mini": {
+   "file": "data/img/pulsar-xlite-v4-es-mini.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0455/0914/8840/files/Pulsar-Xlite-v4-eS-Gaming-Mouse_Size1-Black_001.png?v=1758610402",
+   "page_url": "https://www.pulsar.gg/products/xlite-v4-es-mini-gaming-mouse",
+   "owner": "Pulsar",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "First gallery photo on the maker's page (Black)."
+  },
+  "lgg-neptune-pro": {
+   "file": "data/img/lgg-neptune-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0455/0914/8840/files/Pulsar-es-neptune-L-JetBlack-Gaming-Mousepad-soft.png?v=1768213252",
+   "page_url": "https://www.pulsar.gg/products/es-neptune-pro-gaming-mousepad-soft",
+   "owner": "Pulsar",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "First gallery photo on the maker's SOFT page (size L, Jet Black)."
+  },
+  "wlmouse-beast-x-mini-pro": {
+   "file": "data/img/wlmouse-beast-x-mini-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0774/7531/6010/files/beastxmini.jpg?v=1755482767",
+   "page_url": "https://www.wlmouse.com/products/mini-pro",
+   "owner": "WLMOUSE",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "First gallery photo on the maker's page."
+  },
+  "everglide-su66-max": {
+   "file": "data/img/everglide-su66-max.webp",
+   "image_url": "https://keebforce.com/wp-content/uploads/2026/06/EVERGLIDE-SU66-MAX-SILVER-1024x1024.webp",
+   "page_url": "https://keebforce.com/keebforce-everglide-su66-max/",
+   "owner": "KeebForce / Everglide",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Main photo on the KeebForce store page (Silver)."
+  },
+  "artisan-ninja-fx-type-99": {
+   "file": "data/img/artisan-ninja-fx-type-99.webp",
+   "image_url": "https://artisan-jp.com/global/media/catalog/product/cache/f76918e6d62e23259d0431dc46b7bf86/t/9/t99-m-corner_1_10.jpg",
+   "page_url": "https://artisan-jp.com/global/products/ninja-fx/fx-type99",
+   "owner": "ARTISAN",
+   "date_checked": "2026-11-21",
+   "fit": "contain",
+   "note": "Main photo on the maker's page."
   }
  },
  "no_photo": {

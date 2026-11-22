@@ -11,8 +11,10 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - **Mouse channels not yet read**: hausegaming, wasabi (mouse reviews), diamond lobby (mouse reviews), sunwoo, himacopter, migss. (boardzy was used for one mouse. Wasabi and DiamondLobby were used for skates and pads.)
 - **X-raypad's own site** is a parked domain. X-raypad prices come from JP Gaming USA, a US store. Magic Ice comes from MaxGaming US. Corepad's price is in euros on the maker's store.
 - **Micro Center** showed a bot check, which we do not bypass, so its Pulsar skate pages were not used.
-- **Galaxus and Digitec** (SkyPAD stores) showed a bot check and **Amazon** blocks automated access, so the SkyPAD Glass 3.0 has no store price or photo. SkyPAD's old site (skypad.eu) is a parked domain.
-- **Only one source** (2026-11-21 additions): Wired In Protagonist HE (maker page only), ATK A87 Pro specs (maker page; KeebForce confirms the price only), SkyPAD Glass 3.0 (Tom's Hardware review only), Tekkusai Kohaku and MITSUKI Kokū specs (stores only; no maker store found).
+- **Galaxus and Digitec** (SkyPAD stores) showed a bot check and **Amazon** blocks automated access, so the SkyPAD Glass 3.0 has no store price or photo. SkyPAD's old site (skypad.eu) is a parked domain, and on 2026-11-21 skypad.gg sent us to another store (wallhack.com) whose product list has no Glass 3.0, so no photo could be taken from a maker page.
+- **Only one source** (2026-11-21 additions): Everglide SU66 Max (KeebForce store page only; a KeebFinder link for it opened the SU75 page instead), ATK A87 Pro specs (maker page; KeebForce confirms the price only), SkyPAD Glass 3.0 (Tom's Hardware review only), Tekkusai Kohaku and MITSUKI Kokū specs (stores only; no maker store found).
+- **No reviews yet**: the Pulsar Xlite v4 eS Mini and WLmouse Beast X Mini Pro have no RTINGS review, so they have no measured weight and are not ranked. Their facts come from the maker page and Lethal Gaming Gear's store page. The Wired In Protagonist HE has no hands-on review; its second source is a Greenkeys news article.
+- **ARTISAN reviewers**: ProSettings.net reviews the Zero (4.5/5) and Type-99 (5/5) and both carry its Staff's Choice award, so both count as picks. Tom's Hardware, PCGamesN, DiamondLobby and Wasabi (saved lists and transcripts) do not pick an ARTISAN pad. Other web results were SEO pages that say they did not test the pads, so they are not used.
 - **Older videos**: the pad and skate tier lists are from 2024 (boardzy Jul 2024 and Dec 2024; DiamondLobby Oct 2024; Wasabi Jun 2024). Newer models may be missing.
 
 ## Open questions from the 2026-11-18 review
@@ -20,6 +22,8 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - **ZOWIE G-SR II**: resolved on 2026-11-19. BenQ's US ZOWIE store sells it at US$34.99.
 - **Corepad Skatez**: boardzy's bad review (1:23 to 2:03) is of the "Pro Max" version. At 20:15 he says standard Corepads could be A tier. Only the Pro Max review is used, so standard Corepads are not rated.
 - **Pulsar glass pad**: resolved on 2026-11-21 (site owner's choice). The price and photo are of the newer Superglide3 Type S at Lethal Gaming Gear, labelled as v3.
+- **ARTISAN NINJA FX ZERO**: resolved on 2026-11-22 (site owner's choice). boardzy calls it a control pad; ProSettings.net calls it a control-leaning all-rounder. Both views are shown, each labelled with its source.
+- **Wired In Protagonist HE price**: resolved on 2026-11-22 (site owner's choice). The maker's feature page and Greenkeys both say the US$189 is a kit without switches, stabilizers or keycaps; the card says so.
 - **Corepad PRO MAX price**: resolved on 2026-11-21 (site owner's choice). US$9.99 at Lethal Gaming Gear is shown; the maker's 9.49 EUR price is kept in the note.
 - **Photos of a close relative** (site owner's choice, 2026-11-21): X-raypad Obsidian Pro (photo is the Obsidian PRO Air), Cooler Master MP511 (photo is the 30th Anniversary Edition) and Corsair MM350 (photo is the MM350 PRO Extended XL). Each caption names the version shown.
 - **'vxw'**: taken to mean VXE (site owner confirmed on 2026-11-21); the VXE V3 Pro was added.
@@ -110,6 +114,14 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
+### Pulsar Xlite v4 eS Mini (`pulsar-xlite-v4-es-mini`)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+
+### WLmouse Beast X Mini Pro (`wlmouse-beast-x-mini-pro`)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+
 ### Wooting 80HE (`wooting-80he`)
 - 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
@@ -165,8 +177,6 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Missing: cons (no sourced cons found)
 - Missing: lab test data (no lab review found)
 - Missing: spec: weight_g
-- Missing: spec: polling_hz
-- Missing: spec: connectivity
 
 ### ATK A87 Pro (`atk-a87-pro`)
 - Missing: pros (no sourced pros found)
@@ -181,6 +191,15 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Missing: lab test data (no lab review found)
 - Unverified: `price`
 - Unverified: `specs.connectivity`
+
+### Everglide SU66 Max (`everglide-su66-max`)
+- Missing: pros (no sourced pros found)
+- Missing: cons (no sourced cons found)
+- Missing: lab test data (no lab review found)
+- Missing: spec: weight_g
+- Missing: spec: polling_hz
+- Missing: spec: connectivity
+- Unverified: `price`
 
 ### SteelSeries QcK Heavy (`steelseries-qck-heavy`)
 - Missing: lab test data (no lab source tests this category)
@@ -222,9 +241,18 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Verdict rests on one reviewer (opinion: Tom's Hardware).
 
 ### ARTISAN NINJA FX ZERO (`artisan-ninja-fx-zero`)
-- Missing: cons (no sourced cons found)
 - Missing: lab test data (no lab source tests this category)
 - Unverified: `price`
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- Verdict rests on one reviewer (opinion: boardzy).
+
+### ARTISAN NINJA FX TYPE-99 (`artisan-ninja-fx-type-99`)
+- Missing: lab test data (no lab source tests this category)
+- Unverified: `price`
+- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+
+### Lethal Gaming Gear Neptune Pro (now Pulsar eS Neptune Pro) (`lgg-neptune-pro`)
+- Missing: lab test data (no lab source tests this category)
 - 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: boardzy).
 

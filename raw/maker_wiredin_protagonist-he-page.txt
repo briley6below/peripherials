@@ -1,0 +1,196 @@
+URL: https://wiredin.design/pages/protagonist-he
+TITLE: Protagonist HE — Hall Effect Keyboard
+SAVED: 2026-11-22T05:13:49.516Z
+
+SKIP TO CONTENT
+
+free domestic shipping ~ $150
+
+New Cable Configurator is LIVE!
+
+Switch to light mode
+Wishlist
+Log in
+Cart
+WIRED IN
+PROTAGONIST
+HALL_EFFECT
+TELL YOUR STORY.
+ORDER
+$189
+INC. VENOM PCB + FOAM
+
+FILE 01 / 08
+
+WHAT'S YOUR STORY?
+
+INSPIRED BY GROWTH.
+
+Built around the original Protagonist's signature "Keyframe" system, the PHE is designed to grow with you as we expand the ecosystem. The design has been refined — edges sharpened, lines tightened — as the culmination of Wired In's neo-industrial brutalist aesthetic.
+
+FILE 02 / 08
+
+NEVER SETTLE
+
+A TRADITIONAL THREE-PIECE DESIGN
+
+Despite a more accessible price point, the PHE doesn't pull any punches. Full Keyframe top case, bottom case, and weight — paired with two mounting solutions out of the box.
+
+FILE 03 / 08
+
+MOUNTING SOLUTIONS
+
+TWO MOUNTS · ONE BOARD
+
+Two distinct mounting solutions ship in every PHE box. Firm isolated top mount, or the softer gasket mount shown here. Pick the feel — no additional purchase, no compromise.
+
+TOP DOWN · GASKET FLEX · 3.0S LOOP
+PHE.001 · GASKET MOUNT · WIRED IN //
+
+FILE 04 / 08
+
+ENGRAVING
+
+ENGRAVED · NOT INLAID.
+
+The Wired In mark on the bottom case isn't a separate piece pressed in. It's high-gloss engraving cut directly into anodized aluminum — same technique applied matte on the rear of the weight.
+
+FILE 05 / 08
+
+COLORWAYS
+
+PICK YOUR FINISH.
+CARBONITE
+RAVEN
+CARBON · SILVER · CARBON
+
+FILE 06 / 08 — BUILD
+
+ENGINEERED IN LAYERS.
+0 / 9 REMOVED
+STRIP ALL →
+01
+WEIGHT
+MILLED 6063 ALU
+ATTACHED
+02
+BOTTOM CASE
+MILLED 6063 ALU
+ATTACHED
+03
+PCB
+7U · HOTSWAP
+ATTACHED
+04
+STABILIZERS
+SCREW-IN · LUBED (NOT INCLUDED)
+ATTACHED
+05
+PLATE
+ALUMINUM
+ATTACHED
+06
+GASKETS
+PORON · 7 PAIRS
+ATTACHED
+07
+SWITCHES
+HALL EFFECT (NOT INCLUDED)
+ATTACHED
+08
+TOP CASE
+MILLED 6063 ALU
+ATTACHED
+09
+KEYCAPS
+DOUBLE-SHOT PBT (NOT INCLUDED)
+ATTACHED
+
+FILE 07 / 08
+
+TECHNICAL
+
+KNOW THE BOARD.
+MATERIALS
+MEASUREMENTS
+IN THE BOX
+01
+KEYFRAME (TOP CASE)
+6063 ANODIZED ALUMINUM
+02
+BOTTOM CASE
+6063 ANODIZED ALUMINUM
+03
+WEIGHT
+6063 ANODIZED ALUMINUM
+04
+PLATE
+ALUMINUM
+05
+GASKETS
+SILICONE · BRAND ORANGE
+06
+FEET
+SILICONE · BLACK
+07
+ISOLATION WASHERS
+PORON · TOP-MOUNT KIT
+FILE 08 / 08 — THE PCB
+BUILT ON VENOM HE.
+
+Protagonist HE runs on the Geonworks Venom 60HE — a hall-effect analog board tuned entirely in the browser. Dial in actuation, rapid trigger, and per-key response at venom.how. No software to install.
+
+HALL EFFECT
+SENSING
+8 KHZ
+POLLING RATE
+14 KHZ
+SCAN · PER KEY
+0.16 MS
+LATENCY
+RISC-V32
+ARCHITECTURE
+USB-C
+CONNECTION
+7U TSANGAN
+LAYOUT
+VENOM.HOW
+WEB FIRMWARE
+OPEN FIRMWARE · VENOM.HOW →
+MAKE SOMETHING.
+
+Custom keyboards, cables, and desk gear — made to order, built to spec.
+
+SHOP
+Cables
+Build Your Cable
+Keyboards
+Keycaps
+Switches
+Desk Mats
+Accessories & DIY
+SUPPORT
+Contact Us
+Track Your Order
+Track Your Build
+Resources
+Cable Materials
+Build Log
+Join Our Discord
+STAY IN THE KNOW...
+Email
+Instagram
+YouTube
+X (Twitter)
+Discord
+COUNTRY/REGION
+United States | USD $
+© 2026, Wired In
+WIRED IN™ and the W icon™ are trademarks of Wired Inside, Inc. — registration pending
+Refund policy
+Privacy policy
+Terms of service
+Shipping policy
+Contact information
+Cancellation policy
+ASK WIRED IN

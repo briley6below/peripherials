@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21",
+  "generated": "2026-11-22",
   "currency": "USD",
   "rules": [
     "A spec needs at least one source.",
@@ -3768,6 +3768,272 @@
       ]
     },
     {
+      "id": "pulsar-xlite-v4-es-mini",
+      "name": "Pulsar Xlite v4 eS Mini",
+      "category": "mouse",
+      "brand": "Pulsar",
+      "picked_by": [],
+      "price": {
+        "usd": 129.95,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_xl4m"
+        ],
+        "note": "Maker list price US$129.95 (sold out on the maker's site on 2026-11-21). Lethal Gaming Gear listed the Black version at US$38.98, marked down from US$129.95, on the same day."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 61,
+          "status": "verified",
+          "sources": [
+            "mk_xl4m"
+          ],
+          "shown": "61 ± 1",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "115.6 x 63.4 x 40.7",
+          "status": "verified",
+          "sources": [
+            "mk_xl4m"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "Pulsar XS-1, 32,000 DPI",
+          "status": "verified",
+          "sources": [
+            "mk_xl4m",
+            "lgg_xl4m"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_xl4m",
+            "lgg_xl4m"
+          ],
+          "shown": "up to 8000",
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "optical",
+          "status": "verified",
+          "sources": [
+            "mk_xl4m"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "500 mA (maker's wording), 70 to 100 hours",
+          "status": "verified",
+          "sources": [
+            "mk_xl4m"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "ergonomic, right hand, for palm grip",
+          "status": "verified",
+          "sources": [
+            "mk_xl4m"
+          ],
+          "basis": "maker's figure"
+        },
+        "screen": {
+          "value": "OLED display on the bottom for settings without software",
+          "status": "verified",
+          "sources": [
+            "mk_xl4m",
+            "lgg_xl4m"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A right-handed ergonomic wireless mouse with 8K polling and an OLED screen underneath for changing settings without software.",
+        "kind": "fact",
+        "sources": [
+          "mk_xl4m",
+          "lgg_xl4m"
+        ],
+        "status": "verified"
+      },
+      "picked_by_note": "No review was found for this mouse. Its facts come from the maker's page and Lethal Gaming Gear's store page.",
+      "pros": [
+        {
+          "text": "Made for a right-hand palm grip, says the maker.",
+          "kind": "fact",
+          "sources": [
+            "mk_xl4m"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "lgg_xl4m",
+          "label": "Lethal Gaming Gear store - Pulsar Xlite v4 eS Mini [Black]",
+          "url": "https://lethal.gg/products/xlite-v4-es-mini-black",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_xlite-v4-es-mini.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
+          "id": "mk_xl4m",
+          "label": "Pulsar - Xlite v4 eS Mini product page",
+          "url": "https://www.pulsar.gg/products/xlite-v4-es-mini-gaming-mouse",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_pulsar_xlite-v4-es-mini.txt",
+          "outlet": "Pulsar",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "wlmouse-beast-x-mini-pro",
+      "name": "WLmouse Beast X Mini Pro",
+      "category": "mouse",
+      "brand": "WLmouse",
+      "picked_by": [],
+      "price": {
+        "usd": 149.0,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_bxmp"
+        ],
+        "note": "Maker list US$149.00; on sale for US$130.50 on 2026-11-21. Lethal Gaming Gear lists it at US$145.00, all colors sold out on that day."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 34,
+          "status": "verified",
+          "sources": [
+            "mk_bxmp",
+            "lgg_bxmp"
+          ],
+          "shown": "34 ± 2",
+          "note": "Maker: 34 ± 2 g with side slits, 36 ± 2 g with solid sides.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "116 x 58 x 35",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "PAW3950HS",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp",
+            "lgg_bxmp"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_bxmp",
+            "lgg_bxmp"
+          ],
+          "shown": "up to 8000",
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "OMRON Optical or TTC Nihil",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "220 mAh",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp"
+          ],
+          "basis": "maker's figure"
+        },
+        "material": {
+          "value": "magnesium alloy",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp",
+            "lgg_bxmp"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless (8K dongle included)",
+          "status": "verified",
+          "sources": [
+            "mk_bxmp"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A 34 g magnesium wireless mouse with the PAW3950HS sensor and 8K polling.",
+        "kind": "fact",
+        "sources": [
+          "mk_bxmp",
+          "lgg_bxmp"
+        ],
+        "status": "verified"
+      },
+      "picked_by_note": "No review was found for this mouse. Its facts come from the maker's page and Lethal Gaming Gear's store page.",
+      "pros": [
+        {
+          "text": "The maker's size guide suggests a claw or fingertip grip, for hands 16.0 to 17.0 cm long.",
+          "kind": "fact",
+          "sources": [
+            "mk_bxmp"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "lgg_bxmp",
+          "label": "Lethal Gaming Gear store - WLMOUSE Beast X Mini Pro",
+          "url": "https://lethal.gg/products/beast-x-mini-pro-magnesium-gaming-mouse",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_beast-x-mini-pro.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
+          "id": "mk_bxmp",
+          "label": "WLMOUSE - Beast X Mini Pro product page",
+          "url": "https://www.wlmouse.com/products/mini-pro",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_wlmouse_beast-x-mini-pro.txt",
+          "outlet": "WLMOUSE",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
       "id": "wooting-80he",
       "name": "Wooting 80HE",
       "category": "keyboard",
@@ -5613,14 +5879,60 @@
         "sources": [
           "mk_phe"
         ],
-        "note": "Maker price US$189 for both colors (Carbonite, Raven); both sold out on 2026-11-21."
+        "note": "Maker price US$189 for both colors (Carbonite, Raven); both sold out on 2026-11-21. The price is for a kit: switches, stabilizers and keycaps are not included."
       },
       "specs": {
         "switch_type": {
           "value": "magnetic (Hall effect), adjustable actuation",
           "status": "verified",
           "sources": [
-            "mk_phe"
+            "mk_phe",
+            "mk_phe2"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_phe2",
+            "gk_phe"
+          ],
+          "basis": "maker's figure"
+        },
+        "size": {
+          "value": "60%, 7U Tsangan layout",
+          "status": "verified",
+          "sources": [
+            "mk_phe2",
+            "gk_phe"
+          ],
+          "basis": "maker's figure"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "mk_phe2",
+            "gk_phe"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wired (USB-C)",
+          "status": "verified",
+          "sources": [
+            "mk_phe2",
+            "gk_phe"
+          ],
+          "basis": "maker's figure"
+        },
+        "case": {
+          "value": "6063 aluminum, three pieces",
+          "status": "verified",
+          "sources": [
+            "mk_phe2",
+            "gk_phe"
           ],
           "basis": "maker's figure"
         },
@@ -5628,29 +5940,59 @@
           "value": "isolated top mount or gasket mount (both kits in the box)",
           "status": "verified",
           "sources": [
-            "mk_phe"
+            "mk_phe",
+            "gk_phe"
+          ],
+          "basis": "maker's figure"
+        },
+        "in_the_box": {
+          "value": "kit: case, Venom 60HE PCB, plate and foam; switches, stabilizers and keycaps not included",
+          "status": "verified",
+          "sources": [
+            "mk_phe2",
+            "gk_phe"
           ],
           "basis": "maker's figure"
         }
       },
       "verdict": {
-        "text": "A custom-style Hall effect keyboard from Wired In; the box has both a top-mount kit and a gasket-mount kit.",
+        "text": "A Hall effect keyboard kit from Wired In, built on the Geonworks Venom 60HE board. You add your own magnetic switches, stabilizers and keycaps.",
         "kind": "fact",
         "sources": [
-          "mk_phe"
+          "mk_phe2",
+          "gk_phe"
         ],
         "status": "verified"
       },
-      "picked_by_note": "Only the maker's page was found for this keyboard. No review or second store listed it, so its facts are not checked against a second source.",
+      "picked_by_note": "No hands-on review was found. Its facts come from the maker's pages and a Greenkeys news article (a Japanese keyboard site).",
       "pros": [],
       "cons": [],
       "sources": [
+        {
+          "id": "gk_phe",
+          "label": "Greenkeys - Wired In Protagonist HE release news (Japanese)",
+          "url": "https://green-keys.info/wired-in%E3%80%8Cprotagonist-he%E3%80%8D%E3%81%8C%E7%99%BA%E5%A3%B2%EF%BD%9Cvenom-60he%E6%90%AD%E8%BC%89%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E8%A3%BD%E7%A3%81%E6%B0%97/",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/review_greenkeys_wired-in-protagonist-he.txt",
+          "published": "2026-08-02",
+          "outlet": "Greenkeys",
+          "type": "review site"
+        },
         {
           "id": "mk_phe",
           "label": "Wired In - Protagonist HE product page",
           "url": "https://wiredin.design/products/protagonist-he",
           "date_checked": "2026-11-21",
           "raw_file": "data/raw/maker_wiredin_protagonist-he.txt",
+          "outlet": "Wired In",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_phe2",
+          "label": "Wired In - Protagonist HE feature page",
+          "url": "https://wiredin.design/pages/protagonist-he",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_wiredin_protagonist-he-page.txt",
           "outlet": "Wired In",
           "type": "maker page"
         }
@@ -5850,6 +6192,87 @@
           "url": "https://keebforce.com/su75-pro/",
           "date_checked": "2026-11-21",
           "raw_file": "data/raw/store_keebforce_everglide-su75-pro-page.txt",
+          "outlet": "KeebForce",
+          "type": "store page"
+        }
+      ]
+    },
+    {
+      "id": "everglide-su66-max",
+      "name": "Everglide SU66 Max",
+      "category": "keyboard",
+      "brand": "Everglide / KeebForce",
+      "picked_by": [],
+      "price": {
+        "usd": "99 - 179",
+        "type": "US store price range",
+        "status": "unverified",
+        "sources": [
+          "kf_su66"
+        ],
+        "note": "KeebForce shows a price range of US$99 to US$179, depending on the switches (a 'no switch' option is listed). The page does not say which option costs US$99, so this price is not used in the price filters. A barebones kit is listed at US$155."
+      },
+      "specs": {
+        "switch_type": {
+          "value": "magnetic (Hall effect), adjustable actuation",
+          "status": "reported",
+          "sources": [
+            "kf_su66"
+          ],
+          "note": "Rapid Trigger is also listed.",
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "case": {
+          "value": "CNC aluminum",
+          "status": "reported",
+          "sources": [
+            "kf_su66"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "mount": {
+          "value": "gasket mount",
+          "status": "reported",
+          "sources": [
+            "kf_su66"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        },
+        "spacebar": {
+          "value": "3-key split spacebar",
+          "status": "reported",
+          "sources": [
+            "kf_su66"
+          ],
+          "reported_by": [
+            "KeebForce"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "An aluminum Hall effect keyboard with adjustable actuation, Rapid Trigger and a split spacebar.",
+        "kind": "fact",
+        "sources": [
+          "kf_su66"
+        ],
+        "status": "reported (unknown)"
+      },
+      "picked_by_note": "Only KeebForce's store page was found for this keyboard (KeebForce sells it as a joint KeebForce and Everglide board). No review or second store listed it, so its facts are not checked against a second source.",
+      "pros": [],
+      "cons": [],
+      "sources": [
+        {
+          "id": "kf_su66",
+          "label": "KeebForce store - Keebforce & Everglide Su66 Max",
+          "url": "https://keebforce.com/keebforce-everglide-su66-max/",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_keebforce_everglide-su66-max.txt",
           "outlet": "KeebForce",
           "type": "store page"
         }
@@ -7082,7 +7505,8 @@
       "category": "mousepad",
       "brand": "ARTISAN",
       "picked_by": [
-        "bz_pad_zero"
+        "bz_pad_zero",
+        "pros_zero"
       ],
       "price": {
         "usd": "about 31.39",
@@ -7099,7 +7523,8 @@
           "status": "verified",
           "sources": [
             "mk_artisan",
-            "mk_artisan2"
+            "mk_artisan2",
+            "pros_zero"
           ],
           "basis": "maker's figure"
         },
@@ -7136,9 +7561,42 @@
             "bz_pad_zero_feel"
           ],
           "status": "opinion: boardzy"
+        },
+        {
+          "text": "A safe, balanced glide that suits many aiming styles; ProSettings calls it a great, safe choice.",
+          "kind": "opinion",
+          "sources": [
+            "pros_zero"
+          ],
+          "status": "opinion: ProSettings.net"
+        },
+        {
+          "text": "Great finishing and premium stitching.",
+          "kind": "opinion",
+          "sources": [
+            "pros_zero"
+          ],
+          "status": "opinion: ProSettings.net"
         }
       ],
-      "cons": [],
+      "cons": [
+        {
+          "text": "ProSettings says it is not a true control pad but a control-leaning all-rounder, so look elsewhere if you want a lot of stopping power.",
+          "kind": "opinion",
+          "sources": [
+            "pros_zero"
+          ],
+          "status": "opinion: ProSettings.net"
+        },
+        {
+          "text": "The rough surface traps hair and skin cells easily.",
+          "kind": "opinion",
+          "sources": [
+            "pros_zero"
+          ],
+          "status": "opinion: ProSettings.net"
+        }
+      ],
       "sources": [
         {
           "id": "bz_pad_zero",
@@ -7189,6 +7647,295 @@
           "date_checked": "2026-11-19",
           "raw_file": "data/raw/maker_artisan_fx-zero-prices.txt",
           "outlet": "ARTISAN",
+          "type": "maker page"
+        },
+        {
+          "id": "pros_zero",
+          "label": "ProSettings.net - Artisan Zero review",
+          "url": "https://prosettings.net/reviews/artisan-zero/",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/review_prosettings_artisan-zero.txt",
+          "published": "2025-03-25",
+          "outlet": "ProSettings.net",
+          "type": "review site"
+        }
+      ]
+    },
+    {
+      "id": "artisan-ninja-fx-type-99",
+      "name": "ARTISAN NINJA FX TYPE-99",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "picked_by": [
+        "bz_pad_t99",
+        "pros_t99"
+      ],
+      "price": {
+        "usd": "about 29.01",
+        "type": "maker price, converted from yen",
+        "status": "unverified",
+        "sources": [
+          "mk_t99"
+        ],
+        "note": "From ¥4,600 for the smallest size. The maker charges in Japanese yen; the US dollar figure is the maker site's own conversion, so it can change with exchange rates and is not used in the price filters. The maker says gray versions will be discontinued once current stock runs out."
+      },
+      "specs": {
+        "base_options": {
+          "value": "XSOFT, SOFT, MID",
+          "status": "verified",
+          "sources": [
+            "mk_t99",
+            "pros_t99"
+          ],
+          "basis": "maker's figure"
+        },
+        "sizes": {
+          "value": "M, L, XL, XXL",
+          "status": "verified",
+          "sources": [
+            "mk_t99"
+          ],
+          "basis": "maker's figure"
+        },
+        "surface": {
+          "value": "fast-drying fabric, high friction",
+          "status": "verified",
+          "sources": [
+            "mk_t99"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A very slow, extreme control pad with a lot of stopping power.",
+        "kind": "opinion",
+        "sources": [
+          "bz_pad_t99b",
+          "pros_t99"
+        ],
+        "status": "agreed (ProSettings.net, boardzy)"
+      },
+      "pros": [
+        {
+          "text": "The pad to beat for extreme control; very consistent and never gets muddy, says boardzy.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_t99",
+            "bz_pad_t99b"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "Smooth surface for such a controlling pad.",
+          "kind": "opinion",
+          "sources": [
+            "pros_t99"
+          ],
+          "status": "opinion: ProSettings.net"
+        },
+        {
+          "text": "Great finishing and overall quality.",
+          "kind": "opinion",
+          "sources": [
+            "pros_t99"
+          ],
+          "status": "opinion: ProSettings.net"
+        }
+      ],
+      "cons": [
+        {
+          "text": "The extremely slow glide is an acquired taste; ProSettings would not recommend it to people just getting started with pads.",
+          "kind": "opinion",
+          "sources": [
+            "pros_t99"
+          ],
+          "status": "opinion: ProSettings.net"
+        },
+        {
+          "text": "Hard to keep in stock in 2024, says boardzy.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_t99"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_pad_t99",
+          "label": "boardzy - 2024 Mousepad Tier List (14:28)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=868s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "14:28",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_t99b",
+          "label": "boardzy - 2024 Mousepad Tier List (15:00)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=900s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "15:00",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_t99",
+          "label": "ARTISAN - NINJA FX TYPE-99 product page",
+          "url": "https://artisan-jp.com/global/products/ninja-fx/fx-type99",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_artisan_fx-type99.txt",
+          "outlet": "ARTISAN",
+          "type": "maker page"
+        },
+        {
+          "id": "pros_t99",
+          "label": "ProSettings.net - Artisan Type-99 review",
+          "url": "https://prosettings.net/reviews/artisan-type-99/",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/review_prosettings_artisan-type-99.txt",
+          "published": "2025-03-12",
+          "outlet": "ProSettings.net",
+          "type": "review site"
+        }
+      ]
+    },
+    {
+      "id": "lgg-neptune-pro",
+      "name": "Lethal Gaming Gear Neptune Pro (now Pulsar eS Neptune Pro)",
+      "category": "mousepad",
+      "brand": "Lethal Gaming Gear / Pulsar",
+      "picked_by": [],
+      "mentioned_by": [
+        "bz_pad_neptune"
+      ],
+      "price": {
+        "usd": 49.95,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_neptune"
+        ],
+        "note": "SOFT base, XL size: list US$49.95 at Pulsar and at Lethal Gaming Gear, both on sale for US$39.96 on 2026-11-21. Size L lists at US$39.95."
+      },
+      "name_note": {
+        "value": "Pulsar and Lethal Gaming Gear now sell the Neptune Pro under the Pulsar brand as the 'eS Neptune Pro'. We found no statement on whether the surface changed since boardzy's 2024 video.",
+        "status": "verified",
+        "sources": [
+          "mk_neptune",
+          "lgg_neptune"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "Amundsen woven fabric",
+          "status": "verified",
+          "sources": [
+            "mk_neptune",
+            "lgg_neptune"
+          ],
+          "basis": "maker's figure"
+        },
+        "base_options": {
+          "value": "SOFT",
+          "status": "verified",
+          "sources": [
+            "mk_neptune",
+            "lgg_neptune"
+          ],
+          "basis": "maker's figure"
+        },
+        "thickness_mm": {
+          "value": 4,
+          "status": "verified",
+          "sources": [
+            "mk_neptune",
+            "lgg_neptune"
+          ],
+          "basis": "maker's figure"
+        },
+        "sizes": {
+          "value": "L 420 x 330 x 4 mm; XL 490 x 420 x 4 mm; XL SQ 500 x 500 x 4 mm",
+          "status": "verified",
+          "sources": [
+            "mk_neptune",
+            "lgg_neptune"
+          ],
+          "note": "Pulsar also sells an XXL (1000 x 500 x 4 mm).",
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A fast cloth pad. boardzy puts it in his A tier: a cut above the Venus, but he preferred the Raiden.",
+        "kind": "opinion",
+        "sources": [
+          "bz_pad_neptune"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [
+        {
+          "text": "Lethal Gaming Gear's second-best pad, after the Saturn Pro, says boardzy.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_neptune2"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Could use a bit more stopping power, and can feel fast and slippery depending on the skates.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_neptune2"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_pad_neptune",
+          "label": "boardzy - 2024 Mousepad Tier List (50:44)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=3044s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "50:44",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_neptune2",
+          "label": "boardzy - 2024 Mousepad Tier List (51:09)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=3069s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "51:09",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "lgg_neptune",
+          "label": "Lethal Gaming Gear store - eS Neptune Pro SOFT",
+          "url": "https://lethal.gg/products/es-neptune-pro-gaming-mousepad-soft",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/store_lgg_es-neptune-pro-soft.txt",
+          "outlet": "Lethal Gaming Gear",
+          "type": "store page"
+        },
+        {
+          "id": "mk_neptune",
+          "label": "Pulsar - eS Neptune Pro Gaming Mousepad SOFT product page",
+          "url": "https://www.pulsar.gg/products/es-neptune-pro-gaming-mousepad-soft",
+          "date_checked": "2026-11-21",
+          "raw_file": "data/raw/maker_pulsar_es-neptune-pro-soft.txt",
+          "outlet": "Pulsar",
           "type": "maker page"
         }
       ]

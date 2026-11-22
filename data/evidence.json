@@ -1457,6 +1457,71 @@
    "at": null
   },
   {
+   "item": "pulsar-xlite-v4-es-mini",
+   "line": "A right-handed ergonomic wireless mouse with 8K polling and an OLED screen underneath for changing settings without software.",
+   "source": "mk_xl4m",
+   "quotes": [
+    "Ergonomic right hand",
+    "Super high 8K polling rate",
+    "OLED Display on the bottom of the mouse.",
+    "Driverless - Change the settings without the software."
+   ],
+   "at": null
+  },
+  {
+   "item": "pulsar-xlite-v4-es-mini",
+   "line": "A right-handed ergonomic wireless mouse with 8K polling and an OLED screen underneath for changing settings without software.",
+   "source": "lgg_xl4m",
+   "quotes": [
+    "an 8K polling rate",
+    "Customization is simple and software-free, thanks to the integrated OLED display"
+   ],
+   "at": null
+  },
+  {
+   "item": "pulsar-xlite-v4-es-mini",
+   "line": "Made for a right-hand palm grip, says the maker.",
+   "source": "mk_xl4m",
+   "quotes": [
+    "Ergonomic right hand",
+    "Recommended for Palm Grip"
+   ],
+   "at": null
+  },
+  {
+   "item": "wlmouse-beast-x-mini-pro",
+   "line": "A 34 g magnesium wireless mouse with the PAW3950HS sensor and 8K polling.",
+   "source": "mk_bxmp",
+   "quotes": [
+    "Weight: 34 ±2g",
+    "PixArt PAW3950HS",
+    "Adjustable up to 8000Hz",
+    "magnesium alloy"
+   ],
+   "at": null
+  },
+  {
+   "item": "wlmouse-beast-x-mini-pro",
+   "line": "A 34 g magnesium wireless mouse with the PAW3950HS sensor and 8K polling.",
+   "source": "lgg_bxmp",
+   "quotes": [
+    "At just 34g",
+    "PAW3950HS",
+    "up to 8K Hz supported",
+    "Magnesium Alloy"
+   ],
+   "at": null
+  },
+  {
+   "item": "wlmouse-beast-x-mini-pro",
+   "line": "The maker's size guide suggests a claw or fingertip grip, for hands 16.0 to 17.0 cm long.",
+   "source": "mk_bxmp",
+   "quotes": [
+    "Beast X Mini Pro\nSIZE\n116 × 58 × 35 mm\nIDEAL HAND SIZE\n16.0 - 17.0 cm\nGRIP STYLE\nClaw\nFingertip"
+   ],
+   "at": null
+  },
+  {
    "item": "wooting-80he",
    "line": "RTINGS' best gaming keyboard and #7 on PC Gamer's list (its best rapid trigger keyboard), with keys you can tune.",
    "source": "rt_best_gaming_kb",
@@ -2020,11 +2085,23 @@
   },
   {
    "item": "wired-in-protagonist-he",
-   "line": "A custom-style Hall effect keyboard from Wired In; the box has both a top-mount kit and a gasket-mount kit.",
-   "source": "mk_phe",
+   "line": "A Hall effect keyboard kit from Wired In, built on the Geonworks Venom 60HE board. You add your own magnetic switches, stabilizers and keycaps.",
+   "source": "mk_phe2",
    "quotes": [
-    "hall-effect switching",
-    "Two mounting solutions ship in every box: firm isolated top mount, or the softer gasket mount"
+    "Protagonist HE runs on the Geonworks Venom 60HE",
+    "HALL EFFECT (NOT INCLUDED)",
+    "SCREW-IN · LUBED (NOT INCLUDED)",
+    "DOUBLE-SHOT PBT (NOT INCLUDED)"
+   ],
+   "at": null
+  },
+  {
+   "item": "wired-in-protagonist-he",
+   "line": "A Hall effect keyboard kit from Wired In, built on the Geonworks Venom 60HE board. You add your own magnetic switches, stabilizers and keycaps.",
+   "source": "gk_phe",
+   "quotes": [
+    "Geonworksの磁気式PCB「Venom 60HE」を搭載したモデルです",
+    "磁気式キーボードを組み立てるためのキットです"
    ],
    "at": null
   },
@@ -2047,6 +2124,19 @@
     "Case: 6063 CNC aluminum",
     "Polling Rate: 8K",
     "Hall Effect Keyboards"
+   ],
+   "at": null
+  },
+  {
+   "item": "everglide-su66-max",
+   "line": "An aluminum Hall effect keyboard with adjustable actuation, Rapid Trigger and a split spacebar.",
+   "source": "kf_su66",
+   "quotes": [
+    "Hall Effect Keyboards",
+    "Adjustable Actuation Point",
+    "Dynamic Rapid Trigger",
+    "Full Body CNC Aluminum",
+    "3-key split spacebar"
    ],
    "at": null
   },
@@ -2681,6 +2771,155 @@
     "the zero it's a control pad but it has speed to it it's low initial friction"
    ],
    "at": "21:28"
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "A safe, balanced glide that suits many aiming styles; ProSettings calls it a great, safe choice.",
+   "source": "pros_zero",
+   "quotes": [
+    "Very safe, ‘logical’ glide that works for a ton of aiming styles",
+    "This is a great, safe choice for people who want to get into premium pads."
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "Great finishing and premium stitching.",
+   "source": "pros_zero",
+   "quotes": [
+    "Great finishing",
+    "Premium stitching"
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "ProSettings says it is not a true control pad but a control-leaning all-rounder, so look elsewhere if you want a lot of stopping power.",
+   "source": "pros_zero",
+   "quotes": [
+    "I think it’s more accurate to call it a control-leaning allrounder",
+    "So if you’re looking for a ton of restraint from your pad, you should look elsewhere."
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "The rough surface traps hair and skin cells easily.",
+   "source": "pros_zero",
+   "quotes": [
+    "Rough surface can get annoying",
+    "Traps hairs and skin cells rather easily"
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "A very slow, extreme control pad with a lot of stopping power.",
+   "source": "bz_pad_t99b",
+   "quotes": [
+    "the type 99 definitely I would say the pad to beat",
+    "when it comes to extreme control pads"
+   ],
+   "at": "15:00"
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "A very slow, extreme control pad with a lot of stopping power.",
+   "source": "pros_t99",
+   "quotes": [
+    "The Artisan Type-99 is a fantastic control pad.",
+    "The Type-99 is extremely slow"
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "The pad to beat for extreme control; very consistent and never gets muddy, says boardzy.",
+   "source": "bz_pad_t99",
+   "quotes": [
+    "type 99 I'm going to throw it in the base tier",
+    "it never gets muddy and yeah my",
+    "experience it has been very consistent"
+   ],
+   "at": "14:28"
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "The pad to beat for extreme control; very consistent and never gets muddy, says boardzy.",
+   "source": "bz_pad_t99b",
+   "quotes": [
+    "the pad to beat",
+    "when it comes to extreme control pads"
+   ],
+   "at": "15:00"
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "Smooth surface for such a controlling pad.",
+   "source": "pros_t99",
+   "quotes": [
+    "Smooth surface for such a controlling pad"
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "Great finishing and overall quality.",
+   "source": "pros_t99",
+   "quotes": [
+    "Great finishing and overall quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "The extremely slow glide is an acquired taste; ProSettings would not recommend it to people just getting started with pads.",
+   "source": "pros_t99",
+   "quotes": [
+    "Extremely slow glide is an acquired taste",
+    "It’s also not a pad I would recommend to people who are just getting started in their mousepad journey."
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-type-99",
+   "line": "Hard to keep in stock in 2024, says boardzy.",
+   "source": "bz_pad_t99",
+   "quotes": [
+    "they do have issues um keeping it in stock due to the demand"
+   ],
+   "at": "14:28"
+  },
+  {
+   "item": "lgg-neptune-pro",
+   "line": "A fast cloth pad. boardzy puts it in his A tier: a cut above the Venus, but he preferred the Raiden.",
+   "source": "bz_pad_neptune",
+   "quotes": [
+    "Neptune Pro will probably be the final a tier pad in this video I do think it's a cut above",
+    "the Venus",
+    "it lost out to the Raiden for me personally"
+   ],
+   "at": "50:44"
+  },
+  {
+   "item": "lgg-neptune-pro",
+   "line": "Lethal Gaming Gear's second-best pad, after the Saturn Pro, says boardzy.",
+   "source": "bz_pad_neptune2",
+   "quotes": [
+    "not something I recommend as hard as the Saturn Pro",
+    "I think the Neptune Pro is definitely lethal gaming gear second to best pad"
+   ],
+   "at": "51:09"
+  },
+  {
+   "item": "lgg-neptune-pro",
+   "line": "Could use a bit more stopping power, and can feel fast and slippery depending on the skates.",
+   "source": "bz_pad_neptune2",
+   "quotes": [
+    "it should have a little bit more stopping power",
+    "depending on the skates this pad actually can feel pretty fast and slippery"
+   ],
+   "at": "51:09"
   },
   {
    "item": "lgg-saturn-pro",
