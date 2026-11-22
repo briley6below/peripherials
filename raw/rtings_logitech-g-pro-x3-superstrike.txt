@@ -1,0 +1,698 @@
+URL: https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike
+TITLE: Logitech G PRO X3 SUPERSTRIKE Review - RTINGS.com
+SAVED: 2026-11-18T22:57:06.292Z
+
+Products
+Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Wireless Mouse Ergonomic Wireless Gaming Lightweight Work MMO Logitech Budget Gaming MacBooks FPS Wired Trackball Razer Claw Grip Corsair SteelSeries
+TOOLS
+Compare 3D Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Logitech G PRO X2 SUPERSTRIKE Razer Viper V4 Pro Logitech MX Master 4 Razer Naga V3 Pro Logitech G PRO X3 SUPERSTRIKE Logitech G502 X PLUS Logitech G305 LIGHTSPEED MCHOSE L7 Ultra Razer Basilisk V3 Logitech G PRO X SUPERLIGHT 2 VXE R1 Pro Finalmouse Starlight X Logitech M720 Triathlon MCHOSE L7 Pro Endgame Gear OP1 8k v2 Razer Viper V3 Pro Logitech G502 X Keychron M6 LAMZU THORN V2 Logitech G305 X SUPERLIGHT
+420 MICE BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Mouse  Reviews  Logitech  G PRO X3 SUPERSTRIKE  Review
+Notice: We've revamped our membership program.
+Logitech G PRO X3 SUPERSTRIKE  Mouse Review
+By James Alex Chérubin, Gregory Vodden, John Peroramas
+Reviewed Oct 23, 2026 at 02:33pm
+Tested using Methodology v1.5.2 
+Type
+Standard
+Ambidextrous
+Shape Only
+Default Weight
+58.2 g
+Connectivity
+Wireless
+N/A
+Work 
+N/A
+Video Games (FPS) 
+N/A
+Video Games (MMO) 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Amazon
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 30
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Style
+Shape
+Build Quality
+Weight
+Hand Size Recommendation
+Wireless Versatility
+Cable
+Mouse Feet
+In The Box
+Control
+Main Button
+Additional Buttons
+Click Latency
+CPI
+Sensor Latency
+Sensor Specifications
+Mouse Wheel
+Noise
+Operating System And Software
+Configuration Software
+Mouse Compatibility
+Retailers
+Comments
+
+The Logitech G PRO X3 SUPERSTRIKE is a lightweight wireless gaming mouse with a symmetrical shape. Its main buttons use adjustable inductive switches that let you customize how far you need to press before a click registers, and it has haptic motors that provide tactile feedback instead of a conventional mechanical click. This is an updated version of the Logitech G PRO X2 SUPERSTRIKE, but the changes are iterative, with slightly reduced weight, adjusted weight distribution, longer advertised battery life, and a new chipset that supports 8000Hz polling over a wired connection.
+
+Our Verdict
+N/AVideo Games (FPS) 
+
+The Logitech G PRO X3 SUPERSTRIKE is remarkably good for FPS gaming. Its lightweight design makes it easy to move quickly and accurately, though its slightly front-heavy balance may be noticeable, especially if you play on lower sensitivity settings and make broad sweeps or frequently lift and reposition your mouse. That said, it delivers exceptionally low and consistent sensor and click latency. Adjustable actuation lets you choose how far you need to press the main buttons to register an input, while Rapid Trigger lets you set how far you need to release them before they reset for another click. Together, these features can help you register inputs sooner and make follow-up clicks more quickly. However, highly sensitive settings can take some getting used to and may lead to more accidental inputs.
+
+Pros
+
+Exceptionally low and consistent click latency.
+
+Outstanding sensor performance.
+
+Outstanding build quality.
+
+Adjustable actuation, Rapid Trigger, and haptic click settings.
+
+Lightweight.
+
+Cons
+
+Weight balance is slightly front heavy.
+
+UHMWPE feet don’t glide as smoothly as higher-end PTFE feet used on many competing FPS mice.
+
+SEE PRICEAmazon
+SEE OUR VIDEO GAMES (FPS) RECOMMENDATIONS 
+N/A
+Work
+N/A
+Video Games (FPS)
+N/A
+Video Games (MMO)
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Oct 23, 2026: Review published.
+ Updated Oct 20, 2026: Early access published.
+ Updated Oct 14, 2026: Our testers have started testing this product.
+ Updated Oct 09, 2026: The product has arrived in our lab, and our testers will start evaluating it soon.
+Show more 
+Check Price
+Magenta Eclipse
+SEE PRICEAmazon
+Midnight Black
+SEE PRICEAmazon
+Differences Between Sizes And Variants
+
+The Logitech G PRO X3 SUPERSTRIKE is available in Midnight Black and Magenta Eclipse color options. We tested the Magenta Eclipse version. See a photo of our unit's label here.
+
+Popular Mouse Comparisons
+
+The Logitech G PRO X3 SUPERSTRIKE succeeds the Logitech G PRO X2 SUPERSTRIKE, which launched in February 2026. The changes introduced with this model aren't major: it's marginally lighter and has improved weight distribution, though it remains slightly front-heavy. Its updated chipset also provides a small performance improvement, adds support for 8000Hz polling over a wired connection, and increases advertised battery life from 90 to 135 hours. However, the measured gains in click latency aren't large enough to be noticeable during gameplay. 
+
+The major drawback is its pricing, which places it at the top end of the flagship FPS segment. The less expensive Razer Viper V4 Pro offers similarly outstanding raw performance but lacks adjustable actuation and Rapid Trigger. The Finalmouse Starlight X also costs less than the Logitech and offers both features, with very similar click and sensor latency. However, its mechanical tactile click remains at a fixed point in the button travel regardless of the actuation setting, while the Logitech's adjustable haptic feedback provides a click sensation at your chosen actuation point, which can feel more natural.
+
+Like its predecessor, this mouse is a premium option best suited to competitive gamers who value click customization. The adjustable actuation and haptic feedback are compelling features, but they shouldn't be confused with a dramatic performance advantage over other top-tier competitors.
+
+For more recommendations, see our picks for the best gaming mouse, the best wireless gaming mouse, and the best lightweight mouse.
+
+Logitech G PRO X2 SUPERSTRIKE
+SEE PRICEAmazon
+
+The Logitech G PRO X3 SUPERSTRIKE is an iterative update to the Logitech G PRO X2 SUPERSTRIKE. The X3 is marginally lighter and has a revised weight balance that makes it slightly less front-heavy. Its new chipset enables wired polling at 8000Hz, which the X2 doesn't support, and delivers marginally lower sensor and click latency. It also has longer advertised battery life.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Razer Viper V4 Pro
+SEE PRICEAmazon
+
+The Razer Viper V4 Pro and Logitech G PRO X3 SUPERSTRIKE are lightweight wireless gaming mice. Both have exceptionally low click and sensor latency, making them outstanding options for competitive play. The Razer is noticeably lighter, with a slightly lower-profile shape. It also uses comparatively conventional optical switches and has smoother-gliding feet. On the other hand, the Logitech uses inductive switches that let you customize how far you press the main buttons before they register, with adjustable haptic feedback that simulates a tactile click to match your actuation setting.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Finalmouse Starlight X
+SEE PRICEFinalmouse
+
+Both the Finalmouse Starlight X and the Logitech G PRO X3 SUPERSTRIKE are lightweight wireless gaming mice that let you adjust the actuation distance of the main buttons. Both perform exceptionally well and are well-suited for competitive play. The biggest difference is how they provide click feedback: the Finalmouse's mechanical tactile click occurs at a fixed point in the button travel regardless of your actuation setting, while the Logitech's adjustable haptic feedback simulates a click to match that setting, which can feel more natural. The Logitech also has better build quality with a fully enclosed plastic body. On the other hand, the Finalmouse is noticeably lighter, with a carbon-fiber composite body, small cutouts on top, and honeycomb cutouts underneath. It also has smoother-gliding feet.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Endgame Gear OP1 8k v2
+SEE PRICEAmazon
+
+The Endgame Gear OP1 8k v2 and the Logitech G PRO X3 SUPERSTRIKE are lightweight gaming mice with exceptionally low click and sensor latency. The Endgame Gear is wired-only, with a narrow shape and a pronounced rear hump that's particularly well-suited for claw grip. It's also lighter and has smoother-gliding feet. It uses SPDT (single-pole, double-throw) mechanical switches, which are largely responsible for its exceptionally low click latency. On the other hand, the Logitech is a wireless model with a shape that's more broadly accommodating to all grip types. It uses inductive switches that let you customize how far the main buttons travel before a click registers, while adjustable haptic feedback simulates a tactile click to match your actuation setting.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+9 TESTS
+HIDE TEST DETAILS
+Style
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Type
+LockedStandard
+Coating
+LockedLocked
+Lighting ColorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Shape
+SAMPLE
+Join Now
+
+for pictures & test results
+
+LengthLockedLock" (Lock mm)
+WidthLockedLock" (Lock mm)
+HeightLockedLock" (Lock mm)
+Grip Width
+LockedLock mm
+Ambidextrous
+LockedShape Only
+Left-Handed Friendly
+LockedLocked
+Finger Rest
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SHAPE 
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Weight
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Lowest Weight
+LockedLock g
+Default Weight
+Locked58.2 g
+Weight Distribution
+LockedLocked
+Extra Weights
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Hand Size Recommendation
+Palm Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Claw Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Fingertip Grip Hand Recommendation
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT HAND SIZE RECOMMENDATION 
+N/A
+Wireless Versatility
+Maximum Of Paired Devices
+LockedLocked
+Bluetooth
+LockedLocked
+Receiver
+LockedLocked
+Battery Type
+LockedLocked
+Use When Charging
+LockedLocked
+On/Off Activation
+LockedLocked
+Receiver Extender
+LockedLocked
+Receiver Storing
+LockedLocked
+Battery IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable
+ConnectivityLockedWireless
+Cable Length
+LockedLock ft (Lock m)
+Cable Type
+LockedLocked
+Permanent Kink
+LockedLocked
+Port Type: Mouse End
+LockedLocked
+Port Type: PC End
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Feet
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Gliding Experience
+LockedLocked
+Material
+LockedLocked
+Extra Included
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+CONTROL
+8 TESTS
+HIDE TEST DETAILS
+Main Button
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Switch Type
+LockedLocked
+Switch Model
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Additional Buttons
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Total Number Of Buttons
+LockedLock
+Number Of Side Buttons
+LockedLock
+Number Of Programmable Inputs 
+LockedLock
+Profile Switching Button
+LockedLocked
+Gesture Support
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Click Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Expected Connection
+LockedLock ms
+Wired
+LockedLock ms
+Receiver
+LockedLock ms
+Bluetooth
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CLICK LATENCY 
+N/A
+CPI
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SRAV @ 1600 CPI
+LockedLock%
+SRAV @ 800 CPI
+LockedLock%
+SRAV @ 400 CPI
+LockedLock%
+SRAV @ Fixed CPI
+LockedN/A
+Precision Error Between Speeds
+LockedLock%
+Precision Error Between CPI
+LockedLock%
+Worst Tracking Error
+LockedLock%
+Minimum CPI
+LockedLock CPI
+Maximum CPI
+LockedLock CPI
+CPI Adjustment Steps
+LockedLock CPI
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT CPI 
+N/A
+Sensor Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Delay At Half Movement
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR LATENCY 
+Sensor Specifications
+Sensor Technology
+LockedLocked
+Sensor Model
+LockedLocked
+Works On Glass
+LockedLocked
+Minimum Lift Off Distance
+LockedLock mm
+Maximum Polling Rate
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SENSOR SPECIFICATIONS 
+Mouse Wheel
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Scroll Wheel Type
+LockedLocked
+Scroll Wheel Tilt
+LockedLocked
+Thumb Wheel Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Click Noise
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+OPERATING SYSTEM AND SOFTWARE
+2 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatibility
+LockedLocked
+Software macOS Compatibility
+LockedLocked
+On-Board Memory
+LockedLocked
+CPI (DPI) Adjustment 
+LockedLocked
+Polling Rate Adjustment
+LockedLocked
+Profile Configuration
+LockedLocked
+Profile Auto-Switching
+LockedLocked
+RGB On/Off
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Mouse Compatibility
+Windows CompatibilityLockedLocked
+macOS CompatibilityLockedLocked
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The Best Gaming Mouse
+The Best Wireless Mouse
+The Best Mouse
+The Best Ergonomic Mouse
+The Best Wireless Gaming Mouse
+The Best Lightweight Mouse
+The Best Mouse For Work
+The Best MMO Mouse
+The 5 Best Logitech Mice
+The Best Cheap And Budget Gaming Mouse
+The Best Mouse For MacBooks
+The Best FPS Mouse
+The Best Wired Mouse
+The Best Trackball Mouse
+The 5 Best Razer Mice
+The Best Claw Grip Mouse
+The 4 Best Corsair Mice
+The 4 Best SteelSeries Mice
+Comments
+PRODUCT
+ACTIVE 5 DAYS AGO · 
+ • POSTED 1 MONTH AGO
+Logitech G PRO X3 SUPERSTRIKE: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+30 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+3
+2
+1
+ 
+Chris-Legacy 126
+ • POSTED 5 DAYS AGO
+NOV 13, 2026 06:54 AM BY  RtingsUser4386339  27
+
+this mouse is missing only one thing and its optical scroll wheel 
+:D 
+other than that its the best mouse 
+also they need to make the mouse less than 50 gram :D 
+i bought razer viper v4 pro because it has optical scroll wheel
+
+an ergonomic shape for medium to large hands is missing as well ;)
+
+Reply
+Copy link
+3
+2
+1
+ 
+RtingsUser4386339 27
+ • UPDATED 5 DAYS AGO • POSTED 5 DAYS AGO
+
+this mouse is missing only one thing and its optical scroll wheel 
+:D 
+other than that its the best mouse 
+
+also they need to make the mouse less than 50 gram :D 
+
+i bought razer viper v4 pro because it has optical scroll wheel
+
+Edited 5 days ago: add weight
+Reply
+Copy link
+4
+3
+2
+ 
+Chris-Legacy 126
+ • POSTED 18 DAYS AGO
+OCT 29, 2026 10:07 PM BY  Xeanos  19
+
+Weird that people are negative about this mouse. Personally its the best mouse ive ever used.
+
+It’s not that it’s a bad mouse, actually quite the opposite, and I love really LOVE the quiet clicks, but comparing it to the Razer Viper V4 Pro for example, it has grippier coating, it is lighter (49g vs 59g), it has better skates (best I ever had on a mouse), it has better battery runtime at 1000Hz (180h against 135h), it has a better optical sensor, the scroll wheel is better (it’s optical), the dongle is better (heavier and has 3 indication LEDs), the cable is better, it has web-based software instead of forcing you to install a desktop app. And on top of that, it is cheaper. So people do have “negative” things to say because it just isn’t the best for the money.
+Mind you, I tried both and neither shape worked for my medium/large hands. Couldn’t main either without getting cramps and legit pain during long sessions, so I had to swap to an ergo mouse (ASUS ROG Gladius 4 Ace). Shape is king at the end of the day—specs don’t mean anything if the mouse gives you carpal tunnel lol.
+
+Reply
+Copy link
+3
+2
+1
+ 
+RtingsUser7586257 8
+ • POSTED 18 DAYS AGO
+
+i would like to see the review if x3 and x2 superstrikes as well as other mice has same problem with higher latency click while lift off about which techless said in this video: https://youtu.be/SI7v-gx60Hw?is=edBfdUA6AFZiqHoI
+
+Reply
+Copy link
+2
+1
+0
+ 
+Xeanos 19
+ • POSTED 19 DAYS AGO
+
+Weird that people are negative about this mouse. Personally its the best mouse ive ever used.
+
+Reply
+Copy link
+2
+1
+0
+ 
+RtingsUser1996385 3
+ • POSTED 23 DAYS AGO
+OCT 25, 2026 05:46 PM BY  Riekopo  120
+
+The wider mouse/Logitech community is very unhappy with this mouse. Like on the subreddits and YouTube. People feel like Logitech is doing the bare minimum and almost scamming them. This mouse is releasing only like 7 months after the original and it’s even more expensive. In my years of following Logitech though that’s kinda how they operate, they only fix a couple things per generation. 
+I got it to test it out, not sure I will keep it. For the price it should be better, they really only fixed a couple things from the X2 Superstrike. The skates remain terrible, shockingly bad. The side buttons remain mushy (bad). The scroll wheel is not good enough. The bad skates are a major problem. There is no excuse for that. To spend $200+ on a premium mouse and then have to remove the skates and install aftermarket ones just to get decent glide is crazy. These are probably the worst mouse skates I’ve used in decades. 
+There’s no ergonomic version available which I would vastly prefer. Would also prefer a slightly heavier version or the ability to add weight to it. These are subjective things that can only be solved by Logitech creating more options. 
+The haptic HITS tech is awesome and is very quiet which is why I might keep it. There are very few quiet mice available and I kind want a quiet mouse because I have roommates. Logitech really needs to create more mice with the haptic tech.
+
+I’ve owned my X3 Superstrike for about 2 weeks, and I agree. 
+
+The skates are the worst I’ve ever had on a mouse; the side buttons are mushy and loud, and the scroll wheel isn’t great (however, after using it and breaking it in, it feels better now than it did out of the box). But as you said, the HITS system is fantastic; the haptic feedback feels great, and it’s nearly silent. Until other mice come to market with this tech, I’m keeping it.
+
+Reply
+Copy link
+3
+2
+1
+ 
+Riekopo 124
+ • POSTED 24 DAYS AGO
+
+The wider mouse/Logitech community is very unhappy with this mouse. Like on the subreddits and YouTube. People feel like Logitech is doing the bare minimum and almost scamming them. This mouse is releasing only like 7 months after the original and it’s even more expensive. In my years of following Logitech though that’s kinda how they operate, they only fix a couple things per generation. 
+
+I got it to test it out, not sure I will keep it. For the price it should be better, they really only fixed a couple things from the X2 Superstrike. The skates remain terrible, shockingly bad. The side buttons remain mushy (bad). The scroll wheel is not good enough. The bad skates are a major problem. There is no excuse for that. To spend $200+ on a premium mouse and then have to remove the skates and install aftermarket ones just to get decent glide is crazy. These are probably the worst mouse skates I’ve used in decades. 
+
+There’s no ergonomic version available which I would vastly prefer. Would also prefer a slightly heavier version or the ability to add weight to it. These are subjective things that can only be solved by Logitech creating more options. 
+
+The haptic HITS tech is awesome and is very quiet which is why I might keep it. There are very few quiet mice available and I kind want a quiet mouse because I have roommates. Logitech really needs to create more mice with the haptic tech.
+
+Reply
+Copy link
+6
+5
+4
+ 
+RtingsUser6288532 48
+ • POSTED 25 DAYS AGO
+
+The best review ever, the testing team did an amazing job providing all the mission details for each player FPS games , Thank you for your excellent work; this is very helpful because most games are not perfectly compatible with the 8000Hz You even find players esport Global users typically use either 1000 or 4000 as a maximum. This allows us to determine the performance of our mouse if we’re playing at only 1000Hz or 4000Hz. Previously, we saw results and calculations for the highest refresh rate, but we play at different values and don’t know their actual performance.
+
+Reply
+Copy link
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Privacy Options
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

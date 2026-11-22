@@ -1,0 +1,851 @@
+URL: https://www.rtings.com/keyboard/reviews/asus/rog-strix-scope-ii-96-wireless
+TITLE: ASUS ROG Strix Scope II 96 Wireless Review - RTINGS.com
+SAVED: 2026-11-18T23:01:36.352Z
+
+Products
+Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Keyboards Mechanical Wireless Ergonomic Budget Gaming Typing iPad Mac Office Budget And Cheap Programming Logitech Budget Mechanical 75% Keychron Low-Profile Razer 60% Quiet
+TOOLS
+Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Wooting 80HE Keychron Q6 [Q1, Q3, etc.] Ultra 8K Logitech MX Keys S NuPhy Air75 V3 [Air65 V3, Air100 V3] Corsair K70 CORE AULA F99/F75 NuPhy WH80 Lemokey P1 HE Ducky OK-M NuPhy Node Series Keychron K5 Max [K1 Max, K3 Max, etc.] Keychron K2 [K4, K8, K10, etc.] Ultra 8K MonsGeek FUN60 Ultra MonsGeek M1 V5 TMR Razer Huntsman V3 Pro 8KHz Wooting 60HE v2 Lofree Flow 2 Logitech G316 X Keychron B33/B36 Logitech Signature K650
+303 KEYBOARDS BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Keyboard  Reviews  ASUS  ROG Strix Scope II 96 Wireless  Review
+Notice: We've revamped our membership program.
+ASUS ROG Strix Scope II 96 Wireless  Keyboard Review
+By Justin Pires, Gregory Vodden, John Peroramas
+Reviewed Nov 22, 2023 at 02:50pm
+Writing modified May 07, 2026 at 01:46pm
+Tested using Methodology v1.4.3 
+Size
+Compact (96%)
+Hot-Swappable Switches
+Yes
+Connectivity
+Wireless
+Switch Type
+Mechanical
+Output Type
+Non-Adjustable
+N/A
+Gaming 
+N/A
+Office 
+N/A
+Mobile/Tablet 
+N/A
+Programming 
+N/A
+Entertainment / HTPC 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Amazon
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 21
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Dimensions
+Build Quality
+Ergonomics
+Hardware Customizability
+Backlight Features
+Backlight Clarity
+Cable & Connector
+Wireless Versatility
+Macro Keys And Programming
+Extra Features
+In The Box
+Typing Experience
+Typing Quality
+Typing Noise
+Keystrokes
+Adjustable Input Granularity
+Switches
+Performance
+Single-Key Latency
+Multi-Key Latency
+Data Transmission
+Chord Split
+Software and Operating System
+Configuration Software
+Computer Compatibility
+Wireless Mobile Compatibility
+Retailers
+Comments
+
+The ASUS ROG Strix Scope II 96 Wireless is a compact (96%) keyboard that continues ASUS' ROG Strix Scope lineup. You can connect this keyboard wirelessly with the included ROG Omni USB receiver or via Bluetooth with up to three devices simultaneously. There's also a programmable multi-function button and scroll wheel that you can customize along with the keyboard's RGB backlighting and other settings using the companion software. You can buy this keyboard with either linear or clicky ROG NX mechanical switch options, and it has a hot-swappable PCB, allowing you to change these stock switches for others of your choice if you prefer. Additionally, the keycaps are made of durable PBT plastic, and sound-dampening switch pads and silicone foam inside the case help keep the typing volume to a minimum.
+
+Our Verdict
+N/AGaming 
+
+The ASUS ROG Strix Scope II 96 is an excellent keyboard for gaming. It has impressive overall build quality and remarkably low latency performance, making it well-suited for playing games in any genre and at any competitive level. It also has full RGB backlighting that you can customize along with other keyboard settings directly on the keyboard using hotkeys or using the customization software.
+
+Pros
+Impressive build quality.
+Remarkably low latency.
+Full RGB backlighting with shine-through keycaps.
+Cons
+Spacebar rattles somewhat and isn't as stable as other keys.
+SEE PRICEAmazon
+SEE OUR GAMING RECOMMENDATIONS 
+N/A
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated May 07, 2026: 
+
+We've added a link to the Corsair GALLEON 100 SD to the Dimensions section.
+
+ Updated Jan 22, 2026: Our Test Bench 1.4.3 update adds clearer terminology and new measurements to our Keystrokes test group. For more details, see the full changelog.
+ Updated Jan 09, 2026: Our 1.4.2 Test Bench Update makes changes to the Hardware Customizability test group. We've created a new Magnetic Switch Compatibility test and renamed our previous PCB Socket test to Mechanical Switch Compatibility. See our full changelog.
+ Updated Feb 25, 2025: 
+
+We've added new information to the Configuration Software section regarding Armoury Crate Gear, a more lightweight software option.
+
+Show more 
+Check Price
+Black
+SEE PRICEAmazon
+White
+SEE PRICEBestBuy.com
+Differences Between Sizes And Variants
+
+The ASUS ROG Strix Scope II 96 Wireless is available in a black or white colorway and with ROG NX mechanical switch options. We bought and tested the Black color option with linear ROG NX Snow switches. You can see the label of our unit.
+
+The wider ASUS ROG Strix Scope II lineup offers several other size variants of this keyboard. We expect our tests to apply very closely to these models, and we've included a table comparing these models below.
+
+Name	Size	Color	Connectivity	ROG NX Mechanical Switch Options	Wrist Rest	Hot-swappable
+[nolink:ASUS ROG Strix Scope II 96 Wireless]	Compact (96%)	Black/White	Wireless 2.4Ghz, Bluetooth	ROG NX Snow, ROX NX Storm	Yes	Yes
+ASUS ROG Strix Scope II	Full-size	Black	Wired	ROG NX Snow, ROX NX Storm	Yes	No
+ASUS ROG Strix Scope II TKL	TenKeyLess	Black	Wired	ROG NX Snow, ROX NX Storm	Yes	No
+
+An additional keyboard within the Strix Scope II lineup called the Strix Scope II RX uses ROG RX optical switches rather than ROG NX mechanical switches. We expect the majority of our tests to also apply to this keyboard. However, we expect it to have different performance characteristics, so we expect the Single-Key Latency, Multi-Key Latency, Data Transmission, and Chord Split tests not to apply.
+
+Name	Size	Color	Connectivity	Switch Options	Wrist Rest	Hot-Swappable
+ASUS ROG Strix Scope II RX	Full-size	Black	Wired	ROG RX	Yes	N/A
+
+Popular Keyboard Comparisons
+
+The ASUS ROG Strix Scope II 96 Wireless is a compact (96%) model in ASUS' wider lineup of Strix Scope gaming keyboards. This is the first wireless model and the first 96%-sized model in the series. This compact form factor provides all of the keys of a standard full-size keyboard but with only minimal space between key clusters, so the entire keyboard takes up less space on your desk. Along with other recent models in this lineup, this keyboard has taken a nod from recent developments in the custom keyboard market with the addition of sound-dampening materials, doubleshot PBT keycaps, and a hot-swappable PCB. It's also available in either clicky or linear switch options that come pre-lubed from the factory.
+
+Ultimately, this keyboard is a great option if you're interested in a hot-swappable wireless gaming keyboard that has a slightly smaller footprint than full-size options like the ASUS ROG Strix Flare II Animate but still offers many more keys than a smaller compact model, like the ASUS ROG Azoth.
+
+For more options, see our recommendations for the best mechanical keyboards, the best gaming keyboards, and the best wireless keyboards.
+
+ASUS ROG Strix Flare II Animate
+SEE PRICEWalmart.com
+
+The ASUS Rog Strix Flare II Animate and the ASUS ROG Strix Scope II 96 Wireless are mechanical gaming keyboards with comparable performance. The Strix Flare II Animate is a full-size wired-only model. It has a scroll wheel, dedicated media keys, a USB passthrough, and a programmable LED screen. On the other hand, the Strix Scope II 96 Wireless has a slightly smaller compact (96%) form factor. It also has a multi-function button and a multi-function wheel.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+ASUS ROG Strix Scope TKL
+SEE PRICEBestBuy.com
+
+The ASUS ROG Strix Scope TKL and the ASUS ROG Strix Scope II 96 Wireless are gaming keyboards in the same lineup. The Strix Scope TKL is an older wired-only model with a smaller TenKeyLess form factor. On the other hand, the Strix Scope II 96 Wireless is a newer wireless model with a compact (96%) form factor. It has significantly better latency performance, higher-quality PBT keycaps, and includes a wrist rest, which the Strix Scope TKL lacks.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+ASUS ROG Falchion
+SEE PRICEAmazon
+
+The ASUS Rog Falchion and the ASUS ROG Strix Scope II 96 Wireless are wireless gaming keyboards. The Falchion has a smaller compact (65%) form factor. On the other hand, the Strix Scope II 96 Wireless has a compact (96%) form factor. It also has a multi-function button, a multi-function scroll wheel, and an included wrist rest.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+ASUS ROG Azoth
+SEE PRICEBestBuy.com
+
+The ASUS ROG Azoth and the ASUS ROG Strix Scope II 96 Wireless are wireless keyboards with comparable gaming performance. The Azoth has a smaller, compact (75%) form factor and better build quality. It also has a programmable OLED screen. On the other hand, the Strix Scope II 96 Wireless has a compact 96% form factor. It also has a multi-function button, a multi-function scroll wheel, and an included wrist rest.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+11 TESTS
+HIDE TEST DETAILS
+Dimensions
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Size
+LockedCompact (96%)
+Height
+LockedLock" (Lock cm)
+WidthLockedLock" (Lock cm)
+Depth
+LockedLock" (Lock cm)
+Depth With Wrist Rest
+LockedLock" (Lock cm)
+Weight
+LockedLock lbs (Lock kg)
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Keycap MaterialLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Ergonomics
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Curved/Angled
+LockedLocked
+Split Keyboard
+LockedLocked
+Key Alignment
+LockedLocked
+Minimum Incline
+LockedLock°
+Medium Incline
+LockedLock°
+Maximum Incline
+LockedLock°
+Home Row Height
+LockedLock mm (Lock")
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Hardware Customizability
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Replaceable Cherry Stabilizers
+LockedLocked
+Stabilizer Fixation
+LockedLocked
+Spacebar Stabilizer Size
+LockedLocked
+Size Of Right Mod Keys
+LockedLocked
+Hot-Swappable Switches
+LockedYes
+Switch Stem Shape
+LockedLocked
+Mechanical Switch Compatibility
+LockedLocked
+Magnetic Switch Compatibility
+LockedLocked
+North-Facing Cherry MX Interference
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Backlight Features
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+BacklightingLockedLocked
+RGB
+LockedLocked
+Per-Key Backlighting
+LockedLocked
+Effects
+LockedLocked
+Software Controllable
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Backlight Clarity
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable & Connector
+ConnectivityLockedWireless
+Detachable
+LockedLocked
+LengthLockedLock ft (Lock m)
+Connector (Keyboard side)
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Wireless Versatility
+Bluetooth
+LockedLocked
+Bluetooth Multi-Device Pairing
+LockedLocked
+Proprietary Receiver
+LockedLocked
+Battery Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Macro Keys And Programming
+Dedicated Macro Keys CountLockedLock
+Onboard Macro Programming
+LockedLocked
+Macro Programming With Software
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Extra Features
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Media Keys
+LockedLocked
+Trackpad / TrackballLockedLocked
+Scroll Wheel
+LockedLocked
+Control Knob
+LockedLocked
+USB Passthrough
+LockedLocked
+NumpadLockedLocked
+Windows Key Lock
+LockedLocked
+Lock IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+TYPING EXPERIENCE
+5 TESTS
+HIDE TEST DETAILS
+N/A
+Typing Quality
+Key Spacing
+LockedLock mm (Lock")
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT TYPING QUALITY 
+N/A
+Typing Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Average Loudness
+LockedLock dBA
+High Pitch Clicks
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT TYPING NOISE 
+Keystrokes
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Initial Force
+LockedLock gf
+Peak Tactile Force
+LockedN/A
+Actuation Force
+LockedLock gf
+Bottom-Out Force
+LockedLock gf
+Pre-Travel Distance
+LockedLock mm
+Total Travel Distance
+LockedLock mm
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT KEYSTROKES 
+N/A
+Adjustable Input Granularity
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Top Deadzone
+LockedN/A
+Bottom Deadzone
+LockedN/A
+Detection Ratio
+LockedN/A
+Minimum Step Depth
+LockedN/A
+Switches
+SAMPLE
+Join Now
+
+for videos & test results
+
+Switch Name
+LockedLocked
+Switch Type
+LockedMechanical
+Feel
+LockedLocked
+Output Type
+LockedNon-Adjustable
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+PERFORMANCE
+4 TESTS
+HIDE TEST DETAILS
+N/A
+Single-Key Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Best Connection
+LockedLock ms
+Best Connection Std DevLocked±Lock ms
+Wired
+LockedLock ms
+Receiver
+LockedLock ms
+Bluetooth
+LockedLock ms
+PCB (Estimated)
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SINGLE-KEY LATENCY 
+N/A
+Multi-Key Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Connection EvaluatedLockedLocked
+Key Press
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Data Transmission
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Connection EvaluatedLockedLocked
+USB Polling Rate
+LockedLock Hz
+Effective Update Rate
+LockedLock Hz
+N-Key Rollover (NKRO)
+LockedLocked
+Multiple Keys Per USB Report
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Chord Split
+SAMPLE
+Join Now
+
+for pictures & test results
+
+4 Chord Split Delay
+LockedLock ms
+8 Chord Split Delay
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+SOFTWARE AND OPERATING SYSTEM
+3 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatible
+LockedLocked
+Software macOS Compatible
+LockedLocked
+Onboard Memory
+LockedLocked
+Profiles
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Computer Compatibility
+Windows
+LockedLocked
+macOS
+LockedLocked
+Linux
+LockedLocked
+Media Key Compatibility
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Wireless Mobile Compatibility
+Android
+LockedLocked
+iOS
+LockedLocked
+iPadOS
+LockedLocked
+Media Key Compatibility
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The 6 Best Gaming Keyboards
+The 5 Best Keyboards
+The 5 Best Mechanical Keyboards
+The 6 Best Wireless Keyboards
+The 6 Best Ergonomic Keyboards
+The 4 Best Budget Gaming Keyboards
+The 5 Best Keyboards For Typing
+The 5 Best iPad And iPad Pro Keyboards
+The 6 Best Keyboards For Mac
+The 5 Best Office Keyboards
+The 6 Best Budget And Cheap Keyboards
+The 5 Best Keyboards For Programming
+The 5 Best Logitech Keyboards
+The 4 Best Budget Mechanical Keyboards
+The 6 Best 75% Keyboards
+The 4 Best Keychron Keyboards
+The 5 Best Low-Profile Keyboards
+The 4 Best Razer Keyboards
+The 4 Best 60% Keyboards
+The 6 Best Quiet Keyboards
+The 5 Best TKL Keyboards
+The 5 Best RGB Keyboards
+The 4 Best Corsair Keyboards
+The 3 Best Ducky Keyboards
+Comments
+PRODUCT
+ACTIVE 1 YEAR AGO · 
+ • POSTED 3 YEARS AGO
+ASUS ROG Strix Scope II 96 Wireless: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+21 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+ • POSTED 6 MONTHS AGO
+
+Update: We’ve added a link to the Corsair GALLEON 100 SD to the Dimensions section.
+
+Show More Updates
+3
+2
+1
+ Gregory Vodden
+ • POSTED 1 YEAR AGO
+FEB 14, 2025 12:00 PM BY Qarizuki  3
+
+Using for almost a year and can say it’s great keyboard. Also great review from your side. But you should need to mention in  “Configuration Software” section that specifically for this keyboard you can install Armoury Crate Gear instead of the default Armoury Crate. It’s under Drivers & utility and you click Show all direct link to site. It’s much more lightweight version since it’s only built for this keyboard, with less bloatware and don’t need to run in background
+
+Hi Qarizuki!
+
+Great to hear you’re enjoying the keyboard, and thanks for the kind words!
+
+You make a great point about Armoury Crate Gear. We’ll be adding a note to the Configuration Software section about this more lightweight alternative next week.
+
+Thanks again for the terrific suggestion, and best wishes!
+
+Reply
+Copy link
+4
+3
+2
+Qarizuki 3
+ • POSTED 1 YEAR AGO
+
+Using for almost a year and can say it’s great keyboard. Also great review from your side. But you should need to mention in  “Configuration Software” section that specifically for this keyboard you can install Armoury Crate Gear instead of the default Armoury Crate. It’s under Drivers & utility and you click Show all direct link to site. It’s much more lightweight version since it’s only built for this keyboard, with less bloatware and don’t need to run in background
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Update: We’ve added information about a white colorway option to the Differences Between Variants section.
+
+2
+1
+0
+ 
+RtingsUser3198354 13
+ • UPDATED 1 YEAR AGO • POSTED 1 YEAR AGO
+JAN 13, 2025 06:13 PM BY   Gregory Vodden
+
+Hi there,
+First off, thank you for tipping us off regarding the White colorway! We plan on updating our text in the Differences Between Sizes and Variants section at some point this week.
+Also, those are terrific questions, and we’d be more than happy to try answering them.
+1. Multi-Key Latency and Connection Type
+Funny you should mention this—we have started to reconsider how we test multi-key latency for wireless capable keyboards. The reason why we’ve only evaluated the Receiver connection is that we generally try to prioritize testing the configuration we expect most people will use in most cases. 
+But we recognize this doesn’t always make sense as many people may switch to a wired connection when they’re most concerned about latency performance. While this isn’t yet an official part of our methodology, we’ve begun testing both wired and wireless connections in some cases. As a matter of fact, if you’re interested in a bit more context, we just performed retests on another gaming keyboard, the Corsair K65 PLUS Wireless. Our findings there might be able to provide some more insights for you here. Originally, we only tested that keyboard’s wireless Multi-Key Latency performance but decided to do some additional testing over a wired connection as well. We found both the wired Key Press and Key Release results to be ~3 ms faster, which is about what we expected. Also of note, that keyboard suffers from very high release latency for the multi-key latency scenario as well, and it was similarly high regardless of connection type. We expect the ASUS ROG Strix Scope II 96 Wireless to behave similarly.
+The short answer: if you’re using a wired connection, we expect slightly better multi-key latency performance (within a few milliseconds of difference), but the overall performance profile will likely be similar. 
+2. Key Release Latency and Compounding
+As for whether key release latency compounds when multiple keys are released simultaneously, that’s a really interesting question! In short, we haven’t tested this so we can’t say for certain.
+But my personal expectation would be yes. With the high release latency of this keyboard in multi-keypress scenarios, I would expect it to compound when playing a rhythm game with triggers on multiple simultaneous releases.
+I’ll pass this question on to both our testing and test development teams. So we may be able to investigate this and provide a more definitive answer in the future.
+I hope this was helpful! Please don’t hesitate to reach out with more questions—they’re invaluable in helping us refine and improve our testing processes over time.
+Best wishes,
+
+Thank you so, so much for your reply. This was a remarkably thorough response! You guys never cease to amaze me :)
+
+Also, thanks for the tip about your wired Multi-Key Latency testing of the Corsair K65 Plus Wireless, those test results are fascinating.
+
+Edited 1 year ago: Appreciated tip about K65 Plus testing
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 1 YEAR AGO
+JAN 10, 2025 03:18 AM BY  RtingsUser3198354  13
+
+A few things for RTINGS staff:
+First, I wanted to let you know that the “Differences Between Sizes And Variants” and “Deals” listings may need to be updated, as this keyboard is now available in a white colorway as well, sold exclusively by Best Buy (Model: SCOPE II 96/WHT/NXSW/PBT, SKU: 6595753). It was in stock when I bought one a few weeks ago, though the store page now says it’s currently out of stock.
+With the exception of the black keycap puller, the user guide, and anything made of aluminum/steel (e.g. the silver metal top plate), everything in the box is white or light gray. Aside from the differences in color, everything appears to be exactly the same between the black and white models.
+I also have a couple questions, regarding performance testing:
+(Note: I know you’ve just gotten back from the holidays, and you probably have a lot to get to. I don’t want to take up too much of your time, you don’t have to answer these questions if you don’t want to.)
+I see that your Multi-Key Latency and Data Transmission results state that the “Receiver” was the Connection Evaluated. How different would you expect those results to be if I were using a Wired connection? Is there any particular reason you chose to evaluate the Receiver connection instead of Wired?
+Lastly, you say that the Multi-Key Key Release latency (22.0 ms) is fairly high for a gaming keyboard. That test is only performed by pressing/releasing a single key while other keys are held. My question is, if I’m playing a rhythm game and I release multiple keys simultaneously, would the key release latency of those keys compound? (Like Chord Split, but on release?)
+
+Hi there,
+
+First off, thank you for tipping us off regarding the White colorway! We plan on updating our text in the Differences Between Sizes and Variants section at some point this week.
+
+Also, those are terrific questions, and we’d be more than happy to try answering them.
+
+1. Multi-Key Latency and Connection Type
+Funny you should mention this—we have started to reconsider how we test multi-key latency for wireless capable keyboards. The reason why we’ve only evaluated the Receiver connection is that we generally try to prioritize testing the configuration we expect most people will use in most cases. 
+
+But we recognize this doesn’t always make sense as many people may switch to a wired connection when they’re most concerned about latency performance. While this isn’t yet an official part of our methodology, we’ve begun testing both wired and wireless connections in some cases. As a matter of fact, if you’re interested in a bit more context, we just performed retests on another gaming keyboard, the Corsair K65 PLUS Wireless. Our findings there might be able to provide some more insights for you here. Originally, we only tested that keyboard’s wireless Multi-Key Latency performance but decided to do some additional testing over a wired connection as well. We found both the wired Key Press and Key Release results to be ~3 ms faster, which is about what we expected. Also of note, that keyboard suffers from very high release latency for the multi-key latency scenario as well, and it was similarly high regardless of connection type. We expect the ASUS ROG Strix Scope II 96 Wireless to behave similarly.
+
+The short answer: if you’re using a wired connection, we expect slightly better multi-key latency performance (within a few milliseconds of difference), but the overall performance profile will likely be similar. 
+
+2. Key Release Latency and Compounding
+As for whether key release latency compounds when multiple keys are released simultaneously, that’s a really interesting question! In short, we haven’t tested this so we can’t say for certain.
+
+But my personal expectation would be yes. With the high release latency of this keyboard in multi-keypress scenarios, I would expect it to compound when playing a rhythm game with triggers on multiple simultaneous releases.
+
+I’ll pass this question on to both our testing and test development teams. So we may be able to investigate this and provide a more definitive answer in the future.
+
+I hope this was helpful! Please don’t hesitate to reach out with more questions—they’re invaluable in helping us refine and improve our testing processes over time.
+
+Best wishes,
+
+Reply
+Copy link
+3
+2
+1
+ 
+RtingsUser3198354 13
+ • POSTED 1 YEAR AGO
+
+A few things for RTINGS staff:
+
+First, I wanted to let you know that the “Differences Between Sizes And Variants” and “Deals” listings may need to be updated, as this keyboard is now available in a white colorway as well, sold exclusively by Best Buy (Model: SCOPE II 96/WHT/NXSW/PBT, SKU: 6595753). It was in stock when I bought one a few weeks ago, though the store page now says it’s currently out of stock.
+
+With the exception of the black keycap puller, the user guide, and anything made of aluminum/steel (e.g. the silver metal top plate), everything in the box is white or light gray. Aside from the differences in color, everything appears to be exactly the same between the black and white models.
+
+I also have a couple questions, regarding performance testing:
+
+(Note: I know you’ve just gotten back from the holidays, and you probably have a lot to get to. I don’t want to take up too much of your time, you don’t have to answer these questions if you don’t want to.)
+
+I see that your Multi-Key Latency and Data Transmission results state that the “Receiver” was the Connection Evaluated. How different would you expect those results to be if I were using a Wired connection? Is there any particular reason you chose to evaluate the Receiver connection instead of Wired?
+
+Lastly, you say that the Multi-Key Key Release latency (22.0 ms) is fairly high for a gaming keyboard. That test is only performed by pressing/releasing a single key while other keys are held. My question is, if I’m playing a rhythm game and I release multiple keys simultaneously, would the key release latency of those keys compound? (Like Chord Split, but on release?)
+
+Reply
+Copy link
+ • POSTED 1 YEAR AGO
+
+Update: We’ve added mention of the GLORIOUS GMMK 3 in the Typing Quality section.
+
+Show More Updates
+4
+3
+2
+ Gregory Vodden
+ • POSTED 2 YEARS AGO
+MAR 27, 2024 07:29 AM BY homu  2
+
+I don’t think Strix Scope II and Strix Scope II TKL are hot-swappable, as far as I know only Strix Scope II 96 Wireless is hot-swappable.
+Please confirmed that from ASUS, since it is quite a big deal.
+
+Hi Homu.
+
+You’re absolutely right. This looks like an error, and we’ll get it fixed shortly.
+Thanks for pointing it out to us!
+
+Reply
+Copy link
+3
+2
+1
+homu 2
+ • POSTED 2 YEARS AGO
+
+I don’t think Strix Scope II and Strix Scope II TKL are hot-swappable, as far as I know only Strix Scope II 96 Wireless is hot-swappable.
+Please confirmed that from ASUS, since it is quite a big deal.
+
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 2 YEARS AGO
+MAR 13, 2024 07:05 PM BY ooey  2
+
+Why do a lot of led keyboards have the secondary symbols on the number keys not shine through and just etched on? Surely this is a big oversight, The 96 is a good keyboard, but you can’t guarantee which you will get, it seems, with all the legends on the ABS version transparent but not so for the PBT version.
+This is a rather big issue if you want to type with the light off, and something you would naturally want to do if you buy an RGB keyboard. If you look on the PBT version, you have some legends such as the {[ key that are double etched, so what is the issue? Is it cost?
+
+Hey ooey,
+
+We can only speculate why manufacturers are inconsistent about providing shine-through legends for the secondary hotkey symbols, but we suspect you’ve hit the nail on the head, and much of the decision likely comes down to cost for the added complexity. That said, there may be some additional reasons to consider as well.
+
+From what we’ve seen, ABS plastic keycaps appear easier for manufacturers to work with when adding detailed shine-through legends. But we’ve increasingly seen them move more towards offering PBT keycap sets as many people prefer the texture and added durability.
+
+Also worth considering is that LEDs are either North or South-facing. Most gaming keyboards, like the ASUS ROG Strix Scope II 96 Wireless, have North-facing LEDs. These provide great illumination for shine-through legends on the top edge of the keycap. However, there’s only limited space on a keycap, so most manufacturers will set secondary legends on the bottom edge of the keycap. Even if these legends were shine-through, they likely won’t get adequate backlight clarity due to the North-facing LED position—especially if the keycaps and switch housings are dark-colored as they don’t reflect as much light.
+
+It might not provide much consolation at the moment, but the keyboard space continues to evolve rapidly. While consistent shine-through secondary legends are still rare on current-generation boards, they may become more common in the future.
+
+Hopefully, those few insights were helpful. Thanks for reaching out!
+
+Reply
+Copy link
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Privacy Options
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

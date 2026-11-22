@@ -1,0 +1,307 @@
+URL: https://www.monsgeek.com/product/fun60-ultra/
+TITLE: FUN60 Ultra Magnetic Switch Keyboard - MonsGeek
+SAVED: 2026-11-20T00:29:00.210Z
+
+Early Black Friday: Up to $40 OFF + Fast US Shipping!
+New Batch: M1 V5 Keyboard Barebone Kit >
+75% Magnetic Switch & Mechanical Switch Keyboard >
+MonsGeek & Akko Custom Aluminum Keyboard Barebones >
+0
+Home / Magnetic Switches Keyboard / FUN60 Ultra
+FUN60 Ultra
+Rated 4.67 out of 5 based on customer ratings
+ (3 customer reviews)
+
+$59.99 – $89.99
+
+Introducing MonsGeek FUN Series: FUN60 Ultra Magnetic Switch Aluminum Keyboard!
+
+It’s time to be revolutionary and make something different.
+
+Highlights:
+✔️ Cross-compatible with Major Magnetic Switches
+✔️ Hot-swappable with 5-Pin Mechanical Switches (MagMech Compatible, TMR Version only)
+✔️ 0.01mm RT for Superior Gaming
+
+ADD TO CART
+⚙
+Magnetic Switch Compatibility Notice – FUN60 Series
+
+Please note that the magnetic switches used in the FUN60 series incorporate a downward-facing N-pole magnet. As a result, Akko Magnetic Creamy Yellow switches, which use a downward-facing S-pole magnet (as found in the M1W HE and M1W V3 HE), are not compatible with the FUN60. We recommend verifying the magnetic polarity of the switches before replacing the original HE switches.
+
+RT0.01mm
+Web Driver
+MagMech
+32-bit Cortex-M4
+Cross-compatible
+HE / TMR
+ARGB
+Snap Key
+CNC Aluminum
+8K Polling Rate
+DKS
+On-board Memory
+Cross-Compatible with Mainstream Magnetic Switches
+
+The FUN60 Series Rapid Trigger Keyboard offers cross-compatibility with 5 third-party magnetic switches. Users can select the corresponding switch from the list in the MonsGeek Driver and easily calibrate the keyboard after replacement. You can also mix and match them in different keys simultaneously.
+
+Disclaimer: High-percision switches require tuning and experimenting with the keyboard. The six switches (including Akko Glare Switches) listed on MonsGeek Driver are guaranteed for 0.01mm precision. Other switches may perform at 0.1mm precision. We’ll need to periodically test switches in our lab to verify advertised accuracy and update our compatibility list accordingly.
+
+ 
+
+RT0.01mm
+
+Achieve ultra-accurate 0.01mm Rapid Trigger and adjustable actuation distance in 0.01mm step. This allows users to fine-tune their typing or gaming experience, ensuring optimal actuation for faster response times with enhanced precision, ideal for competitive gaming.
+
+Turbo Mode for Rapid Trigger
+
+Turbo Mode can be enabled for quick recognition and easy management. Keys with Turbo Mode activated are marked with a “flash” icon, so they’re easy to spot at a glance.
+
+For example, assigning Turbo Mode to WASD enhances responsiveness and improves the overall gaming experience.
+
+Try the MonsGeek V4 Driver, plugin-free at app.monsgeek.com.
+
+Arm Cortex-M4 CPU
+
+The powerful CPU delivers enhanced processing power with low energy consumption. It features automatic calibration between -20°C and 80°C, ensuring faster performance and extended battery life (for wireless models only).
+
+ 
+
+ARGB at a 500Hz Refresh Rate
+
+FUN60 Series Magnetic Keyboard features ARGB(addressable RGB) with individually controlled LEDs for smooth, flicker-free lighting. With Alpha channel integration and a 500Hz refresh rate, it offers richer dynamic effects and reduces visual fatigue—perfect for gaming and aesthetic builds.
+
+RT Stabilizer
+
+This “RT Stabilizer” mode is especially useful when set to a Rapid Trigger precision of 0.01mm, as magnetic switch keyboards may experience unintended inputs or disconnection from slight hand tremors, which can disrupt the overall gaming experience.
+
+It can be activated via the MonsGeek Driver with 4 different filtering levels.
+
+ 
+
+Demagnetized Stabilizer
+
+Compared to traditional mechanical keyboard stabilizers, the FUN60’s Stabilizer Wire is demagnetized, reducing magnetic interference, improving trigger accuracy, optimizing feel, and enhancing long-term stability—essential for precise and consistent performance in magnetic switch keyboards.
+
+Universal 8K Polling Rate
+
+With an 8000Hz polling rate in wired or 2.4Gwireless modes, enjoy ultra-fast response times and smoother, more precise inputs—perfect for gaming and high-performance tasks with FUN60 Series Magnetic Switch Keyboard.
+
+Akko Glare Magnetic Switch
+
+These switches from FUN60 Ultra Rapid Trigger Gaming Keyboard comes with extra pins for stabilizing, reversed polarity, and closed bottom for a better sound profile.
+
+Total Travel: 3.4mm
+Initial Force: 25gf Min
+Actuation force at 2.0mm Travel: 40±5gf
+End Force: 48gf Max
+Initial Magnetic Flux: 95+15GS (PcB1.6mm)
+Bottom Magnetic Flux:589+50GS (PcB1.6mm)
+Top/Stem/Bottom: PC/POM/PC
+LED Diffuser
+
+TMR Sensor*
+
+A truly Customizable Magnetic Switches Keyboard
+
+TMR takes precision to the next level. Users can mix and match magnetic switches and any 5-pin mechanical switches freely, like never before!
+
+Imagining having only WASD / Arrow keys swapped for magnetic switches, and leave the rest for mechanical for a classic mechanical typing experiences. What a dream!
+
+Classic Features
+Snap Key
+
+Snap Key is MonsGeek’s implementation of SOCD, which prioritizes the most recent keypress for swift directional changes without releasing previous inputs. This ensures fluid and responsive control, especially in FPS games, where quick reactions and precise movements are crucial.
+
+Adjustable Actuation Distance
+
+These magnetic switches allow users to adjust every key’s actuation point from 0.1mm to 3.4mm via web.monsgeek.com, or from 0.1mm to 3.3mm on the new app.monsgeek.com, unlocking personalized control for both gaming and typing.
+
+Rapid Trigger (RT)
+
+Rapid Trigger dynamically changes the keys’ actuation and deactivation points. Through the MonsGeek Driver, users can choose “All Buttons” or “Per Button” customization modes, as well as activate “Non-stop Rapid Trigger” for near-instant key response. This gives FPS gamers a competitive edge in fast-paced gameplay.
+
+For example, when gamers enable RT, they can achieve “Counter-Strafe“ in VALORANT games.
+
+Dynamic Keystrokes (DKS)
+
+Pressing a key can trigger four different key operations.
+
+Depending on your keypress force: a light press triggers action 1, a deeper press activates action 2, and releasing the key also supports a two-stage key setting.
+
+Toggle Key (TGL)
+
+TGL, or Toggle Key, transforms a key into a toggle switch. When you press this switch, you can activate one of two scenarios: either continuously hold down the key/function, or trigger the key/function multiple times at a high frequency.
+
+Mod-Tap
+
+Mod Tap is a design that provides convenience for gaming. It enables the creation of dedicated or dual-functional keys based on key press behavior.
+
+A single keypress can achieve two functions: holding down the key for one function, and press the key for another.
+
+Web-based Online Driver
+Endless Remapping and Backlight Customization
+Online Driver
+
+Flexibility Meets Customization in FUN60
+
+Typing Pleasure
+
+R
+	
+Keys Remapping
+
+FUN60 Series supports key remapping, which enhances customization, allowing users to optimize layouts for efficiency and comfort.
+
+R
+	
+RGB Backlight
+
+FUN60 provides around 16 preset backlighting effects and customization with brightness and speed control.
+
+R
+	
+Tray-mounted
+
+The tray-mounted structure provides better stability, reduced flex, and a more consistent typing experience.
+
+R
+	
+Aluminum Plate
+
+The aluminum plate boosts durability, stability, and sound quality, while optimizing performance with magnetic switches.
+
+R
+	
+Lubed Stabilizers
+
+FUN60 has lubed stabilizers that reduce rattle, enhance key stability, and deliver a smoother typing experience.
+
+FUN60 Ultra Tri-mode Series features a 60% layout and is equipped with a 4000mAh built-in battery, providing extended, uninterrupted typing, gaming, or productivity without the need for frequent recharging.
+
+2.4Ghz Wireless
+
+
+FUN60 is equipped with a receiver that allows users to utilize the 2.4GHz wireless mode, providing low latency suitable for gaming and typing purposes.
+
+BT 5.0
+
+
+FUN60 makes it easy to connect up to 3 devices with a simple Fn+E/R/T combination, enabling seamless switching between tablets, computers, and phones.
+
+USB-C Wired
+
+
+FUN60 offers a choice for users who prefer a USB-C wired keyboard, ensuring consistent and rapid response times for FPS gaming and minimal input lag.
+
+SpecificationsReviews (3)
+Model	FUN60 Ultra
+Mount	Tray-mounted
+Case Material	Aluminum
+Case Color	Black/White
+Connectivity	USB-C Wired Only / Tri-mode
+Battery	4000mAh (for tri-mode version only)
+LED	ARGB
+Hotswap	Y
+Magnetic Switch Cross-Compatibility	Y
+Mechanical Switches Supported	for TMR Version only
+RT Stabilizer	Y
+RT Accuracy	0.01-2.00mm
+Acutation Range(mm)	0.1-3.40mm
+LED Orientation	North-facing LEDs (TMR) / South-facing LEDs (HE)
+Plate	Aluminum
+Key Feature	Custom Actuation/Mod-Tap/Toggle Key/Dynamic Keystroke/Keys Remapping/Customizable RGB/SOCD
+Stabilizer	Pre-Lubed Plate-Mounted Stabilizer
+Keycap	PBT Shine-through
+Package Included	Keyboard *1, Keycap Puller*1, Switch Puller*1, User Manual*1 USB Cable*1, Keyboard Cover*1 (2.4G Wireless Receiver*1 for Multi-mode Versions)
+Software	MonsGeek Driver & Web-Based Driver
+ 
+Related products
+Sale!
+M3 V5 HE Fully Assembled
+$114.99
+Original price was: $114.99.
+$99.99
+Current price is: $99.99.
+Select options
+M1 V5 TMR Fully Assembled
+Rated
+4.82
+out of 5
+$149.99 – $199.99
+Select options
+FUN68 HE Wired
+$34.99 – $45.99
+Select options
+Sale!
+M1 V5 HE Barebone
+$99.99
+Original price was: $99.99.
+$69.99
+Current price is: $69.99.
+Select options
+Follow 
+Subscribe to our Newsletter
+SUBSCRIBE
+
+ Click to accept our Policy
+
+PRODUCT
+M Series
+FUN Series
+VERVE Series
+MG Select
+Keycaps
+Switches
+Accessories
+Office Supply
+INFORMATION
+Contact Us
+FAQs
+Downloads
+Track Your Order
+About
+About MonsGeek
+Blog
+Authorization
+PROGRAM
+Affiliate Programs
+Partner Programs
+OEM Services
+POLICIES
+Privacy Policy
+Return and Refund Policy
+Shipping Policy
+Terms of Service
+Payment Policy
+CUSTOMER SUPPORT
+Business Name: InfinityZero Inc (Licensed by Shenzhen Yinchen Technology Co., Ltd)
+Filing ID: 2025-001775097
+Address: 2106 House Ave Suite 793, Cheyenne, Wyoming 82001, USA
+Phone: +1 (702) 845-6572
+Email: support@monsgeek.com
+Business Hours: Pacific Time, Monday – Friday, 9:00AM – 6:00PM
+Response Time: We aim to respond within 24 business hours.
+
+Copyright ©2026 InfinityZero Inc All Rights Reserved
+
+Guaranteed by
+Shipping Protection
+Gives you Peace of Mind
+Coverage includes：
+Loss and damage in transit
+Theft/Porch Piracy
+Mis-delivery by courier
+Quick and easy claims resolution
+Smooth Claims
+One click to file, speedy claims guaranteed.
+Cover My Order Now
+Learn More · Terms & Conditions
+US
+EXCLUSIVE
+DEALS
+UP TO
+$40
+OFF
+SAVE BIG →
+×

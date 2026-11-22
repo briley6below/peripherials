@@ -1,0 +1,453 @@
+URL: https://www.rtings.com/keyboard/reviews/best/by-usage/gaming
+TITLE: The 6 Best Gaming Keyboards - Black Friday 2026 - RTINGS.com
+SAVED: 2026-11-18T22:53:25.574Z
+
+Products
+Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Keyboards Mechanical Wireless Ergonomic Budget Gaming Typing iPad Mac Office Budget And Cheap Programming Logitech Budget Mechanical 75% Keychron Low-Profile Razer 60% Quiet
+TOOLS
+Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Wooting 80HE Keychron Q6 [Q1, Q3, etc.] Ultra 8K Logitech MX Keys S NuPhy Air75 V3 [Air65 V3, Air100 V3] Corsair K70 CORE AULA F99/F75 NuPhy WH80 Lemokey P1 HE Ducky OK-M NuPhy Node Series Keychron K5 Max [K1 Max, K3 Max, etc.] Keychron K2 [K4, K8, K10, etc.] Ultra 8K MonsGeek FUN60 Ultra MonsGeek M1 V5 TMR Razer Huntsman V3 Pro 8KHz Wooting 60HE v2 Lofree Flow 2 Logitech G316 X Keychron B33/B36 Logitech Signature K650
+303 KEYBOARDS BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Keyboard  Best  Gaming
+Notice: We've revamped our membership program.
+The 6 Best Gaming Keyboards - Black Friday 2026  
+By Gregory Vodden
+Updated Oct 19, 2026 at 12:12 pm
+ SHARE
+ 19
+Intro
+Best Keyboard
+Best Budget
+Best Cheap
+Best Wireless
+Best Mid-Range Wireless
+Best Budget Wireless
+Notable Mentions
+Recent Updates
+All Reviews
+Comments
+
+To find the best gaming keyboard for your needs, consider the games you play, the keys you need, and your budget. Low latency matters most for competitive gaming, while magnetic switches with adjustable actuation and Rapid Trigger give you more control over when keypresses register and reset. For casual gaming, these features are less important, and you may want to focus more on comfort or customizable RGB lighting, depending on your tastes.
+
+Before choosing, consider a few practical trade-offs:
+
+Size: Smaller keyboards leave more room for mouse movements, but compact layouts can remove the numpad, function row, or dedicated arrow keys. Consider which keys you regularly use in games and everyday tasks.
+Connectivity: Wired and wireless receiver connections are best for gaming. Bluetooth is convenient for switching between devices and typically provides better battery life than a receiver connection, but it has higher latency, making it a poor connection type for competitive play.
+Switches: Conventional mechanical switches offer a range of feels and sound profiles. Magnetic switches add adjustable input settings that can be particularly useful in fast-paced titles like competitive FPS and rhythm games, though they aren't necessary for a responsive gaming experience.
+
+We've tested over 300 keyboards, and our recommendations below cover a range of budgets, sizes, and gaming needs. If you're shopping on a tighter budget, see our best budget gaming keyboards. If you already know which size you want, see our picks for the best 60%, 75%, and TKL keyboards.
+
+How We Test Keyboards
+
+We test dozens of keyboards each year, and to maintain independence, we buy every unit ourselves. Our reviews go beyond subjective typing impressions or quick gaming sessions. Each keyboard is put through the same standardized test bench, so you can directly compare our results. We use specialized tools like a Mecmesin force tester to measure switch force curves and a Beagle 480 USB analyzer to capture input data for latency testing. Multiple teams contribute to each review in a process that can take days or even weeks from start to finish.
+
+Learn more
+Best Gaming Keyboard
+Wooting 80HE
+31 
+SEE PRICEWooting
+SEARCHAmazon
+SEARCHB&H
+Gaming
+N/A
+Size: 
+TenKeyLess (80%)
+Hot-Swappable Switches: 
+Yes
+Connectivity: 
+Wired
+Switch Type: 
+Magnetic
+Output Type: 
+Analog
+See all our test results 
+
+The Wooting 80HE is the best gaming keyboard we've tested. It combines exceptionally low and consistent latency with magnetic switches that give you precise control over when each keypress registers and resets, which can give you a small but meaningful edge, especially if you play fast-paced or competitive titles. You can adjust the actuation distance of each key individually, setting shallow presses for quick inputs or deeper presses to help avoid accidental inputs. Rapid Trigger lets keys reset with a small upward movement rather than returning to a fixed reset point, perfect for quick direction changes in FPS games or repeated inputs in rhythm games.
+
+Available as a web-based client or a downloadable local app, Wooting's software is intuitive, easy to navigate, and offers extensive customization. Advanced features include SOCD, which controls how opposing directional inputs are handled when pressed together, and Analog output, which can mimic gamepad or joystick inputs for gradual steering or throttle control in compatible racing games and flight sims. Wooting's strong track record for long-term product support is another highlight, with frequent performance tweaks and new features for older models, plus a four-year warranty. We tested the heavier, more premium zinc-alloy case option, but the 80HE is also available with a less expensive ABS plastic case.
+
+See our review 
+Best Budget Gaming Keyboard
+Corsair K70 CORE
+0 
+SEE PRICEAmazon
+SEE PRICEBestBuy.com
+SEE PRICEWalmart.com
+Gaming
+N/A
+Size: 
+Full-size (100%)
+Hot-Swappable Switches: 
+No
+Connectivity: 
+Wired
+Switch Type: 
+Mechanical
+Output Type: 
+Non-Adjustable
+See all our test results 
+
+The Corsair K70 CORE is our pick for the best budget gaming keyboard. It's a great fit if you want a straightforward full-size mechanical keyboard with outstanding gaming performance. You can buy it with or without a wrist rest for added palm support. Its biggest trade-off compared to the more expensive Wooting 80HE above is that its mechanical switches don't support adjustable actuation or Rapid Trigger. Corsair also sells this keyboard in a smaller TKL (TenKeyLess) version, which removes the numpad to free up desk space, giving FPS players and those with smaller setups more room for mouse movement. It feels sturdy, thanks to a chassis made from a mix of plastic and aluminum that minimizes deck flex. The switches are factory-lubed, and some sound-dampening materials are included to help reduce the rattle and ping of typing.
+
+The K70 CORE uses Corsair MLX Red linear switches, which are lightweight and have a short pre-travel distance, making them well-suited for fast-paced and reaction-focused games. Its 1000Hz polling rate falls below the 8000Hz offered by some newer keyboards, like the Wooting above, but most people are unlikely to notice the difference during gameplay. The switches are also soldered to the board, so replacing them to change the typing feel requires desoldering. The shine-through keycaps and bright RGB lighting make the keyboard easy to use in low-light environments.
+
+See our review 
+Best Cheap Gaming Keyboard
+SteelSeries Apex 3 TKL
+0 
+SEE PRICEAmazon
+SEE PRICEWalmart.com
+SEE PRICESteelSeries
+Gaming
+N/A
+Size: 
+TenKeyLess (80%)
+Connectivity: 
+Wired
+See all our test results 
+
+The SteelSeries Apex 3 TKL is our pick for the best cheap gaming keyboard. It's a good fit if you want an inexpensive, quiet keyboard for casual gaming. Its latency is higher than that of our more expensive picks, so we don't recommend it for competitive play, but it's well-suited for casual gaming where precise timing is less important. Its TenKeyLess form factor leaves plenty of space on your desk for sweeping mouse movements. Unlike the other keyboards we recommend on this list, which use mechanical or magnetic switches, this keyboard has rubber dome switches. These are comfortable and fairly light to press, but their main advantage is that they're extremely quiet, making this keyboard a great option for shared spaces. However, their somewhat mushy bottom-out feel may be less satisfying if you prefer the feel of mechanical switches.
+
+It also has some useful extras, including the ability to set macros to any key, dedicated media controls, and a volume knob. It has RGB backlighting as well, though the keys aren't individually addressable, which means you can only customize the lighting in eight zones. If you need a full-size layout with a numpad, consider the SteelSeries Apex 3 instead. It's very similar apart from its size, but it includes a wrist rest and is typically only a bit more expensive.
+
+See our review 
+Best Wireless Gaming Keyboard
+NuPhy WH80
+13 
+SEE PRICENuPhy
+SEARCHAmazon
+SEARCHB&H
+Gaming
+N/A
+Size: 
+TenKeyLess (80%)
+Hot-Swappable Switches: 
+Yes
+Connectivity: 
+Wireless
+Switch Type: 
+Magnetic
+Output Type: 
+Adjustable Actuation
+See all our test results 
+
+The NuPhy WH80 is the best wireless gaming keyboard we've tested. It delivers exceptional gaming performance comparable to the Wooting 80HE above. Like the Wooting, it uses magnetic switches with adjustable actuation and Rapid Trigger. Rapid Trigger in particular is useful for quick repeated inputs and direction changes in FPS and rhythm games. It also supports 8000Hz polling over its wireless receiver, helping keep latency low and consistent. If you're new to these settings, the software includes presets so you can try them without configuring everything yourself.
+
+It has outstanding build quality, with a sturdy-feeling plastic case and aluminum accents, and it delivers very smooth, stable keystrokes. Multiple layers of acoustic material inside the case keep keystrokes quiet with a pleasing sound profile. It also supports Bluetooth for switching between up to three paired devices, though the receiver connection is best for gaming. NuPhy advertises up to 500 hours of wireless battery life, which is quite good for a gaming keyboard of this size and performance.
+
+The main trade-offs are price, warranty coverage, and software usability. The WH80 costs roughly as much as the Wooting's more premium zinc-alloy case option and more than its ABS plastic version. NuPhy also provides a shorter one-year warranty, compared with Wooting's four years. While NuPhy's software is well laid out and explains its advanced functions clearly, it isn't quite as intuitive to use as Wooting's.
+
+See our review 
+Best Mid-Range Wireless Gaming Keyboard
+Keychron K2 [K4, K8, K10, etc.] Ultra 8K
+0 
+SEE PRICEAmazon
+SEE PRICEKeychron
+SEARCHB&H
+Gaming
+N/A
+Size: 
+Compact (75%)
+Hot-Swappable Switches: 
+Yes
+Connectivity: 
+Wireless
+Switch Type: 
+Mechanical
+Output Type: 
+Non-Adjustable
+See all our test results 
+
+For a less expensive wireless option, we recommend the Keychron K2 Ultra 8K. It feels slightly less premium and doesn't quite match the gaming performance of the NuPhy WH80 above, but it still delivers exceptionally low latency suitable for competitive play. The main trade-off is that, unlike the NuPhy's magnetic switches, its conventional mechanical switches don't support adjustable actuation or Rapid Trigger. If you aren't interested in these features, it delivers straightforwardly excellent gaming performance at a much lower price.
+
+It supports 8000Hz polling over wired and 2.4GHz receiver connections, while Bluetooth lets you pair with up to three devices. Web-based software provides key remapping, macros, and backlighting customization. You can choose linear or tactile switches, and its hot-swappable PCB lets you change the typing feel without soldering. Its thick aluminum frame helps it feel sturdy, though the underside is plastic. Its stock keycaps also lack shine-through legends, making them harder to read in dim lighting. We tested the compact 75% K2 Ultra 8K, but the same series includes TKL, 96%, and full-size models if you need a different layout.
+
+See our review 
+Best Budget Wireless Gaming Keyboard
+MonsGeek FUN60 Ultra
+29 
+SEE PRICEAmazon
+SEARCHB&H
+SEARCHBestBuy.com
+Gaming
+N/A
+Size: 
+Compact (60%)
+Hot-Swappable Switches: 
+Yes
+Connectivity: 
+Wireless
+Switch Type: 
+Magnetic
+Output Type: 
+Adjustable Actuation
+See all our test results 
+
+We recommend the MonsGeek FUN60 Ultra as the best budget wireless gaming keyboard we've tested. It offers the best performance for the price, with exceptionally low latency and magnetic switches that support adjustable actuation, Rapid Trigger, and SOCD. However, its main limitation compared to our more expensive wireless picks is that its compact 60% layout lacks a dedicated function row and arrow keys, which may be a dealbreaker for some. That said, it also has a solid aluminum case, which is a very surprising feature at this price point. Software polish is another compromise. Its downloadable software doesn't match the polish or ease of use of Wooting's or NuPhy's platforms. MonsGeek also provides a one-year warranty, matching NuPhy's coverage but falling well short of Wooting's four.
+
+We tested the wireless TMR sensor version, which supports both magnetic and conventional mechanical switches. Other configurations have different connectivity options and sensor types, so check the listing carefully to ensure you're buying a wireless model, and see our full review for more details on variants. Retail availability has also been spotty, so we recommend checking MonsGeek's official product page and possibly signing up for restock notifications if it's currently unavailable.
+
+See our review 
+Notable Mentions
+SteelSeries Apex Pro TKL (2023): 
+
+The SteelSeries Apex Pro TKL (2023) uses magnetic switches with adjustable actuation, like the Wooting 80HE. It's also a bit less expensive, and it has a programmable OLED screen. Unfortunately, it doesn't perform as well, and both the build quality and typing quality aren't as good.
+
+ See our review
+Wooting 60HE v2: 
+
+The Wooting 60HE v2 is a smaller sibling to the Wooting 80HE and is a great alternative if you like everything the 80HE offers but prefer a smaller 60% layout. It doesn't have a more premium zinc-alloy case option, but due to its standard design, it also offers more hardware customizability and compatibility with a wide array of aftermarket cases.
+
+ See our review
+NuPhy Air75 HE: 
+
+The NuPhy Air75 HE is a strong alternative to the Wooting 80HE if you prefer a low-profile keyboard. It offers comparable gaming performance and similar core features, while its slimmer design makes it more comfortable to use without a wrist rest. However, its software isn't as easy to use, and its warranty is much shorter.
+
+ See our review
+MonsGeek M1 V5 TMR: 
+
+The MonsGeek M1 V5 TMR is much less expensive than the NuPhy WH80, but its typing experience isn't as refined, and its software is a bit clunkier. It's also a viable step up from the MonsGeek FUN60 Ultra if you want better typing quality and a larger TKL layout with dedicated arrow keys and a function row.
+
+ See our review
+Recent Updates
+
+ Oct 19, 2026: 
+
+We've simplified our category names and reorganized our picks. We've removed the Lemokey P1 HE and added the Keychron K2 Ultra 8K as our mid-range wireless gaming keyboard pick for its better performance and longer battery life. We've also revised the introduction with more concrete buying advice and rewritten the entries to make trade-offs clearer.
+
+ Aug 06, 2026: 
+
+We added the Keychron J2 as an alternative to the SteelSeries Apex 3 TKL in the 'Best Cheap Gaming Keyboard' pick, as it represents a step-up in every performance metric for a slight increase in price.
+
+ Jun 11, 2026: 
+
+We've added the MonsGeek M1 V5 TMR to the Notable Mentions. It's a strong middle-priced option that sits between the pricier NuPhy WH80 and the more affordable MonsGeek FUN60 Ultra. We confirmed all other picks are relevant and available.
+
+ Mar 30, 2026: 
+
+We replaced the now-discontinued NuPhy Field75 HE with the Wooting 80HE as our new main pick. We added the NuPhy WH80 as our new wireless pick, with the Lemokey P1 HE and Keychron K2 HE moving as our new mid-range pick. We also removed the SteelSeries Apex Pro TKL (2023) and replaced the Wooting 60HE with its successor in the Notable Mentions section.
+
+ Nov 18, 2025: 
+
+Since the Corsair K70 RGB TKL is no longer available at a budget price, we've replaced it with the Corsair K70 Core, along with the Corsair K65 RGB MINI, as our new 'Best Budget Gaming Keyboard.' We also replaced the Logitech G715 with the Lemokey P1 HE as the 'Best Wireless Gaming Keyboard' because it adds useful features like magnetic switches with adjustable actuation and Rapid Trigger.
+
+All Reviews
+
+Our recommendations above are what we think are currently the best non-mechanical and best mechanical keyboards for gaming for most people. We factor in the price (a cheaper product wins over a pricier one if the difference isn't worth it), feedback from our visitors, and availability (no keyboard that is difficult to find or almost out of stock everywhere).
+
+If you would like to do the work of choosing the best gaming keyboard yourself, here is the list of all our relevant reviews. Be careful not to get too caught up in the details. While no product is perfect for every use, most keyboards are great enough to please almost everyone, and the differences are often not noticeable unless you really look for them. Be sure to know your key switch preferences before choosing.
+
+Recommended Articles
+The 5 Best Keyboards
+The 5 Best Mechanical Keyboards
+The 6 Best Wireless Keyboards
+The 6 Best Ergonomic Keyboards
+The 4 Best Budget Gaming Keyboards
+The 5 Best Keyboards For Typing
+The 5 Best iPad And iPad Pro Keyboards
+The 6 Best Keyboards For Mac
+The 5 Best Office Keyboards
+The 6 Best Budget And Cheap Keyboards
+The 5 Best Keyboards For Programming
+The 5 Best Logitech Keyboards
+The 4 Best Budget Mechanical Keyboards
+The 6 Best 75% Keyboards
+The 4 Best Keychron Keyboards
+The 5 Best Low-Profile Keyboards
+The 4 Best Razer Keyboards
+The 4 Best 60% Keyboards
+The 6 Best Quiet Keyboards
+The 5 Best TKL Keyboards
+The 5 Best RGB Keyboards
+The 4 Best Corsair Keyboards
+The 3 Best Ducky Keyboards
+Comments
+RECOMMENDATION
+ACTIVE 1 MONTH AGO · 
+ • POSTED 6 YEARS AGO
+Best Keyboards: Main Discussion
+
+What do you think of our picks? Let us know below.
+
+
+
+
+Looking for a personalized buying recommendation from the RTINGS.com experts? Members have direct access to buying advice on our member forum.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+19 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+2
+1
+0
+ Gregory Vodden
+ • POSTED 1 MONTH AGO
+SEP 14, 2026 04:57 PM BY RtingsUser8441564  2
+
+I’m surprised you don’t mention the Kinesis. Advantage2 anywhere in your discussion of ergonomic keyboards. I’ve used it for years and find it wonderful. Very comfortable. Of course, I also don’t think you should have “ergonomic keyboards” as a category. I think you should have “keyboards” and “non-ergonomic keyboards” as categories. That is, I don’t see why people accept physically harmful devices that cause permanent damage to their users as “normal” and consider ones made with the user in mind to be “exceptional.”
+
+Hi there. Thanks for reaching out.
+
+I can report that we’re aware of the Kinesis Advantage 2, but haven’t tested it yet. You can cast a vote for it, and if it garners enough interest we’ll buy and test it. At that point, you may see it appear in our discussions or possibly as a pick within our recommendation articles.
+
+To your point regarding classifying ergonomic keyboards, I definitely understand where you’re coming from. However, in our experience, many people are intimidated by the fairly steep learning curve that some ergonomic keyboards introduce, and the overwhelming preference at this time is for more conventional, albeit less ergonomic designs. We try to respect that with our recommendations. That’s the primary reason why we cover ergonomic keyboards in a separate article and occasionally include dedicated ergonomic picks.
+
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 1 MONTH AGO
+SEP 15, 2026 03:15 AM BY  SCheng  16
+
+I don’t think the upper limits have been correctly removed for release year and price. For example Apple Magic Keyboard, MoErgo Go60 and Nuphy Gem80 are still not showing in the table.
+https://www.rtings.com/keyboard/tools/table?c=general:product,test:3408,test:3348,test:3378,usage:9048,usage:9049,usage:9050,usage:9051,usage:12136,general:test_bench,general:year,general:price&f=general:test_bench=recent&o=test:3408=desc&s=normal fixes the table
+
+You’re right, thank you!
+
+The changes were mistakenly applied to a different recommendation article. I’ve now applied them to our ‘Best Quiet Keyboards’ article, and the table should be displaying correctly.
+
+Reply
+Copy link
+2
+1
+0
+Keebio 1
+ • POSTED 2 MONTHS AGO
+
+Disclosure: I run Keebio, so weigh this accordingly. For anyone looking at true splits beyond what’s reviewed here, we make both columnar and row-staggered options. The Iris SE/LM/CE is our line of columnar boards if you want to go that route, and if you’d rather keep a familiar layout, the Quefrency LM and Sinc LM are low-profile staggered splits. They’re available fully built, not just as DIY kits, and all are hotswap and run QMK/VIA. Happy to answer questions. I’d also love to see RTINGS review a few more enthusiast splits like these alongside the mainstream picks.
+
+Reply
+Copy link
+2
+1
+0
+ 
+SCheng 16
+ • UPDATED 2 MONTHS AGO • POSTED 2 MONTHS AGO
+SEP 09, 2026 05:13 PM BY   Gregory Vodden
+
+Hey SCheng,
+Thanks for pointing this out to us. I’ve just made a modification to the table. While I’ve kept both filters so the information is still visible in the table for those who want it, I’ve removed removed their upper limits, which didn’t need to be defined.
+
+I don’t think the upper limits have been correctly removed for release year and price. For example Apple Magic Keyboard, MoErgo Go60 and Nuphy Gem80 are still not showing in the table.
+
+https://www.rtings.com/keyboard/tools/table?c=general:product,test:3408,test:3348,test:3378,usage:9048,usage:9049,usage:9050,usage:9051,usage:12136,general:test_bench,general:year,general:price&f=general:test_bench=recent&o=test:3408=desc&s=normal fixes the table
+
+Edited 2 months ago: Added URL for the fixed table
+Reply
+Copy link
+3
+2
+1
+RtingsUser8441564 2
+ • UPDATED 2 MONTHS AGO • POSTED 2 MONTHS AGO
+
+I’m surprised you don’t mention the Kinesis. Advantage2 anywhere in your discussion of ergonomic keyboards. I’ve used it for years and find it wonderful. Very comfortable. Of course, I also don’t think you should have “ergonomic keyboards” as a category. I think you should have “keyboards” and “non-ergonomic keyboards” as categories. That is, I don’t see why people accept physically harmful devices that cause permanent damage to their users as “normal” and consider ones made with the user in mind to be “exceptional.”
+
+Edited 2 months ago: because I decided to say more on the subject.
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 2 MONTHS AGO
+SEP 09, 2026 12:48 AM BY  SCheng  16
+
+https://www.rtings.com/keyboard/reviews/best/work 
+I am a bit suprised that the Office scores of the selected “Best Office Keyboards” picks are generally relatively low - with 8.1, 8.0, 7.8, 8.0 and 8.4. Except for LoFree Flow 2 pick (8.4), the Office scores of these picks are nowhere near the top of the Office scoring table with plenty of other keyboards scoring significantly higher. 
+Is this a reflection of an issue of the Office scoring criteria, or a reflection of an issue with these picks for “Best Office Keyboards”?
+
+Hey there SCheng,
+
+I think it’s most helpful to present our Office score as a weighted assessment of specific aspects of performance associated with a good office keyboard, not necessarily a definitive ranking of the keyboards that we think will suit the greatest number of people for office use.
+
+Our Office score is an interesting one as 65% of the score comes from Typing Quality (50%) and Ergonomics (15%). This can push some highly adjustable ergonomic boards and mechanical models with excellent typing experiences above some of the more conventional options currently included on this list. Our score tries to capture some of those advantages, although some of the keyboards that score above these more conventional models may involve a learning curve that not everyone is interested in confronting. One thing our experience has taught us is that most people visiting this article favor more familiar, conventional keyboards, often with low-profile scissor switches similar to those found on laptops. Ultimately, our office score also doesn’t factor in every aspect that influences our recommendations, including layout, appearance, and learning curve as well as other aspects like availability and price, so we rely on our own editorial judgement along those lines.
+
+Referencing our table for an example, the GravaStar Mercury K1 receives an 8.5 Office score, higher than any of our current picks. However, its lack of a numpad, relatively loud typing noise, and unconventional appearance make it unlikely to be the best office keyboard for most people.
+
+All that to say, our scores aim to provide an overview of specific aspects of performance, but they won’t automatically determine our recommendations.
+
+Thanks for reaching out with your question and best wishes.
+
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • UPDATED 2 MONTHS AGO • POSTED 2 MONTHS AGO
+SEP 06, 2026 06:42 AM BY  SCheng  16
+
+Given how important comfort is for office work, why is Best Ergonomic Office Keyboard removed from https://www.rtings.com/keyboard/reviews/best/work ?
+There are plenty of overlaps between the various “Best of” categories. For example, “Best keyboard for typing” & “Best office keyboards”, or “Best Budget Gaming Keyboards” & Best Budget Mechanical Keyboard For Gaming in “Best Budget Mechanical Keyboards”.
+
+Hi SCheng,
+
+It’s a great question.
+
+You’re absolutely right that there’s already some overlap between our various “Best Of” articles, and the existence of a separate ergonomic keyboard article isn’t, by itself, a reason to exclude a dedicated ergonomic pick here. We don’t avoid overlap as a rule and may retain it when we believe it serves a meaningful portion of an article’s audience. In this case, our decision to remove it was based on our understanding that most readers visiting the office article are primarily looking for familiar, conventional designs that don’t involve the learning curve associated with many ergonomic keyboards.
+
+We recognize that this may be disappointing for anyone who favors ergonomic designs and reasonably expects them to appear in an article recommending office keyboards. However, we hope to direct those readers to our Best Ergonomic Keyboard article, where we can better showcase a broader variety of ergonomic options.
+
+I hope that answers your question. 
+Best wishes,
+
+Edited 2 months ago: Clarity.
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 2 MONTHS AGO
+SEP 07, 2026 12:59 AM BY  SCheng  16
+
+The table at https://www.rtings.com/keyboard/reviews/best/quiet seems to include 2 unintended/unnecessary filters: price and year of release. As such, some quiet keyboards are missing from the table.
+
+Hey SCheng,
+
+Thanks for pointing this out to us. I’ve just made a modification to the table. While I’ve kept both filters so the information is still visible in the table for those who want it, I’ve removed removed their upper limits, which didn’t need to be defined.
+
+Reply
+Copy link
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Privacy Options
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.
