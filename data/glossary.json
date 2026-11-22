@@ -1,0 +1,1789 @@
+{
+ "about": "Plain-English meanings. Each one is paraphrased from the saved source listed with it.",
+ "terms": [
+  {
+   "term": "polling rate",
+   "also": [
+    "polling",
+    "Hz",
+    "report rate",
+    "8K",
+    "8000 Hz"
+   ],
+   "plain": "How often a mouse or keyboard sends its input to the PC each second. 8000 Hz (8K) means once every 0.125 milliseconds.",
+   "sources": [
+    {
+     "label": "Wooting - 80HE product page",
+     "url": "https://wooting.io/wooting-80he",
+     "raw_file": "data/raw/maker_wooting_80he.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Logitech G - PRO X3 SUPERSTRIKE product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+     "raw_file": "data/raw/maker_logitechg_pro-x3-superstrike-mouse.910-007876.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "actuation point",
+   "also": [
+    "actuation"
+   ],
+   "plain": "How far down you must press a key before it registers.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best mechanical keyboards 2026",
+     "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+     "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-01-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "magnetic switches",
+   "also": [
+    "HE",
+    "TMR",
+    "magnetic"
+   ],
+   "plain": "Key switches that use a small magnet to sense a press, without parts touching. This lets you set the actuation point of each key yourself.",
+   "sources": [
+    {
+     "label": "Tom's Guide - Best mechanical keyboards 2026",
+     "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+     "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-16"
+    },
+    {
+     "label": "RTINGS - The Best Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+     "raw_file": "data/raw/rtings_best-keyboard.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Rapid Trigger",
+   "also": [
+    "rapid trigger"
+   ],
+   "plain": "A feature where a key (or mouse click) resets as soon as you lift it a little, instead of at a fixed reset point.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Gaming Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+     "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-19"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "RTINGS says it is useful for quick repeated presses and direction changes in FPS and rhythm games, and matters less for casual gaming.",
+     "status": "opinion: RTINGS",
+     "sources": [
+      {
+       "label": "RTINGS - The Best Gaming Keyboards",
+       "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+       "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+       "date_checked": "2026-11-18",
+       "published": "2026-10-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "hot-swappable",
+   "also": [
+    "hot-swap",
+    "hot swap"
+   ],
+   "plain": "You can pull out and change the key switches without soldering.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Gaming Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+     "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-19"
+    },
+    {
+     "label": "Tom's Guide - Best mechanical keyboards 2026",
+     "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+     "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "gasket mount",
+   "also": [
+    "gasket"
+   ],
+   "plain": "A way of mounting the inside of a keyboard that gives typing a softer, slightly springy feel.",
+   "sources": [
+    {
+     "label": "RTINGS review - Ducky OK-M (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/ducky/ok-m",
+     "raw_file": "data/raw/rtings_kb_ducky-ok-m.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-05-13"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "linear switch",
+   "also": [
+    "linear"
+   ],
+   "plain": "A key switch that moves straight down smoothly, with no bump and no click.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best mechanical keyboards 2026",
+     "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+     "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-01-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "tactile switch",
+   "also": [
+    "tactile"
+   ],
+   "plain": "A key switch with a small bump you can feel when you press it.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best mechanical keyboards 2026",
+     "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+     "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-01-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "tenkeyless (TKL)",
+   "also": [
+    "TKL",
+    "tenkeyless"
+   ],
+   "plain": "A keyboard without the number pad on the right.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best mechanical keyboards 2026",
+     "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+     "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-01-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "full size",
+   "also": [
+    "full-size",
+    "full size"
+   ],
+   "plain": "A keyboard that includes the separate number pad on the right.",
+   "sources": [
+    {
+     "label": "Tom's Guide - Best mechanical keyboards 2026",
+     "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+     "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "DKS",
+   "also": [
+    "DKS",
+    "dynamic keystrokes"
+   ],
+   "plain": "Short for 'dynamic keystrokes'. Lets one key do different things on a half press, full press and release.",
+   "sources": [
+    {
+     "label": "Wooting - 80HE product page",
+     "url": "https://wooting.io/wooting-80he",
+     "raw_file": "data/raw/maker_wooting_80he.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "SOCD",
+   "also": [
+    "SOCD"
+   ],
+   "plain": "A setting that decides what happens when you press two opposite keys at once, like left and right.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Gaming Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+     "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Wooting - 80HE product page",
+     "url": "https://wooting.io/wooting-80he",
+     "raw_file": "data/raw/maker_wooting_80he.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "CPI / DPI",
+   "also": [
+    "DPI",
+    "CPI"
+   ],
+   "plain": "How far the cursor moves for each inch you move the mouse. A higher number moves the cursor further.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-29"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "IPS",
+   "also": [
+    "IPS"
+   ],
+   "plain": "The fastest mouse movement (in inches per second) the sensor can follow accurately.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-29"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "lift-off distance",
+   "also": [
+    "LOD",
+    "lift-off"
+   ],
+   "plain": "How high you can lift the mouse before the sensor stops tracking.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-29"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "grip",
+   "also": [
+    "palm grip",
+    "claw grip",
+    "fingertip"
+   ],
+   "plain": "How you hold a mouse. The common grips are palm, claw and fingertip.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-29"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "PTFE",
+   "also": [
+    "PTFE"
+   ],
+   "plain": "The slick plastic most mouse feet are made of. Pure PTFE has no other materials mixed in.",
+   "sources": [
+    {
+     "label": "Razer - Basilisk V3 product page",
+     "url": "https://www.razer.com/gaming-mice/razer-basilisk-v3",
+     "raw_file": "data/raw/maker_razer_razer-basilisk-v3.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Wasabi - Beginners Guide to aftermarket skates (3:51)",
+     "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=231s",
+     "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "3:51",
+     "published": "2024-06-18"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "Wasabi says pure PTFE is soft, so it wears quickly on glass pads.",
+     "status": "opinion: Wasabi",
+     "sources": [
+      {
+       "label": "Wasabi - Beginners Guide to aftermarket skates (3:51)",
+       "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=231s",
+       "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+       "date_checked": "2026-11-18",
+       "timestamp": "3:51",
+       "published": "2024-06-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "UHMWPE",
+   "also": [
+    "UHMWPE",
+    "UPE"
+   ],
+   "plain": "Another plastic used for mouse feet, instead of PTFE.",
+   "sources": [
+    {
+     "label": "RTINGS review - Logitech G PRO X3 SUPERSTRIKE (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike",
+     "raw_file": "data/raw/rtings_logitech-g-pro-x3-superstrike.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-23"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "In RTINGS' test of one mouse (the X3 SUPERSTRIKE), its UHMWPE feet glided less smoothly than good PTFE feet. That is one test, not a rule.",
+     "status": "opinion: RTINGS",
+     "sources": [
+      {
+       "label": "RTINGS review - Logitech G PRO X3 SUPERSTRIKE (free sections)",
+       "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike",
+       "raw_file": "data/raw/rtings_logitech-g-pro-x3-superstrike.txt",
+       "date_checked": "2026-11-18",
+       "published": "2026-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "mouse skates",
+   "also": [
+    "skates",
+    "mouse feet"
+   ],
+   "plain": "Replacement feet for the bottom of your mouse. Full skates match the shape of the stock feet; dots are small round pieces you place yourself.",
+   "sources": [
+    {
+     "label": "Wasabi - Beginners Guide to aftermarket skates (1:24)",
+     "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=84s",
+     "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "1:24",
+     "published": "2024-06-18"
+    },
+    {
+     "label": "Wasabi - Beginners Guide to aftermarket skates (1:51)",
+     "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=111s",
+     "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "1:51",
+     "published": "2024-06-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "control pad",
+   "also": [
+    "control",
+    "control-style"
+   ],
+   "plain": "A mouse pad made to help you stop the mouse exactly where you want.",
+   "sources": [
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (0:41)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=41s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "0:41",
+     "published": "2024-10-25"
+    },
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (1:07)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=67s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "1:07",
+     "published": "2024-10-25"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "DiamondLobby suggests control pads for tactical shooters like CS2 and Valorant.",
+     "status": "opinion: DiamondLobby",
+     "sources": [
+      {
+       "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (0:41)",
+       "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=41s",
+       "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+       "date_checked": "2026-11-18",
+       "timestamp": "0:41",
+       "published": "2024-10-25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "glass pad",
+   "also": [
+    "glass"
+   ],
+   "plain": "A hard mouse pad with a glass surface instead of cloth.",
+   "sources": [
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:21)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=261s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "4:21",
+     "published": "2024-10-25"
+    },
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:53)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=293s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "4:53",
+     "published": "2024-10-25"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "DiamondLobby says glass pads are fast, need little care and keep feeling new.",
+     "status": "opinion: DiamondLobby",
+     "sources": [
+      {
+       "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:21)",
+       "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=261s",
+       "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+       "date_checked": "2026-11-18",
+       "timestamp": "4:21",
+       "published": "2024-10-25"
+      },
+      {
+       "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:53)",
+       "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=293s",
+       "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+       "date_checked": "2026-11-18",
+       "timestamp": "4:53",
+       "published": "2024-10-25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "96% layout",
+   "also": [
+    "96%",
+    "96-percent"
+   ],
+   "plain": "A squashed full-size keyboard. It keeps the number pad but drops some navigation keys.",
+   "sources": [
+    {
+     "label": "Tom's Hardware - Best Gaming Keyboards 2026",
+     "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards",
+     "raw_file": "data/raw/tomshardware_best-gaming-keyboards.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "75% layout",
+   "also": [
+    "75%",
+    "75-percent"
+   ],
+   "plain": "A compact keyboard with no number pad and fewer navigation keys, but it keeps the arrow keys and function row.",
+   "sources": [
+    {
+     "label": "Tom's Hardware - Best Gaming Keyboards 2026",
+     "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards",
+     "raw_file": "data/raw/tomshardware_best-gaming-keyboards.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "60% layout",
+   "also": [
+    "60%",
+    "60-percent"
+   ],
+   "plain": "The smallest common layout: no number pad, function row, navigation keys or arrow keys.",
+   "sources": [
+    {
+     "label": "Tom's Hardware - Best Gaming Keyboards 2026",
+     "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards",
+     "raw_file": "data/raw/tomshardware_best-gaming-keyboards.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "stopping power",
+   "also": [
+    "stopping"
+   ],
+   "plain": "How easily a mouse pad lets you stop the mouse exactly where you want. Control pads have more of it.",
+   "sources": [
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (1:07)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=67s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "1:07"
+    },
+    {
+     "label": "ARTISAN - NINJA FX ZERO product page",
+     "url": "https://artisan-jp.com/global/fx-zero",
+     "raw_file": "data/raw/maker_artisan_fx-zero.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "click and sensor latency",
+   "also": [
+    "latency",
+    "click delay"
+   ],
+   "plain": "The small delay between your click or movement and the PC seeing it. Low latency makes a gaming mouse feel responsive.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Mouse of 2026",
+     "url": "https://www.rtings.com/mouse/reviews/best/mouse",
+     "raw_file": "data/raw/rtings_best-mouse.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "analog input",
+   "also": [
+    "analog",
+    "analog output"
+   ],
+   "plain": "The keyboard tracks how far each key is pressed, not just on or off. This allows features like Rapid Trigger and finer control.",
+   "sources": [
+    {
+     "label": "Wooting - 80HE product page",
+     "url": "https://wooting.io/wooting-80he",
+     "raw_file": "data/raw/maker_wooting_80he.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "scissor switches",
+   "also": [
+    "scissor"
+   ],
+   "plain": "Thin, laptop-style key switches. They usually feel softer and travel a shorter distance than mechanical switches.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+     "raw_file": "data/raw/rtings_best-keyboard.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - Logitech MX Keys S (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/logitech/mx-keys-s",
+     "raw_file": "data/raw/rtings_kb_logitech-mx-keys-s.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "low-profile",
+   "also": [
+    "low profile"
+   ],
+   "plain": "A keyboard or switch with a shorter build and shallower key travel than standard mechanical switches.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+     "raw_file": "data/raw/rtings_best-keyboard.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - Logitech MX Keys S (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/logitech/mx-keys-s",
+     "raw_file": "data/raw/rtings_kb_logitech-mx-keys-s.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "PBT and ABS keycaps",
+   "also": [
+    "PBT",
+    "ABS",
+    "keycaps"
+   ],
+   "plain": "The two plastics most keycaps are made from. Some boards come with either one.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best mechanical keyboards 2026",
+     "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+     "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - Corsair K70 CORE (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/corsair/k70-core",
+     "raw_file": "data/raw/rtings_kb_corsair-k70-core.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "PC Gamer links PBT keycaps to a premium feel.",
+     "status": "opinion: PC Gamer",
+     "sources": [
+      {
+       "label": "PC Gamer - Best mechanical keyboards 2026",
+       "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+       "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+       "date_checked": "2026-11-18",
+       "published": "2026-01-16"
+      }
+     ]
+    },
+    {
+     "text": "RTINGS says the K70 CORE's ABS keycaps feel a bit cheap.",
+     "status": "opinion: RTINGS",
+     "sources": [
+      {
+       "label": "RTINGS review - Corsair K70 CORE (free sections)",
+       "url": "https://www.rtings.com/keyboard/reviews/corsair/k70-core",
+       "raw_file": "data/raw/rtings_kb_corsair-k70-core.txt",
+       "date_checked": "2026-11-18",
+       "published": "2024-02-14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "tray mount",
+   "also": [
+    "tray-mount"
+   ],
+   "plain": "A common, traditional way of fixing a keyboard's insides to its case. It is the usual alternative to a gasket mount.",
+   "sources": [
+    {
+     "label": "RTINGS review - Ducky OK-M (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/ducky/ok-m",
+     "raw_file": "data/raw/rtings_kb_ducky-ok-m.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - MonsGeek FUN60 Ultra (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/monsgeek/fun60-ultra",
+     "raw_file": "data/raw/rtings_kb_monsgeek-fun60-ultra.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "RTINGS describes tray-mounted boards as stiffer than gasket-mounted ones.",
+     "status": "opinion: RTINGS",
+     "sources": [
+      {
+       "label": "RTINGS review - Ducky OK-M (free sections)",
+       "url": "https://www.rtings.com/keyboard/reviews/ducky/ok-m",
+       "raw_file": "data/raw/rtings_kb_ducky-ok-m.txt",
+       "date_checked": "2026-11-18"
+      },
+      {
+       "label": "RTINGS review - MonsGeek FUN60 Ultra (free sections)",
+       "url": "https://www.rtings.com/keyboard/reviews/monsgeek/fun60-ultra",
+       "raw_file": "data/raw/rtings_kb_monsgeek-fun60-ultra.txt",
+       "date_checked": "2026-11-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "Armoury Crate",
+   "also": [],
+   "plain": "ASUS's app for setting up its keyboards and other gear. For the ROG Strix Scope II 96 Wireless keyboard on this site, ASUS also offers a lighter app, Armoury Crate Gear.",
+   "sources": [
+    {
+     "label": "RTINGS review - ASUS ROG Strix Scope II 96 Wireless (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/asus/rog-strix-scope-ii-96-wireless",
+     "raw_file": "data/raw/rtings_kb_asus-rog-strix-scope-ii-96-wireless.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "optical switches",
+   "also": [
+    "optical switch"
+   ],
+   "plain": "A type of mouse button switch, used instead of the older mechanical kind.",
+   "sources": [
+    {
+     "label": "RTINGS review - Logitech G PRO X SUPERLIGHT 2 (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x-superlight-2",
+     "raw_file": "data/raw/rtings_logitech-g-pro-x-superlight-2.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "RTINGS says optical switches are usually more durable and do not develop double-click problems, but they feel stiffer at first and can get mushy as they age.",
+     "status": "opinion: RTINGS",
+     "sources": [
+      {
+       "label": "RTINGS review - Logitech G PRO X SUPERLIGHT 2 (free sections)",
+       "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x-superlight-2",
+       "raw_file": "data/raw/rtings_logitech-g-pro-x-superlight-2.txt",
+       "date_checked": "2026-11-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "HERO 2",
+   "also": [
+    "HERO"
+   ],
+   "plain": "Logitech's name for the sensor in its newer gaming mice. HERO is the older version.",
+   "sources": [
+    {
+     "label": "Logitech G - PRO X3 SUPERSTRIKE product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+     "raw_file": "data/raw/maker_logitechg_pro-x3-superstrike-mouse.910-007876.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Logitech G - G305 LIGHTSPEED product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/g305-lightspeed-wireless-gaming-mouse.910-005289",
+     "raw_file": "data/raw/maker_logitechg_g305-lightspeed-wireless-gaming-mouse.910-005289.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "LIGHTSPEED",
+   "also": [],
+   "plain": "Logitech's name for the wireless connection on its gaming mice. It uses a small USB receiver.",
+   "sources": [
+    {
+     "label": "Logitech G - PRO X SUPERLIGHT 2 product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/pro-x2-superlight-wireless-mouse.910-006636",
+     "raw_file": "data/raw/maker_logitechg_pro-x2-superlight-wireless-mouse.910-006636.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Logi Bolt",
+   "also": [
+    "Bolt"
+   ],
+   "plain": "Logitech's small USB receiver for its work mice and keyboards.",
+   "sources": [
+    {
+     "label": "Logitech - MX Keys S product page",
+     "url": "https://www.logitech.com/en-us/shop/p/mx-keys-s.920-011406",
+     "raw_file": "data/raw/maker_logitech_mx-keys-s.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - Logitech MX Master 4 (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/mx-master-4",
+     "raw_file": "data/raw/rtings_logitech-mx-master-4.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "receiver (dongle)",
+   "also": [
+    "receiver",
+    "dongle"
+   ],
+   "plain": "The small plug in your PC that a wireless mouse or keyboard talks to. Some receivers allow higher polling rates than others.",
+   "sources": [
+    {
+     "label": "RTINGS review - Razer DeathAdder V4 Pro (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/razer/deathadder-v4-pro",
+     "raw_file": "data/raw/rtings_razer-deathadder-v4-pro.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "constant motion",
+   "also": [],
+   "plain": "How Logitech tests battery life: with the mouse moving all the time. Logitech says real battery life varies. Other makers test in other ways, so their hours do not compare.",
+   "sources": [
+    {
+     "label": "Logitech G - PRO X SUPERLIGHT 2 product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/pro-x2-superlight-wireless-mouse.910-006636",
+     "raw_file": "data/raw/maker_logitechg_pro-x2-superlight-wireless-mouse.910-006636.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "mAh",
+   "also": [],
+   "plain": "The unit makers use to give a battery's size, for example 650 mAh on the MX Master 4 or 4000 mAh on Keychron boards. It does not tell you the hours by itself.",
+   "sources": [
+    {
+     "label": "Logitech - MX Master 4 product page",
+     "url": "https://www.logitech.com/en-us/shop/p/mx-master-4.910-007558",
+     "raw_file": "data/raw/maker_logitech_mx-master-4.910-007558.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Keychron - K2 Ultra 8K (product data)",
+     "url": "https://www.keychron.com/products/keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard",
+     "raw_file": "data/raw/maker_keychron_keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "outlet",
+   "also": [
+    "outlets"
+   ],
+   "plain": "Our word for one review site or reviewer, like RTINGS, PC Gamer or boardzy. When an outlet puts an item on its best-of list or in its top group, we say it \"recommends\" the item. Each outlet counts once, even if it recommends an item in two lists.",
+   "sources": [
+    {
+     "label": "This site - how we count (our own rule)",
+     "url": "ladder.html",
+     "raw_file": "",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "mention",
+   "also": [
+    "side mention",
+    "Notable Mention",
+    "notable mentions",
+    "mentioned"
+   ],
+   "plain": "When an outlet names an item as an alternative to its main picks (RTINGS calls these 'Notable Mentions'), or says something good about it in passing. It is a good sign, but it is not one of the outlet's main picks. We show it as \"Listed as an alternative\" and do not count it as a recommendation.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Gaming Mouse",
+     "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+     "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "FPS",
+   "also": [
+    "first-person shooter",
+    "FPS games"
+   ],
+   "plain": "Short for first-person shooter: fast games where you aim through your character's eyes, such as Overwatch 2 or Apex Legends.",
+   "sources": [
+    {
+     "label": "Tom's Hardware - Best Gaming Keyboards 2026",
+     "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards",
+     "raw_file": "data/raw/tomshardware_best-gaming-keyboards.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Tom's Hardware - Best Gaming Mouse 2026",
+     "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+     "raw_file": "data/raw/tomshardware_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "RGB",
+   "also": [
+    "RGB lighting"
+   ],
+   "plain": "Colour lighting on a mouse, keyboard or pad that you can change.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Tom's Hardware - Best Mouse Pads 2026",
+     "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+     "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Cordura",
+   "also": [
+    "Cordura fabric"
+   ],
+   "plain": "A tough, durable fabric used on some mouse pads instead of normal cloth. DiamondLobby's auto-captions spell it \"Cura\".",
+   "sources": [
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (5:25)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=325s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-19"
+    },
+    {
+     "label": "boardzy - 2024 Mousepad Tier List (19:36)",
+     "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1176s",
+     "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "DiamondLobby finds Cordura more abrasive than a normal cloth pad.",
+     "status": "opinion: DiamondLobby",
+     "sources": [
+      {
+       "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (5:51)",
+       "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=351s",
+       "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+       "date_checked": "2026-11-19"
+      }
+     ]
+    },
+    {
+     "text": "boardzy says older Cordura pads felt aggressive, and the market has moved to smoother, quieter Cordura.",
+     "status": "opinion: boardzy",
+     "sources": [
+      {
+       "label": "boardzy - 2024 Mousepad Tier List (19:44)",
+       "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1184s",
+       "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+       "date_checked": "2026-11-19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "haptic",
+   "also": [
+    "haptic click",
+    "haptic motors"
+   ],
+   "plain": "A small motor makes the click you feel, instead of a mechanical part.",
+   "sources": [
+    {
+     "label": "RTINGS review - Logitech G PRO X3 SUPERSTRIKE (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike",
+     "raw_file": "data/raw/rtings_logitech-g-pro-x3-superstrike.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "symmetrical shape",
+   "also": [
+    "symmetrical",
+    "ambidextrous"
+   ],
+   "plain": "The left and right sides of the mouse match, so the shape suits either hand. Side buttons can still be on one side only.",
+   "sources": [
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - Logitech G PRO X SUPERLIGHT 2 (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x-superlight-2",
+     "raw_file": "data/raw/rtings_logitech-g-pro-x-superlight-2.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "ergonomic shape",
+   "also": [
+    "ergonomic",
+    "right-handed ergonomic",
+    "ergo"
+   ],
+   "plain": "A mouse shaped for one hand (usually the right) so your hand can rest on it.",
+   "sources": [
+    {
+     "label": "RTINGS review - Razer DeathAdder V4 Pro (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/razer/deathadder-v4-pro",
+     "raw_file": "data/raw/rtings_razer-deathadder-v4-pro.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "PC Gamer - Best gaming mouse 2026",
+     "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+     "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "wired and wireless",
+   "also": [
+    "wired",
+    "wireless"
+   ],
+   "plain": "Wired: it plugs into your PC with a cable. Wireless: it connects through a small USB receiver or Bluetooth.",
+   "sources": [
+    {
+     "label": "RTINGS review - Corsair KATAR PRO XT (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/corsair/katar-pro-xt",
+     "raw_file": "data/raw/rtings_corsair-katar-pro-xt.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "RTINGS review - Logitech MX Master 4 (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/mx-master-4",
+     "raw_file": "data/raw/rtings_logitech-mx-master-4.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "source",
+   "also": [
+    "sources"
+   ],
+   "plain": "Any page or video we saved and used: reviews, best-of lists, videos and maker pages. Maker pages back specs and prices, but never count as an opinion or a pick.",
+   "sources": [
+    {
+     "label": "This site - how we count (our own rule)",
+     "url": "ladder.html",
+     "raw_file": "",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "reviewer",
+   "also": [
+    "reviewers"
+   ],
+   "plain": "A person, site or lab that tests products. Each reviewer or site counts as one outlet.",
+   "sources": [
+    {
+     "label": "This site - how we count (our own rule)",
+     "url": "ladder.html",
+     "raw_file": "",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "spec score",
+   "also": [
+    "Spec score"
+   ],
+   "plain": "Our number from 0 to 100 for mice and keyboards. For each spec we compare, we work out the share of the other ranked items it matches or beats, then average those shares. It only counts the specs listed on the Ladder page.",
+   "sources": [
+    {
+     "label": "This site - how we count (our own rule)",
+     "url": "ladder.html",
+     "raw_file": "",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "recommended",
+   "also": [
+    "pick",
+    "picks",
+    "picked",
+    "recommends",
+    "recommendation"
+   ],
+   "plain": "We count an item as recommended when the outlet itself presents it as a recommendation: a place on its best-of list, a clear \"my recommendation is...\" in a video, or a tier that the reviewer says he recommends (boardzy says he recommends anything in A tier or above). Items an outlet lists as alternatives, like RTINGS' \"Notable Mentions\", are not counted. Each outlet counts once.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Mouse of 2026",
+     "url": "https://www.rtings.com/mouse/reviews/best/mouse",
+     "raw_file": "data/raw/rtings_best-mouse.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-05"
+    },
+    {
+     "label": "boardzy - 2025 Mouse Skate Tier List (24:19)",
+     "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1459s",
+     "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+     "date_checked": "2026-11-18",
+     "published": "2024-12-23"
+    },
+    {
+     "label": "boardzy - 2024 Mousepad Tier List (52:04)",
+     "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=3124s",
+     "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+     "date_checked": "2026-11-18",
+     "published": "2024-07-27"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Hall effect switches",
+   "also": [
+    "Hall effect",
+    "HE switches"
+   ],
+   "plain": "A kind of magnetic switch. Magnets and sensors detect how far each key is pressed, so you can set the actuation point of each key.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Keyboards",
+     "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+     "raw_file": "data/raw/rtings_best-keyboard.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-04"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "inductive clicks (HITS)",
+   "also": [
+    "inductive",
+    "HITS",
+    "Haptic Inductive Trigger System"
+   ],
+   "plain": "Mouse buttons that sense a press with inductive sensing instead of a normal microswitch. A small motor gives the click feel. You can set how far a press must go before it counts.",
+   "sources": [
+    {
+     "label": "RTINGS - The Best Gaming Mouse",
+     "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+     "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-13"
+    },
+    {
+     "label": "Logitech G - PRO X3 SUPERSTRIKE features and spec data",
+     "url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+     "raw_file": "data/raw/maker_logitechg_pro-x3-superstrike-features.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "PixArt sensors (PAW3395, PMW3391)",
+   "also": [
+    "PAW3395",
+    "PAW3950",
+    "PMW3391",
+    "PixArt"
+   ],
+   "plain": "Model names of mouse sensors made by the company PixArt. The number is the model. An 'SE' version is a different sensor from the plain one.",
+   "sources": [
+    {
+     "label": "RTINGS review - VXE R1 Pro (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/vxe/r1-pro",
+     "raw_file": "data/raw/rtings_vxe-r1-pro.txt",
+     "date_checked": "2026-11-18",
+     "published": "2025-07-18"
+    },
+    {
+     "label": "ATK store - VXE Dragonfly R1 series model comparison",
+     "url": "https://www.atk.store/pages/product-finder-comparison?product=vxe-dragonfly-r1-series-wireless-mouse&compare=models",
+     "raw_file": "data/raw/maker_atk_vxe-r1-compare.txt",
+     "date_checked": "2026-11-19"
+    },
+    {
+     "label": "TechPowerUp - Corsair KATAR PRO XT review",
+     "url": "https://www.techpowerup.com/review/corsair-katar-pro-xt/",
+     "raw_file": "data/raw/review_techpowerup_corsair-katar-pro-xt.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Silk POM",
+   "also": [
+    "Silk POM switch"
+   ],
+   "plain": "A switch model made by Keychron. Keychron sells it in Brown, Red and Banana versions.",
+   "sources": [
+    {
+     "label": "Keychron - Q6 Ultra 8K (product data)",
+     "url": "https://www.keychron.com/products/keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard",
+     "raw_file": "data/raw/maker_keychron_keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Kailh Box V2",
+   "also": [
+    "Box V2"
+   ],
+   "plain": "A switch model made by the company Kailh. Tom's Guide lists White, Red and Brown versions for the Keychron V1 Ultra 8K.",
+   "sources": [
+    {
+     "label": "Tom's Guide - Best mechanical keyboards 2026",
+     "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+     "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-16"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Banana switch",
+   "also": [
+    "Banana switches",
+    "Banana"
+   ],
+   "plain": "One of the switch versions Keychron sells, next to Red and Brown. Tom's Guide lists it as a tactile switch (you feel a small bump when the key presses).",
+   "sources": [
+    {
+     "label": "Keychron - K2 Ultra 8K (product data)",
+     "url": "https://www.keychron.com/products/keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard",
+     "raw_file": "data/raw/maker_keychron_keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Keychron - Q6 Ultra 8K (product data)",
+     "url": "https://www.keychron.com/products/keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard",
+     "raw_file": "data/raw/maker_keychron_keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Tom's Guide - Best mechanical keyboards 2026",
+     "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+     "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-11-16"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "Tom's Guide says the Banana switches it tested on the V1 Ultra 8K have a lovely tactile feel, though they are on the heavy side.",
+     "status": "opinion: Tom's Guide",
+     "sources": [
+      {
+       "label": "Tom's Guide - Best mechanical keyboards 2026",
+       "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+       "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+       "date_checked": "2026-11-18",
+       "published": "2026-11-16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "G HUB",
+   "also": [
+    "Logitech G HUB"
+   ],
+   "plain": "Logitech's app for its gaming mice and other gaming gear. Logitech says advanced features need it.",
+   "sources": [
+    {
+     "label": "Logitech G - G502 X PLUS product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/g502-x-plus-wireless-lightforce.910-006160",
+     "raw_file": "data/raw/maker_logitechg_g502-x-plus-wireless-lightforce.910-006160.txt",
+     "date_checked": "2026-11-18"
+    },
+    {
+     "label": "Logitech G - PRO X3 SUPERSTRIKE product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+     "raw_file": "data/raw/maker_logitechg_pro-x3-superstrike-mouse.910-007876.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Darkfield",
+   "also": [
+    "Darkfield high precision"
+   ],
+   "plain": "Logitech's name for the sensor in the MX Master 4. Logitech says the mouse tracks on any surface, including glass.",
+   "sources": [
+    {
+     "label": "Logitech - MX Master 4 product page",
+     "url": "https://www.logitech.com/en-us/shop/p/mx-master-4.910-007558",
+     "raw_file": "data/raw/maker_logitech_mx-master-4.910-007558.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "front-heavy",
+   "also": [
+    "front heavy"
+   ],
+   "plain": "When more of a mouse's weight sits toward its front instead of its middle.",
+   "sources": [
+    {
+     "label": "RTINGS review - Logitech G PRO X3 SUPERSTRIKE (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike",
+     "raw_file": "data/raw/rtings_logitech-g-pro-x3-superstrike.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-10-23"
+    }
+   ],
+   "status": "verified",
+   "notes": [
+    {
+     "text": "RTINGS says this may be noticeable on the X3 SUPERSTRIKE if you use low sensitivity, make broad sweeps or often lift the mouse.",
+     "status": "opinion: RTINGS",
+     "sources": [
+      {
+       "label": "RTINGS review - Logitech G PRO X3 SUPERSTRIKE (free sections)",
+       "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike",
+       "raw_file": "data/raw/rtings_logitech-g-pro-x3-superstrike.txt",
+       "date_checked": "2026-11-18",
+       "published": "2026-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "term": "stock feet",
+   "also": [
+    "stock skates",
+    "stock feet"
+   ],
+   "plain": "The feet (skates) a mouse comes with from the factory. People replace them when they wear out or to change how the mouse glides.",
+   "sources": [
+    {
+     "label": "Wasabi - Beginners Guide to aftermarket skates (0:51)",
+     "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=51s",
+     "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+     "date_checked": "2026-11-18",
+     "published": "2024-06-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "starting friction",
+   "also": [
+    "initial friction",
+    "low starting friction",
+    "dynamic friction"
+   ],
+   "plain": "How much a pad resists when the mouse starts to move from a stop. Dynamic friction is the resistance once it is already moving.",
+   "sources": [
+    {
+     "label": "boardzy - 2024 Mousepad Tier List (21:28)",
+     "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1288s",
+     "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+     "date_checked": "2026-11-18",
+     "published": "2024-07-27"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "humidity resistance",
+   "also": [
+    "humidity"
+   ],
+   "plain": "How well a pad keeps the same feel when the air is damp or your hands sweat.",
+   "sources": [
+    {
+     "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (1:30)",
+     "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=90s",
+     "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+     "date_checked": "2026-11-18",
+     "published": "2024-10-25"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "XSOFT, SOFT, MID",
+   "also": [
+    "XSOFT",
+    "SOFT, MID"
+   ],
+   "plain": "The three base types (firmness levels) ARTISAN sells for the NINJA FX ZERO pad. ARTISAN's own table: XSOFT is very soft, SOFT is moderately soft and MID is firm. MID pads are 3 mm thick; the others are 4 mm.",
+   "sources": [
+    {
+     "label": "ARTISAN - NINJA FX ZERO product page",
+     "url": "https://artisan-jp.com/global/fx-zero",
+     "raw_file": "data/raw/maker_artisan_fx-zero.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "lighting zones",
+   "also": [
+    "lighting zone",
+    "zone Chroma"
+   ],
+   "plain": "The number of areas a maker lists for a product's RGB lighting. Razer lists 15 zones for the Firefly V2 Pro.",
+   "sources": [
+    {
+     "label": "Razer - Firefly V2 Pro (Black) full spec list",
+     "url": "https://www.razer.com/gaming-mouse-mats/razer-firefly-v2-pro/RZ02-04920100-R3U1",
+     "raw_file": "data/raw/maker_razer_firefly-v2-pro-specs.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "USB pass-through",
+   "also": [
+    "usb passthrough",
+    "passthrough",
+    "USB 2.0 port"
+   ],
+   "plain": "A USB port on a pad or keyboard that you can plug another device into. Razer says the Firefly V2 Pro's port can hold your mouse's wireless receiver.",
+   "sources": [
+    {
+     "label": "Razer - Firefly V2 Pro product page",
+     "url": "https://www.razer.com/gaming-mouse-mats/razer-firefly-v2-pro",
+     "raw_file": "data/raw/maker_razer_razer-firefly-v2-pro.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "dot skates (dots)",
+   "also": [
+    "dots",
+    "dot skates",
+    "universal dots",
+    "Universal Dots"
+   ],
+   "plain": "Small round skates you stick on the bottom of a mouse yourself, instead of full-size skates. A pack has about 40. Using fewer dots makes the glide faster; more dots give more control. 'Universal' dots fit most mice.",
+   "sources": [
+    {
+     "label": "Wasabi - Beginners Guide to aftermarket skates (1:51)",
+     "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=111s",
+     "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "1:51",
+     "published": "2024-06-18"
+    },
+    {
+     "label": "JP Gaming USA store - X-raypad Obsidian Universal Dots",
+     "url": "https://jpgamingusa.com/products/x-raypad-obsidian-mouse-skates-universal-dots",
+     "raw_file": "data/raw/reseller_jpgaming_xraypad-skates.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "donut skates (donuts)",
+   "also": [
+    "donuts",
+    "donut skates",
+    "Universal Donuts"
+   ],
+   "plain": "Skates similar to dots that you also place yourself. Wasabi says a pack has 32, and you change the speed by how many you use.",
+   "sources": [
+    {
+     "label": "Wasabi - Beginners Guide to aftermarket skates (2:32)",
+     "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=152s",
+     "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "2:32",
+     "published": "2024-06-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "tri-mode",
+   "also": [
+    "tri-mode wireless",
+    "tri-mode version"
+   ],
+   "plain": "A keyboard that connects three ways: a cable, a 2.4 GHz wireless receiver, or Bluetooth.",
+   "sources": [
+    {
+     "label": "RTINGS review - MonsGeek FUN60 Ultra (free sections)",
+     "url": "https://www.rtings.com/keyboard/reviews/monsgeek/fun60-ultra",
+     "raw_file": "data/raw/rtings_kb_monsgeek-fun60-ultra.txt",
+     "date_checked": "2026-11-18",
+     "published": "2025-06-04"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "onboard memory",
+   "also": [
+    "onboard memory profiles",
+    "on-board memory"
+   ],
+   "plain": "Settings profiles saved on the mouse itself. Logitech says the G502 X PLUS holds 5 profiles (2 by default, 5 if you use its G HUB app).",
+   "sources": [
+    {
+     "label": "Logitech G - G502 X PLUS product page",
+     "url": "https://www.logitechg.com/en-us/shop/p/g502-x-plus-wireless-lightforce.910-006160",
+     "raw_file": "data/raw/maker_logitechg_g502-x-plus-wireless-lightforce.910-006160.txt",
+     "date_checked": "2026-11-18"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "notched and free-spin scrolling",
+   "also": [
+    "notched",
+    "free spin",
+    "free-spin",
+    "free-scrolling",
+    "free scroll"
+   ],
+   "plain": "Two scroll-wheel modes: notched moves in small clicky steps, free-spin rolls freely and much faster. RTINGS says the MX Master 4's top wheel can switch between them.",
+   "sources": [
+    {
+     "label": "RTINGS review - Logitech MX Master 4 (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/logitech/mx-master-4",
+     "raw_file": "data/raw/rtings_logitech-mx-master-4.txt",
+     "date_checked": "2026-11-18",
+     "published": "2025-10-29"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "raw performance",
+   "also": [
+    "'raw performance'",
+    "raw performance"
+   ],
+   "plain": "A heading RTINGS uses for speed results. RTINGS explains it for mice: in its Viper V4 Pro review, exceptional raw performance means very low click and sensor latency (delay). The detailed numbers are for RTINGS members only.",
+   "sources": [
+    {
+     "label": "RTINGS review - Razer Viper V4 Pro (free sections)",
+     "url": "https://www.rtings.com/mouse/reviews/razer/viper-v4-pro",
+     "raw_file": "data/raw/rtings_razer-viper-v4-pro.txt",
+     "date_checked": "2026-11-18",
+     "published": "2026-04-24"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "HyperSpeed",
+   "also": [
+    "HyperSpeed Gen-2",
+    "HyperSpeed Wireless"
+   ],
+   "plain": "Razer's name for its wireless connection. The Viper V4 Pro and DeathAdder V4 Pro list 'HyperSpeed Wireless Gen-2'.",
+   "sources": [
+    {
+     "label": "Razer - Viper V4 Pro (Black) full spec list",
+     "url": "https://www.razer.com/gaming-mice/razer-viper-v4-pro/RZ01-05630100-R3U1",
+     "raw_file": "data/raw/maker_razer_viper-v4-pro-specs.txt",
+     "date_checked": "2026-11-19"
+    },
+    {
+     "label": "Razer - DeathAdder V4 Pro (Black) full spec list",
+     "url": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro/RZ01-05330100-R3U1",
+     "raw_file": "data/raw/maker_razer_deathadder-v4-pro-specs2.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "Focus Pro",
+   "also": [
+    "Focus Pro 50K",
+    "Focus Pro 45K",
+    "Focus+"
+   ],
+   "plain": "Razer's name for its mouse sensors. The number (like 50K) is the top DPI setting.",
+   "sources": [
+    {
+     "label": "Razer - Viper V4 Pro (Black) full spec list",
+     "url": "https://www.razer.com/gaming-mice/razer-viper-v4-pro/RZ01-05630100-R3U1",
+     "raw_file": "data/raw/maker_razer_viper-v4-pro-specs.txt",
+     "date_checked": "2026-11-19"
+    },
+    {
+     "label": "Razer - DeathAdder V4 Pro (Black) full spec list",
+     "url": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro/RZ01-05330100-R3U1",
+     "raw_file": "data/raw/maker_razer_deathadder-v4-pro-specs2.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "PCR ABS and zinc alloy",
+   "also": [
+    "PCR ABS",
+    "zinc alloy"
+   ],
+   "plain": "The two case materials Wooting sells for the 80HE: PCR ABS is a plastic, zinc alloy is a metal. Wooting lists the board at 790 g in PCR ABS and 2160 g in zinc alloy.",
+   "sources": [
+    {
+     "label": "Wooting - 80HE tech specifications",
+     "url": "https://wooting.io/wooting-80he#tech-specifications",
+     "raw_file": "data/raw/maker_wooting_80he-specs.txt",
+     "date_checked": "2026-11-19"
+    }
+   ],
+   "status": "verified"
+  },
+  {
+   "term": "tier list",
+   "also": [
+    "A tier",
+    "base tier",
+    "based tier",
+    "bottom tier",
+    "tier list",
+    "tier lists",
+    "top tier",
+    "trash tier"
+   ],
+   "plain": "A YouTube video that sorts products into ranked groups (tiers), such as boardzy's lists. On this site, 'tier' only means a reviewer's own tier list; our own ranking uses ladder groups instead. boardzy says he recommends anything in A tier or above. In boardzy's lists the top group is his \"based\" tier (the auto-captions often spell it \"base tier\"). He says A tier and based tier are \"more or less the same\" and calls both \"the top quality options\"; the based tier holds his personal favourites, such as ARTISAN pads. His skate list uses the same scale: he says one skate \"could be a tier or base\" and that \"base tiered is based for a reason\".",
+   "sources": [
+    {
+     "label": "boardzy - 2025 Mouse Skate Tier List (24:19)",
+     "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1459s",
+     "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "24:19",
+     "published": "2024-12-23"
+    },
+    {
+     "label": "boardzy - 2024 Mousepad Tier List (52:21)",
+     "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=3141s",
+     "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "52:21",
+     "published": "2024-07-27"
+    },
+    {
+     "label": "boardzy - 2024 Mousepad Tier List (52:52)",
+     "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=3172s",
+     "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "52:52",
+     "published": "2024-07-27"
+    },
+    {
+     "label": "boardzy - 2025 Mouse Skate Tier List (20:15)",
+     "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1215s",
+     "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "20:15",
+     "published": "2024-12-23"
+    },
+    {
+     "label": "boardzy - 2025 Mouse Skate Tier List (20:40)",
+     "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1240s",
+     "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+     "date_checked": "2026-11-18",
+     "timestamp": "20:40",
+     "published": "2024-12-23"
+    }
+   ],
+   "status": "verified"
+  }
+ ]
+}

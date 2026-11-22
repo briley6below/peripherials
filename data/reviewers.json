@@ -1,0 +1,23 @@
+{
+  "about": "Reviewer list chosen by the site owner (2026-11-18). 'match' is the outlet name used in items.json sources.",
+  "reviewers": [
+    {"name": "RTINGS", "match": "RTINGS", "covers": ["keyboard", "mouse"], "focus": "Lab and hardware testing"},
+    {"name": "laobaozi", "match": "laobaozi", "covers": ["keyboard"], "focus": "Lab and hardware testing"},
+    {"name": "migss", "match": "migss", "covers": ["keyboard", "mouse"], "focus": "Lab and hardware testing"},
+    {"name": "duzi baobao", "match": "duzi baobao", "covers": ["keyboard"], "focus": "Lab and hardware testing"},
+    {"name": "TechPowerUp (pzogel)", "match": "TechPowerUp", "covers": ["mouse"], "focus": "Lab and hardware testing"},
+    {"name": "badseedtech", "match": "badseedtech", "covers": ["keyboard"], "focus": "Customs, sound, feel"},
+    {"name": "alexotos", "match": "alexotos", "covers": ["keyboard"], "focus": "Customs, sound, feel"},
+    {"name": "keybored", "match": "keybored", "covers": ["keyboard"], "focus": "Customs, sound, feel"},
+    {"name": "Optimum Tech", "match": "Optimum Tech", "covers": ["keyboard"], "focus": "Customs, sound, feel"},
+    {"name": "boardzy", "match": "boardzy", "covers": ["mouse"], "focus": "Shape, feel, coating"},
+    {"name": "hausegaming", "match": "hausegaming", "covers": ["mouse"], "focus": "Shape, feel, coating"},
+    {"name": "Wasabi", "match": "Wasabi", "covers": ["mouse"], "focus": "Shape, feel, coating"},
+    {"name": "Hipyo Tech", "match": "Hipyo Tech", "covers": ["keyboard"], "focus": "Value, QC, budget"},
+    {"name": "Switch and Click", "match": "Switch and Click", "covers": ["keyboard"], "focus": "Value, QC, budget"},
+    {"name": "Consumer Tech Review", "match": "Consumer Tech Review", "covers": ["keyboard"], "focus": "Value, QC, budget"},
+    {"name": "DiamondLobby", "match": "DiamondLobby", "covers": ["mouse"], "focus": "Value, QC, budget"},
+    {"name": "sunwoo", "match": "sunwoo", "covers": ["mouse"], "focus": "Value, QC, budget"},
+    {"name": "himacopter", "match": "himacopter", "covers": ["mouse"], "focus": "Value, QC, budget"}
+  ]
+}

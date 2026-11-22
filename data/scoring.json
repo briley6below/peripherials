@@ -1,0 +1,229 @@
+{
+  "about": "How the Ladder is ranked. Change the rules here and run build.py again.",
+  "status": "Our own ranking, not a reviewer's. Mice and keyboards are ranked on a few gaming specs we have numbers for. It does not count shape, feel or click delay, because we have no shared numbers for them. Reviewers do weigh these.",
+  "how_specs_count": "For each spec, we look at the other ranked items and count how many this one matches or beats. Beating or matching all of them gives full marks for that spec; half of them gives half marks. The spec score is the average of those marks, shown out of 100. For yes/no specs, yes beats no. An item is only ranked if we have every spec we compare. Missing specs are never guessed. When a maker page and a review site disagree on a figure, we use the maker's figure and show a \"Sources disagree\" tag. When a maker's own page contradicts itself, we mark the figure Unverified and do not rank on it.",
+  "min_items_per_spec": 3,
+  "spec_rules": {
+    "mouse": [
+      {
+        "name": "Weight (measured by RTINGS)",
+        "keys": [
+          "weight_measured_g"
+        ],
+        "better": "lower",
+        "unit": "g",
+        "why": "Lighter counts as better here, which is our choice. RTINGS says a very light mouse is easy to move quickly and accurately (in its VXE R1 Pro review). We use RTINGS' lab weight for every mouse so the numbers are measured the same way. Mice within 1 g of each other count as the same weight. That 1 g cut-off is our own choice; no source tells us how small a weight gap matters. It changes results: with a 2 g cut-off, the X3 SUPERSTRIKE and SUPERLIGHT 2 (1.2 g apart) would tie.",
+        "tie_within": 1,
+        "tie_note": "Our choice: weights within 1 g count as a tie (no source sets this cut-off).",
+        "why_sources": [
+          "rt_r1-pro"
+        ]
+      },
+      {
+        "name": "Polling rate",
+        "keys": [
+          "polling_hz"
+        ],
+        "better": "higher",
+        "unit": "Hz",
+        "why": "How often the mouse reports to the PC. We use the highest rate the maker lists without extra parts. Some mice need the maker's app to turn it on.",
+        "caveat": "Higher counts as better here, but that is our choice. Tom's Hardware says the standard 1,000 Hz \"will suit most gamers\" (said while describing the Superlight 2).",
+        "caveat_sources": [
+          "th_best_mouse"
+        ]
+      },
+      {
+        "name": "Shape and feel",
+        "keys": [],
+        "unavailable": "Not counted: they depend on your hand and grip."
+      },
+      {
+        "name": "Click and sensor latency",
+        "keys": [],
+        "unavailable": "RTINGS keeps these lab numbers for members only, so they are not in our data yet."
+      },
+      {
+        "name": "Battery life",
+        "keys": [],
+        "unavailable": "Not counted: makers give battery figures under different conditions (for example with lighting on or off, or at different polling rates), so the numbers do not compare."
+      }
+    ],
+    "keyboard": [
+      {
+        "name": "Polling rate",
+        "keys": [
+          "polling_hz"
+        ],
+        "better": "higher",
+        "unit": "Hz",
+        "why": "A higher rate sends key presses to the PC more often.",
+        "caveat": "Higher counts as better here, but that is our choice. Tom's Guide says \"many will only need 1K\" (said about one keyboard, the Keychron V1 Ultra 8K). RTINGS says most people are unlikely to notice the difference between 1,000 Hz and 8,000 Hz while gaming (said about the Corsair K70 CORE).",
+        "caveat_sources": [
+          "tg_best_kb",
+          "rt_best_gaming_kb"
+        ]
+      },
+      {
+        "name": "Lowest actuation point",
+        "keys": [],
+        "unavailable": "Not counted yet: only 2 boards in our data have this number, and we need at least 3."
+      },
+      {
+        "name": "Adjustable actuation (magnetic switches)",
+        "keys": [
+          "switch_type"
+        ],
+        "better": "yes",
+        "match": "magnetic",
+        "why": "You can set how deep each key must go."
+      },
+      {
+        "name": "Hot-swappable switches",
+        "keys": [
+          "hot_swap"
+        ],
+        "better": "yes",
+        "why": "You can change switches without soldering. We use RTINGS' yes/no test result. Some boards that say yes only take certain switch types (the note on each board says which)."
+      },
+      {
+        "name": "Typing feel and sound",
+        "keys": [],
+        "unavailable": "Not counted: there is no shared measure for them in our data."
+      },
+      {
+        "name": "Input latency",
+        "keys": [],
+        "unavailable": "RTINGS keeps these lab numbers for members only, so they are not in our data yet."
+      },
+      {
+        "name": "Battery life",
+        "keys": [],
+        "unavailable": "Not counted: makers give battery figures under different conditions (for example with lighting on or off, or at different polling rates), so the numbers do not compare."
+      }
+    ],
+    "mousepad": [],
+    "skates": []
+  },
+  "fallback_note": "Mousepads and skates have no specs in our data that show which is better (glide speed and friction are not measured), so they are grouped by how many outlets recommend them, shown as a number, not a letter.",
+  "spec_tiers": [
+    {
+      "name": "S",
+      "min100": 80,
+      "label": "Spec score 80 to 100",
+      "help": "Scores 80 or more out of 100 on the specs we compare. A high spec score is not the same as the best mouse or keyboard for you.",
+      "badge": "80+"
+    },
+    {
+      "name": "A",
+      "min100": 60,
+      "label": "Spec score 60 to 79",
+      "help": "Scores 60 to 79 out of 100 on the specs we compare.",
+      "badge": "60+"
+    },
+    {
+      "name": "B",
+      "min100": 40,
+      "label": "Spec score 40 to 59",
+      "help": "Scores 40 to 59 out of 100 on the specs we compare.",
+      "badge": "40+"
+    },
+    {
+      "name": "C",
+      "min100": 0,
+      "label": "Spec score under 40",
+      "help": "Scores under 40 on the specs we compare. Shape, comfort, features and delay are not counted, so it may still be the right pick for you.",
+      "badge": "<40"
+    }
+  ],
+  "unranked": {
+    "name": "?",
+    "label": "Not ranked",
+    "help": "Not ranked. We do not have every spec we compare for it, and ranking it on fewer specs would not be fair."
+  },
+  "ignore_outlet_types_for_picks": [
+    "maker page"
+  ],
+  "budget_bands": [
+    {
+      "label": "Under $50",
+      "min": 0,
+      "max": 50
+    },
+    {
+      "label": "$50 - $100",
+      "min": 50,
+      "max": 100
+    },
+    {
+      "label": "$100 - $150",
+      "min": 100,
+      "max": 150
+    },
+    {
+      "label": "$150 and up",
+      "min": 150,
+      "max": null
+    }
+  ],
+  "exclude_if_contains": [
+    "separately sold",
+    "AA battery"
+  ],
+  "exclude_uses": {
+    "work": "Built for work",
+    "office": "Built for office use"
+  },
+  "use_row": {
+    "name": "W",
+    "label": "Built for work",
+    "help": "A work or office product. It is not ranked on gaming specs."
+  },
+  "not_sold_row": {
+    "name": "–",
+    "label": "No longer sold by the maker",
+    "help": "Listed for reference only. It is not ranked."
+  },
+  "tier_kinds": {
+    "spec": "Spec score",
+    "backing": ""
+  },
+  "our_choices": "These are our choices, not measured facts: which specs count, which way is better (lighter, higher polling rate, magnetic switches and hot-swap count as better), that mice within 1 g count as the same weight, and where the groups start (80 or more, 60 to 79, 40 to 59, under 40). We picked specs our sources link to fast games: RTINGS says a very light mouse is easy to move quickly, and that Rapid Trigger (a magnetic-switch feature) helps in FPS games. Polling rate is our own pick, and some sources disagree. Comfort, shape and features are not counted, so a low score does not mean a bad product.",
+  "source_tiers": {
+    "about": "Mousepads and skates are grouped by how many different outlets recommend them. Pros and cons do not change the group.",
+    "by_count": [
+      {
+        "name": "3+",
+        "min": 3,
+        "label": "Recommended by 3 or more outlets",
+        "help": "Three or more different outlets recommend it."
+      },
+      {
+        "name": "2",
+        "min": 2,
+        "label": "Recommended by 2 outlets",
+        "help": "Two different outlets recommend it."
+      },
+      {
+        "name": "1",
+        "min": 1,
+        "label": "Recommended by 1 outlet",
+        "help": "One outlet recommends it. That is not a sign it is bad."
+      },
+      {
+        "name": "0",
+        "min": 0,
+        "label": "No outlet recommends it yet",
+        "help": "No outlet in our sources recommends it yet."
+      }
+    ],
+    "avoid": {
+      "name": "✕",
+      "label": "A reviewer says avoid it",
+      "help": "A reviewer we use says to avoid it. This overrides any recommendations."
+    }
+  },
+  "our_choices_sources": [
+    "rt_r1-pro",
+    "rtk_80he"
+  ]
+}

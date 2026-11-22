@@ -1,0 +1,6203 @@
+{
+  "generated": "2026-11-20",
+  "currency": "USD",
+  "rules": [
+    "A spec needs at least one source.",
+    "A rating or opinion needs two sources that agree, or it is labelled 'opinion: NAME'.",
+    "Missing facts are left empty and listed in data/missing.md."
+  ],
+  "items": [
+    {
+      "id": "razer-viper-v4-pro",
+      "name": "Razer Viper V4 Pro",
+      "category": "mouse",
+      "brand": "Razer",
+      "picked_by": [
+        "rt_best_gaming_mouse",
+        "pcg_best_mouse"
+      ],
+      "mentioned_by": [
+        "rt_best_mouse"
+      ],
+      "price": {
+        "usd": 159.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_viper"
+        ],
+        "note": "Maker shows 'Starting from US$159.99'."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 49,
+          "status": "verified",
+          "sources": [
+            "mk_viper",
+            "mk_viper2"
+          ],
+          "shown": "under 49",
+          "note": "Maker: under 49 g for Black (50 g White Edition). RTINGS measured 48.9 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 48.9,
+          "status": "verified",
+          "sources": [
+            "rt_viper-v4-pro"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "sensor": {
+          "value": "Razer Focus Pro 50K Optical Sensor Gen-3",
+          "status": "verified",
+          "sources": [
+            "mk_viper"
+          ],
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "Razer Optical Mouse Switches Gen-4",
+          "status": "verified",
+          "sources": [
+            "mk_viper"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: up to 8000 Hz in both wireless and wired modes.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "127.1 x 63.9 x 39.9",
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "basis": "maker's figure"
+        },
+        "programmable_buttons": {
+          "value": 6,
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 50,000",
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "basis": "maker's figure"
+        },
+        "feet": {
+          "value": "100% PTFE",
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "up to 180 at 1000 Hz; up to 45 at 8000 Hz",
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless (HyperSpeed Gen-2) or wired",
+          "status": "verified",
+          "sources": [
+            "mk_viper2"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "mk_viper2",
+            "rt_viper-v4-pro"
+          ],
+          "note": "The maker's spec list words it 'Right-handed Symmetrical'. RTINGS calls the shape symmetrical.",
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "A light, very fast wireless gaming mouse whose click sound will not suit everyone.",
+        "kind": "opinion",
+        "sources": [
+          "rt_viper-v4-pro",
+          "pcg_best_mouse"
+        ],
+        "status": "agreed (PC Gamer, RTINGS)"
+      },
+      "pros": [
+        {
+          "text": "Light.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro",
+            "pcg_best_mouse"
+          ],
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro",
+            "pcg_best_mouse"
+          ],
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "Very low click and sensor delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Top-of-the-line sensor.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Its shape suits a wide range of hand sizes and grip types.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Great battery life.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "About 10 g lighter than 'the Super Strike', with better balance and better stock skates. boardzy does not say which Superstrike model he means; it may be the earlier PRO X2 SUPERSTRIKE, not the X3 on this site.",
+          "kind": "opinion",
+          "sources": [
+            "bz_v4_balance"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Loud clicks.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro",
+            "pcg_best_mouse"
+          ],
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "Some people dislike the click sound.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro",
+            "pcg_best_mouse",
+            "bz_v4_clicks"
+          ],
+          "status": "agreed (PC Gamer, RTINGS, boardzy)"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "No RGB lighting.",
+          "kind": "fact",
+          "sources": [
+            "mk_viper2",
+            "pcg_best_mouse"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "boardzy wishes the clicks had Rapid Trigger and an adjustable actuation point.",
+          "kind": "opinion",
+          "sources": [
+            "bz_v4_rt"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "For most people, the older Viper V3 Pro (the model before it) is a better buy.",
+          "kind": "opinion",
+          "sources": [
+            "bz_v4_value"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_v4_balance",
+          "label": "boardzy - Razer Viper V4 Pro review (0:43)",
+          "url": "https://www.youtube.com/watch?v=g56fX2fBdM8&t=43s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_viper-v4-pro_g56fX2fBdM8.txt",
+          "timestamp": "0:43",
+          "published": "2026-03-24",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_v4_clicks",
+          "label": "boardzy - Razer Viper V4 Pro review (1:59)",
+          "url": "https://www.youtube.com/watch?v=g56fX2fBdM8&t=119s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_viper-v4-pro_g56fX2fBdM8.txt",
+          "timestamp": "1:59",
+          "published": "2026-03-24",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_v4_rt",
+          "label": "boardzy - Razer Viper V4 Pro review (1:20)",
+          "url": "https://www.youtube.com/watch?v=g56fX2fBdM8&t=80s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_viper-v4-pro_g56fX2fBdM8.txt",
+          "timestamp": "1:20",
+          "published": "2026-03-24",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_v4_value",
+          "label": "boardzy - Razer Viper V4 Pro review (8:35)",
+          "url": "https://www.youtube.com/watch?v=g56fX2fBdM8&t=515s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_viper-v4-pro_g56fX2fBdM8.txt",
+          "timestamp": "8:35",
+          "published": "2026-03-24",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_viper",
+          "label": "Razer - Viper V4 Pro product page",
+          "url": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_razer_razer-viper-v4-pro.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_viper2",
+          "label": "Razer - Viper V4 Pro (Black) full spec list",
+          "url": "https://www.razer.com/gaming-mice/razer-viper-v4-pro/RZ01-05630100-R3U1",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_razer_viper-v4-pro-specs.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "pcg_best_mouse",
+          "label": "PC Gamer - Best gaming mouse 2026",
+          "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+          "published": "2026-10-29",
+          "outlet": "PC Gamer",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_mouse",
+          "label": "RTINGS - The Best Mouse of 2026",
+          "url": "https://www.rtings.com/mouse/reviews/best/mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-mouse.txt",
+          "published": "2026-10-05",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_viper-v4-pro",
+          "label": "RTINGS review - Razer Viper V4 Pro (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/razer/viper-v4-pro",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_razer-viper-v4-pro.txt",
+          "published": "2026-04-24",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "logitech-g-pro-x3-superstrike",
+      "name": "Logitech G PRO X3 SUPERSTRIKE",
+      "category": "mouse",
+      "brand": "Logitech",
+      "picked_by": [
+        "rt_best_gaming_mouse",
+        "pcg_best_mouse"
+      ],
+      "price": {
+        "usd": 199.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_x3"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 59,
+          "status": "verified",
+          "sources": [
+            "mk_x3",
+            "mk_x3b"
+          ],
+          "note": "RTINGS measured 58.2 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 58.2,
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "125 x 63.5 x 40",
+          "status": "verified",
+          "sources": [
+            "mk_x3"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "HERO 2",
+          "status": "verified",
+          "sources": [
+            "mk_x3"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "100 - 48,000",
+          "status": "verified",
+          "sources": [
+            "mk_x3"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_x3b"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: 'whether wired USB-C or LIGHTSPEED Wireless', it reports at up to 8 kHz. The spec table adds that advanced features need the G HUB app.",
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless (LIGHTSPEED) or wired USB-C",
+          "status": "verified",
+          "sources": [
+            "mk_x3b"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "135 (constant motion)",
+          "status": "verified",
+          "sources": [
+            "mk_x3"
+          ],
+          "basis": "maker's figure"
+        },
+        "feet": {
+          "value": "UHMWPE",
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switches": {
+          "value": "Adjustable actuation, Rapid Trigger and haptic click feel",
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A competitive gaming mouse with extremely fast clicks.",
+        "kind": "opinion",
+        "sources": [
+          "rt_g-pro-x3-superstrike",
+          "pcg_best_mouse"
+        ],
+        "status": "agreed (PC Gamer, RTINGS)"
+      },
+      "pros": [
+        {
+          "text": "Extremely fast clicks.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x3-superstrike",
+            "pcg_best_mouse"
+          ],
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "You can set how deep a click must go, and use Rapid Trigger.",
+          "kind": "fact",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "Great battery life.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Quiet clicks.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Its shape suits all grip types, says RTINGS.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Slightly front-heavy.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Its feet glide less smoothly than the PTFE feet on many rivals.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x3-superstrike"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Not the lightest in its class.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Uses Logitech's G HUB app, which PC Gamer lists as a downside.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Side buttons are mediocre.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_mouse"
+          ],
+          "status": "opinion: PC Gamer"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_x3",
+          "label": "Logitech G - PRO X3 SUPERSTRIKE product page",
+          "url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitechg_pro-x3-superstrike-mouse.910-007876.txt",
+          "outlet": "Logitech G",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_x3b",
+          "label": "Logitech G - PRO X3 SUPERSTRIKE features and spec data",
+          "url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_logitechg_pro-x3-superstrike-features.txt",
+          "outlet": "Logitech G",
+          "type": "maker page"
+        },
+        {
+          "id": "pcg_best_mouse",
+          "label": "PC Gamer - Best gaming mouse 2026",
+          "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+          "published": "2026-10-29",
+          "outlet": "PC Gamer",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_g-pro-x3-superstrike",
+          "label": "RTINGS review - Logitech G PRO X3 SUPERSTRIKE (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x3-superstrike",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_logitech-g-pro-x3-superstrike.txt",
+          "published": "2026-10-23",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "razer-deathadder-v4-pro",
+      "name": "Razer DeathAdder V4 Pro",
+      "category": "mouse",
+      "brand": "Razer",
+      "picked_by": [
+        "th_best_mouse"
+      ],
+      "mentioned_by": [
+        "rt_best_gaming_mouse"
+      ],
+      "price": {
+        "usd": 179.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_da"
+        ],
+        "note": "Maker list US$179.99 on 2026-11-18 (on sale for US$152.99). On 2026-11-19 the Black model page showed US$169.99."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 56,
+          "status": "verified",
+          "sources": [
+            "mk_da",
+            "mk_da2"
+          ],
+          "note": "Maker: 56 g for Black (57 g White, 58 g Esports Green). RTINGS measured 56.1 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 56.1,
+          "status": "verified",
+          "sources": [
+            "rt_deathadder-v4-pro"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "sensor": {
+          "value": "Razer Focus Pro 45K Optical Sensor Gen-2",
+          "status": "verified",
+          "sources": [
+            "mk_da"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_da2",
+            "rt_deathadder-v4-pro"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: up to 8000 Hz in both wireless and wired modes.",
+          "basis": "maker and RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "128 x 68 x 44",
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "Razer Optical Mouse Switches Gen-4",
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "programmable_buttons": {
+          "value": 6,
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 45,000",
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "feet": {
+          "value": "100% PTFE",
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless (HyperSpeed Gen-2) or wired",
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "up to 150 at 1000 Hz; up to 22 at 8000 Hz",
+          "status": "verified",
+          "sources": [
+            "mk_da2"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "right-handed ergonomic",
+          "status": "verified",
+          "sources": [
+            "mk_da2",
+            "rt_deathadder-v4-pro"
+          ],
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "A light wireless gaming mouse with a right-handed ergonomic shape.",
+        "kind": "opinion",
+        "sources": [
+          "rt_deathadder-v4-pro",
+          "th_best_mouse"
+        ],
+        "status": "agreed (RTINGS, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Light.",
+          "kind": "opinion",
+          "sources": [
+            "rt_deathadder-v4-pro",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "Ships with Razer's second-generation wireless receiver, which supports 8000 Hz.",
+          "kind": "fact",
+          "sources": [
+            "rt_deathadder-v4-pro",
+            "th_best_mouse"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "Very low click and sensor delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_deathadder-v4-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Great shape.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Only suits larger hands.",
+          "kind": "opinion",
+          "sources": [
+            "rt_deathadder-v4-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Can creak a little if you squeeze hard.",
+          "kind": "opinion",
+          "sources": [
+            "rt_deathadder-v4-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Not much better than the V3 Pro.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_da",
+          "label": "Razer - DeathAdder V4 Pro product page",
+          "url": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_razer_razer-deathadder-v4-pro.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_da2",
+          "label": "Razer - DeathAdder V4 Pro (Black) full spec list",
+          "url": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro/RZ01-05330100-R3U1",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_razer_deathadder-v4-pro-specs2.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_deathadder-v4-pro",
+          "label": "RTINGS review - Razer DeathAdder V4 Pro (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/razer/deathadder-v4-pro",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_razer-deathadder-v4-pro.txt",
+          "published": "2025-08-25",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        },
+        {
+          "id": "th_best_mouse",
+          "label": "Tom's Hardware - Best Gaming Mouse 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-gaming-mouse.txt",
+          "published": "2026-10-08",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "logitech-g-pro-x-superlight-2",
+      "name": "Logitech G PRO X SUPERLIGHT 2",
+      "category": "mouse",
+      "brand": "Logitech",
+      "picked_by": [
+        "th_best_mouse"
+      ],
+      "mentioned_by": [
+        "rt_best_gaming_mouse"
+      ],
+      "price": {
+        "usd": 159.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_sl2"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 60,
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "note": "RTINGS measured 59.4 g.",
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "LIGHTFORCE hybrid optical-mechanical",
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 59.4,
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x-superlight-2"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "125 x 63.5 x 40",
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "HERO 2",
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "100 - 32,000 (spec table)",
+          "status": "unverified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "note": "Same maker page also says 'HERO 2 Sensor Supports 44K DPI'. The page contradicts itself."
+        },
+        "battery_hours": {
+          "value": "95 (constant motion)",
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "basis": "maker's figure"
+        },
+        "feet": {
+          "value": "no-additive PTFE",
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_sl2"
+          ],
+          "shown": "up to 8000",
+          "note": "Maker: 'up to 8 kHz polling' over LIGHTSPEED wireless. Its spec table says advanced features need the G HUB app. Sources disagree: Tom's Hardware says up to 2,000 Hz. We use the maker's figure.",
+          "basis": "maker's figure",
+          "conflict": true
+        },
+        "connectivity": {
+          "value": "wireless",
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x-superlight-2"
+          ],
+          "basis": "RTINGS review"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "rt_g-pro-x-superlight-2"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A very light, low-delay wireless mouse that is comfortable for many grip styles.",
+        "kind": "opinion",
+        "sources": [
+          "rt_g-pro-x-superlight-2",
+          "th_best_mouse"
+        ],
+        "status": "agreed (RTINGS, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Very light.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x-superlight-2",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "Comfortable for many grip styles.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x-superlight-2",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "Suits nearly all hand sizes.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x-superlight-2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Low click delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x-superlight-2",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Feet do not glide as smoothly as many rivals.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g-pro-x-superlight-2"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "No DPI button on the mouse.",
+          "kind": "fact",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "reported (Tom's Hardware)"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "compatible_skates": [
+        "esptiger-ice-v2"
+      ],
+      "sources": [
+        {
+          "id": "mk_sl2",
+          "label": "Logitech G - PRO X SUPERLIGHT 2 product page",
+          "url": "https://www.logitechg.com/en-us/shop/p/pro-x2-superlight-wireless-mouse.910-006636",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitechg_pro-x2-superlight-wireless-mouse.910-006636.txt",
+          "outlet": "Logitech G",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_g-pro-x-superlight-2",
+          "label": "RTINGS review - Logitech G PRO X SUPERLIGHT 2 (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/logitech/g-pro-x-superlight-2",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_logitech-g-pro-x-superlight-2.txt",
+          "published": "2023-10-06",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        },
+        {
+          "id": "th_best_mouse",
+          "label": "Tom's Hardware - Best Gaming Mouse 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-gaming-mouse.txt",
+          "published": "2026-10-08",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "logitech-g502-x-plus",
+      "name": "Logitech G502 X PLUS",
+      "category": "mouse",
+      "brand": "Logitech",
+      "picked_by": [
+        "rt_best_gaming_mouse",
+        "th_best_mouse"
+      ],
+      "price": {
+        "usd": 159.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_g502"
+        ],
+        "note": "Maker list US$159.99; on sale for US$149.99 on the check date."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 106,
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "note": "RTINGS measured 103.7 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 103.7,
+          "status": "verified",
+          "sources": [
+            "rt_g502-x-plus"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "131.4 x 79.2 x 41.1",
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "HERO 44K",
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "100 - 44,000",
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "feet": {
+          "value": "UHMWPE",
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "37 (with default lighting)",
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "programmable_buttons": {
+          "value": 13,
+          "status": "verified",
+          "sources": [
+            "mk_g502",
+            "th_best_mouse"
+          ],
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "LIGHTFORCE hybrid optical-mechanical",
+          "status": "verified",
+          "sources": [
+            "mk_g502"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "right-handed ergonomic",
+          "status": "verified",
+          "sources": [
+            "rt_g502-x-plus"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "verdict": {
+        "text": "A large wireless mouse; Tom's Hardware likes its 13 programmable buttons.",
+        "kind": "opinion",
+        "sources": [
+          "rt_g502-x-plus",
+          "th_best_mouse"
+        ],
+        "status": "agreed (RTINGS, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Low click delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g502-x-plus",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "13 programmable buttons.",
+          "kind": "fact",
+          "sources": [
+            "mk_g502",
+            "th_best_mouse"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "Very well built.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g502-x-plus"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Large.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g502-x-plus",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "Too big for smaller hands.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g502-x-plus"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Heavy compared with FPS mice.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g502-x-plus"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Scroll wheel feels twitchy.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "compatible_skates": [
+        "esptiger-ice-v2"
+      ],
+      "sources": [
+        {
+          "id": "mk_g502",
+          "label": "Logitech G - G502 X PLUS product page",
+          "url": "https://www.logitechg.com/en-us/shop/p/g502-x-plus-wireless-lightforce.910-006160",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitechg_g502-x-plus-wireless-lightforce.910-006160.txt",
+          "outlet": "Logitech G",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_g502-x-plus",
+          "label": "RTINGS review - Logitech G502 X PLUS (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/logitech/g502-x-plus",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_logitech-g502-x-plus.txt",
+          "published": "2022-10-25",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        },
+        {
+          "id": "th_best_mouse",
+          "label": "Tom's Hardware - Best Gaming Mouse 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-gaming-mouse.txt",
+          "published": "2026-10-08",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "razer-basilisk-v3",
+      "spec_gaps": {
+        "Polling rate": "Razer's product and spec pages list none"
+      },
+      "name": "Razer Basilisk V3",
+      "category": "mouse",
+      "brand": "Razer",
+      "picked_by": [
+        "rt_best_mouse",
+        "rt_best_gaming_mouse"
+      ],
+      "picked_by_note": "Both picks are from RTINGS (one outlet).",
+      "price": {
+        "usd": 69.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_basilisk2"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 101,
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2"
+          ],
+          "note": "Maker: 101 g without the cable. RTINGS measured 99.9 g.",
+          "basis": "maker's figure"
+        },
+        "weight_measured_g": {
+          "value": 99.9,
+          "status": "verified",
+          "sources": [
+            "rt_basilisk-v3"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "130 x 75 x 42.5",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "Razer Focus+ 26K DPI optical sensor",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 26,000",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2"
+          ],
+          "basis": "maker's figure"
+        },
+        "programmable_buttons": {
+          "value": 11,
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2"
+          ],
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "2nd-gen Razer Optical Mouse Switch",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2"
+          ],
+          "basis": "maker's figure"
+        },
+        "feet": {
+          "value": "100% PTFE",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wired",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2",
+            "rt_basilisk-v3"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "shape": {
+          "value": "right-handed",
+          "status": "verified",
+          "sources": [
+            "mk_basilisk2",
+            "rt_basilisk-v3"
+          ],
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "A comfortable wired all-rounder with many buttons, but heavier than FPS mice.",
+        "kind": "opinion",
+        "sources": [
+          "rt_basilisk-v3",
+          "rt_best_mouse"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Very low click delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_basilisk-v3"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Comfortable right-handed shape for most hands.",
+          "kind": "opinion",
+          "sources": [
+            "rt_basilisk-v3"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Heavy.",
+          "kind": "opinion",
+          "sources": [
+            "rt_basilisk-v3",
+            "rt_best_mouse"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Bulky.",
+          "kind": "opinion",
+          "sources": [
+            "rt_basilisk-v3"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_basilisk",
+          "label": "Razer - Basilisk V3 product page",
+          "url": "https://www.razer.com/gaming-mice/razer-basilisk-v3",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_razer_razer-basilisk-v3.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_basilisk2",
+          "label": "Razer - Basilisk V3 full spec list",
+          "url": "https://www.razer.com/gaming-mice/razer-basilisk-v3/RZ01-04000100-R3U1",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_razer_basilisk-v3-specs2.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_basilisk-v3",
+          "label": "RTINGS review - Razer Basilisk V3 (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/razer/basilisk-v3",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_razer-basilisk-v3.txt",
+          "published": "2021-10-05",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_mouse",
+          "label": "RTINGS - The Best Mouse of 2026",
+          "url": "https://www.rtings.com/mouse/reviews/best/mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-mouse.txt",
+          "published": "2026-10-05",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "logitech-g305-lightspeed",
+      "name": "Logitech G305 LIGHTSPEED",
+      "category": "mouse",
+      "brand": "Logitech",
+      "picked_by": [
+        "rt_best_gaming_mouse"
+      ],
+      "price": {
+        "usd": 59.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_g305"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 99,
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "note": "RTINGS measured 101.7 g.",
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical, egg-shaped (for left or right hands)",
+          "status": "verified",
+          "sources": [
+            "rt_g305-lightspeed"
+          ],
+          "basis": "RTINGS review"
+        },
+        "weight_measured_g": {
+          "value": 101.7,
+          "status": "verified",
+          "sources": [
+            "rt_g305-lightspeed"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "116.6 x 62.1 x 38.2",
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "HERO",
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "200 - 12,000",
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": 250,
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "note": "Logitech's advertised figure. Runs on one AA battery (not rechargeable).",
+          "basis": "maker's claim"
+        },
+        "feet": {
+          "value": "PTFE",
+          "status": "verified",
+          "sources": [
+            "mk_g305"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Budget Gaming Mouse\".",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_gaming_mouse"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Low click delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g305-lightspeed"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Feels well built.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g305-lightspeed"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Heavy for a gaming mouse.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g305-lightspeed"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Small. Not ideal for large hands.",
+          "kind": "opinion",
+          "sources": [
+            "rt_g305-lightspeed"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_g305",
+          "label": "Logitech G - G305 LIGHTSPEED product page",
+          "url": "https://www.logitechg.com/en-us/shop/p/g305-lightspeed-wireless-gaming-mouse.910-005289",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitechg_g305-lightspeed-wireless-gaming-mouse.910-005289.txt",
+          "outlet": "Logitech G",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_mouse",
+          "label": "RTINGS - The Best Gaming Mouse",
+          "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+          "published": "2026-11-13",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_g305-lightspeed",
+          "label": "RTINGS review - Logitech G305 LIGHTSPEED (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/logitech/g305-lightspeed",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_logitech-g305-lightspeed.txt",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "corsair-katar-pro-xt",
+      "name": "Corsair KATAR PRO XT",
+      "category": "mouse",
+      "brand": "Corsair",
+      "picked_by": [
+        "th_best_mouse"
+      ],
+      "price": {
+        "usd": 34.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_katar"
+        ],
+        "note": "Maker list US$34.99; on sale for US$29.99 on 2026-11-19."
+      },
+      "specs": {
+        "weight_g": {
+          "value": 73,
+          "status": "verified",
+          "sources": [
+            "mk_katar",
+            "mk_katar2"
+          ],
+          "note": "Maker: 73 g. TechPowerUp weighed 75 g.",
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "up to 18,000",
+          "status": "verified",
+          "sources": [
+            "mk_katar"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wired",
+          "status": "verified",
+          "sources": [
+            "mk_katar"
+          ],
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "symmetrical (compact)",
+          "status": "verified",
+          "sources": [
+            "mk_katar2"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "115.8 x 64.2 x 37.8",
+          "status": "reported",
+          "sources": [
+            "tpu_katar"
+          ],
+          "reported_by": [
+            "TechPowerUp"
+          ]
+        },
+        "sensor": {
+          "value": "PixArt PMW3391",
+          "status": "reported",
+          "sources": [
+            "tpu_katar"
+          ],
+          "reported_by": [
+            "TechPowerUp"
+          ]
+        },
+        "switches": {
+          "value": "Omron D2FC-F-K (50M)",
+          "status": "reported",
+          "sources": [
+            "tpu_katar"
+          ],
+          "reported_by": [
+            "TechPowerUp"
+          ]
+        },
+        "programmable_buttons": {
+          "value": 6,
+          "status": "reported",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "reported_by": [
+            "Tom's Hardware"
+          ]
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "reported",
+          "sources": [
+            "tpu_katar"
+          ],
+          "note": "TechPowerUp lists 125/250/500/1000 Hz. The maker page we saved does not list a polling rate.",
+          "reported_by": [
+            "TechPowerUp"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A wired gaming mouse that feels light. Tom's Hardware names it its best budget gaming mouse.",
+        "kind": "opinion",
+        "sources": [
+          "rt_katar-pro-xt",
+          "th_best_mouse"
+        ],
+        "status": "agreed (RTINGS, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Feels light.",
+          "kind": "opinion",
+          "sources": [
+            "rt_katar-pro-xt",
+            "th_best_mouse"
+          ],
+          "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "Comfortable, familiar design.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Feels well built.",
+          "kind": "opinion",
+          "sources": [
+            "rt_katar-pro-xt"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Its small size suits a claw or fingertip grip.",
+          "kind": "opinion",
+          "sources": [
+            "rt_katar-pro-xt"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Sensor is less consistent between fast and slow moves.",
+          "kind": "opinion",
+          "sources": [
+            "rt_katar-pro-xt"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "The wireless version is often on sale for the same price.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Not as light as some pricier mice.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_mouse"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_katar",
+          "label": "Corsair - KATAR PRO XT product page",
+          "url": "https://www.corsair.com/us/en/p/gaming-mouse/ch-930c111-na/katar-pro-xt-ultra-light-gaming-mouse-ch-930c111-na",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_corsair_katar-pro-xt.txt",
+          "outlet": "Corsair",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_katar2",
+          "label": "Corsair - KATAR PRO XT product page (second check)",
+          "url": "https://www.corsair.com/us/en/p/gaming-mouse/ch-930c111-na/katar-pro-xt-ultra-light-gaming-mouse-ch-930c111-na",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_corsair_katar-pro-xt-specs.txt",
+          "outlet": "Corsair",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_katar-pro-xt",
+          "label": "RTINGS review - Corsair KATAR PRO XT (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/corsair/katar-pro-xt",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_corsair-katar-pro-xt.txt",
+          "published": "2021-03-26",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        },
+        {
+          "id": "th_best_mouse",
+          "label": "Tom's Hardware - Best Gaming Mouse 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-gaming-mouse.txt",
+          "published": "2026-10-08",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        },
+        {
+          "id": "tpu_katar",
+          "label": "TechPowerUp - Corsair KATAR PRO XT review",
+          "url": "https://www.techpowerup.com/review/corsair-katar-pro-xt/",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/review_techpowerup_corsair-katar-pro-xt.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site"
+        }
+      ]
+    },
+    {
+      "id": "logitech-mx-master-4",
+      "name": "Logitech MX Master 4",
+      "category": "mouse",
+      "brand": "Logitech",
+      "picked_by": [
+        "rt_best_mouse"
+      ],
+      "price": {
+        "usd": 119.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_mxm4"
+        ]
+      },
+      "specs": {
+        "weight_g": {
+          "value": 150,
+          "status": "verified",
+          "sources": [
+            "mk_mxm4"
+          ],
+          "note": "RTINGS measured 151.8 g.",
+          "basis": "maker's figure"
+        },
+        "shape": {
+          "value": "right-handed",
+          "status": "verified",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "basis": "RTINGS review"
+        },
+        "weight_measured_g": {
+          "value": 151.8,
+          "status": "verified",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "128.15 x 88.35 x 50.8",
+          "status": "verified",
+          "sources": [
+            "mk_mxm4"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "Darkfield high precision",
+          "status": "verified",
+          "sources": [
+            "mk_mxm4"
+          ],
+          "basis": "maker's figure"
+        },
+        "dpi": {
+          "value": "200 - 8000",
+          "status": "verified",
+          "sources": [
+            "mk_mxm4"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "rechargeable 650 mAh, up to 70 days",
+          "status": "verified",
+          "sources": [
+            "mk_mxm4"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "USB-C receiver or Bluetooth, up to 3 devices",
+          "status": "verified",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "basis": "RTINGS review"
+        },
+        "polling_hz": {
+          "value": 125,
+          "status": "reported",
+          "sources": [
+            "rt_best_mouse"
+          ],
+          "reported_by": [
+            "RTINGS"
+          ]
+        },
+        "scroll_wheels": {
+          "value": "two (top wheel switches between notched and free spin)",
+          "status": "verified",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "basis": "RTINGS review"
+        }
+      },
+      "use": {
+        "value": "work",
+        "status": "verified",
+        "sources": [
+          "rt_mx-master-4"
+        ],
+        "note": "RTINGS calls it a work mouse."
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Computer Mouse\", its top pick for most people.",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_mouse"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Superb build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Very quiet clicks.",
+          "kind": "opinion",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Two scroll wheels plus gesture and haptic buttons.",
+          "kind": "fact",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Not great for small hands.",
+          "kind": "opinion",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Many features need Logitech software running in the background.",
+          "kind": "opinion",
+          "sources": [
+            "rt_mx-master-4",
+            "rt_best_mouse"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "No onboard memory, so custom settings need the software.",
+          "kind": "fact",
+          "sources": [
+            "rt_mx-master-4"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "125 Hz polling may feel choppy on fast (90 Hz+) screens.",
+          "kind": "opinion",
+          "sources": [
+            "rt_best_mouse"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_mxm4",
+          "label": "Logitech - MX Master 4 product page",
+          "url": "https://www.logitech.com/en-us/shop/p/mx-master-4.910-007558",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitech_mx-master-4.910-007558.txt",
+          "outlet": "Logitech",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_mouse",
+          "label": "RTINGS - The Best Mouse of 2026",
+          "url": "https://www.rtings.com/mouse/reviews/best/mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-mouse.txt",
+          "published": "2026-10-05",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_mx-master-4",
+          "label": "RTINGS review - Logitech MX Master 4 (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/logitech/mx-master-4",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_logitech-mx-master-4.txt",
+          "published": "2025-10-29",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "vxe-r1-pro",
+      "name": "VXE R1 Pro (Dragonfly R1 Pro)",
+      "category": "mouse",
+      "brand": "VXE",
+      "picked_by": [],
+      "picked_by_note": "No outlet recommends it yet. RTINGS shows it only in the 'Popular' menu at the top of its site, which lists popular reviews, not recommendations.",
+      "price": {
+        "usd": 39.98,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_vxe"
+        ],
+        "note": "Store list ('compare at') price US$39.98; on sale for US$34.98 on 2026-11-18 and 2026-11-19. Sold by the ATK store, not a US brand site."
+      },
+      "specs": {
+        "weight_measured_g": {
+          "value": 48.8,
+          "status": "verified",
+          "sources": [
+            "rt_r1-pro"
+          ],
+          "basis": "measured by RTINGS"
+        },
+        "weight_g": {
+          "value": 48,
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "note": "Maker's model comparison: 48 g for the R1 Pro.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "120.6 x 64.1 x 37.6",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "basis": "maker's figure"
+        },
+        "switches": {
+          "value": "Huano Ice Berry Pink Dot",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "basis": "maker's figure"
+        },
+        "sensor": {
+          "value": "PAW3950 (maker)",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "note": "Sources disagree. The maker's comparison lists PAW3950 for the R1 Pro. RTINGS says the unit it bought uses a PixArt 3395. We show the maker's figure.",
+          "basis": "maker's figure",
+          "conflict": true
+        },
+        "dpi": {
+          "value": "100 - 26,000",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery_hours": {
+          "value": "75 at 1000 Hz (250 mAh)",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "wireless (2.4 GHz) or wired",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "rt_r1-pro",
+            "mk_vxe2"
+          ],
+          "note": "RTINGS: 1000 Hz out of the box, and 4000 Hz only with VXE's separately sold 4K receiver. The maker's comparison lists 4000 Hz without saying a receiver is needed. We rank by the rate without extra parts.",
+          "basis": "maker and RTINGS"
+        },
+        "shape": {
+          "value": "symmetrical",
+          "status": "verified",
+          "sources": [
+            "mk_vxe2",
+            "rt_r1-pro"
+          ],
+          "basis": "maker and RTINGS"
+        }
+      },
+      "verdict": {
+        "text": "A very light wireless mouse that RTINGS rates highly for FPS games.",
+        "kind": "opinion",
+        "sources": [
+          "rt_r1-pro"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Outstanding speed test results ('raw performance' in RTINGS' words).",
+          "kind": "opinion",
+          "sources": [
+            "rt_r1-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Comfortable symmetrical shape that suits a wide range of hand sizes and grip types.",
+          "kind": "opinion",
+          "sources": [
+            "rt_r1-pro"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rt_r1-pro"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [],
+      "compatible_skates": [
+        "esptiger-ice-v2"
+      ],
+      "sources": [
+        {
+          "id": "mk_vxe",
+          "label": "ATK store - VXE Dragonfly R1 Series (product data)",
+          "url": "https://www.atk.store/products/vxe-dragonfly-r1-series-wireless-mouse",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_atk_vxe-dragonfly-r1-series.txt",
+          "outlet": "ATK",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_vxe2",
+          "label": "ATK store - VXE Dragonfly R1 series model comparison",
+          "url": "https://www.atk.store/pages/product-finder-comparison?product=vxe-dragonfly-r1-series-wireless-mouse&compare=models",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_atk_vxe-r1-compare.txt",
+          "outlet": "ATK",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_r1-pro",
+          "label": "RTINGS review - VXE R1 Pro (free sections)",
+          "url": "https://www.rtings.com/mouse/reviews/vxe/r1-pro",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_vxe-r1-pro.txt",
+          "published": "2025-07-18",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "wooting-80he",
+      "name": "Wooting 80HE",
+      "category": "keyboard",
+      "brand": "Wooting",
+      "picked_by": [
+        "rt_best_kb",
+        "rt_best_gaming_kb",
+        "pcg_best_kb"
+      ],
+      "price": {
+        "usd": 249.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_wooting"
+        ],
+        "note": "Shown as 'Price range: $249.99'. Case options may change the price."
+      },
+      "specs": {
+        "size": {
+          "value": "TKL (80%)",
+          "status": "verified",
+          "sources": [
+            "rtk_80he"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "magnetic (Hall effect), analog",
+          "status": "verified",
+          "sources": [
+            "rtk_80he"
+          ],
+          "basis": "RTINGS review"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "rtk_80he"
+          ],
+          "note": "RTINGS: hot-swappable, but only with magnetic switches.",
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wired",
+          "status": "verified",
+          "sources": [
+            "rtk_80he"
+          ],
+          "basis": "RTINGS review"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_wooting",
+            "rtk_80he"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "actuation_mm": {
+          "value": "0.1 - 4.0, in 0.1 mm increments",
+          "status": "verified",
+          "sources": [
+            "mk_wooting2"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": 790,
+          "status": "verified",
+          "sources": [
+            "mk_wooting2"
+          ],
+          "note": "Maker: 790 g with the PCR ABS case, 2160 g with the zinc alloy case.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "346 x 142",
+          "status": "verified",
+          "sources": [
+            "mk_wooting2"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "RTINGS' best gaming keyboard and #7 on PC Gamer's list (its best rapid trigger keyboard), with keys you can tune.",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_gaming_kb",
+          "pcg_best_kb"
+        ],
+        "status": "agreed (PC Gamer, RTINGS)"
+      },
+      "pros": [
+        {
+          "text": "Rapid Trigger and adjustable keys help in fast games.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_80he",
+            "pcg_best_kb"
+          ],
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "Good web-based software.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_80he",
+            "pcg_best_kb"
+          ],
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "Very low delay.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_80he"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_80he"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Gasket mount feels fairly stiff.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_80he"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Chassis has some flex.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_kb"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "PC Gamer lists some of its special key features being toned down ('nerfed') as a downside.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_kb"
+          ],
+          "status": "opinion: PC Gamer"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_wooting",
+          "label": "Wooting - 80HE product page",
+          "url": "https://wooting.io/wooting-80he",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_wooting_80he.txt",
+          "outlet": "Wooting",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_wooting2",
+          "label": "Wooting - 80HE tech specifications",
+          "url": "https://wooting.io/wooting-80he#tech-specifications",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_wooting_80he-specs.txt",
+          "outlet": "Wooting",
+          "type": "maker page"
+        },
+        {
+          "id": "pcg_best_kb",
+          "label": "PC Gamer - Best mechanical keyboards 2026",
+          "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+          "published": "2026-01-16",
+          "outlet": "PC Gamer",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_gaming_kb",
+          "label": "RTINGS - The Best Gaming Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+          "published": "2026-10-19",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_kb",
+          "label": "RTINGS - The Best Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-keyboard.txt",
+          "published": "2026-11-04",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_80he",
+          "label": "RTINGS review - Wooting 80HE (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/wooting/80he",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_wooting-80he.txt",
+          "published": "2024-12-13",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "asus-rog-strix-scope-ii-96-wireless",
+      "name": "ASUS ROG Strix Scope II 96 Wireless",
+      "category": "keyboard",
+      "brand": "ASUS",
+      "picked_by": [
+        "pcg_best_kb",
+        "th_best_kb"
+      ],
+      "price": {
+        "usd": 179.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_scope2"
+        ],
+        "note": "ASUS Store list price on the maker's spec page; on sale for US$109.99 on 2026-11-19."
+      },
+      "specs": {
+        "size": {
+          "value": "96%",
+          "status": "verified",
+          "sources": [
+            "rtk_rog-strix-scope-ii-96-wireless"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "mechanical (ROG NX)",
+          "status": "verified",
+          "sources": [
+            "rtk_rog-strix-scope-ii-96-wireless",
+            "mk_scope"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "rtk_rog-strix-scope-ii-96-wireless",
+            "mk_scope"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "connectivity": {
+          "value": "2.4 GHz, Bluetooth 5.1, wired USB",
+          "status": "verified",
+          "sources": [
+            "mk_scope",
+            "mk_scope2"
+          ],
+          "basis": "maker's figure"
+        },
+        "actuation_mm": {
+          "value": 1.8,
+          "status": "verified",
+          "sources": [
+            "mk_scope"
+          ],
+          "note": "Fixed actuation point of the ROG NX switch.",
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "mk_scope2"
+          ],
+          "note": "Maker: USB report rate 1000 Hz.",
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": 1012,
+          "status": "verified",
+          "sources": [
+            "mk_scope2"
+          ],
+          "note": "Maker: without cable.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "377 x 131 x 40",
+          "status": "verified",
+          "sources": [
+            "mk_scope2"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A wireless 96% keyboard that PC Gamer and Tom's Hardware both rank as their top pick.",
+        "kind": "opinion",
+        "sources": [
+          "pcg_best_kb",
+          "th_best_kb"
+        ],
+        "status": "agreed (PC Gamer, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Very low delay.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_rog-strix-scope-ii-96-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent switch feel.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_kb"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Sound dampening works well.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_kb"
+          ],
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Impressive build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_rog-strix-scope-ii-96-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Spacebar rattles a bit.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_rog-strix-scope-ii-96-wireless"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Its Armoury Crate app is a downside: PC Gamer calls it messy, Tom's Hardware annoying.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_best_kb",
+            "th_best_kb"
+          ],
+          "status": "agreed (PC Gamer, Tom's Hardware)"
+        },
+        {
+          "text": "The 96% layout feels cramped.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_kb"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Only one layer of programmable keys.",
+          "kind": "fact",
+          "sources": [
+            "th_best_kb"
+          ],
+          "status": "reported (Tom's Hardware)"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_scope",
+          "label": "ASUS ROG - Strix Scope II 96 Wireless product page",
+          "url": "https://rog.asus.com/us/keyboards/keyboards/compact/rog-strix-scope-ii-96-wireless/",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_asus_rog-strix-scope-ii-96-wireless.txt",
+          "outlet": "ASUS ROG",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_scope2",
+          "label": "ASUS ROG - Strix Scope II 96 Wireless spec page",
+          "url": "https://rog.asus.com/us/keyboards/keyboards/compact/rog-strix-scope-ii-96-wireless/spec/",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_asus_rog-strix-scope-ii-96-wireless-spec.txt",
+          "outlet": "ASUS ROG",
+          "type": "maker page"
+        },
+        {
+          "id": "pcg_best_kb",
+          "label": "PC Gamer - Best mechanical keyboards 2026",
+          "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+          "published": "2026-01-16",
+          "outlet": "PC Gamer",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_rog-strix-scope-ii-96-wireless",
+          "label": "RTINGS review - ASUS ROG Strix Scope II 96 Wireless (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/asus/rog-strix-scope-ii-96-wireless",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_asus-rog-strix-scope-ii-96-wireless.txt",
+          "published": "2023-11-22",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        },
+        {
+          "id": "th_best_kb",
+          "label": "Tom's Hardware - Best Gaming Keyboards 2026",
+          "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-gaming-keyboards.txt",
+          "published": "2026-10-06",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "keychron-k2-ultra-8k",
+      "name": "Keychron K2 Ultra 8K",
+      "category": "keyboard",
+      "brand": "Keychron",
+      "picked_by": [
+        "rt_best_kb",
+        "rt_best_gaming_kb"
+      ],
+      "picked_by_note": "Both picks are from RTINGS (one outlet).",
+      "price": {
+        "usd": 119.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_k2u"
+        ]
+      },
+      "specs": {
+        "size": {
+          "value": "75%",
+          "status": "verified",
+          "sources": [
+            "mk_k2u",
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "connectivity": {
+          "value": "2.4 GHz, Bluetooth (3 devices), wired",
+          "status": "verified",
+          "sources": [
+            "mk_k2u",
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_k2u"
+          ],
+          "basis": "maker's figure"
+        },
+        "switch_type": {
+          "value": "mechanical (Keychron Apex Red/Brown/Banana)",
+          "status": "verified",
+          "sources": [
+            "mk_k2u"
+          ],
+          "basis": "maker's figure"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "mk_k2u",
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "battery": {
+          "value": "4000 mAh, up to 760 h (maker says: in wireless 8K mode)",
+          "status": "verified",
+          "sources": [
+            "mk_k2u"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": "1084 ± 10",
+          "status": "verified",
+          "sources": [
+            "mk_k2u"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A well-built 75% wireless keyboard that RTINGS calls suitable for everyday browsing, work or even competitive gaming.",
+        "kind": "opinion",
+        "sources": [
+          "rtk_k2-k4-k8-k10-etc-ultra-8k"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Outstanding build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Excellent typing feel.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Tall. A wrist rest helps, but none is included.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Somewhat loud typing.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_k2u",
+          "label": "Keychron - K2 Ultra 8K (product data)",
+          "url": "https://www.keychron.com/products/keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_keychron_keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+          "outlet": "Keychron",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_kb",
+          "label": "RTINGS - The Best Gaming Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+          "published": "2026-10-19",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rt_best_kb",
+          "label": "RTINGS - The Best Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-keyboard.txt",
+          "published": "2026-11-04",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_k2-k4-k8-k10-etc-ultra-8k",
+          "label": "RTINGS review - Keychron K2 Ultra 8K (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/keychron/k2-k4-k8-k10-etc-ultra-8k",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_keychron-k2-k4-k8-k10-etc-ultra-8k.txt",
+          "published": "2026-10-16",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "keychron-q6-ultra-8k",
+      "name": "Keychron Q6 Ultra 8K",
+      "category": "keyboard",
+      "brand": "Keychron",
+      "picked_by": [
+        "rt_best_kb"
+      ],
+      "price": {
+        "usd": 239.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_q6u"
+        ]
+      },
+      "specs": {
+        "size": {
+          "value": "full size (100%)",
+          "status": "verified",
+          "sources": [
+            "mk_q6u",
+            "rtk_q6-q1-q3-etc-ultra-8k"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "case": {
+          "value": "full metal",
+          "status": "verified",
+          "sources": [
+            "mk_q6u"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "2.4 GHz, Bluetooth (3 devices), wired",
+          "status": "verified",
+          "sources": [
+            "mk_q6u",
+            "rtk_q6-q1-q3-etc-ultra-8k"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_q6u"
+          ],
+          "basis": "maker's figure"
+        },
+        "switch_type": {
+          "value": "mechanical (Keychron Silk POM)",
+          "status": "verified",
+          "sources": [
+            "mk_q6u"
+          ],
+          "basis": "maker's figure"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "mk_q6u"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "4000 mAh, up to 660 h",
+          "status": "verified",
+          "sources": [
+            "mk_q6u"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": "2238 ± 10",
+          "status": "verified",
+          "sources": [
+            "mk_q6u"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Keyboard\".",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_kb"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Outstanding build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_q6-q1-q3-etc-ultra-8k"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Quiet typing.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_q6-q1-q3-etc-ultra-8k"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "mk_q6u",
+          "label": "Keychron - Q6 Ultra 8K (product data)",
+          "url": "https://www.keychron.com/products/keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_keychron_keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+          "outlet": "Keychron",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_kb",
+          "label": "RTINGS - The Best Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-keyboard.txt",
+          "published": "2026-11-04",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_q6-q1-q3-etc-ultra-8k",
+          "label": "RTINGS review - Keychron Q6 Ultra 8K (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/keychron/q6-q1-q3-etc-ultra-8k",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_keychron-q6-q1-q3-etc-ultra-8k.txt",
+          "published": "2026-04-16",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "lemokey-p1-he",
+      "name": "Lemokey P1 HE",
+      "category": "keyboard",
+      "brand": "Lemokey",
+      "picked_by": [],
+      "mentioned_by": [
+        "rt_best_kb"
+      ],
+      "price": {
+        "usd": 169.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_p1he"
+        ],
+        "note": "Maker list US$169.99; on sale for US$135.99 on 2026-11-19."
+      },
+      "specs": {
+        "size": {
+          "value": "75%",
+          "status": "verified",
+          "sources": [
+            "rtk_p1-he"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "magnetic (Gateron Double-Rail Nebula)",
+          "status": "verified",
+          "sources": [
+            "mk_p1he",
+            "rtk_p1-he"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "rtk_p1-he",
+            "mk_p1he"
+          ],
+          "note": "RTINGS: hot-swappable, but the board only takes Gateron Double-Rail magnetic switches.",
+          "basis": "maker and RTINGS"
+        },
+        "connectivity": {
+          "value": "2.4 GHz, Bluetooth, wired",
+          "status": "verified",
+          "sources": [
+            "mk_p1he2"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "mk_p1he2",
+            "rtk_p1-he"
+          ],
+          "note": "Maker: 1000 Hz on 2.4 GHz and wired, 125 Hz on Bluetooth.",
+          "basis": "maker and RTINGS"
+        },
+        "weight_g": {
+          "value": "1630 ± 50",
+          "status": "verified",
+          "sources": [
+            "mk_p1he2"
+          ],
+          "note": "Maker: fully assembled version.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "322 x 140",
+          "status": "verified",
+          "sources": [
+            "mk_p1he2"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "4000 mAh",
+          "status": "verified",
+          "sources": [
+            "mk_p1he2"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A well-built magnetic-switch gaming keyboard with Rapid Trigger.",
+        "kind": "opinion",
+        "sources": [
+          "rtk_p1-he"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Outstanding build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_p1-he"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Bright backlight with easy-to-read keys.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_p1-he"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Only works with one switch type.",
+          "kind": "fact",
+          "sources": [
+            "mk_p1he",
+            "rtk_p1-he"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "True analog output does not work as expected.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_p1-he"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_p1he",
+          "label": "Lemokey - P1 HE (product data)",
+          "url": "https://www.lemokey.com/products/lemokey-p1-he-wireless-magnetic-switch-custom-gaming-keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_lemokey_lemokey-p1-he-wireless-magnetic-switch-custom-gaming-keyboard.txt",
+          "outlet": "Lemokey",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_p1he2",
+          "label": "Lemokey - P1 HE product page (spec table)",
+          "url": "https://www.lemokey.com/products/lemokey-p1-he-wireless-magnetic-switch-custom-gaming-keyboard",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_lemokey_p1-he-page.txt",
+          "outlet": "Lemokey",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_kb",
+          "label": "RTINGS - The Best Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-keyboard.txt",
+          "published": "2026-11-04",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_p1-he",
+          "label": "RTINGS review - Lemokey P1 HE (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/lemokey/p1-he",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_lemokey-p1-he.txt",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "logitech-mx-keys-s",
+      "name": "Logitech MX Keys S",
+      "category": "keyboard",
+      "brand": "Logitech",
+      "picked_by": [
+        "rt_best_kb"
+      ],
+      "price": {
+        "usd": 129.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_mxks"
+        ],
+        "note": "Maker list US$129.99; on sale for US$119.99 on the check date."
+      },
+      "specs": {
+        "size": {
+          "value": "full size (100%)",
+          "status": "verified",
+          "sources": [
+            "rtk_mx-keys-s"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "scissor (low profile)",
+          "status": "verified",
+          "sources": [
+            "rtk_mx-keys-s"
+          ],
+          "basis": "RTINGS review"
+        },
+        "hot_swap": {
+          "value": false,
+          "status": "verified",
+          "sources": [
+            "rtk_mx-keys-s"
+          ],
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wireless (Logi Bolt receiver)",
+          "status": "verified",
+          "sources": [
+            "mk_mxks"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": 810,
+          "status": "verified",
+          "sources": [
+            "mk_mxks"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "430.2 x 131.63 x 20.5",
+          "status": "verified",
+          "sources": [
+            "mk_mxks"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "use": {
+        "value": "office",
+        "status": "verified",
+        "sources": [
+          "rt_best_kb"
+        ],
+        "note": "RTINGS picks it as its best office keyboard."
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Office Keyboard\".",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_kb"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Very quiet typing.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_mx-keys-s"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Comfortable without a wrist rest.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_mx-keys-s"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Great typing feel.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_mx-keys-s"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "mk_mxks",
+          "label": "Logitech - MX Keys S product page",
+          "url": "https://www.logitech.com/en-us/shop/p/mx-keys-s.920-011406",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitech_mx-keys-s.txt",
+          "outlet": "Logitech",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_kb",
+          "label": "RTINGS - The Best Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-keyboard.txt",
+          "published": "2026-11-04",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_mx-keys-s",
+          "label": "RTINGS review - Logitech MX Keys S (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/logitech/mx-keys-s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_logitech-mx-keys-s.txt",
+          "published": "2023-07-05",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "ducky-ok-m",
+      "name": "Ducky OK-M",
+      "category": "keyboard",
+      "brand": "Ducky",
+      "picked_by": [
+        "rt_best_kb"
+      ],
+      "price": {
+        "usd": "69.99 - 89.99",
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_okm"
+        ],
+        "note": "Range across 12 variants (layout, color, switch)."
+      },
+      "specs": {
+        "size": {
+          "value": "75% (RTINGS unit); maker also sells a 65% version",
+          "status": "verified",
+          "sources": [
+            "rtk_ok-m",
+            "mk_okm"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "mk_okm",
+            "rtk_ok-m"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "connectivity": {
+          "value": "2.4 GHz, Bluetooth, wired",
+          "status": "verified",
+          "sources": [
+            "mk_okm",
+            "mk_okm2"
+          ],
+          "basis": "maker's figure"
+        },
+        "switch_type": {
+          "value": "mechanical (KTT Linear / KTT Tactile)",
+          "status": "verified",
+          "sources": [
+            "mk_okm2",
+            "rtk_ok-m"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "mount": {
+          "value": "gasket",
+          "status": "verified",
+          "sources": [
+            "mk_okm"
+          ],
+          "basis": "maker's figure"
+        },
+        "case": {
+          "value": "plastic (ABS)",
+          "status": "verified",
+          "sources": [
+            "rtk_ok-m",
+            "mk_okm2"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "weight_g": {
+          "value": "1015 ± 15",
+          "status": "verified",
+          "sources": [
+            "mk_okm2"
+          ],
+          "note": "Maker: 75% version.",
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "337 x 142 x 43.2",
+          "status": "verified",
+          "sources": [
+            "mk_okm2"
+          ],
+          "note": "Maker: 75% version.",
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "unverified",
+          "sources": [
+            "mk_okm2"
+          ],
+          "why_unverified": "the maker's page contradicts itself",
+          "note": "The maker's spec table lists 'Report Rate 8000 Hz', but the same table says 'Connectivity: Wired only' while the page also lists wireless modes. It does not say which mode reaches 8000 Hz, so we do not rank by it."
+        }
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Budget Keyboard\".",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_kb"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Excellent typing feel.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_ok-m"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Quiet.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_ok-m"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "No advertised battery life.",
+          "kind": "fact",
+          "sources": [
+            "rtk_ok-m"
+          ],
+          "status": "verified"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_okm",
+          "label": "Ducky - OK-M (product data)",
+          "url": "https://ducky.global/products/ok-m",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_ducky_ok-m.txt",
+          "outlet": "Ducky",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_okm2",
+          "label": "Ducky - OK-M product page (spec table)",
+          "url": "https://ducky.global/products/ok-m",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_ducky_ok-m-page.txt",
+          "outlet": "Ducky",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_kb",
+          "label": "RTINGS - The Best Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-keyboard.txt",
+          "published": "2026-11-04",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_ok-m",
+          "label": "RTINGS review - Ducky OK-M (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/ducky/ok-m",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_ducky-ok-m.txt",
+          "published": "2026-05-13",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "corsair-k70-core",
+      "name": "Corsair K70 CORE",
+      "category": "keyboard",
+      "brand": "Corsair",
+      "picked_by": [
+        "rt_best_gaming_kb"
+      ],
+      "price": {
+        "usd": 99.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_k70"
+        ],
+        "note": "Maker list US$99.99; on sale for US$79.99 on the check date."
+      },
+      "specs": {
+        "size": {
+          "value": "full size (100%)",
+          "status": "verified",
+          "sources": [
+            "rtk_k70-core"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "mechanical (Corsair MLX Red, linear)",
+          "status": "verified",
+          "sources": [
+            "mk_k70",
+            "rtk_k70-core"
+          ],
+          "basis": "maker and RTINGS"
+        },
+        "hot_swap": {
+          "value": false,
+          "status": "verified",
+          "sources": [
+            "rtk_k70-core"
+          ],
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wired",
+          "status": "verified",
+          "sources": [
+            "rtk_k70-core"
+          ],
+          "basis": "RTINGS review"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "verified",
+          "sources": [
+            "mk_k70"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": 934,
+          "status": "verified",
+          "sources": [
+            "mk_k70"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Budget Gaming Keyboard\".",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_gaming_kb"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Very low delay.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_k70-core"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Plastic body and ABS keycaps feel a bit cheap.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_k70-core"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_k70",
+          "label": "Corsair - K70 CORE RGB product page",
+          "url": "https://www.corsair.com/us/en/p/keyboards/ch-910971e-na/k70-core-rgb-mechanical-gaming-keyboard-black-ch-910971e-na",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_corsair_k70-core.txt",
+          "outlet": "Corsair",
+          "type": "maker page"
+        },
+        {
+          "id": "rt_best_gaming_kb",
+          "label": "RTINGS - The Best Gaming Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+          "published": "2026-10-19",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_k70-core",
+          "label": "RTINGS review - Corsair K70 CORE (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/corsair/k70-core",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_corsair-k70-core.txt",
+          "published": "2024-02-14",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "keychron-v1-ultra-8k",
+      "name": "Keychron V1 Ultra 8K",
+      "category": "keyboard",
+      "brand": "Keychron",
+      "picked_by": [
+        "tg_best_kb"
+      ],
+      "price": {
+        "usd": 114.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_v1u"
+        ]
+      },
+      "specs": {
+        "size": {
+          "value": "75%",
+          "status": "verified",
+          "sources": [
+            "mk_v1u"
+          ],
+          "basis": "maker's figure"
+        },
+        "connectivity": {
+          "value": "2.4 GHz, Bluetooth, wired",
+          "status": "verified",
+          "sources": [
+            "mk_v1u"
+          ],
+          "basis": "maker's figure"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_v1u"
+          ],
+          "basis": "maker's figure"
+        },
+        "switch_type": {
+          "value": "mechanical",
+          "status": "verified",
+          "sources": [
+            "mk_v1u",
+            "tg_best_kb"
+          ],
+          "basis": "maker's figure"
+        },
+        "switch_model": {
+          "value": "Keychron Silk POM (maker)",
+          "status": "unverified",
+          "sources": [
+            "mk_v1u",
+            "tg_best_kb"
+          ],
+          "note": "Sources disagree. The maker lists Keychron Silk POM. Tom's Guide lists Kailh Box V2 (White, Red or Brown), and says its test unit had Banana switches.",
+          "conflict": true
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "mk_v1u"
+          ],
+          "basis": "maker's figure"
+        },
+        "battery": {
+          "value": "4000 mAh, up to 660 h",
+          "status": "verified",
+          "sources": [
+            "mk_v1u"
+          ],
+          "basis": "maker's figure"
+        },
+        "weight_g": {
+          "value": "770 ± 10",
+          "status": "verified",
+          "sources": [
+            "mk_v1u"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "#6 on Tom's Guide's list, which calls it the best mechanical keyboard for gaming.",
+        "kind": "opinion",
+        "sources": [
+          "tg_best_kb"
+        ],
+        "status": "opinion: Tom's Guide"
+      },
+      "name_note": {
+        "value": "Not the same as the wired Keychron V1 8K, which Tom's Guide lists separately at #3.",
+        "status": "verified",
+        "sources": [
+          "tg_best_kb"
+        ]
+      },
+      "pros": [
+        {
+          "text": "Great gaming performance.",
+          "kind": "opinion",
+          "sources": [
+            "tg_best_kb"
+          ],
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Excellent typing sound and feel.",
+          "kind": "opinion",
+          "sources": [
+            "tg_best_kb"
+          ],
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Long battery life.",
+          "kind": "opinion",
+          "sources": [
+            "tg_best_kb"
+          ],
+          "status": "opinion: Tom's Guide"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Some flex.",
+          "kind": "opinion",
+          "sources": [
+            "tg_best_kb"
+          ],
+          "status": "opinion: Tom's Guide"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_v1u",
+          "label": "Keychron - V1 Ultra 8K (product data)",
+          "url": "https://www.keychron.com/products/keychron-v1-ultra-8k-wireless-custom-mechanical-keyboard",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_keychron_keychron-v1-ultra-8k-wireless-custom-mechanical-keyboard.txt",
+          "outlet": "Keychron",
+          "type": "maker page"
+        },
+        {
+          "id": "tg_best_kb",
+          "label": "Tom's Guide - Best mechanical keyboards 2026",
+          "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+          "published": "2026-11-16",
+          "outlet": "Tom's Guide",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "monsgeek-fun60-ultra",
+      "name": "MonsGeek FUN60 Ultra",
+      "category": "keyboard",
+      "brand": "MonsGeek",
+      "picked_by": [
+        "rt_best_gaming_kb"
+      ],
+      "price": {
+        "usd": "59.99 - 89.99",
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_fun60b"
+        ],
+        "note": "Range on the maker's FUN60 Ultra page. Versions differ (wired or tri-mode)."
+      },
+      "specs": {
+        "size": {
+          "value": "60%",
+          "status": "verified",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "basis": "RTINGS review"
+        },
+        "switch_type": {
+          "value": "magnetic, adjustable actuation",
+          "status": "verified",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "basis": "RTINGS review"
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "verified",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "note": "RTINGS: the TMR version also takes mechanical switches; the Hall effect version only takes magnetic switches.",
+          "basis": "RTINGS review"
+        },
+        "connectivity": {
+          "value": "wired or wireless versions (2.4 GHz and Bluetooth)",
+          "status": "verified",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "basis": "RTINGS review"
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "verified",
+          "sources": [
+            "mk_fun60b",
+            "rtk_fun60-ultra"
+          ],
+          "note": "Maker: 8000 Hz in wired or 2.4 GHz modes.",
+          "basis": "maker and RTINGS"
+        },
+        "battery": {
+          "value": "4000 mAh (tri-mode version only)",
+          "status": "verified",
+          "sources": [
+            "mk_fun60b"
+          ],
+          "basis": "maker's figure"
+        },
+        "case": {
+          "value": "aluminum",
+          "status": "verified",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "basis": "RTINGS review"
+        },
+        "weight_g": {
+          "value": 1023,
+          "status": "reported",
+          "sources": [
+            "nbc_fun60"
+          ],
+          "note": "Weighed by Notebookcheck. The maker page does not list a weight.",
+          "reported_by": [
+            "Notebookcheck"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "RTINGS' \"Best Budget Wireless Gaming Keyboard\".",
+        "kind": "opinion",
+        "sources": [
+          "rt_best_gaming_kb"
+        ],
+        "status": "opinion: RTINGS"
+      },
+      "pros": [
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Software has Rapid Trigger, SOCD and DKS.",
+          "kind": "fact",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "status": "verified"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Tray mount feels somewhat stiff.",
+          "kind": "opinion",
+          "sources": [
+            "rtk_fun60-ultra"
+          ],
+          "status": "opinion: RTINGS"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_fun60b",
+          "label": "MonsGeek - FUN60 Ultra product page",
+          "url": "https://www.monsgeek.com/product/fun60-ultra/",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_monsgeek_fun60-ultra-page.txt",
+          "outlet": "MonsGeek",
+          "type": "maker page"
+        },
+        {
+          "id": "nbc_fun60",
+          "label": "Notebookcheck - MonsGeek FUN60 Ultra hands-on review",
+          "url": "https://www.notebookcheck.net/MonsGeek-Fun60-Ultra-TMR-hands-on-review-Rapid-trigger-keyboard-with-8-kHz-wireless-polling-made-affordable.989224.0.html",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/review_notebookcheck_monsgeek-fun60-ultra.txt",
+          "outlet": "Notebookcheck",
+          "type": "review site",
+          "published": "2025-03-30"
+        },
+        {
+          "id": "rt_best_gaming_kb",
+          "label": "RTINGS - The Best Gaming Keyboards",
+          "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+          "published": "2026-10-19",
+          "outlet": "RTINGS",
+          "type": "best-of list"
+        },
+        {
+          "id": "rtk_fun60-ultra",
+          "label": "RTINGS review - MonsGeek FUN60 Ultra (free sections)",
+          "url": "https://www.rtings.com/keyboard/reviews/monsgeek/fun60-ultra",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/rtings_kb_monsgeek-fun60-ultra.txt",
+          "published": "2025-06-04",
+          "outlet": "RTINGS",
+          "type": "lab review"
+        }
+      ]
+    },
+    {
+      "id": "steelseries-qck-heavy",
+      "name": "SteelSeries QcK Heavy",
+      "category": "mousepad",
+      "brand": "SteelSeries",
+      "picked_by": [
+        "th_best_pads",
+        "dl_qck"
+      ],
+      "picked_by_note": "PCGamesN picks the regular QcK, not the Heavy, so that pick is not counted.",
+      "price": {
+        "usd": 34.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_qck"
+        ],
+        "note": "Price shown for the XXL size. Medium and Large are also sold; their prices were not captured.",
+        "size": "XXL"
+      },
+      "specs": {
+        "surface": {
+          "value": "micro-woven cloth",
+          "status": "verified",
+          "sources": [
+            "mk_qck",
+            "mk_qck2",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "base": {
+          "value": "extra thick, non-slip rubber",
+          "status": "verified",
+          "sources": [
+            "mk_qck2",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "sizes": {
+          "value": "Medium, Large, XXL",
+          "status": "verified",
+          "sources": [
+            "mk_qck"
+          ],
+          "basis": "maker's figure"
+        },
+        "thickness_mm": {
+          "value": 6,
+          "status": "verified",
+          "sources": [
+            "mk_qck2",
+            "th_best_pads"
+          ],
+          "note": "Maker: 6 mm. Tom's Hardware lists the Large as 450 x 400 x 6 mm.",
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A durable cloth pad. Tom's Hardware calls it extra-thick and its best pad for most people; DiamondLobby calls it the best pad for every type of gamer.",
+        "kind": "opinion",
+        "sources": [
+          "th_best_pads",
+          "dl_qck"
+        ],
+        "status": "agreed (DiamondLobby, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Thick.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Durable.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads",
+            "dl_qck"
+          ],
+          "status": "agreed (DiamondLobby, Tom's Hardware)"
+        },
+        {
+          "text": "Affordable.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads",
+            "dl_qck"
+          ],
+          "status": "agreed (DiamondLobby, Tom's Hardware)"
+        },
+        {
+          "text": "Washable.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "DiamondLobby says it helps you play consistently.",
+          "kind": "opinion",
+          "sources": [
+            "dl_qck2"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Needs weighing down when new to lie flat.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Can feel slow and muddy if not cleaned.",
+          "kind": "opinion",
+          "sources": [
+            "dl_qck2"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dl_qck",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (6:30)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=390s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "6:30",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "dl_qck2",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (6:47)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=407s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "6:47",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "mk_qck",
+          "label": "SteelSeries - QcK Heavy product page",
+          "url": "https://steelseries.com/gaming-mousepads/qck-heavy",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_steelseries_qck-heavy.txt",
+          "outlet": "SteelSeries",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_qck2",
+          "label": "SteelSeries - QcK Heavy product page (page data)",
+          "url": "https://steelseries.com/gaming-mousepads/qck-heavy",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_steelseries_qck-heavy-source.txt",
+          "outlet": "SteelSeries",
+          "type": "maker page"
+        },
+        {
+          "id": "th_best_pads",
+          "label": "Tom's Hardware - Best Mouse Pads 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+          "published": "2026-11-18",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "razer-atlas",
+      "name": "Razer Atlas",
+      "category": "mousepad",
+      "brand": "Razer",
+      "picked_by": [
+        "th_best_pads",
+        "dl_glass"
+      ],
+      "price": {
+        "usd": 99.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_atlas"
+        ],
+        "note": "Maker shows 'Starting from US$99.99'."
+      },
+      "specs": {
+        "surface": {
+          "value": "tempered glass (hard mat)",
+          "status": "verified",
+          "sources": [
+            "mk_atlas",
+            "mk_atlas2",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "base": {
+          "value": "anti-slip rubber",
+          "status": "verified",
+          "sources": [
+            "mk_atlas2",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "450 x 400 x 5",
+          "status": "verified",
+          "sources": [
+            "mk_atlas2"
+          ],
+          "basis": "maker's figure"
+        },
+        "sizes": {
+          "value": "one size",
+          "status": "reported",
+          "sources": [
+            "th_best_pads"
+          ],
+          "note": "Tom's Hardware: 'Only comes in one size (large).' The maker page lists one set of dimensions and a color choice, but does not say it is the only size.",
+          "reported_by": [
+            "Tom's Hardware"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A tempered-glass pad that both outlets recommend, and both call expensive. Tom's Hardware praises its low friction.",
+        "kind": "opinion",
+        "sources": [
+          "th_best_pads",
+          "dl_glass"
+        ],
+        "status": "agreed (DiamondLobby, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Very low friction.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Easy to clean.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "DiamondLobby says glass pads like this need little care and keep feeling new.",
+          "kind": "opinion",
+          "sources": [
+            "dl_glass2"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads",
+            "dl_glass"
+          ],
+          "status": "agreed (DiamondLobby, Tom's Hardware)"
+        },
+        {
+          "text": "Too large to fit easily on many desks.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Not great if your hands sweat.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Its coating started to wear off at the edges after about a year; skin oils may cause it.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Only one size.",
+          "kind": "fact",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "reported (Tom's Hardware)"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dl_glass",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:37)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=277s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "4:37",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "dl_glass2",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:21)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=261s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "4:21",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "mk_atlas",
+          "label": "Razer - Atlas product page",
+          "url": "https://www.razer.com/gaming-mouse-mats/razer-atlas",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_razer_razer-atlas.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_atlas2",
+          "label": "Razer - Atlas (Black) full spec list",
+          "url": "https://www.razer.com/gaming-mouse-mats/razer-atlas/RZ02-04890100-R3U1",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_razer_atlas-specs.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "th_best_pads",
+          "label": "Tom's Hardware - Best Mouse Pads 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+          "published": "2026-11-18",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "razer-firefly-v2-pro",
+      "name": "Razer Firefly V2 Pro",
+      "category": "mousepad",
+      "brand": "Razer",
+      "picked_by": [
+        "th_best_pads",
+        "pcgn_best_pads"
+      ],
+      "price": {
+        "usd": 99.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_firefly"
+        ],
+        "note": "Maker shows 'Starting from US$99.99'."
+      },
+      "specs": {
+        "surface": {
+          "value": "hard, micro-textured",
+          "status": "verified",
+          "sources": [
+            "mk_firefly",
+            "mk_firefly2",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "lighting_zones": {
+          "value": 15,
+          "status": "verified",
+          "sources": [
+            "mk_firefly2"
+          ],
+          "note": "Maker: 15-zone Chroma lighting. Tom's Hardware gives both 19 and 15 in its write-up. We use the maker's figure.",
+          "basis": "maker's figure"
+        },
+        "usb_passthrough": {
+          "value": "USB 2.0 port",
+          "status": "verified",
+          "sources": [
+            "mk_firefly2",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "360 x 278 x 4.6",
+          "status": "verified",
+          "sources": [
+            "mk_firefly2"
+          ],
+          "note": "Maker figures. Tom's Hardware lists 355 x 255 x 3 mm.",
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A hard RGB pad that lights the whole surface, picked by Tom's Hardware and PCGamesN.",
+        "kind": "opinion",
+        "sources": [
+          "th_best_pads",
+          "pcgn_best_pads"
+        ],
+        "status": "agreed (PCGamesN, Tom's Hardware)"
+      },
+      "pros": [
+        {
+          "text": "Bright backlighting.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads",
+            "pcgn_best_pads"
+          ],
+          "status": "agreed (PCGamesN, Tom's Hardware)"
+        },
+        {
+          "text": "Built-in USB 2.0 port for your mouse's wireless receiver.",
+          "kind": "fact",
+          "sources": [
+            "mk_firefly",
+            "th_best_pads"
+          ],
+          "status": "verified"
+        },
+        {
+          "text": "Feels smooth to use.",
+          "kind": "opinion",
+          "sources": [
+            "pcgn_best_pads"
+          ],
+          "status": "opinion: PCGamesN"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Only one size.",
+          "kind": "fact",
+          "sources": [
+            "th_best_pads",
+            "pcgn_best_pads"
+          ],
+          "status": "reported (PCGamesN, Tom's Hardware)"
+        },
+        {
+          "text": "Very flashy.",
+          "kind": "opinion",
+          "sources": [
+            "pcgn_best_pads"
+          ],
+          "status": "opinion: PCGamesN"
+        },
+        {
+          "text": "Looks lackluster in a brightly lit room.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Long-term surface durability is untested.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_firefly",
+          "label": "Razer - Firefly V2 Pro product page",
+          "url": "https://www.razer.com/gaming-mouse-mats/razer-firefly-v2-pro",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_razer_razer-firefly-v2-pro.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_firefly2",
+          "label": "Razer - Firefly V2 Pro (Black) full spec list",
+          "url": "https://www.razer.com/gaming-mouse-mats/razer-firefly-v2-pro/RZ02-04920100-R3U1",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_razer_firefly-v2-pro-specs.txt",
+          "outlet": "Razer",
+          "type": "maker page"
+        },
+        {
+          "id": "pcgn_best_pads",
+          "label": "PCGamesN - Best gaming mouse pad",
+          "url": "https://www.pcgamesn.com/best-gaming-mouse-pad",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/pcgamesn_best-gaming-mouse-pad.txt",
+          "published": "2025-10-22",
+          "outlet": "PCGamesN",
+          "type": "best-of list"
+        },
+        {
+          "id": "th_best_pads",
+          "label": "Tom's Hardware - Best Mouse Pads 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+          "published": "2026-11-18",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "logitech-powerplay-2",
+      "name": "Logitech G POWERPLAY 2",
+      "category": "mousepad",
+      "brand": "Logitech",
+      "picked_by": [
+        "th_best_pads",
+        "pcgn_best_pads"
+      ],
+      "price": {
+        "usd": 119.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_pp2"
+        ]
+      },
+      "specs": {
+        "dimensions_mm": {
+          "value": "340 x 344",
+          "status": "verified",
+          "sources": [
+            "mk_pp2"
+          ],
+          "basis": "maker's figure"
+        },
+        "thickness_mm": {
+          "value": 3.5,
+          "status": "verified",
+          "sources": [
+            "mk_pp2"
+          ],
+          "note": "Base plus pad surface.",
+          "basis": "maker's figure"
+        },
+        "function": {
+          "value": "wireless charging for compatible Logitech G mice, even while you play",
+          "status": "verified",
+          "sources": [
+            "mk_pp2"
+          ],
+          "note": "Tom's Hardware adds that it has no built-in wireless receiver.",
+          "basis": "maker's figure"
+        },
+        "receiver": {
+          "value": "none built in",
+          "status": "reported",
+          "sources": [
+            "th_best_pads"
+          ],
+          "reported_by": [
+            "Tom's Hardware"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "A charging pad that keeps a compatible Logitech G wireless mouse charged, even while you play.",
+        "kind": "fact",
+        "sources": [
+          "mk_pp2",
+          "th_best_pads",
+          "pcgn_best_pads"
+        ],
+        "status": "verified"
+      },
+      "pros": [
+        {
+          "text": "You'll never run out of battery.",
+          "kind": "opinion",
+          "sources": [
+            "pcgn_best_pads"
+          ],
+          "status": "opinion: PCGamesN"
+        },
+        {
+          "text": "Lower price than the previous POWERPLAY.",
+          "kind": "opinion",
+          "sources": [
+            "pcgn_best_pads"
+          ],
+          "status": "opinion: PCGamesN"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Only charges compatible Logitech G mice.",
+          "kind": "fact",
+          "sources": [
+            "pcgn_best_pads",
+            "th_best_pads"
+          ],
+          "status": "reported (PCGamesN, Tom's Hardware)"
+        },
+        {
+          "text": "Only one size.",
+          "kind": "fact",
+          "sources": [
+            "pcgn_best_pads"
+          ],
+          "status": "reported (PCGamesN)"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads",
+            "pcgn_best_pads"
+          ],
+          "status": "agreed (PCGamesN, Tom's Hardware)"
+        },
+        {
+          "text": "No built-in wireless receiver, and the cable is not detachable.",
+          "kind": "fact",
+          "sources": [
+            "th_best_pads",
+            "pcgn_best_pads"
+          ],
+          "status": "reported (PCGamesN, Tom's Hardware)"
+        },
+        {
+          "text": "Fewer features than the previous POWERPLAY.",
+          "kind": "opinion",
+          "sources": [
+            "pcgn_best_pads",
+            "th_best_pads"
+          ],
+          "status": "agreed (PCGamesN, Tom's Hardware)"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_pp2",
+          "label": "Logitech G - POWERPLAY 2 product page",
+          "url": "https://www.logitechg.com/en-us/shop/p/powerplay-2.947-000001",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_logitechg_powerplay-2.txt",
+          "outlet": "Logitech G",
+          "type": "maker page"
+        },
+        {
+          "id": "pcgn_best_pads",
+          "label": "PCGamesN - Best gaming mouse pad",
+          "url": "https://www.pcgamesn.com/best-gaming-mouse-pad",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/pcgamesn_best-gaming-mouse-pad.txt",
+          "published": "2025-10-22",
+          "outlet": "PCGamesN",
+          "type": "best-of list"
+        },
+        {
+          "id": "th_best_pads",
+          "label": "Tom's Hardware - Best Mouse Pads 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+          "published": "2026-11-18",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "zowie-g-sr-ii",
+      "name": "ZOWIE G-SR II",
+      "category": "mousepad",
+      "brand": "ZOWIE (BenQ)",
+      "picked_by": [
+        "dl_gsr",
+        "bz_pad_gsr"
+      ],
+      "price": {
+        "usd": 34.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_zowie2"
+        ],
+        "note": "Price on BenQ's US ZOWIE store."
+      },
+      "availability": {
+        "value": "Still sold: BenQ's US ZOWIE store lists the G-SR II with an Add to Cart button on 2026-11-19. (ZOWIE's product page link now opens the newer G-SR III page.)",
+        "status": "verified",
+        "sources": [
+          "mk_zowie2",
+          "mk_zowie"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "cloth (control)",
+          "status": "verified",
+          "sources": [
+            "mk_zowie2",
+            "dl_gsr",
+            "bz_pad_gsr"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "470 x 390 x 3.5",
+          "status": "verified",
+          "sources": [
+            "mk_zowie2"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A popular control pad. DiamondLobby says it has a lot of stopping power; boardzy calls the V2 one of the top control pads.",
+        "kind": "opinion",
+        "sources": [
+          "dl_gsr",
+          "bz_pad_gsr"
+        ],
+        "status": "agreed (DiamondLobby, boardzy)"
+      },
+      "pros": [
+        {
+          "text": "A lot of stopping power.",
+          "kind": "opinion",
+          "sources": [
+            "dl_gsr"
+          ],
+          "status": "opinion: DiamondLobby"
+        },
+        {
+          "text": "One of the top control pads (boardzy, about the updated V2).",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_gsr"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "Better humidity resistance than older versions.",
+          "kind": "opinion",
+          "sources": [
+            "dl_gsr2"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "cons": [
+        {
+          "text": "boardzy wishes ZOWIE made larger sizes.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_gsr_size"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_pad_gsr",
+          "label": "boardzy - 2024 Mousepad Tier List (13:43)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=823s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "13:43",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_gsr_size",
+          "label": "boardzy - 2024 Mousepad Tier List (13:02)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=782s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "13:02",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "dl_gsr",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (1:07)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=67s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "1:07",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "dl_gsr2",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (1:30)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=90s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "1:30",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "mk_zowie",
+          "label": "ZOWIE - G-SR II page (now redirects to G-SR III)",
+          "url": "https://zowie.benq.com/en-us/mouse-pad/g-sr-ii.html",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_zowie_g-sr-ii-redirect.txt",
+          "outlet": "ZOWIE",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_zowie2",
+          "label": "BenQ ZOWIE US store - G-SR II",
+          "url": "https://buy.benq.com/us-buy-zowie/gsr-ii.html",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_benq_zowie-g-sr-ii-store.txt",
+          "outlet": "BenQ ZOWIE US",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "pulsar-superglide-glass-pad",
+      "name": "Pulsar Superglide Glass Mousepad",
+      "category": "mousepad",
+      "brand": "Pulsar",
+      "picked_by": [
+        "dl_glass"
+      ],
+      "mentioned_by": [
+        "bz_pad_pulsar",
+        "bz_pad_pulsar2"
+      ],
+      "price": null,
+      "price_note": {
+        "value": "Pulsar's own store lists only special editions of its glass pad (Superglide3 T1 Edition M $49.95, L $84.95, XL $94.95; other editions $99.95), all sold out on 2026-11-19. No price for the plain pad was found.",
+        "status": "unverified",
+        "sources": [
+          "mk_pulsar_pads",
+          "mk_pulsar"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "glass",
+          "status": "verified",
+          "sources": [
+            "mk_pulsar",
+            "dl_glass"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A glass pad that DiamondLobby recommends.",
+        "kind": "opinion",
+        "sources": [
+          "dl_glass"
+        ],
+        "status": "opinion: DiamondLobby"
+      },
+      "pros": [
+        {
+          "text": "Probably Pulsar's best mouse pad, said in passing while ranking another Pulsar pad.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_pulsar"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "He slightly prefers it to one other glass pad.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_pulsar2"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "DiamondLobby says glass pads like this need little care and keep feeling new.",
+          "kind": "opinion",
+          "sources": [
+            "dl_glass2"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "dl_glass"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_pad_pulsar",
+          "label": "boardzy - 2024 Mousepad Tier List (2:32)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=152s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "2:32",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_pulsar2",
+          "label": "boardzy - 2024 Mousepad Tier List (36:11)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=2171s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "36:11",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "dl_glass",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:37)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=277s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "4:37",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "dl_glass2",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (4:21)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=261s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "4:21",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "mk_pulsar",
+          "label": "Pulsar store - Superglide products (saved store data)",
+          "url": "https://www.pulsar.gg/search?q=superglide",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_pulsar_superglide-catalog.txt",
+          "outlet": "Pulsar",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_pulsar_pads",
+          "label": "Pulsar store - Superglide glass pad listings",
+          "url": "https://www.pulsar.gg/search?q=superglide+glass+mousepad",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_pulsar_superglide-pads.txt",
+          "outlet": "Pulsar",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "cooler-master-mp511",
+      "name": "Cooler Master MP511",
+      "category": "mousepad",
+      "brand": "Cooler Master",
+      "picked_by": [
+        "dl_mp511"
+      ],
+      "price": null,
+      "price_note": {
+        "value": "The standard MP511 US page returned 'page not found'. The 30th Anniversary Edition (XL) lists US$29.99, on sale for US$19.99, and was marked 'not available' on 2026-11-19.",
+        "status": "unverified",
+        "sources": [
+          "mk_mp511"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "CORDURA fabric",
+          "status": "verified",
+          "sources": [
+            "mk_mp511",
+            "dl_mp511"
+          ],
+          "note": "Maker data is from the 30th Anniversary Edition page.",
+          "basis": "maker's figure"
+        },
+        "base": {
+          "value": "natural rubber",
+          "status": "verified",
+          "sources": [
+            "mk_mp511"
+          ],
+          "basis": "maker's figure"
+        },
+        "dimensions_mm": {
+          "value": "900 x 400 x 3 (XL)",
+          "status": "verified",
+          "sources": [
+            "mk_mp511"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A CORDURA fabric pad. DiamondLobby describes CORDURA pads as tough, easy to clean and rougher than normal cloth, and names the MP511 as one example.",
+        "kind": "opinion",
+        "sources": [
+          "dl_cordura",
+          "dl_cordura2"
+        ],
+        "status": "opinion: DiamondLobby"
+      },
+      "pros": [
+        {
+          "text": "DiamondLobby says CORDURA pads like this are very durable and easy to clean.",
+          "kind": "opinion",
+          "sources": [
+            "dl_cordura"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Rougher than a normal cloth pad (DiamondLobby, about CORDURA pads).",
+          "kind": "opinion",
+          "sources": [
+            "dl_cordura2"
+          ],
+          "status": "opinion: DiamondLobby"
+        }
+      ],
+      "sources": [
+        {
+          "id": "dl_cordura",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (5:25)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=325s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "5:25",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "dl_cordura2",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (5:51)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=351s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "5:51",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "dl_mp511",
+          "label": "DiamondLobby Reviews - The BEST mouse pad for EVERY GAMER (6:07)",
+          "url": "https://www.youtube.com/watch?v=xMnbkTuqlmg&t=367s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_diamondlobbyreviews_xMnbkTuqlmg.txt",
+          "timestamp": "6:07",
+          "published": "2024-10-25",
+          "outlet": "DiamondLobby",
+          "type": "video"
+        },
+        {
+          "id": "mk_mp511",
+          "label": "Cooler Master - MP511 30th Anniversary Edition page",
+          "url": "https://www.coolermaster.com/en-us/products/mp511-30th-anniversary-edition.html",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_coolermaster_mp511-30th.txt",
+          "outlet": "Cooler Master",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "corsair-mm350",
+      "name": "Corsair MM350",
+      "category": "mousepad",
+      "brand": "Corsair",
+      "picked_by": [
+        "th_best_pads"
+      ],
+      "price": null,
+      "price_note": {
+        "value": "Corsair's comparison table now lists the MM350 in Medium only. The extended size is sold as the MM350 PRO Extended XL: list US$39.99, on sale for US$24.99 on 2026-11-19.",
+        "status": "unverified",
+        "sources": [
+          "mk_mm350"
+        ]
+      },
+      "specs": {
+        "surface": {
+          "value": "cloth, stitched edges",
+          "status": "verified",
+          "sources": [
+            "mk_mm350",
+            "th_best_pads"
+          ],
+          "basis": "maker's figure"
+        },
+        "thickness_mm": {
+          "value": 5,
+          "status": "verified",
+          "sources": [
+            "mk_mm350"
+          ],
+          "note": "MM350 in the maker's comparison table. The MM350 PRO is 4 mm.",
+          "basis": "maker's figure"
+        },
+        "sizes": {
+          "value": "Medium (maker's table)",
+          "status": "verified",
+          "sources": [
+            "mk_mm350"
+          ],
+          "note": "Tom's Hardware picked an extended MM350. Corsair now sells the extended size as the MM350 PRO (930 x 400 x 4 mm).",
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "Tom's Hardware's best XL cloth pad.",
+        "kind": "opinion",
+        "sources": [
+          "th_best_pads"
+        ],
+        "status": "opinion: Tom's Hardware"
+      },
+      "pros": [
+        {
+          "text": "Surface feels great.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "cons": [
+        {
+          "text": "The gunmetal gray pattern is not for everyone.",
+          "kind": "opinion",
+          "sources": [
+            "th_best_pads"
+          ],
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
+      "sources": [
+        {
+          "id": "mk_mm350",
+          "label": "Corsair - MM350 PRO Extended XL page (with mouse pad comparison table)",
+          "url": "https://www.corsair.com/us/en/p/mousepads/ch-9413770-ww/mm350-pro-premium-spill-proof-cloth-gaming-mouse-pad-extended-xl-black-ch-9413770-ww",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_corsair_mm350-pro.txt",
+          "outlet": "Corsair",
+          "type": "maker page"
+        },
+        {
+          "id": "th_best_pads",
+          "label": "Tom's Hardware - Best Mouse Pads 2026",
+          "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+          "published": "2026-11-18",
+          "outlet": "Tom's Hardware",
+          "type": "best-of list"
+        }
+      ]
+    },
+    {
+      "id": "artisan-ninja-fx-zero",
+      "name": "ARTISAN NINJA FX ZERO",
+      "category": "mousepad",
+      "brand": "ARTISAN",
+      "picked_by": [
+        "bz_pad_zero"
+      ],
+      "price": {
+        "usd": "about 31.39",
+        "type": "maker price, converted from yen",
+        "status": "unverified",
+        "sources": [
+          "mk_artisan2"
+        ],
+        "note": "From ¥5,000 for the smallest size. The maker charges in Japanese yen; the US dollar figure is the maker site's own conversion, so it can change with exchange rates and is not used in the price filters."
+      },
+      "specs": {
+        "base_options": {
+          "value": "XSOFT, SOFT, MID",
+          "status": "verified",
+          "sources": [
+            "mk_artisan",
+            "mk_artisan2"
+          ],
+          "basis": "maker's figure"
+        },
+        "sizes": {
+          "value": "S, M, L, XL, XXL",
+          "status": "verified",
+          "sources": [
+            "mk_artisan2"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "A cloth control pad from Japanese maker ARTISAN that boardzy puts in his top group.",
+        "kind": "opinion",
+        "sources": [
+          "bz_pad_zero"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [
+        {
+          "text": "One of his two favourite pads, with the Artisan Hien.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_zero_fav"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "A control pad that still has some speed, with low starting friction.",
+          "kind": "opinion",
+          "sources": [
+            "bz_pad_zero_feel"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "bz_pad_zero",
+          "label": "boardzy - 2024 Mousepad Tier List (20:15)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1215s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "20:15",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_zero_fav",
+          "label": "boardzy - 2024 Mousepad Tier List (21:19)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1279s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "21:19",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_pad_zero_feel",
+          "label": "boardzy - 2024 Mousepad Tier List (21:28)",
+          "url": "https://www.youtube.com/watch?v=49GTICk9xd0&t=1288s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_49GTICk9xd0.txt",
+          "timestamp": "21:28",
+          "published": "2024-07-27",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_artisan",
+          "label": "ARTISAN - NINJA FX ZERO product page",
+          "url": "https://artisan-jp.com/global/fx-zero",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_artisan_fx-zero.txt",
+          "outlet": "ARTISAN",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_artisan2",
+          "label": "ARTISAN - NINJA FX ZERO page (second check, price in US dollars)",
+          "url": "https://artisan-jp.com/global/fx-zero",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_artisan_fx-zero-prices.txt",
+          "outlet": "ARTISAN",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "esptiger-ice-v2",
+      "name": "ESPTiger ICE V2",
+      "category": "skates",
+      "brand": "ESPTiger",
+      "picked_by": [
+        "bz_sk_tiger"
+      ],
+      "price": {
+        "usd": 8.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_tiger"
+        ],
+        "note": "Price per set for one mouse model."
+      },
+      "specs": {
+        "material": {
+          "value": "PTFE",
+          "status": "verified",
+          "sources": [
+            "mk_tiger"
+          ],
+          "basis": "maker's figure"
+        },
+        "shapes": {
+          "value": "pre-cut for each mouse model",
+          "status": "verified",
+          "sources": [
+            "mk_tiger"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "fits": {
+        "value": [
+          "logitech-g-pro-x-superlight-2",
+          "logitech-g502-x-plus",
+          "vxe-r1-pro"
+        ],
+        "status": "verified",
+        "sources": [
+          "mk_tiger"
+        ],
+        "note": "Only mice from this guide are listed. The maker sells sets for many more models."
+      },
+      "verdict": {
+        "text": "Pre-cut PTFE skates sold for many mouse models.",
+        "kind": "fact",
+        "sources": [
+          "mk_tiger"
+        ],
+        "status": "verified"
+      },
+      "pros": [
+        {
+          "text": "Put in his top tier on its own merits: right up there with Magic Ice and Jade as his preferred high-quality PTFE skates.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_tiger"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "bz_sk_tiger",
+          "label": "boardzy - 2025 Mouse Skate Tier List (21:36)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1296s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "21:36",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_tiger",
+          "label": "ESPTiger store - ICE V2 skates (saved store data)",
+          "url": "https://esptiger.com/products/esptiger-ice-v2-ptfe-skates-logitech-g-pro-x-superlight-2",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_esptiger_ice-skates-catalog.txt",
+          "outlet": "ESPTiger",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "xraypad-jade",
+      "name": "X-raypad Jade",
+      "category": "skates",
+      "brand": "X-raypad",
+      "picked_by": [
+        "bz_sk_jade",
+        "ws_jade"
+      ],
+      "price": {
+        "usd": 9.99,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "jpg_jade"
+        ],
+        "note": "Universal dots. X-raypad's own site could not be reached; JP Gaming USA is a US store that sells X-raypad."
+      },
+      "specs": {
+        "material": {
+          "value": "pure PTFE, 0.8 mm",
+          "status": "reported",
+          "sources": [
+            "jpg_jade",
+            "ws_jade2"
+          ],
+          "reported_by": [
+            "JP Gaming USA",
+            "Wasabi"
+          ]
+        },
+        "shapes": {
+          "value": "full size, dots, donuts",
+          "status": "reported",
+          "sources": [
+            "ws_jade2",
+            "jpg_jade"
+          ],
+          "reported_by": [
+            "JP Gaming USA",
+            "Wasabi"
+          ]
+        },
+        "pads": {
+          "value": "cloth and plastic pads; not glass",
+          "status": "reported",
+          "sources": [
+            "jpg_jade"
+          ],
+          "reported_by": [
+            "JP Gaming USA"
+          ]
+        }
+      },
+      "fits": {
+        "value": [
+          "logitech-g-pro-x-superlight-2",
+          "razer-viper-v4-pro",
+          "razer-deathadder-v4-pro"
+        ],
+        "status": "verified",
+        "sources": [
+          "jpg_jade"
+        ],
+        "note": "Model sets for these mice in this guide are listed at JP Gaming USA. Universal dots suit most mice."
+      },
+      "verdict": {
+        "text": "Smooth PTFE skates for cloth pads. They wear out quickly on glass.",
+        "kind": "opinion",
+        "sources": [
+          "bz_sk_jade2",
+          "ws_jade2"
+        ],
+        "status": "agreed (Wasabi, boardzy)"
+      },
+      "pros": [
+        {
+          "text": "Fast and smooth glide.",
+          "kind": "opinion",
+          "sources": [
+            "ws_jade"
+          ],
+          "status": "opinion: Wasabi"
+        },
+        {
+          "text": "Reliable, high-quality PTFE skates.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_jade"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [
+        {
+          "text": "Wear out quickly on glass pads.",
+          "kind": "opinion",
+          "sources": [
+            "ws_jade2",
+            "bz_sk_jade2"
+          ],
+          "status": "agreed (Wasabi, boardzy)"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_sk_jade",
+          "label": "boardzy - 2025 Mouse Skate Tier List (2:11)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=131s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "2:11",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_sk_jade2",
+          "label": "boardzy - 2025 Mouse Skate Tier List (3:10)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=190s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "3:10",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "jpg_jade",
+          "label": "JP Gaming USA store - X-raypad Jade Universal Dots",
+          "url": "https://jpgamingusa.com/products/x-raypad-jade-mouse-skates-universal-dots",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/reseller_jpgaming_xraypad-skates.txt",
+          "outlet": "JP Gaming USA",
+          "type": "store page"
+        },
+        {
+          "id": "ws_jade",
+          "label": "Wasabi - Beginners Guide to aftermarket skates (3:34)",
+          "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=214s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+          "timestamp": "3:34",
+          "published": "2024-06-18",
+          "outlet": "Wasabi",
+          "type": "video"
+        },
+        {
+          "id": "ws_jade2",
+          "label": "Wasabi - Beginners Guide to aftermarket skates (3:51)",
+          "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=231s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+          "timestamp": "3:51",
+          "published": "2024-06-18",
+          "outlet": "Wasabi",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "xraypad-obsidian",
+      "name": "X-raypad Obsidian",
+      "category": "skates",
+      "brand": "X-raypad",
+      "picked_by": [
+        "ws_obs"
+      ],
+      "price": {
+        "usd": 9.99,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "jpg_obs"
+        ],
+        "note": "Universal dots, at JP Gaming USA."
+      },
+      "specs": {
+        "material": {
+          "value": "hardened PTFE with a frosted surface, 0.8 mm",
+          "status": "reported",
+          "sources": [
+            "jpg_obs",
+            "ws_obs"
+          ],
+          "reported_by": [
+            "JP Gaming USA",
+            "Wasabi"
+          ]
+        },
+        "shapes": {
+          "value": "full size, dots, donuts",
+          "status": "reported",
+          "sources": [
+            "ws_obs",
+            "jpg_obs"
+          ],
+          "reported_by": [
+            "JP Gaming USA",
+            "Wasabi"
+          ]
+        },
+        "pads": {
+          "value": "cloth and glass pads; not coated or plastic",
+          "status": "reported",
+          "sources": [
+            "jpg_obs"
+          ],
+          "reported_by": [
+            "JP Gaming USA"
+          ]
+        }
+      },
+      "fits": {
+        "value": [
+          "logitech-g-pro-x-superlight-2",
+          "razer-viper-v4-pro",
+          "razer-deathadder-v4-pro"
+        ],
+        "status": "verified",
+        "sources": [
+          "jpg_obs"
+        ],
+        "note": "Model sets for these mice in this guide are listed at JP Gaming USA. Universal dots suit most mice."
+      },
+      "verdict": {
+        "text": "Control-style skates that work on both cloth and glass.",
+        "kind": "opinion",
+        "sources": [
+          "ws_obs"
+        ],
+        "status": "opinion: Wasabi"
+      },
+      "pros": [
+        {
+          "text": "Stop well but still glide fairly fast.",
+          "kind": "opinion",
+          "sources": [
+            "ws_obs"
+          ],
+          "status": "opinion: Wasabi"
+        },
+        {
+          "text": "Work on both cloth and glass pads.",
+          "kind": "opinion",
+          "sources": [
+            "ws_obs"
+          ],
+          "status": "opinion: Wasabi"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "jpg_obs",
+          "label": "JP Gaming USA store - X-raypad Obsidian Universal Dots",
+          "url": "https://jpgamingusa.com/products/x-raypad-obsidian-mouse-skates-universal-dots",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/reseller_jpgaming_xraypad-skates.txt",
+          "outlet": "JP Gaming USA",
+          "type": "store page"
+        },
+        {
+          "id": "ws_obs",
+          "label": "Wasabi - Beginners Guide to aftermarket skates (4:07)",
+          "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=247s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+          "timestamp": "4:07",
+          "published": "2024-06-18",
+          "outlet": "Wasabi",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "xraypad-obsidian-air",
+      "name": "X-raypad Obsidian Air",
+      "category": "skates",
+      "brand": "X-raypad",
+      "picked_by": [
+        "bz_sk_obsair"
+      ],
+      "price": {
+        "usd": 11.99,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "jpg_obsair"
+        ],
+        "note": "Universal dots, at JP Gaming USA."
+      },
+      "specs": {
+        "material": {
+          "value": "hardened PTFE with a frosted surface",
+          "status": "reported",
+          "sources": [
+            "jpg_obsair"
+          ],
+          "reported_by": [
+            "JP Gaming USA"
+          ]
+        },
+        "pads": {
+          "value": "cloth and glass pads; not coated or plastic",
+          "status": "reported",
+          "sources": [
+            "jpg_obsair"
+          ],
+          "reported_by": [
+            "JP Gaming USA"
+          ]
+        },
+        "speed": {
+          "value": "slower than Obsidian, faster than Obsidian Pro (seller's own test)",
+          "status": "reported",
+          "sources": [
+            "jpg_obsair"
+          ],
+          "reported_by": [
+            "JP Gaming USA"
+          ]
+        }
+      },
+      "fits": {
+        "value": [
+          "razer-deathadder-v4-pro"
+        ],
+        "status": "verified",
+        "sources": [
+          "jpg_obsair"
+        ],
+        "note": "Of the mice in this guide, a model set is listed only for the DeathAdder V4 Pro. Universal dots suit most mice."
+      },
+      "verdict": {
+        "text": "boardzy calls it the best all-rounder between glass and cloth pads.",
+        "kind": "opinion",
+        "sources": [
+          "bz_sk_obsair"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [
+        {
+          "text": "Best all-rounder between glass and cloth.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_obsair",
+            "bz_sk_obsair2"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "bz_sk_obsair",
+          "label": "boardzy - 2025 Mouse Skate Tier List (15:24)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=924s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "15:24",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_sk_obsair2",
+          "label": "boardzy - 2025 Mouse Skate Tier List (23:45)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1425s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "23:45",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "jpg_obsair",
+          "label": "JP Gaming USA store - X-raypad Obsidian Air Universal Dots",
+          "url": "https://jpgamingusa.com/products/x-raypad-obsidian-air-mouse-skates-universal-dots",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/reseller_jpgaming_xraypad-skates.txt",
+          "outlet": "JP Gaming USA",
+          "type": "store page"
+        }
+      ]
+    },
+    {
+      "id": "xraypad-obsidian-pro",
+      "name": "X-raypad Obsidian Pro",
+      "category": "skates",
+      "brand": "X-raypad",
+      "picked_by": [
+        "ws_obspro"
+      ],
+      "price": null,
+      "price_note": {
+        "value": "No store listing for the plain Obsidian Pro was found. JP Gaming USA sells the Obsidian PRO Air (1.0 mm UHMWPE dots) for US$13.99, which is a different version.",
+        "status": "unverified",
+        "sources": [
+          "jpg_obsproair"
+        ]
+      },
+      "specs": {
+        "made_for": {
+          "value": "glass pads",
+          "status": "reported",
+          "sources": [
+            "ws_obspro"
+          ],
+          "reported_by": [
+            "Wasabi"
+          ]
+        },
+        "material": {
+          "value": "PTFE with additives for hardness",
+          "status": "reported",
+          "sources": [
+            "ws_obspro"
+          ],
+          "reported_by": [
+            "Wasabi"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "Harder skates made for glass pads, with more control.",
+        "kind": "opinion",
+        "sources": [
+          "ws_obspro"
+        ],
+        "status": "opinion: Wasabi"
+      },
+      "pros": [
+        {
+          "text": "More control on glass. Feel good once broken in.",
+          "kind": "opinion",
+          "sources": [
+            "ws_obspro"
+          ],
+          "status": "opinion: Wasabi"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "jpg_obsproair",
+          "label": "JP Gaming USA store - X-raypad Obsidian PRO Air Universal Dots",
+          "url": "https://jpgamingusa.com/products/x-raypad-obsidian-pro-air-mouse-skates-universal-dots",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/reseller_jpgaming_xraypad-skates.txt",
+          "outlet": "JP Gaming USA",
+          "type": "store page"
+        },
+        {
+          "id": "ws_obspro",
+          "label": "Wasabi - Beginners Guide to aftermarket skates (4:22)",
+          "url": "https://www.youtube.com/watch?v=mYmfQsXwB_o&t=262s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_wasabi_mYmfQsXwB_o.txt",
+          "timestamp": "4:22",
+          "published": "2024-06-18",
+          "outlet": "Wasabi",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "unusual-way-magic-ice",
+      "name": "Unusual Way Magic Ice",
+      "category": "skates",
+      "brand": "Unusual Way Esports",
+      "picked_by": [
+        "bz_sk_magic"
+      ],
+      "price": {
+        "usd": 7.92,
+        "type": "US store price",
+        "status": "verified",
+        "sources": [
+          "maxg_magic"
+        ],
+        "note": "Set for the G PRO X SUPERLIGHT 2c, at MaxGaming US. boardzy said about $5 to $8."
+      },
+      "specs": {
+        "material": {
+          "value": "reinforced PTFE, 0.8 mm",
+          "status": "reported",
+          "sources": [
+            "maxg_magic"
+          ],
+          "reported_by": [
+            "MaxGaming"
+          ]
+        }
+      },
+      "verdict": {
+        "text": "One of boardzy's favorite skates: very smooth and high quality.",
+        "kind": "opinion",
+        "sources": [
+          "bz_sk_magic"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [
+        {
+          "text": "Very smooth, high-quality glide.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_magic"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "cons": [],
+      "sources": [
+        {
+          "id": "bz_sk_magic",
+          "label": "boardzy - 2025 Mouse Skate Tier List (5:42)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=342s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "5:42",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "maxg_magic",
+          "label": "MaxGaming US store - Magic Ice skates (G PRO X SUPERLIGHT 2c)",
+          "url": "https://us.maxgaming.com/us/mouse-skates/unusual-way-sports-magic-ice-skates-g-pro-x-superlight-2c",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/reseller_maxgaming_magic-ice-superlight-2c.txt",
+          "outlet": "MaxGaming",
+          "type": "store page"
+        }
+      ]
+    },
+    {
+      "id": "corepad-skatez-pro-max",
+      "name": "Corepad PRO MAX Skatez",
+      "category": "skates",
+      "brand": "Corepad",
+      "picked_by": [],
+      "avoid_by": [
+        "bz_sk_corepad_avoid"
+      ],
+      "price": null,
+      "price_note": {
+        "value": "9.49 EUR (euro) on the maker's store, for the G PRO X SUPERLIGHT set. No US dollar price found.",
+        "status": "verified",
+        "sources": [
+          "mk_corepad"
+        ]
+      },
+      "specs": {
+        "material": {
+          "value": "pure virgin PTFE, CNC machine-milled, 0.85 mm",
+          "status": "verified",
+          "sources": [
+            "mk_corepad"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "name_note": {
+        "value": "The maker names them 'Corepad PRO MAX Skatez'. boardzy was not sure of the exact name.",
+        "status": "verified",
+        "sources": [
+          "mk_corepad",
+          "bz_sk_corepad_name"
+        ]
+      },
+      "verdict": {
+        "text": "Skates boardzy says to avoid: louder than, and worse than, cheaper skates.",
+        "kind": "opinion",
+        "sources": [
+          "bz_sk_corepad",
+          "bz_sk_corepad_avoid"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [],
+      "cons": [
+        {
+          "text": "A loud 'tug' when changing direction, and worse than cheaper skates from AliExpress.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_corepad"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "Weak adhesive. boardzy says to avoid them.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_corepad_avoid"
+          ],
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "boardzy says Corepad's standard skates are better (A tier or top tier if you like the feel).",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_corepad_std"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_sk_corepad",
+          "label": "boardzy - 2025 Mouse Skate Tier List (1:46)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=106s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "1:46",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_sk_corepad_avoid",
+          "label": "boardzy - 2025 Mouse Skate Tier List (2:03)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=123s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "2:03",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_sk_corepad_name",
+          "label": "boardzy - 2025 Mouse Skate Tier List (1:23)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=83s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "1:23",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_sk_corepad_std",
+          "label": "boardzy - 2025 Mouse Skate Tier List (20:15)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=1215s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "20:15",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_corepad",
+          "label": "Corepad - PRO MAX Skatez for G PRO X SUPERLIGHT",
+          "url": "https://www.corepad.de/en/Corepad-Skatez-Logitech-Teflon-Mousefeet-Mouse-Feet-Hyperglides-Hyperglide/Corepad-CNC-Machined-Milled-Next-Gen-Skatez-PRO-MAX-M210-Logitech-G-PRO-X-Superlight-1-GPX1-GPX.html",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_corepad_skatez-pro-max-superlight.txt",
+          "outlet": "Corepad",
+          "type": "maker page"
+        }
+      ]
+    },
+    {
+      "id": "pulsar-superglide-skates",
+      "name": "Pulsar Superglide (glass skates)",
+      "category": "skates",
+      "brand": "Pulsar",
+      "picked_by": [],
+      "avoid_by": [
+        "bz_sk_glass2"
+      ],
+      "price": {
+        "usd": 15.0,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "mk_pulsar"
+        ],
+        "note": "Price of the '[ADDON]Superglide1 (Type S) Feet' and '[ADDON]Superglide2 (Type C) Feet' listings in Pulsar's store."
+      },
+      "specs": {
+        "material": {
+          "value": "aluminosilicate glass",
+          "status": "verified",
+          "sources": [
+            "mk_pulsar_sg",
+            "bz_sk_glass"
+          ],
+          "basis": "maker's figure"
+        },
+        "pads": {
+          "value": "not recommended for glass pads",
+          "status": "verified",
+          "sources": [
+            "mk_pulsar_sg"
+          ],
+          "basis": "maker's figure"
+        }
+      },
+      "verdict": {
+        "text": "Glass skates that boardzy ranks at the bottom and says most people should skip.",
+        "kind": "opinion",
+        "sources": [
+          "bz_sk_glass"
+        ],
+        "status": "opinion: boardzy"
+      },
+      "pros": [],
+      "cons": [
+        {
+          "text": "Ranked in the bottom tier. Most people are better off skipping glass skates.",
+          "kind": "opinion",
+          "sources": [
+            "bz_sk_glass",
+            "bz_sk_glass2"
+          ],
+          "status": "opinion: boardzy"
+        }
+      ],
+      "sources": [
+        {
+          "id": "bz_sk_glass",
+          "label": "boardzy - 2025 Mouse Skate Tier List (14:06)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=846s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "14:06",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "bz_sk_glass2",
+          "label": "boardzy - 2025 Mouse Skate Tier List (14:53)",
+          "url": "https://www.youtube.com/watch?v=FdNx9akgTVs&t=893s",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/yt_boardzy_FdNx9akgTVs.txt",
+          "timestamp": "14:53",
+          "published": "2024-12-23",
+          "outlet": "boardzy",
+          "type": "video"
+        },
+        {
+          "id": "mk_pulsar",
+          "label": "Pulsar store - Superglide products (saved store data)",
+          "url": "https://www.pulsar.gg/search?q=superglide",
+          "date_checked": "2026-11-18",
+          "raw_file": "data/raw/maker_pulsar_superglide-catalog.txt",
+          "outlet": "Pulsar",
+          "type": "maker page"
+        },
+        {
+          "id": "mk_pulsar_sg",
+          "label": "Pulsar - Superglide (Type-S) skates page",
+          "url": "https://pulsar.gg/products/superglide-type-s-for-razer-viper-v3-pro",
+          "date_checked": "2026-11-19",
+          "raw_file": "data/raw/maker_pulsar_superglide-type-s-viper-v3-pro.txt",
+          "outlet": "Pulsar",
+          "type": "maker page"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+ "about": "Product photos. Each was copied from the maker's (or store's) own product page on the date shown. Photos belong to their makers.",
+ "images": {
+  "razer-viper-v4-pro": {
+   "file": "data/img/razer-viper-v4-pro.webp",
+   "image_url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h7a/h5c/10038664921118/260324-viper-v4-pro-black-1500x1000-1.jpg",
+   "page_url": "https://www.razer.com/gaming-mice/razer-viper-v4-pro/RZ01-05630100-R3U1",
+   "owner": "Razer",
+   "date_checked": "2026-11-19",
+   "fit": "contain",
+   "note": "First gallery photo on the Black model page."
+  },
+  "razer-deathadder-v4-pro": {
+   "file": "data/img/razer-deathadder-v4-pro.webp",
+   "image_url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h29/h8d/9926512803870/250710-deathadder-v4-pro-black-1500x1000-4.jpg",
+   "page_url": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro/RZ01-05330100-R3U1",
+   "owner": "Razer",
+   "date_checked": "2026-11-19",
+   "fit": "contain",
+   "note": "Fourth gallery photo on the Black model page."
+  },
+  "razer-basilisk-v3": {
+   "file": "data/img/razer-basilisk-v3.webp",
+   "image_url": "https://assets2.razerzone.com/pages/basilisk-v3-4D578898E8144Le8da21dde32b7a9f5f/basilisk.png",
+   "page_url": "https://www.razer.com/gaming-mice/razer-basilisk-v3",
+   "owner": "Razer",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "razer-atlas": {
+   "file": "data/img/razer-atlas.webp",
+   "image_url": "https://assets2.razerzone.com/images/pnx.assets/dc94a56321b2a8843e2d14fa60646977/razer-atlas-ogimage_1200x630.jpg",
+   "page_url": "https://www.razer.com/gaming-mouse-mats/razer-atlas",
+   "owner": "Razer",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "razer-firefly-v2-pro": {
+   "file": "data/img/razer-firefly-v2-pro.webp",
+   "image_url": "https://assets2.razerzone.com/images/pnx.assets/4a054d1de8721114e50651998312756d/fireflyv2pro_ogimage-1200x630.webp",
+   "page_url": "https://www.razer.com/gaming-mouse-mats/razer-firefly-v2-pro",
+   "owner": "Razer",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-g-pro-x-superlight-2": {
+   "file": "data/img/logitech-g-pro-x-superlight-2.webp",
+   "image_url": "https://resource.logitechg.com/content/dam/gaming/en/products/pro-x-superlight-2/new-gallery-assets-2025/pro-x-superlight-2-mice-top-angle-white-gallery-1.png",
+   "page_url": "https://www.logitechg.com/en-us/shop/p/pro-x2-superlight-wireless-mouse.910-006636",
+   "owner": "Logitech G",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-g-pro-x3-superstrike": {
+   "file": "data/img/logitech-g-pro-x3-superstrike.webp",
+   "image_url": "https://resource.logitechg.com/content/dam/gaming/en/products/pro-x3-superstrike-pdp/gallery/pro-x3-superstrike-mouse-midnight-black-top-angle-gallery-1.png",
+   "page_url": "https://www.logitechg.com/en-us/shop/p/pro-x3-superstrike-mouse.910-007876",
+   "owner": "Logitech G",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-g305-lightspeed": {
+   "file": "data/img/logitech-g305-lightspeed.webp",
+   "image_url": "https://resource.logitechg.com/content/dam/gaming/en/products/g305/2025-update/g305-lightspeed-mouse-top-angle-white-gallery-1.png",
+   "page_url": "https://www.logitechg.com/en-us/shop/p/g305-lightspeed-wireless-gaming-mouse.910-005289",
+   "owner": "Logitech G",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-g502-x-plus": {
+   "file": "data/img/logitech-g502-x-plus.webp",
+   "image_url": "https://resource.logitechg.com/content/dam/gaming/en/products/g502x-plus/2026-update/gallery/g502-x-plus-top-angle-black-gallery-1.png",
+   "page_url": "https://www.logitechg.com/en-us/shop/p/g502-x-plus-wireless-lightforce.910-006160",
+   "owner": "Logitech G",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-powerplay-2": {
+   "file": "data/img/logitech-powerplay-2.webp",
+   "image_url": "https://resource.logitechg.com/content/dam/gaming/en/products/powerplay-2/gallery/powerplay-2-gallery-1.png",
+   "page_url": "https://www.logitechg.com/en-us/shop/p/powerplay-2.947-000001",
+   "owner": "Logitech G",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-mx-master-4": {
+   "file": "data/img/logitech-mx-master-4.webp",
+   "image_url": "https://resource.logitech.com/content/dam/logitech/en/products/mice/mx-master-4/gallery/mx-master-4-graphite-top-angle-gallery-1.png",
+   "page_url": "https://www.logitech.com/en-us/shop/p/mx-master-4.910-007558",
+   "owner": "Logitech",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "logitech-mx-keys-s": {
+   "file": "data/img/logitech-mx-keys-s.webp",
+   "image_url": "https://resource.logitech.com/content/dam/logitech/en/products/keyboards/mx-keys-s/migration-assets-for-delorean-2025/gallery/mx-keys-s-top-view-black-us.png",
+   "page_url": "https://www.logitech.com/en-us/shop/p/mx-keys-s.920-011406",
+   "owner": "Logitech",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "corsair-k70-core": {
+   "file": "data/img/corsair-k70-core.webp",
+   "image_url": "https://assets.corsair.com/image/upload/products/Gaming-Keyboards/k70-core/Gallery/CH-910971E/CH-910971E_01.webp",
+   "page_url": "https://www.corsair.com/us/en/p/keyboards/ch-910971e-na/k70-core-rgb-mechanical-gaming-keyboard-black-ch-910971e-na",
+   "owner": "Corsair",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "corsair-katar-pro-xt": {
+   "file": "data/img/corsair-katar-pro-xt.webp",
+   "image_url": "https://assets.corsair.com/image/upload/products/Gaming-Mice/base-katar-pro-xt-config/Gallery/KATAR_PRO_XT_01.webp",
+   "page_url": "https://www.corsair.com/us/en/p/gaming-mouse/ch-930c111-na/katar-pro-xt-ultra-light-gaming-mouse-ch-930c111-na",
+   "owner": "Corsair",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "steelseries-qck-heavy": {
+   "file": "data/img/steelseries-qck-heavy.webp",
+   "image_url": "https://images.ctfassets.net/hmm5mo4qf4mf/1LmTjOKEqxZeA59KMXaHek/33a82cea1eb6789755dcee4546d00076/qck_heavy_xxl_black_pdp_img_buy_01.png",
+   "page_url": "https://steelseries.com/gaming-mousepads/qck-heavy",
+   "owner": "SteelSeries",
+   "date_checked": "2026-11-18",
+   "fit": "contain",
+   "note": "Photo of the XXL size."
+  },
+  "wooting-80he": {
+   "file": "data/img/wooting-80he.webp",
+   "image_url": "https://wooting-website.ams3.cdn.digitaloceanspaces.com/products/keyboards/80HE/80HE_OG_2.webp",
+   "page_url": "https://wooting.io/wooting-80he",
+   "owner": "Wooting",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "asus-rog-strix-scope-ii-96-wireless": {
+   "file": "data/img/asus-rog-strix-scope-ii-96-wireless.webp",
+   "image_url": "https://dlcdnwebimgs.asus.com/gain/9E1FA5D0-65AB-4188-84DE-A80058422939",
+   "page_url": "https://rog.asus.com/us/keyboards/keyboards/compact/rog-strix-scope-ii-96-wireless/",
+   "owner": "ASUS ROG",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "artisan-ninja-fx-zero": {
+   "file": "data/img/artisan-ninja-fx-zero.webp",
+   "image_url": "https://artisan-jp.com/global/media/catalog/product/cache/f76918e6d62e23259d0431dc46b7bf86/z/r/zr-d-corner.jpg",
+   "page_url": "https://artisan-jp.com/global/fx-zero",
+   "owner": "ARTISAN",
+   "date_checked": "2026-11-18",
+   "fit": "contain",
+   "note": "One colour of the FX ZERO; colours vary."
+  },
+  "monsgeek-fun60-ultra": {
+   "file": "data/img/monsgeek-fun60-ultra.webp",
+   "image_url": "https://www.monsgeek.com/wp-content/uploads/2024/11/FUN60-Ultra-HE-SP-Black.png",
+   "page_url": "https://www.monsgeek.com/product/fun60-ultra/",
+   "owner": "MonsGeek",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "keychron-k2-ultra-8k": {
+   "file": "data/img/keychron-k2-ultra-8k.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-K2-Ultra-Features-Apex-Switch-Red.jpg",
+   "page_url": "https://www.keychron.com/products/keychron-k2-ultra-8k-wireless-custom-mechanical-keyboard",
+   "owner": "Keychron",
+   "date_checked": "2026-11-18",
+   "fit": "contain",
+   "note": "Maker gallery image; shows the board with a switch."
+  },
+  "keychron-q6-ultra-8k": {
+   "file": "data/img/keychron-q6-ultra-8k.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Red.jpg",
+   "page_url": "https://www.keychron.com/products/keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard",
+   "owner": "Keychron",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "keychron-v1-ultra-8k": {
+   "file": "data/img/keychron-v1-ultra-8k.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/V1-Ultra-8K-Wireless-Hot-swappable-RGB-Backlight-Red-Switch-Black.jpg",
+   "page_url": "https://www.keychron.com/products/keychron-v1-ultra-8k-wireless-custom-mechanical-keyboard",
+   "owner": "Keychron",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "lemokey-p1-he": {
+   "file": "data/img/lemokey-p1-he.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0680/1778/3083/files/Lemokey-P1-HE-Wireless-Custom-Gaming-Keyboard-Black-Aluminum-Frame-Gateron-Double-Rail-Magnetic-Nebula-Switch-Non-Shine-Through-Double-Shot-PBT-Keycaps-Version.jpg",
+   "page_url": "https://www.lemokey.com/products/lemokey-p1-he-wireless-magnetic-switch-custom-gaming-keyboard",
+   "owner": "Lemokey",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "ducky-ok-m": {
+   "file": "data/img/ducky-ok-m.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0728/4382/1295/files/ducky_asset_OK-M_product_75_d808574a-e6c1-481c-a242-e4a242222d4c.jpg",
+   "page_url": "https://ducky.global/products/ok-m",
+   "owner": "Ducky",
+   "date_checked": "2026-11-18",
+   "fit": "contain"
+  },
+  "vxe-r1-pro": {
+   "file": "data/img/vxe-r1-pro.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0691/4942/5882/files/R1_Black.jpg",
+   "page_url": "https://www.atk.store/products/vxe-dragonfly-r1-series-wireless-mouse",
+   "owner": "ATK store",
+   "date_checked": "2026-11-18",
+   "fit": "contain",
+   "note": "Photo of the R1 series (same shell as the R1 Pro)."
+  },
+  "esptiger-ice-v2": {
+   "file": "data/img/esptiger-ice-v2.webp",
+   "image_url": "https://cdn.shopify.com/s/files/1/0754/2564/4823/files/Esptiger_Ice_V2_Mouse_Skates_For_Logitech_G_PROXSUPERLIGHT2_1.jpg",
+   "page_url": "https://esptiger.com/products/esptiger-ice-v2-ptfe-skates-logitech-g-pro-x-superlight-2",
+   "owner": "ESPTiger",
+   "date_checked": "2026-11-18",
+   "fit": "contain",
+   "note": "Photo of the ICE V2 set for the G PRO X SUPERLIGHT 2."
+  }
+ },
+ "no_photo": {
+  "cooler-master-mp511": "No maker product photo found.",
+  "corsair-mm350": "No maker product photo found.",
+  "pulsar-superglide-skates": "No maker product photo found.",
+  "unusual-way-magic-ice": "No maker product photo found.",
+  "xraypad-jade": "No maker product photo found.",
+  "xraypad-obsidian": "No maker product photo found.",
+  "xraypad-obsidian-air": "No maker product photo found.",
+  "xraypad-obsidian-pro": "No maker product photo found.",
+  "zowie-g-sr-ii": "No maker product photo found.",
+  "pulsar-superglide-glass-pad": "Only a photo of a special edition (Superglide3 T1 Edition) was found, so it is not shown.",
+  "corepad-skatez-pro-max": "No maker product photo found."
+ }
+}

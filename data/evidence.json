@@ -1,0 +1,2367 @@
+{
+ "about": "For every claim line and each of its sources: the source's own words that support it. Checked by tools/check_evidence.py against the saved page body (menus, footers, comments and customer reviews cut) or the video transcript near the cited time.",
+ "pairs": [
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "A light, very fast wireless gaming mouse whose click sound will not suit everyone.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "extremely lightweight",
+    "exceptional raw performance, delivering incredibly low click and sensor latency",
+    "the switches are noticeably louder, which may be a drawback for some users"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "A light, very fast wireless gaming mouse whose click sound will not suit everyone.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "+Light weight",
+    "You want leading performance",
+    "Click sound won't be for everyone"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Light.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "extremely lightweight"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Light.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "+Light weight"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Excellent build quality.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "It has excellent build quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Excellent build quality.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "flawless design and build quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Very low click and sensor delay.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "incredibly low click and sensor latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Top-of-the-line sensor.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "This mouse has an absolute top-of-the-line sensor"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Its shape suits a wide range of hand sizes and grip types.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "suitable for a variety of hand sizes and grip types"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Great battery life.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "+Great battery life"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "About 10 g lighter than 'the Super Strike', with better balance and better stock skates. boardzy does not say which Superstrike model he means; it may be the earlier PRO X2 SUPERSTRIKE, not the X3 on this site.",
+   "source": "bz_v4_balance",
+   "quotes": [
+    "It is around 10 g lighter than the Super Strike and the balancing is noticeably better",
+    "The stock skates are better as well"
+   ],
+   "at": "0:43"
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Loud clicks.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "the switches are noticeably louder"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Loud clicks.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "they are very loud, clicky"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Some people dislike the click sound.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "which may be a drawback for some users"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Some people dislike the click sound.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "Click sound won't be for everyone"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Some people dislike the click sound.",
+   "source": "bz_v4_clicks",
+   "quotes": [
+    "a lot of people um do like just hate the sound of the Gen 4 optical"
+   ],
+   "at": "1:59"
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Expensive.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "No RGB lighting.",
+   "source": "mk_viper2",
+   "quotes": [
+    "RGB Lighting None"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "No RGB lighting.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "it does lack some nice-to-haves such as RGB lighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "boardzy wishes the clicks had Rapid Trigger and an adjustable actuation point.",
+   "source": "bz_v4_rt",
+   "quotes": [
+    "I do wish they had rapid trigger and adjustable actuation point"
+   ],
+   "at": "1:20"
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "For most people, the older Viper V3 Pro (the model before it) is a better buy.",
+   "source": "bz_v4_value",
+   "quotes": [
+    "for most people, I do think honestly the Viper V3 Pro is going to be a better buy"
+   ],
+   "at": "8:35"
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "A competitive gaming mouse with extremely fast clicks.",
+   "source": "rt_g-pro-x3-superstrike",
+   "quotes": [
+    "best suited to competitive gamers",
+    "Exceptionally low and consistent click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "A competitive gaming mouse with extremely fast clicks.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "The best competitive gaming mouse",
+    "+The fastest clicks on the market"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Extremely fast clicks.",
+   "source": "rt_g-pro-x3-superstrike",
+   "quotes": [
+    "Exceptionally low and consistent click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Extremely fast clicks.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "+The fastest clicks on the market"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "You can set how deep a click must go, and use Rapid Trigger.",
+   "source": "rt_g-pro-x3-superstrike",
+   "quotes": [
+    "Adjustable actuation lets you choose how far you need to press the main buttons to register an input, while Rapid Trigger"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Great battery life.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "+Great battery life\n+Quiet clicks"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Quiet clicks.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "+Quiet clicks"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Its shape suits all grip types, says RTINGS.",
+   "source": "rt_g-pro-x3-superstrike",
+   "quotes": [
+    "a shape that's more broadly accommodating to all grip types"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Expensive.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "-G Hub\n-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Slightly front-heavy.",
+   "source": "rt_g-pro-x3-superstrike",
+   "quotes": [
+    "Weight balance is slightly front heavy."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Its feet glide less smoothly than the PTFE feet on many rivals.",
+   "source": "rt_g-pro-x3-superstrike",
+   "quotes": [
+    "UHMWPE feet don’t glide as smoothly as higher-end PTFE feet used on many competing FPS mice."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Not the lightest in its class.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "-Not the lightest"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Uses Logitech's G HUB app, which PC Gamer lists as a downside.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "-Not the lightest\n-G Hub"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x3-superstrike",
+   "line": "Side buttons are mediocre.",
+   "source": "pcg_best_mouse",
+   "quotes": [
+    "-Mediocre side buttons"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "A light wireless gaming mouse with a right-handed ergonomic shape.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "It's very lightweight for its size",
+    "right-handed ergo shape"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "A light wireless gaming mouse with a right-handed ergonomic shape.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Comes with an 8K wireless dongle\n+Lightweight"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Light.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "It's very lightweight for its size"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Light.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Comes with an 8K wireless dongle\n+Lightweight"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Ships with Razer's second-generation wireless receiver, which supports 8000 Hz.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "it ships with Razer's second-generation wireless dongle, which supports polling rates up to 8000Hz"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Ships with Razer's second-generation wireless receiver, which supports 8000 Hz.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Comes with an 8K wireless dongle"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Very low click and sensor delay.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "offers exceptionally low click and sensor latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Great shape.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Great shape (BEST MOUSE SHAPE EVER)"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Only suits larger hands.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "Only suitable for larger-sized hands."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Can creak a little if you squeeze hard.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "it suffers from some minor creaking if you tend to squeeze quite forcefully while gaming"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Expensive.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Lightweight\nREASONS TO AVOID\n-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Not much better than the V3 Pro.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-It's not THAT much better than the V3 Pro"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "A very light, low-delay wireless mouse that is comfortable for many grip styles.",
+   "source": "rt_g-pro-x-superlight-2",
+   "quotes": [
+    "Extremely lightweight.",
+    "Exceptionally low click latency.",
+    "very accommodating for nearly all hand sizes and grip types"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "A very light, low-delay wireless mouse that is comfortable for many grip styles.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Very light\n+Comfortable for multiple grip types\n+Smooth, speedy, low-latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Very light.",
+   "source": "rt_g-pro-x-superlight-2",
+   "quotes": [
+    "Extremely lightweight."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Very light.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Very light"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Comfortable for many grip styles.",
+   "source": "rt_g-pro-x-superlight-2",
+   "quotes": [
+    "Comfortable symmetrical shape is very accommodating for nearly all hand sizes and grip types."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Comfortable for many grip styles.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Comfortable for multiple grip types"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Suits nearly all hand sizes.",
+   "source": "rt_g-pro-x-superlight-2",
+   "quotes": [
+    "very accommodating for nearly all hand sizes"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Low click delay.",
+   "source": "rt_g-pro-x-superlight-2",
+   "quotes": [
+    "Exceptionally low click latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Low click delay.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Smooth, speedy, low-latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Feet do not glide as smoothly as many rivals.",
+   "source": "rt_g-pro-x-superlight-2",
+   "quotes": [
+    "its mouse feet don't glide as smoothly as many competing gaming mice"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "No DPI button on the mouse.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-No DPI switch"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Expensive.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-No DPI switch\n-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "A large wireless mouse; Tom's Hardware likes its 13 programmable buttons.",
+   "source": "rt_g502-x-plus",
+   "quotes": [
+    "Too large for smaller hands to use comfortably."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "A large wireless mouse; Tom's Hardware likes its 13 programmable buttons.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+13 programmable buttons",
+    "-Expensive and large"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Low click delay.",
+   "source": "rt_g502-x-plus",
+   "quotes": [
+    "Remarkably low click latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Low click delay.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "13 programmable buttons.",
+   "source": "mk_g502",
+   "quotes": [
+    "13 programmable controls"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "13 programmable buttons.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+13 programmable buttons"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Very well built.",
+   "source": "rt_g502-x-plus",
+   "quotes": [
+    "Very well-built."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Large.",
+   "source": "rt_g502-x-plus",
+   "quotes": [
+    "Too large for smaller hands to use comfortably."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Large.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-Expensive and large"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Too big for smaller hands.",
+   "source": "rt_g502-x-plus",
+   "quotes": [
+    "Too large for smaller hands to use comfortably."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Heavy compared with FPS mice.",
+   "source": "rt_g502-x-plus",
+   "quotes": [
+    "it's significantly heavier than most dedicated FPS models"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Scroll wheel feels twitchy.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-Twitchy scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g502-x-plus",
+   "line": "Expensive.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-Expensive and large"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "A comfortable wired all-rounder with many buttons, but heavier than FPS mice.",
+   "source": "rt_basilisk-v3",
+   "quotes": [
+    "Comfortable, right-handed shape",
+    "It also has more programmable buttons than most FPS gaming mice",
+    "it's much heavier than most mice designed exclusively for FPS gaming"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "A comfortable wired all-rounder with many buttons, but heavier than FPS mice.",
+   "source": "rt_best_mouse",
+   "quotes": [
+    "it's noticeably heavier than dedicated FPS-focused mice"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Very low click delay.",
+   "source": "rt_basilisk-v3",
+   "quotes": [
+    "Extremely low click latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Comfortable right-handed shape for most hands.",
+   "source": "rt_basilisk-v3",
+   "quotes": [
+    "Comfortable, right-handed shape suitable for all grip types and nearly all hand sizes."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Heavy.",
+   "source": "rt_basilisk-v3",
+   "quotes": [
+    "Cons Heavy."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Heavy.",
+   "source": "rt_best_mouse",
+   "quotes": [
+    "it's noticeably heavier than dedicated FPS-focused mice"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Bulky.",
+   "source": "rt_basilisk-v3",
+   "quotes": [
+    "Quite bulky"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "RTINGS' \"Best Budget Gaming Mouse\".",
+   "source": "rt_best_gaming_mouse",
+   "quotes": [
+    "Best Budget Gaming Mouse Logitech G305 LIGHTSPEED"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Low click delay.",
+   "source": "rt_g305-lightspeed",
+   "quotes": [
+    "it has impressively low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Feels well built.",
+   "source": "rt_g305-lightspeed",
+   "quotes": [
+    "Feels very well-built."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Heavy for a gaming mouse.",
+   "source": "rt_g305-lightspeed",
+   "quotes": [
+    "it's heavy compared to many gaming mice on the market"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Small. Not ideal for large hands.",
+   "source": "rt_g305-lightspeed",
+   "quotes": [
+    "Due to its small size, it isn't an ideal choice for larger hands."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "A wired gaming mouse that feels light. Tom's Hardware names it its best budget gaming mouse.",
+   "source": "rt_katar-pro-xt",
+   "quotes": [
+    "Quite light."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "A wired gaming mouse that feels light. Tom's Hardware names it its best budget gaming mouse.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "Best Budget Gaming Mouse",
+    "+Feels light, without honeycomb holes"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Feels light.",
+   "source": "rt_katar-pro-xt",
+   "quotes": [
+    "Quite light."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Feels light.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Feels light, without honeycomb holes"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Comfortable, familiar design.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "+Comfortable, familiar design"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Feels well built.",
+   "source": "rt_katar-pro-xt",
+   "quotes": [
+    "Feels very well-built."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Its small size suits a claw or fingertip grip.",
+   "source": "rt_katar-pro-xt",
+   "quotes": [
+    "its small size is best suited for a claw or fingertip grip"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Sensor is less consistent between fast and slow moves.",
+   "source": "rt_katar-pro-xt",
+   "quotes": [
+    "Sensor is inconsistent between fast and slow movements."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "The wireless version is often on sale for the same price.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "can often be found on sale for the same price as this wired version"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-katar-pro-xt",
+   "line": "Not as light as some pricier mice.",
+   "source": "th_best_mouse",
+   "quotes": [
+    "-Not as light as some pricier alternatives"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "RTINGS' \"Best Computer Mouse\", its top pick for most people.",
+   "source": "rt_best_mouse",
+   "quotes": [
+    "Best Computer Mouse Logitech MX Master 4",
+    "The best mouse we recommend for most"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "Superb build quality.",
+   "source": "rt_mx-master-4",
+   "quotes": [
+    "Superb build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "Very quiet clicks.",
+   "source": "rt_mx-master-4",
+   "quotes": [
+    "Very quiet right- and left-click buttons."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "Two scroll wheels plus gesture and haptic buttons.",
+   "source": "rt_mx-master-4",
+   "quotes": [
+    "dual scroll wheels, gesture button, and haptic button"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "Not great for small hands.",
+   "source": "rt_mx-master-4",
+   "quotes": [
+    "Isn't well-suited for smaller hands."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "Many features need Logitech software running in the background.",
+   "source": "rt_mx-master-4",
+   "quotes": [
+    "require background software running to work"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "Many features need Logitech software running in the background.",
+   "source": "rt_best_mouse",
+   "quotes": [
+    "these new features require Logitech's software to run in the background"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "No onboard memory, so custom settings need the software.",
+   "source": "rt_mx-master-4",
+   "quotes": [
+    "No onboard memory; software required to use customized settings."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-master-4",
+   "line": "125 Hz polling may feel choppy on fast (90 Hz+) screens.",
+   "source": "rt_best_mouse",
+   "quotes": [
+    "those with high-refresh-rate monitors (90Hz or higher) may find their cursor movement feels a little choppy or sluggish"
+   ],
+   "at": null
+  },
+  {
+   "item": "vxe-r1-pro",
+   "line": "A very light wireless mouse that RTINGS rates highly for FPS games.",
+   "source": "rt_r1-pro",
+   "quotes": [
+    "The VXE Dragonfly R1 Pro is a remarkable FPS gaming mouse. It's extremely lightweight"
+   ],
+   "at": null
+  },
+  {
+   "item": "vxe-r1-pro",
+   "line": "Outstanding speed test results ('raw performance' in RTINGS' words).",
+   "source": "rt_r1-pro",
+   "quotes": [
+    "Outstanding raw performance."
+   ],
+   "at": null
+  },
+  {
+   "item": "vxe-r1-pro",
+   "line": "Comfortable symmetrical shape that suits a wide range of hand sizes and grip types.",
+   "source": "rt_r1-pro",
+   "quotes": [
+    "Comfortable symmetrical shape.",
+    "making it a good fit for a wide range of hand sizes and grip styles"
+   ],
+   "at": null
+  },
+  {
+   "item": "vxe-r1-pro",
+   "line": "Excellent build quality.",
+   "source": "rt_r1-pro",
+   "quotes": [
+    "Excellent build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "RTINGS' best gaming keyboard and #7 on PC Gamer's list (its best rapid trigger keyboard), with keys you can tune.",
+   "source": "rt_best_gaming_kb",
+   "quotes": [
+    "Best Gaming Keyboard Wooting 80HE"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "RTINGS' best gaming keyboard and #7 on PC Gamer's list (its best rapid trigger keyboard), with keys you can tune.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "Why is the Wooting 80HE the best rapid trigger mechanical keyboard?"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Rapid Trigger and adjustable keys help in fast games.",
+   "source": "rtk_80he",
+   "quotes": [
+    "rapid trigger, which can provide measurable advantages in certain games, like FPS or rhythm titles"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Rapid Trigger and adjustable keys help in fast games.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "Rapid trigger, adjustable actuation, Rapid Tappy, dual-function keys—some set-and-forget features to help you tap out commands quicker"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Good web-based software.",
+   "source": "rtk_80he",
+   "quotes": [
+    "Its software experience is robust and lightweight"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Good web-based software.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "+Lightweight, web-based software"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Very low delay.",
+   "source": "rtk_80he",
+   "quotes": [
+    "Exceptionally low latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Excellent build quality.",
+   "source": "rtk_80he",
+   "quotes": [
+    "Outstanding build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Gasket mount feels fairly stiff.",
+   "source": "rtk_80he",
+   "quotes": [
+    "Gasket mount is fairly stiff."
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Chassis has some flex.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "-Chassis has some flex"
+   ],
+   "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "PC Gamer lists some of its special key features being toned down ('nerfed') as a downside.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "-Nerfed Snappy Tappy, Rappy Tappy"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "A wireless 96% keyboard that PC Gamer and Tom's Hardware both rank as their top pick.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "Asus ROG Strix Scope II 96 Wireless\nThe best mechanical keyboard"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "A wireless 96% keyboard that PC Gamer and Tom's Hardware both rank as their top pick.",
+   "source": "th_best_kb",
+   "quotes": [
+    "1. Asus ROG Strix Scope II 96 Wireless\nBest Gaming Keyboard Overall"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Very low delay.",
+   "source": "rtk_rog-strix-scope-ii-96-wireless",
+   "quotes": [
+    "Remarkably low latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Excellent switch feel.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "+Excellent switch feel"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Sound dampening works well.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "+Sound dampening that really works"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Impressive build quality.",
+   "source": "rtk_rog-strix-scope-ii-96-wireless",
+   "quotes": [
+    "Impressive build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Spacebar rattles a bit.",
+   "source": "rtk_rog-strix-scope-ii-96-wireless",
+   "quotes": [
+    "Spacebar rattles somewhat and isn't as stable as other keys."
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Its Armoury Crate app is a downside: PC Gamer calls it messy, Tom's Hardware annoying.",
+   "source": "pcg_best_kb",
+   "quotes": [
+    "-Armoury Crate app is messy"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Its Armoury Crate app is a downside: PC Gamer calls it messy, Tom's Hardware annoying.",
+   "source": "th_best_kb",
+   "quotes": [
+    "-Annoying Armoury Crate Software"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "The 96% layout feels cramped.",
+   "source": "th_best_kb",
+   "quotes": [
+    "-96 percent layout is cramped"
+   ],
+   "at": null
+  },
+  {
+   "item": "asus-rog-strix-scope-ii-96-wireless",
+   "line": "Only one layer of programmable keys.",
+   "source": "th_best_kb",
+   "quotes": [
+    "-Only one layer of programmability"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "A well-built 75% wireless keyboard that RTINGS calls suitable for everyday browsing, work or even competitive gaming.",
+   "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
+   "quotes": [
+    "Outstanding build quality.",
+    "suitable for everyday browsing, work, or even competitive gaming"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Outstanding build quality.",
+   "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
+   "quotes": [
+    "Outstanding build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Excellent typing feel.",
+   "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
+   "quotes": [
+    "Excellent typing quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Tall. A wrist rest helps, but none is included.",
+   "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
+   "quotes": [
+    "Tall profile makes a wrist rest more comfortable, but one isn't included."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Somewhat loud typing.",
+   "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
+   "quotes": [
+    "Somewhat loud typing noise."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "RTINGS' \"Best Keyboard\".",
+   "source": "rt_best_kb",
+   "quotes": [
+    "Best Keyboard Keychron Q6 [Q1, Q3, etc.] Ultra 8K"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "Outstanding build quality.",
+   "source": "rtk_q6-q1-q3-etc-ultra-8k",
+   "quotes": [
+    "Outstanding overall build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "Quiet typing.",
+   "source": "rtk_q6-q1-q3-etc-ultra-8k",
+   "quotes": [
+    "Quiet typing noise."
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "A well-built magnetic-switch gaming keyboard with Rapid Trigger.",
+   "source": "rtk_p1-he",
+   "quotes": [
+    "outstanding build quality and raw performance",
+    "web-based software supports advanced features like Rapid Trigger"
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Outstanding build quality.",
+   "source": "rtk_p1-he",
+   "quotes": [
+    "Outstanding build quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Bright backlight with easy-to-read keys.",
+   "source": "rtk_p1-he",
+   "quotes": [
+    "Bright backlighting and clear shine-through keycaps make legends easy to read in dark rooms."
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Only works with one switch type.",
+   "source": "mk_p1he",
+   "quotes": [
+    "It does not support other magnetic switches such as the Gateron Magnetic Jade or Gateron KS-20 Magnetic switches"
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Only works with one switch type.",
+   "source": "rtk_p1-he",
+   "quotes": [
+    "Hot-swappable PCB only supports Gateron Double-Rail Magnetic switches."
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "True analog output does not work as expected.",
+   "source": "rtk_p1-he",
+   "quotes": [
+    "True analog output doesn't work as expected."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "RTINGS' \"Best Office Keyboard\".",
+   "source": "rt_best_kb",
+   "quotes": [
+    "Best Office Keyboard Logitech MX Keys S"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Very quiet typing.",
+   "source": "rtk_mx-keys-s",
+   "quotes": [
+    "Very quiet typing noise."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Comfortable without a wrist rest.",
+   "source": "rtk_mx-keys-s",
+   "quotes": [
+    "Low profile design is comfortable without a wrist rest."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Great typing feel.",
+   "source": "rtk_mx-keys-s",
+   "quotes": [
+    "Great typing quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "RTINGS' \"Best Budget Keyboard\".",
+   "source": "rt_best_kb",
+   "quotes": [
+    "Best Budget Keyboard Ducky OK-M"
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "Excellent typing feel.",
+   "source": "rtk_ok-m",
+   "quotes": [
+    "Excellent typing quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "Quiet.",
+   "source": "rtk_ok-m",
+   "quotes": [
+    "Quiet typing noise."
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "No advertised battery life.",
+   "source": "rtk_ok-m",
+   "quotes": [
+    "No advertised battery life expectations."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "RTINGS' \"Best Budget Gaming Keyboard\".",
+   "source": "rt_best_gaming_kb",
+   "quotes": [
+    "Best Budget Gaming Keyboard Corsair K70 CORE"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Very low delay.",
+   "source": "rtk_k70-core",
+   "quotes": [
+    "Outstanding latency performance."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Plastic body and ABS keycaps feel a bit cheap.",
+   "source": "rtk_k70-core",
+   "quotes": [
+    "Plastic material that makes up most of the keyboard, including the ABS keycaps, is somewhat cheap feeling."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "#6 on Tom's Guide's list, which calls it the best mechanical keyboard for gaming.",
+   "source": "tg_best_kb",
+   "quotes": [
+    "The best gaming mechanical keybaord",
+    "6. Keychron V1 Ultra 8K"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Great gaming performance.",
+   "source": "tg_best_kb",
+   "quotes": [
+    "An incredible mechanical keyboard for gamers (and beyond)",
+    "+Great gaming performance\n+8,000Hz wireless polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Excellent typing sound and feel.",
+   "source": "tg_best_kb",
+   "quotes": [
+    "+8,000Hz wireless polling\n+Excellent typing sound and feel"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Long battery life.",
+   "source": "tg_best_kb",
+   "quotes": [
+    "+Excellent typing sound and feel\n+Long battery life"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Some flex.",
+   "source": "tg_best_kb",
+   "quotes": [
+    "+Dual RGB lighting systems\nREASONS TO AVOID\n-Some flex"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "RTINGS' \"Best Budget Wireless Gaming Keyboard\".",
+   "source": "rt_best_gaming_kb",
+   "quotes": [
+    "Best Budget Wireless Gaming Keyboard MonsGeek FUN60 Ultra"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Excellent build quality.",
+   "source": "rtk_fun60-ultra",
+   "quotes": [
+    "Excellent build quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Software has Rapid Trigger, SOCD and DKS.",
+   "source": "rtk_fun60-ultra",
+   "quotes": [
+    "Web-based or downloadable software supports advanced features like Rapid Trigger, SOCD, and DKS."
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Tray mount feels somewhat stiff.",
+   "source": "rtk_fun60-ultra",
+   "quotes": [
+    "Somewhat stiff-feeling tray mount."
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "A durable cloth pad. Tom's Hardware calls it extra-thick and its best pad for most people; DiamondLobby calls it the best pad for every type of gamer.",
+   "source": "th_best_pads",
+   "quotes": [
+    "Best Mouse Pad for Most People",
+    "an extra-thick, non-RGB cloth mouse pad",
+    "it's more durable than the regular QCK"
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "A durable cloth pad. Tom's Hardware calls it extra-thick and its best pad for most people; DiamondLobby calls it the best pad for every type of gamer.",
+   "source": "dl_qck",
+   "quotes": [
+    "the best mouse pad for every type of gamer",
+    "something that will last eons"
+   ],
+   "at": "6:30"
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Thick.",
+   "source": "th_best_pads",
+   "quotes": [
+    "an extra-thick, non-RGB cloth mouse pad"
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Durable.",
+   "source": "th_best_pads",
+   "quotes": [
+    "it's more durable than the regular QCK"
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Durable.",
+   "source": "dl_qck",
+   "quotes": [
+    "something that will last eons"
+   ],
+   "at": "6:30"
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Affordable.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Affordable"
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Affordable.",
+   "source": "dl_qck",
+   "quotes": [
+    "it costs around $26 which is great"
+   ],
+   "at": "6:30"
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Washable.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Washable"
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "DiamondLobby says it helps you play consistently.",
+   "source": "dl_qck2",
+   "quotes": [
+    "you'll be the most consistent that you've ever been in your life"
+   ],
+   "at": "6:47"
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Needs weighing down when new to lie flat.",
+   "source": "th_best_pads",
+   "quotes": [
+    "-Needs to be weighed down at first"
+   ],
+   "at": null
+  },
+  {
+   "item": "steelseries-qck-heavy",
+   "line": "Can feel slow and muddy if not cleaned.",
+   "source": "dl_qck2",
+   "quotes": [
+    "it's not the fastest mouse pad and it can get a bit muddy after a few months if you haven't cleaned it"
+   ],
+   "at": "6:47"
+  },
+  {
+   "item": "razer-atlas",
+   "line": "A tempered-glass pad that both outlets recommend, and both call expensive. Tom's Hardware praises its low friction.",
+   "source": "th_best_pads",
+   "quotes": [
+    "Best Hard Surface Mouse Pad",
+    "+Low-friction surface feels great",
+    "-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "A tempered-glass pad that both outlets recommend, and both call expensive. Tom's Hardware praises its low friction.",
+   "source": "dl_glass",
+   "quotes": [
+    "my recommendation is either the Pulsar superglide or the razor Atlas both of which cost around $100 these are obviously quite expensive"
+   ],
+   "at": "4:37"
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Very low friction.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Low-friction surface feels great"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Easy to clean.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Easy to clean/oleophobic coating works well"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "DiamondLobby says glass pads like this need little care and keep feeling new.",
+   "source": "dl_glass2",
+   "quotes": [
+    "it will always feel as new the only maintenance you ever need to do is maybe wipe dust off it"
+   ],
+   "at": "4:21"
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Expensive.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Optical and laser sensors track very well\nREASONS TO AVOID\n-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Expensive.",
+   "source": "dl_glass",
+   "quotes": [
+    "these are obviously quite expensive"
+   ],
+   "at": "4:37"
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Too large to fit easily on many desks.",
+   "source": "th_best_pads",
+   "quotes": [
+    "it’s a little too large to easily fit on the average desk"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Not great if your hands sweat.",
+   "source": "th_best_pads",
+   "quotes": [
+    "-Not great for sweating"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Its coating started to wear off at the edges after about a year; skin oils may cause it.",
+   "source": "th_best_pads",
+   "quotes": [
+    "the oleophobic coating, which has started to come off slightly around the edges after a year or so of consistent use",
+    "it seems the coating is also susceptible to oils from your skin"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-atlas",
+   "line": "Only one size.",
+   "source": "th_best_pads",
+   "quotes": [
+    "Only comes in one size (large)."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "A hard RGB pad that lights the whole surface, picked by Tom's Hardware and PCGamesN.",
+   "source": "th_best_pads",
+   "quotes": [
+    "Best RGB Mouse Pad",
+    "Razer's Firefly V2 Pro is the world's first (and, so far, only) RGB backlit mouse pad"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "A hard RGB pad that lights the whole surface, picked by Tom's Hardware and PCGamesN.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "The best hard RGB mouse pad",
+    "This hard mousepad is fully backlit"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Bright backlighting.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Bright backlighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Bright backlighting.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Brilliant backlit RGB"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Built-in USB 2.0 port for your mouse's wireless receiver.",
+   "source": "mk_firefly",
+   "quotes": [
+    "INTEGRATED USB 2.0 PORT"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Built-in USB 2.0 port for your mouse's wireless receiver.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+USB 2.0 pass through port"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Feels smooth to use.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Feels smooth to use"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Only one size.",
+   "source": "th_best_pads",
+   "quotes": [
+    "The Firefly V2 Pro only comes in one size"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Only one size.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Very flashy\nOnly one size"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Very flashy.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Cons\nVery flashy"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Looks lackluster in a brightly lit room.",
+   "source": "th_best_pads",
+   "quotes": [
+    "-Lackluster in full lighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-firefly-v2-pro",
+   "line": "Long-term surface durability is untested.",
+   "source": "th_best_pads",
+   "quotes": [
+    "-Surface durability is untested"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "A charging pad that keeps a compatible Logitech G wireless mouse charged, even while you play.",
+   "source": "mk_pp2",
+   "quotes": [
+    "simply keeps your compatible mouse charged at all times"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "A charging pad that keeps a compatible Logitech G wireless mouse charged, even while you play.",
+   "source": "th_best_pads",
+   "quotes": [
+    "your mouse will charge when it's on the pad — while you're using it and while it's sitting idle"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "A charging pad that keeps a compatible Logitech G wireless mouse charged, even while you play.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "it continuously charges your mouse"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "You'll never run out of battery.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "You'll never run out of battery"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Lower price than the previous POWERPLAY.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Lower price than previous PowerPlay"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Only charges compatible Logitech G mice.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Only works with Logitech Lightspeed mice"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Only charges compatible Logitech G mice.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+Wirelessly charges select Logitech gaming mice"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Only one size.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Only comes in one size"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Expensive.",
+   "source": "th_best_pads",
+   "quotes": [
+    "+No software required\nREASONS TO AVOID\n-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Expensive.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Fewer features than previous PowerPlay\nExpensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "No built-in wireless receiver, and the cable is not detachable.",
+   "source": "th_best_pads",
+   "quotes": [
+    "there's no Lightspeed receiver, the cable is non-detachable"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "No built-in wireless receiver, and the cable is not detachable.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "losing the integrated wireless dongle, RGB lighting, detachable cable"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Fewer features than the previous POWERPLAY.",
+   "source": "pcgn_best_pads",
+   "quotes": [
+    "Fewer features than previous PowerPlay"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-powerplay-2",
+   "line": "Fewer features than the previous POWERPLAY.",
+   "source": "th_best_pads",
+   "quotes": [
+    "the Logitech PowerPlay 2 is, unfortunately, a pretty big downgrade from the original"
+   ],
+   "at": null
+  },
+  {
+   "item": "zowie-g-sr-ii",
+   "line": "A popular control pad. DiamondLobby says it has a lot of stopping power; boardzy calls the V2 one of the top control pads.",
+   "source": "dl_gsr",
+   "quotes": [
+    "a great control pad that provides a lot of stopping power it's also one of the more popular gaming mouse pads"
+   ],
+   "at": "1:07"
+  },
+  {
+   "item": "zowie-g-sr-ii",
+   "line": "A popular control pad. DiamondLobby says it has a lot of stopping power; boardzy calls the V2 one of the top control pads.",
+   "source": "bz_pad_gsr",
+   "quotes": [
+    "it's definitely one of the top like extremely controlled pads"
+   ],
+   "at": "13:43"
+  },
+  {
+   "item": "zowie-g-sr-ii",
+   "line": "A lot of stopping power.",
+   "source": "dl_gsr",
+   "quotes": [
+    "provides a lot of stopping power"
+   ],
+   "at": "1:07"
+  },
+  {
+   "item": "zowie-g-sr-ii",
+   "line": "One of the top control pads (boardzy, about the updated V2).",
+   "source": "bz_pad_gsr",
+   "quotes": [
+    "this is the updated GSR and I would put this in the a tier it's definitely one of the top like extremely controlled pads"
+   ],
+   "at": "13:43"
+  },
+  {
+   "item": "zowie-g-sr-ii",
+   "line": "Better humidity resistance than older versions.",
+   "source": "dl_gsr2",
+   "quotes": [
+    "the gsr2 does have improved humidity resistance"
+   ],
+   "at": "1:30"
+  },
+  {
+   "item": "zowie-g-sr-ii",
+   "line": "boardzy wishes ZOWIE made larger sizes.",
+   "source": "bz_pad_gsr_size",
+   "quotes": [
+    "they need to make larger mouse pad sizes"
+   ],
+   "at": "13:02"
+  },
+  {
+   "item": "pulsar-superglide-glass-pad",
+   "line": "A glass pad that DiamondLobby recommends.",
+   "source": "dl_glass",
+   "quotes": [
+    "my recommendation is either the Pulsar superglide or the razor Atlas"
+   ],
+   "at": "4:37"
+  },
+  {
+   "item": "pulsar-superglide-glass-pad",
+   "line": "Probably Pulsar's best mouse pad, said in passing while ranking another Pulsar pad.",
+   "source": "bz_pad_pulsar",
+   "quotes": [
+    "the superglide their glass pad that's probably their best mouse pad"
+   ],
+   "at": "2:32"
+  },
+  {
+   "item": "pulsar-superglide-glass-pad",
+   "line": "He slightly prefers it to one other glass pad.",
+   "source": "bz_pad_pulsar2",
+   "quotes": [
+    "the Pulsar Super Glide I would say I slightly preferred that over the um skypad 3.0"
+   ],
+   "at": "36:11"
+  },
+  {
+   "item": "pulsar-superglide-glass-pad",
+   "line": "DiamondLobby says glass pads like this need little care and keep feeling new.",
+   "source": "dl_glass2",
+   "quotes": [
+    "it will always feel as new the only maintenance you ever need to do is maybe wipe dust off it"
+   ],
+   "at": "4:21"
+  },
+  {
+   "item": "pulsar-superglide-glass-pad",
+   "line": "Expensive.",
+   "source": "dl_glass",
+   "quotes": [
+    "these are obviously quite expensive"
+   ],
+   "at": "4:37"
+  },
+  {
+   "item": "cooler-master-mp511",
+   "line": "A CORDURA fabric pad. DiamondLobby describes CORDURA pads as tough, easy to clean and rougher than normal cloth, and names the MP511 as one example.",
+   "source": "dl_cordura",
+   "quotes": [
+    "a mouse pad using Cura fabric this surface is very durable",
+    "this material I found to be very easy to clean"
+   ],
+   "at": "5:25"
+  },
+  {
+   "item": "cooler-master-mp511",
+   "line": "A CORDURA fabric pad. DiamondLobby describes CORDURA pads as tough, easy to clean and rougher than normal cloth, and names the MP511 as one example.",
+   "source": "dl_cordura2",
+   "quotes": [
+    "the cura fabric is abrasive when compared to a standard cloth mouse pad",
+    "these two are great options the coola master MP 511"
+   ],
+   "at": "5:51"
+  },
+  {
+   "item": "cooler-master-mp511",
+   "line": "DiamondLobby says CORDURA pads like this are very durable and easy to clean.",
+   "source": "dl_cordura",
+   "quotes": [
+    "a mouse pad using Cura fabric this surface is very durable",
+    "this material I found to be very easy to clean"
+   ],
+   "at": "5:25"
+  },
+  {
+   "item": "cooler-master-mp511",
+   "line": "Rougher than a normal cloth pad (DiamondLobby, about CORDURA pads).",
+   "source": "dl_cordura2",
+   "quotes": [
+    "the cura fabric is abrasive when compared to a standard cloth mouse pad"
+   ],
+   "at": "5:51"
+  },
+  {
+   "item": "corsair-mm350",
+   "line": "Tom's Hardware's best XL cloth pad.",
+   "source": "th_best_pads",
+   "quotes": [
+    "Best XL Cloth Mouse Pad"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-mm350",
+   "line": "Surface feels great.",
+   "source": "th_best_pads",
+   "quotes": [
+    "While the mat’s surface feels great"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-mm350",
+   "line": "The gunmetal gray pattern is not for everyone.",
+   "source": "th_best_pads",
+   "quotes": [
+    "a battle-damaged gunmetal gray pattern that won’t be for everyone"
+   ],
+   "at": null
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "A cloth control pad from Japanese maker ARTISAN that boardzy puts in his top group.",
+   "source": "bz_pad_zero",
+   "quotes": [
+    "the Heen the zero the k83 and the hayate otu are all going to go into the base tier"
+   ],
+   "at": "20:15"
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "One of his two favourite pads, with the Artisan Hien.",
+   "source": "bz_pad_zero_fav",
+   "quotes": [
+    "hean and zero are just 1 a and one be"
+   ],
+   "at": "21:19"
+  },
+  {
+   "item": "artisan-ninja-fx-zero",
+   "line": "A control pad that still has some speed, with low starting friction.",
+   "source": "bz_pad_zero_feel",
+   "quotes": [
+    "the zero it's a control pad but it has speed to it it's low initial friction"
+   ],
+   "at": "21:28"
+  },
+  {
+   "item": "esptiger-ice-v2",
+   "line": "Pre-cut PTFE skates sold for many mouse models.",
+   "source": "mk_tiger",
+   "quotes": [
+    "Crafted from premium PTFE (Polytetrafluoroethylene)",
+    "ICE Mouse Skates For Xtrfy M42"
+   ],
+   "at": null
+  },
+  {
+   "item": "esptiger-ice-v2",
+   "line": "Put in his top tier on its own merits: right up there with Magic Ice and Jade as his preferred high-quality PTFE skates.",
+   "source": "bz_sk_tiger",
+   "quotes": [
+    "honorable mention in the based tier because where else would they belong",
+    "another base um but this time off of its own merits the tiger ice V2 um these are right up there with magic ice and Jades just in terms of my personal preference for a highquality PTF skate"
+   ],
+   "at": "21:36"
+  },
+  {
+   "item": "xraypad-jade",
+   "line": "Smooth PTFE skates for cloth pads. They wear out quickly on glass.",
+   "source": "bz_sk_jade2",
+   "quotes": [
+    "the only issue with Jades is the durability on glass pads",
+    "just for standard cloth pads I'd say Jades are a top PTFE option"
+   ],
+   "at": "3:10"
+  },
+  {
+   "item": "xraypad-jade",
+   "line": "Smooth PTFE skates for cloth pads. They wear out quickly on glass.",
+   "source": "ws_jade2",
+   "quotes": [
+    "recommended to use on fabric pads not recommended for glass as pure pdfe is softer and will wear out rather quickly"
+   ],
+   "at": "3:51"
+  },
+  {
+   "item": "xraypad-jade",
+   "line": "Fast and smooth glide.",
+   "source": "ws_jade",
+   "quotes": [
+    "great option if you're looking for faster Glides very smooth"
+   ],
+   "at": "3:34"
+  },
+  {
+   "item": "xraypad-jade",
+   "line": "Reliable, high-quality PTFE skates.",
+   "source": "bz_sk_jade",
+   "quotes": [
+    "these are just a reliable highquality um available PTFE option"
+   ],
+   "at": "2:11"
+  },
+  {
+   "item": "xraypad-jade",
+   "line": "Wear out quickly on glass pads.",
+   "source": "ws_jade2",
+   "quotes": [
+    "not recommended for glass as pure pdfe is softer and will wear out rather quickly"
+   ],
+   "at": "3:51"
+  },
+  {
+   "item": "xraypad-jade",
+   "line": "Wear out quickly on glass pads.",
+   "source": "bz_sk_jade2",
+   "quotes": [
+    "the only issue with Jades is the durability on glass pads"
+   ],
+   "at": "3:10"
+  },
+  {
+   "item": "xraypad-obsidian",
+   "line": "Control-style skates that work on both cloth and glass.",
+   "source": "ws_obs",
+   "quotes": [
+    "an option for gamers who prefer control over speed",
+    "can be used for both Fabric and glass pads"
+   ],
+   "at": "4:07"
+  },
+  {
+   "item": "xraypad-obsidian",
+   "line": "Stop well but still glide fairly fast.",
+   "source": "ws_obs",
+   "quotes": [
+    "they have quite a fair bit of speed but they stop really well"
+   ],
+   "at": "4:07"
+  },
+  {
+   "item": "xraypad-obsidian",
+   "line": "Work on both cloth and glass pads.",
+   "source": "ws_obs",
+   "quotes": [
+    "can be used for both Fabric and glass pads"
+   ],
+   "at": "4:07"
+  },
+  {
+   "item": "xraypad-obsidian-air",
+   "line": "boardzy calls it the best all-rounder between glass and cloth pads.",
+   "source": "bz_sk_obsair",
+   "quotes": [
+    "these are the best all-arounder um between glass and cloth"
+   ],
+   "at": "15:24"
+  },
+  {
+   "item": "xraypad-obsidian-air",
+   "line": "Best all-rounder between glass and cloth.",
+   "source": "bz_sk_obsair",
+   "quotes": [
+    "these are the best all-arounder um between glass and cloth"
+   ],
+   "at": "15:24"
+  },
+  {
+   "item": "xraypad-obsidian-air",
+   "line": "Best all-rounder between glass and cloth.",
+   "source": "bz_sk_obsair2",
+   "quotes": [
+    "the obsidian airs are more of a um Best of Both Worlds"
+   ],
+   "at": "23:45"
+  },
+  {
+   "item": "xraypad-obsidian-pro",
+   "line": "Harder skates made for glass pads, with more control.",
+   "source": "ws_obspro",
+   "quotes": [
+    "obsidian Pro Skate specially designed for glass pads",
+    "PTF with additives to increase the hardness of the material",
+    "these obsidian Pros give a fair bit more control on glass"
+   ],
+   "at": "4:22"
+  },
+  {
+   "item": "xraypad-obsidian-pro",
+   "line": "More control on glass. Feel good once broken in.",
+   "source": "ws_obspro",
+   "quotes": [
+    "these obsidian Pros give a fair bit more control on glass and they feel really good once they break in"
+   ],
+   "at": "4:22"
+  },
+  {
+   "item": "unusual-way-magic-ice",
+   "line": "One of boardzy's favorite skates: very smooth and high quality.",
+   "source": "bz_sk_magic",
+   "quotes": [
+    "one of my favorite skates Magic Ice",
+    "these may be the highest quality the most buttery"
+   ],
+   "at": "5:42"
+  },
+  {
+   "item": "unusual-way-magic-ice",
+   "line": "Very smooth, high-quality glide.",
+   "source": "bz_sk_magic",
+   "quotes": [
+    "these may be the highest quality the most buttery"
+   ],
+   "at": "5:42"
+  },
+  {
+   "item": "corepad-skatez-pro-max",
+   "line": "Skates boardzy says to avoid: louder than, and worse than, cheaper skates.",
+   "source": "bz_sk_corepad",
+   "quotes": [
+    "perform worse than any skate you can get on AliExpress for literally half of the price",
+    "very loud distinct tug"
+   ],
+   "at": "1:46"
+  },
+  {
+   "item": "corepad-skatez-pro-max",
+   "line": "Skates boardzy says to avoid: louder than, and worse than, cheaper skates.",
+   "source": "bz_sk_corepad_avoid",
+   "quotes": [
+    "I would just avoid these skates entirely"
+   ],
+   "at": "2:03"
+  },
+  {
+   "item": "corepad-skatez-pro-max",
+   "line": "A loud 'tug' when changing direction, and worse than cheaper skates from AliExpress.",
+   "source": "bz_sk_corepad",
+   "quotes": [
+    "very loud distinct tug when I try to swap directions",
+    "perform worse than any skate you can get on AliExpress for literally half of the price"
+   ],
+   "at": "1:46"
+  },
+  {
+   "item": "corepad-skatez-pro-max",
+   "line": "Weak adhesive. boardzy says to avoid them.",
+   "source": "bz_sk_corepad_avoid",
+   "quotes": [
+    "cor pad's adhesive is pretty lackluster so I would just avoid these skates entirely"
+   ],
+   "at": "2:03"
+  },
+  {
+   "item": "corepad-skatez-pro-max",
+   "line": "boardzy says Corepad's standard skates are better (A tier or top tier if you like the feel).",
+   "source": "bz_sk_corepad_std",
+   "quotes": [
+    "the standard cor pads if you really like the feeling they could be a tier or base"
+   ],
+   "at": "20:15"
+  },
+  {
+   "item": "pulsar-superglide-skates",
+   "line": "Glass skates that boardzy ranks at the bottom and says most people should skip.",
+   "source": "bz_sk_glass",
+   "quotes": [
+    "putting both versions in the trash tier just because I don't recommend glass skates"
+   ],
+   "at": "14:06"
+  },
+  {
+   "item": "pulsar-superglide-skates",
+   "line": "Ranked in the bottom tier. Most people are better off skipping glass skates.",
+   "source": "bz_sk_glass",
+   "quotes": [
+    "putting both versions in the trash tier"
+   ],
+   "at": "14:06"
+  },
+  {
+   "item": "pulsar-superglide-skates",
+   "line": "Ranked in the bottom tier. Most people are better off skipping glass skates.",
+   "source": "bz_sk_glass2",
+   "quotes": [
+    "most people you're probably going going to be better off if you just ignore glass skates entirely"
+   ],
+   "at": "14:53"
+  }
+ ]
+}

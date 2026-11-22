@@ -1,0 +1,613 @@
+{
+ "about": "Every pick on each saved best-of list, matched to the items on this site. Made by tools/picks_in_lists.py from the saved pages.",
+ "lists": [
+  {
+   "source": "rt_best_mouse",
+   "label": "RTINGS - The Best Mouse of 2026",
+   "url": "https://www.rtings.com/mouse/reviews/best/mouse",
+   "outlet": "RTINGS",
+   "raw_file": "data/raw/rtings_best-mouse.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "Best Computer Mouse",
+     "name": "Logitech MX Master 4",
+     "item": "logitech-mx-master-4"
+    },
+    {
+     "award": "Best Upper Mid-Range Mouse",
+     "name": "Logitech MX Master 3S",
+     "item": null
+    },
+    {
+     "award": "Best Mid-Range Mouse",
+     "name": "Razer Basilisk V3",
+     "item": "razer-basilisk-v3"
+    },
+    {
+     "award": "Best Budget Mouse",
+     "name": "Logitech M720 Triathlon",
+     "item": null
+    },
+    {
+     "award": "Best Cheap Mouse",
+     "name": "Logitech M240",
+     "item": null
+    },
+    {
+     "award": "Best Gaming Mouse",
+     "name": "Logitech G PRO X2 SUPERSTRIKE",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Razer Viper V4 Pro",
+     "item": "razer-viper-v4-pro"
+    }
+   ],
+   "contents_check": "7 picks, same as the number of reviewed products on the page"
+  },
+  {
+   "source": "rt_best_gaming_mouse",
+   "label": "RTINGS - The Best Gaming Mouse",
+   "url": "https://www.rtings.com/mouse/reviews/best/by-usage/gaming",
+   "outlet": "RTINGS",
+   "raw_file": "data/raw/rtings_best-gaming-mouse.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "Best Gaming Mouse",
+     "name": "Logitech G PRO X3 SUPERSTRIKE",
+     "item": "logitech-g-pro-x3-superstrike"
+    },
+    {
+     "award": "Best Upper Mid-Range Gaming Mouse",
+     "name": "Razer Viper V4 Pro",
+     "item": "razer-viper-v4-pro"
+    },
+    {
+     "award": "Best Mid-Range Gaming Mouse",
+     "name": "MCHOSE L7 Ultra",
+     "item": null
+    },
+    {
+     "award": "Best Lower Mid-Range Gaming Mouse",
+     "name": "Razer Basilisk V3",
+     "item": "razer-basilisk-v3"
+    },
+    {
+     "award": "Best Budget Gaming Mouse",
+     "name": "Logitech G305 LIGHTSPEED",
+     "item": "logitech-g305-lightspeed"
+    },
+    {
+     "award": "Best Gaming Mouse For Work And Play",
+     "name": "Logitech G502 X PLUS",
+     "item": "logitech-g502-x-plus"
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Logitech G PRO X SUPERLIGHT 2",
+     "item": "logitech-g-pro-x-superlight-2"
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Razer DeathAdder V4 Pro",
+     "item": "razer-deathadder-v4-pro"
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Razer Viper V3 Pro",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Razer Viper V3 HyperSpeed",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Hitscan Hyperlight",
+     "item": null
+    }
+   ],
+   "contents_check": "11 picks, same as the number of reviewed products on the page"
+  },
+  {
+   "source": "rt_best_kb",
+   "label": "RTINGS - The Best Keyboards",
+   "url": "https://www.rtings.com/keyboard/reviews/best/keyboard",
+   "outlet": "RTINGS",
+   "raw_file": "data/raw/rtings_best-keyboard.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "Best Keyboard",
+     "name": "Keychron Q6 [Q1, Q3, etc.] Ultra 8K",
+     "item": "keychron-q6-ultra-8k"
+    },
+    {
+     "award": "Best Mid-Range Keyboard",
+     "name": "Keychron K2 [K4, K8, K10, etc.] Ultra 8K",
+     "item": "keychron-k2-ultra-8k"
+    },
+    {
+     "award": "Best Budget Keyboard",
+     "name": "Ducky OK-M",
+     "item": "ducky-ok-m"
+    },
+    {
+     "award": "Best Office Keyboard",
+     "name": "Logitech MX Keys S",
+     "item": "logitech-mx-keys-s"
+    },
+    {
+     "award": "Best Gaming Keyboard",
+     "name": "Wooting 80HE",
+     "item": "wooting-80he"
+    },
+    {
+     "award": "Notable Mention",
+     "name": "NuPhy Node Series",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Keychron B1/B6 Pro",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Lemokey P1 HE",
+     "item": "lemokey-p1-he"
+    }
+   ],
+   "contents_check": "8 picks, same as the number of reviewed products on the page"
+  },
+  {
+   "source": "rt_best_gaming_kb",
+   "label": "RTINGS - The Best Gaming Keyboards",
+   "url": "https://www.rtings.com/keyboard/reviews/best/by-usage/gaming",
+   "outlet": "RTINGS",
+   "raw_file": "data/raw/rtings_best-gaming-keyboard.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "Best Gaming Keyboard",
+     "name": "Wooting 80HE",
+     "item": "wooting-80he"
+    },
+    {
+     "award": "Best Budget Gaming Keyboard",
+     "name": "Corsair K70 CORE",
+     "item": "corsair-k70-core"
+    },
+    {
+     "award": "Best Cheap Gaming Keyboard",
+     "name": "SteelSeries Apex 3 TKL",
+     "item": null
+    },
+    {
+     "award": "Best Wireless Gaming Keyboard",
+     "name": "NuPhy WH80",
+     "item": null
+    },
+    {
+     "award": "Best Mid-Range Wireless Gaming Keyboard",
+     "name": "Keychron K2 [K4, K8, K10, etc.] Ultra 8K",
+     "item": "keychron-k2-ultra-8k"
+    },
+    {
+     "award": "Best Budget Wireless Gaming Keyboard",
+     "name": "MonsGeek FUN60 Ultra",
+     "item": "monsgeek-fun60-ultra"
+    },
+    {
+     "award": "Notable Mention",
+     "name": "SteelSeries Apex Pro TKL (2023)",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "Wooting 60HE v2",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "NuPhy Air75 HE",
+     "item": null
+    },
+    {
+     "award": "Notable Mention",
+     "name": "MonsGeek M1 V5 TMR",
+     "item": null
+    }
+   ],
+   "contents_check": "10 picks, same as the number of reviewed products on the page"
+  },
+  {
+   "source": "th_best_mouse",
+   "label": "Tom's Hardware - Best Gaming Mouse 2026",
+   "url": "https://www.tomshardware.com/best-picks/best-gaming-mouse",
+   "outlet": "Tom's Hardware",
+   "raw_file": "data/raw/tomshardware_best-gaming-mouse.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "Razer Basilisk V3 Pro 35K",
+     "item": null
+    },
+    {
+     "award": "#2",
+     "name": "Razer DeathAdder V4 Pro",
+     "item": "razer-deathadder-v4-pro"
+    },
+    {
+     "award": "#3",
+     "name": "Corsair Katar Pro XT",
+     "item": "corsair-katar-pro-xt"
+    },
+    {
+     "award": "#4",
+     "name": "Redragon M686 Vampire Elite",
+     "item": null
+    },
+    {
+     "award": "#5",
+     "name": "Logitech G502 X Plus",
+     "item": "logitech-g502-x-plus"
+    },
+    {
+     "award": "#6",
+     "name": "Logitech G Pro Wireless",
+     "item": null
+    },
+    {
+     "award": "#7",
+     "name": "Razer Cobra Pro",
+     "item": null
+    },
+    {
+     "award": "#8",
+     "name": "Logitech G Pro X Superlight 2",
+     "item": "logitech-g-pro-x-superlight-2"
+    },
+    {
+     "award": "#9",
+     "name": "Razer Naga V2 Pro",
+     "item": null
+    }
+   ],
+   "contents_box": 9,
+   "contents_check": "9 picks, same as the page's contents box"
+  },
+  {
+   "source": "pcg_best_mouse",
+   "label": "PC Gamer - Best gaming mouse 2026",
+   "url": "https://www.pcgamer.com/the-best-gaming-mouse/",
+   "outlet": "PC Gamer",
+   "raw_file": "data/raw/pcgamer_best-gaming-mouse.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "Razer Viper V4 Pro",
+     "item": "razer-viper-v4-pro"
+    },
+    {
+     "award": "#2",
+     "name": "Glorious Model O Eternal",
+     "item": null
+    },
+    {
+     "award": "#3",
+     "name": "Mchose G3 V2 Pro",
+     "item": null
+    },
+    {
+     "award": "#4",
+     "name": "Logitech G Pro X3 Superstrike",
+     "item": "logitech-g-pro-x3-superstrike"
+    },
+    {
+     "award": "#5",
+     "name": "Corsair Sabre V2 Pro",
+     "item": null
+    },
+    {
+     "award": "#6",
+     "name": "Corsair Scimitar Elite Wireless SE",
+     "item": null
+    },
+    {
+     "award": "#7",
+     "name": "Logitech G Pro 2 Lightspeed",
+     "item": null
+    },
+    {
+     "award": "#8",
+     "name": "Keychron M5",
+     "item": null
+    },
+    {
+     "award": "#9",
+     "name": "SteelSeries Rival Pro",
+     "item": null
+    }
+   ],
+   "contents_box": 9,
+   "contents_check": "9 picks, same as the page's contents box"
+  },
+  {
+   "source": "th_best_kb",
+   "label": "Tom's Hardware - Best Gaming Keyboards 2026",
+   "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards",
+   "outlet": "Tom's Hardware",
+   "raw_file": "data/raw/tomshardware_best-gaming-keyboards.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "Asus ROG Strix Scope II 96 Wireless",
+     "item": "asus-rog-strix-scope-ii-96-wireless"
+    },
+    {
+     "award": "#2",
+     "name": "Razer BlackWidow V4 Pro",
+     "item": null
+    },
+    {
+     "award": "#3",
+     "name": "Turtle Beach Vulcan II TKL",
+     "item": null
+    },
+    {
+     "award": "#4",
+     "name": "SteelSeries Apex Pro Mini",
+     "item": null
+    },
+    {
+     "award": "#5",
+     "name": "Keychron V5 Ultra 8K",
+     "item": null
+    },
+    {
+     "award": "#6",
+     "name": "Corsair Galleon 100 SD",
+     "item": null
+    },
+    {
+     "award": "#7",
+     "name": "Keychron Q1 HE",
+     "item": null
+    }
+   ],
+   "contents_box": 7,
+   "contents_check": "7 picks, same as the page's contents box"
+  },
+  {
+   "source": "pcg_best_kb",
+   "label": "PC Gamer - Best mechanical keyboards 2026",
+   "url": "https://www.pcgamer.com/best-mechanical-keyboard/",
+   "outlet": "PC Gamer",
+   "raw_file": "data/raw/pcgamer_best-mechanical-keyboard.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "Asus ROG Strix Scope II 96 Wireless",
+     "item": "asus-rog-strix-scope-ii-96-wireless"
+    },
+    {
+     "award": "#2",
+     "name": "Gamakay x NaughShark NS68",
+     "item": null
+    },
+    {
+     "award": "#3",
+     "name": "Das Keyboard 6 Professional",
+     "item": null
+    },
+    {
+     "award": "#4",
+     "name": "Keychron Q3 Max",
+     "item": null
+    },
+    {
+     "award": "#5",
+     "name": "Be Quiet! Light Mount",
+     "item": null
+    },
+    {
+     "award": "#6",
+     "name": "Kinesis Freestyle Edge RGB",
+     "item": null
+    },
+    {
+     "award": "#7",
+     "name": "Wooting 80HE",
+     "item": "wooting-80he"
+    },
+    {
+     "award": "#8",
+     "name": "Keychron K2 HE",
+     "item": null
+    },
+    {
+     "award": "#9",
+     "name": "Keychron K2 (Version 2)",
+     "item": null
+    },
+    {
+     "award": "#10",
+     "name": "NuPhy Air60 HE",
+     "item": null
+    }
+   ],
+   "contents_box": 10,
+   "contents_check": "10 picks, same as the page's contents box"
+  },
+  {
+   "source": "tg_best_kb",
+   "label": "Tom's Guide - Best mechanical keyboards 2026",
+   "url": "https://www.tomsguide.com/best-picks/best-mechanical-keyboards",
+   "outlet": "Tom's Guide",
+   "raw_file": "data/raw/tomsguide_best-mechanical-keyboards.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "Keychron V6 Ultra 8K HE",
+     "item": null
+    },
+    {
+     "award": "#2",
+     "name": "Lemokey X1",
+     "item": null
+    },
+    {
+     "award": "#3",
+     "name": "Keychron V1 8K",
+     "item": null
+    },
+    {
+     "award": "#4",
+     "name": "Epomaker RT100 Pro",
+     "item": null
+    },
+    {
+     "award": "#5",
+     "name": "NuPhy Node75",
+     "item": null
+    },
+    {
+     "award": "#6",
+     "name": "Keychron V1 Ultra 8K",
+     "item": "keychron-v1-ultra-8k"
+    },
+    {
+     "award": "#7",
+     "name": "Epomaker Glyph",
+     "item": null
+    },
+    {
+     "award": "#8",
+     "name": "Wobkey Rainy 75 Pro",
+     "item": null
+    },
+    {
+     "award": "#9",
+     "name": "Epomaker Split65",
+     "item": null
+    }
+   ],
+   "contents_box": 5,
+   "contents_check": "9 picks; the page's contents box shows only the first 5 before 'Show more', and they match"
+  },
+  {
+   "source": "th_best_pads",
+   "label": "Tom's Hardware - Best Mouse Pads 2026",
+   "url": "https://www.tomshardware.com/best-picks/best-rgb-mouse-pads-gaming-pc",
+   "outlet": "Tom's Hardware",
+   "raw_file": "data/raw/tomshardware_best-mouse-pads.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "SteelSeries QCK Heavy",
+     "item": "steelseries-qck-heavy"
+    },
+    {
+     "award": "#2",
+     "name": "Razer Firefly V2 Pro",
+     "item": "razer-firefly-v2-pro"
+    },
+    {
+     "award": "#3",
+     "name": "Razer Strider Chroma",
+     "item": null
+    },
+    {
+     "award": "#4",
+     "name": "Razer Atlas",
+     "item": "razer-atlas"
+    },
+    {
+     "award": "#5",
+     "name": "Corsair MM350",
+     "item": "corsair-mm350"
+    },
+    {
+     "award": "#6",
+     "name": "Logitech PowerPlay 2",
+     "item": "logitech-powerplay-2"
+    },
+    {
+     "award": "#7",
+     "name": "Razer HyperFlux V2",
+     "item": null
+    },
+    {
+     "award": "#8",
+     "name": "HyperX Wrist Rest",
+     "item": null
+    }
+   ],
+   "contents_box": 8,
+   "contents_check": "8 picks, same as the page's contents box"
+  },
+  {
+   "source": "pcgn_best_pads",
+   "label": "PCGamesN - Best gaming mouse pad",
+   "url": "https://www.pcgamesn.com/best-gaming-mouse-pad",
+   "outlet": "PCGamesN",
+   "raw_file": "data/raw/pcgamesn_best-gaming-mouse-pad.txt",
+   "date_checked": "2026-11-18",
+   "entries": [
+    {
+     "award": "#1",
+     "name": "SteelSeries QcK",
+     "item": null
+    },
+    {
+     "award": "#2",
+     "name": "Amazon Basics Gaming Mouse Pad",
+     "item": null
+    },
+    {
+     "award": "#3",
+     "name": "SteelSeries QcK Performance",
+     "item": null
+    },
+    {
+     "award": "#4",
+     "name": "Logitech Powerplay 2",
+     "item": "logitech-powerplay-2"
+    },
+    {
+     "award": "#5",
+     "name": "Logitech G440",
+     "item": null
+    },
+    {
+     "award": "#6",
+     "name": "SteelSeries QcK Prism",
+     "item": null
+    },
+    {
+     "award": "#7",
+     "name": "Razer Firefly V2 Pro",
+     "item": "razer-firefly-v2-pro"
+    },
+    {
+     "award": "#8",
+     "name": "HyperX Wrist Rest",
+     "item": null
+    }
+   ],
+   "contents_box": 8,
+   "contents_check": "8 picks, same as the page's contents box"
+  }
+ ]
+}
