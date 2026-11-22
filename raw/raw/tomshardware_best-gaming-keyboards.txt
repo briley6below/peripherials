@@ -1,0 +1,622 @@
+URL: https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards
+TITLE: Best Gaming Keyboards 2026: We've Tested Full-size, TKL, Mini, and more | Tom's Hardware
+SAVED: 2026-11-18T22:54:42.973Z
+
+Skip to main content
+Join Tom’s Hardware today
+EXPLORE
+Choose how you want to join Tom’s Hardware
+MEMBER
+
+Get started with free access to reviews, badges and discussions.
+
+BECOME A MEMBER
+PREMIUM MEMBER
+
+Unlock exclusive tools and insights for enthusiasts who want more.
+
+Bench Database
+Exclusive Features
+Roadmaps
+Deep Analysis
+BECOME A PREMIUM MEMBER
+Tom's Hardware
+US Edition
+RSS
+Sign in
+Search
+Best Picks
+CPUs
+GPUs
+PC Components
+News
+Laptops
+Desktops
+Software & AI
+Coupons
+Premium
+Forums
+TRENDING
+Gift Guides
+Supercomputing 2026
+TH App
+AI Data Centers
+AMD Venice
+Nova Lake
+Vera Rubin
+RTX Spark Deals
+RAM Shortage
+Tom's 30th Anniversary
+RAM Combo Deals
+Peripherals
+Keyboards
+Gaming Keyboards
+Best Gaming Keyboards 2026: We've Tested Full-size, TKL, Mini, and more
+Best Picks
+By Sarah Jacobsson Purewal
+last updated October 5, 2026
+
+The best gaming keyboards we've tested for keeping ahead of the competition.
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+(Image credit: Tom's Hardware)
+JUMP TO:
+Best Overall
+Best Full-Size
+Best TKL
+Best Mini
+Best Budget
+Most Versatile
+Best Magnetic Switch
+Other Gaming Keyboards We Tested
+How We Test
+Shopping Tips
+Share this article
+5
+Join the conversation
+Follow us
+Add us as a preferred source on Google
+Newsletter
+Subscribe to our newsletter
+BEST GAMING KEYBOARDS 2026
+
+1. Best Overall
+2. Best Full-Size
+3. Best TKL
+4. Best Mini
+5. Best Budget
+6. Most Versatile
+7. Best Magnetic Switch
+8. Other Keyboards Tested
+9. How We Test
+10. Shopping Tips
+
+Your keyboard is your primary connection to your PC — a new keyboard will give you a much more noticeable difference than just about any other upgrade, and it's much cheaper than a new GPU.
+
+Keyboards are pretty personal for all users, but they're especially personal for gamers: you need a gaming keyboard that's speedy and accurate, and that doesn't get in the way of your mouse swiping. You might be looking for something on the smooth and silent side, but you also need to find a balance between speed and satisfaction — after all, you'll eventually need to... well, actually type on this thing.
+
+Your keyboard will be your main sidekick as you navigate complicated battle maps, vast open worlds, and rapid-fire team chats. We've tested hundreds of gaming keyboards in every size, color, style, and switch type, and these are the best we've found for a variety of different gaming setups. This list includes both wired and wireless gaming keyboards in every price range; if you've narrowed down your criteria, check out our more specific lists of the best wireless gaming keyboards and the best budget mechanical keyboards.
+
+BEST GAMING KEYBOARD OVERALL
+
+(Image credit: Tom's Hardware)
+1. Asus ROG Strix Scope II 96 Wireless
+Best Gaming Keyboard Overall
+SPECIFICATIONS
+Switches: ROG NX Snow (Hot-Swappable)Backlight: Per-key RGBType: 96 percentSize: 14.84 x 5.16 x 1.57 inches / 377 x 131 x 40mmWeight: 2.23lbs / 1012g
+TODAY'S BEST DEALS
+View at Amazon
+Black
+View at Best Buy
+Black
+View at Newegg
+White
+View at Walmart
+Black
+REASONS TO BUY
++Hot-swappable
++Excellent battery life
++Sturdy build
+REASONS TO AVOID
+-96 percent layout is cramped
+-Only one layer of programmability
+-Annoying Armoury Crate Software
+
+I rotate keyboards pretty frequently, but there's one I keep coming back to: the Asus ROG Strix Scope II 96 Wireless. The ROG Strix Scope II 96 Wireless is an excellent option for gaming, typing, and everything in between — it's well-built and it feels fantastic, it has plenty of keys (including a 10-key numberpad) but it won't take up too much desk space, and it's wireless with tri-mode connectivity and a whopping 1,500 hours of battery life (over 2.4GHz wireless, with the lighting turned off). Of the mainstream gaming peripherals makers, Asus is the only company that has managed to really bring enthusiast-style upgrades into what is still, first and foremost, a gaming keyboard.
+
+The ROG Strix Scope II 96 Wireless has a 96-percent layout — which is like a full-size layout, minus a handful of keys (and squashed together). While the layout does take some getting used to if you're coming from a full-size keyboard, once you get the hang of it it's the best of both worlds: a practically full-size keyboard with a 10-key numberpad that's more compact than some TKLs. The Strix Scope II 96 Wireless measures 14.84 x 5.16 x 1.57 inches (377 x 131 x 40 mm), which makes it smaller than our favorite TKL (the Lemokey L3, which measures 15.78 x 5.39 x 1.69 inches / 401 x 137 x 43 mm). It does come with an optional magnetic wrist rest, but it's low enough in front that I never felt a wrist rest was necessary.
+
+Image 1 of 7
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+It's also sturdily-built — it weighs 2.23 pounds (1012g), which is heavy enough that you'll appreciate the heft, but not so heavy that you couldn't reasonably travel with it. The keyboard has an aluminum alloy top plate and double-shot PBT keycaps (a nice touch — most mainstream companies still ship their flagship keyboards with ABS keycaps) and a plastic chassis that ensures an uninterrupted, low-latency wireless connection. While the 96-percent layout doesn't leave much room for extra shortcut/macro keys, Asus did manage to stuff a multi-function key and clickable roller in the upper right corner, which lets you control volume, media, and lighting, and also has a customizable mode that can be programmed in Armoury Crate.
+
+The ROG Strix Scope II 96 Wireless comes with Asus's ROG NX Snow (linear) or Storm (tactile) mechanical switches preinstalled — I tested the linear RX Snow switches, which are pre-lubed and have an actuation force of 45g and an actuation point of 1.8mm. I'm not the biggest fan of linear switches in general, but the NX Snow switches did offer a silent, smooth, stable "refined" feel — and even I couldn't find too much to complain about. Plus, the keyboard's PCB is hot-swappable, so you can fully customize your typing experience by swapping in any mechanical switches (it supports both 3- and 5-pin switches) you like.
+
+A keyboard doesn't have to be wireless to grab the top spot on our list, but this one is — with both low-latency 2.4GHz wireless and Bluetooth connectivity, as well as wired (via USB-C). And this keyboard's battery life is impressive — to say the least. Asus rates the ROG Strix Scope II 96 Wireless' battery life at 1,500 hours over 2.4GHz wireless — with the lighting turned off, of course — which is, well... plenty.
+
+Read: Asus ROG Strix Scope II 96 Wireless Review
+
+BEST FULL-SIZE GAMING KEYBOARD
+
+The Razer BlackWidow V4 Pro is worth the splurge (Image credit: Tom's Hardware)
+2. Razer BlackWidow V4 Pro
+Best Full-Size Gaming Keyboard
+SPECIFICATIONS
+Switches: Razer Green / Razer YellowBacklight: Per-key RGBType: Full-sizeSize: 18.25 x 6 x 1 inches (464 x 152 x 25mm)Weight: 2.26 pounds (1027g)
+TODAY'S BEST DEALS
+View at Best Buy
+Black
+View at Newegg
+Green
+View at Amazon
+Black
+View at Walmart
+Black
+REASONS TO BUY
++Plush wrist rest with 20 RGB zones
++Programmable knob and eight dedicated macro keys
++8,000 Hz max polling rate
+REASONS TO AVOID
+-ABS keycaps 
+-Macro keys disabled by default
+-Customization is very software-dependent
+
+If you've got the desk space, a full-size gaming keyboard is absolutely worth it. The Razer BlackWidow V4 Pro is Razer's premium full-size wired gaming keyboard and it's completely decked out with eight dedicated macro keys/buttons (five keys, three side buttons), a tactile, multi-function "Command Dial," and bright, immersive backlighting and underglow that extends to the included wrist rest.
+
+The BlackWidow V4 Pro is on the larger side — and it comes with a detachable wrist rest, so the full setup takes up even more space. It measures 18.25 x 6 x 1 inches (464 x 152 x 25 mm), not including the keycaps, and the wrist rest is about 3.25 inches (82.6 mm) deep, making the full dimensions 18.25 x 9.25 inches (464 x 235 mm). The wrist rest is a plush, padded leatherette that attaches magnetically to the keyboard and extends the keyboard's underglow via a 5-pin connection point. The keyboard's underglow has 18 programmable zones without the wrist rest attached, and the wrist rest adds another 20 zones for a fully immersive, seamless blend of color (the keyboard also has per-key RGB).
+
+Image 1 of 7
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+The BlackWidow V4 Pro features an aluminum alloy top plate over a plastic chassis and ABS keycaps, with machined metal media keys (four in the upper right corner — previous track, play/pause, next track, mute) and a textured volume roller. On the left side of the keyboard there are five dedicated macro keys (labeled M1 - M5), as well as three dedicated macro buttons along the side of the chassis. Above the macro keys you'll find a programmable rotary knob — the "Command Dial," which is customizable through Razer Synapse and has a dedicated backlight to help you identify different modes. If you're looking for a keyboard with a lot of extra functionality, this is it — all of the BlackWidow V4 Pro's keys are programmable, and you can program up to 100 custom modes on the Command Dial (it ships with four preset modes activated: keyboard brightness, windows zoom, switch applications, and track jogging.
+
+This keyboard is not hot-swappable, and it comes with your choice of either Razer Green (clicky) or Razer Yellow (linear) mechanical switches. Razer's Green clicky switches are a little heavier than other clicky switches, with 50g actuation force and an actuation point of 1.9mm, but I've always been a pretty big fan of how loud and obnoxious they are. The BlackWidow V4 Pro launched before Razer started experimenting with more enthusiast-style sound-dampening like you'll see in the Razer BlackWidow V4 75%, so it's definitely a bit pingy when you're typing — but maybe that only adds to the overall obnoxiously loud, clicky charm.
+
+It's fantastic for gaming, however, with fully programmable keys (including the macro keys/buttons, media keys, volume roller, and Command Dial) and an extra layer via Razer HyperShift, up to five onboard profiles, full N-key rollover, and up to an 8,000 Hz polling rate. It's a wired keyboard, so you won't have to worry about the per-key lighting and underglow sapping battery life, and it features a USB passthrough port (which is somewhat of a rarity, even on full-size keyboards, these days).
+
+There are, of course, some drawbacks to the BlackWidow V4 Pro — namely, its $230 price tag. It's hard to find a fully decked-out full-size gaming keyboard with all the features of the BlackWidow V4 Pro, but not everyone needs so many extra keys, buttons, dials, and lights. The $100 Corsair K70 Max RGB has a customizable rotary knob, while the $140 NZXT Function 2 has dedicated left-side media keys and a volume roller (none of these are programmable, however). If you're just looking for a full-size keyboard with no frills, the $110 HyperX Alloy Origins is a solid option that frequently goes on sale.
+
+Read: Razer BlackWidow V4 Pro Review
+
+BEST TKL GAMING KEYBOARD
+
+(Image credit: Tom's Hardware)
+3. Turtle Beach Vulcan II TKL
+Best TKL Gaming Keyboard
+SPECIFICATIONS
+Switches: Titan HS (linear)Backlight: YesType: TKLSize: 14.42 x 5.41 x 1.27 inches / 366.16 x 137.22 x 32.15 mmWeight: 1.29 pounds / 584g
+TODAY'S BEST DEALS
+View at Best Buy
+Black
+Check Amazon
+REASONS TO BUY
++Hot-swappable
++Premium build and pretty lighting
++Switches are smooth and accurate
+REASONS TO AVOID
+-Mushy-sounding keys
+-Default keycaps are cheap/too high-profile
+-Can't remap volume knob
+
+The Vulcan II TKL is the mechanical version of the keyboard (the Vulcan II TKL Pro has magnetic switches), and it comes with Turtle Beach's Titan HS (linear) switches, which have a 45g actuation force, a 1.8mm actuation distance, and are rated for up to 50 million keypresses. It also comes with a hot-swappable PCB that accepts both 3- and 5-pin switches, so you can also swap in your favorite mechanical switches. While the built-in switches are mushy-sounding, they don't feel mushy (and that's what really matters on a gaming keyboard). There's no RapidTrigger or Snap Tap, but Turtle Beach does have a software-based answer to Snap Tap that works with mechanical switches (set it up in the Swarm II app).
+
+The keyboard itself is lightweight but sturdily built, with an aluminum top plate and thin, T-shaped ABS keycaps that let the board's bright RGB lighting really shine. It's a wired keyboard with a detachable USB-C cable, and it features a TKL layout — alphanumeric keys, a function row, arrow keys, and a 2 x 3 navigation cluster, plus a slim plastic volume knob in the top right corner. It's a compact keyboard, measuring 14.42 inches (366.16mm) wide by 5.41 inches (137.22mm) deep, but there's still plenty of room between the key groupings so you won't feel cramped while typing or gaming.
+
+The Vulcan II TKL is a solid, relatively budget-friendly gaming keyboard with hot-swappable switches and a compact, well-dampened case — and while it might seem a little boring, the T-shaped keycaps and Turtle Beach's bright, pretty AIMO lighting preset make it a very pretty, space-saving option.
+
+Read: Turtle Beach Vulcan II TKL Review
+
+Image 1 of 8
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+Typing on the L3 is fantastic, whether you're using the included Keychron-exclusive Gateron Jupiter switches or your own switches. The keyboard has a double gasket mount design with two layers of sound-dampening foam in the case, and sounds much better than just about any mainstream gaming keyboard. It also comes with Keychron's Cherry-profile keycaps in double-shot PBT, which have a lower profile than standard OEM keycaps. The L3 offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (USB-C). Its 2.4GHz connection has a gaming-standard 1,000 Hz polling rate and gets around 200 hours of battery life (with the lighting turned off).
+
+The main drawback of the Lemokey L3 is that it's not quite as gamer-y as other gaming keyboards. If you're looking for a keyboard that will blend into your battle station, the L3's chunky aluminum chassis and generically-customizable lighting isn't going to fit quite as well as something like SteelSeries' Apex Pro TKL Wireless or Razer's Huntsman V3 Pro TKL. The L3 is also larger than most TKL keyboards — if you're looking to recoup desk space, you may want to go with something even smaller than a TKL, such as the 75-percent Asus ROG Azoth.
+
+Read: Lemokey L3 Review
+
+BEST MINI GAMING KEYBOARD
+
+The SteelSeries Apex Pro Mini is a small keyboard that's packed with functionality (Image credit: Tom's Hardware)
+4. SteelSeries Apex Pro Mini
+Best Mini Gaming Keyboard
+SPECIFICATIONS
+Switches: SteelSeries OmniPoint 2.0Backlight: Per-Key RGBType: 60%Size: 11.53 x 4.02 x 1.59 inches / 293 x 103 x 40.3mmWeight: 1.34lbs / 610g (wired) 1.2lbs / 543g (wireless)
+TODAY'S BEST DEALS
+View at SteelSeries
+View at Best Buy
+Black
+View at Amazon
+View at Newegg
+Black
+REASONS TO BUY
++Highly customizable
++Bright, attractive RGB
++Feels sturdy but isn’t too heavy
+REASONS TO AVOID
+-Dual actuation has a learning curve
+-SteelSeries GG has some bugs
+-Legends for secondary keybinds are hard to see
+
+They're not for everyone, but if you don't need all the extra keys on full-size and TKL layouts, an ultra-compact 65- or 60-percent keyboard might be right for you. Mini keyboards drop everything but the absolute necessities: a 65-percent layout has no numberpad, navigation cluster, or function row; a 60-percent layout also drops the arrow keys. Fewer keys means a much smaller footprint, perfect for gamers who want to angle their keyboards, have a smaller desk, or need something to travel with. But fewer keys also means you'll need pretty robust customization options, which is why the SteelSeries Apex Pro Mini Wireless is our favorite ultra-compact gaming keyboard.
+
+The Apex Pro Mini Wireless is a sleek, sturdily-built 60-percent keyboard featuring the brand's OmniPoint 2.0 HyperMagnetic switches. If you're wondering: at launch these were called OmniPoint 2.0 optical switches and SteelSeries rebranded them as HyperMagnetic to tag onto the trend of magnetic switches — they're the same switches, and, like other magnetic switches, feature adjustable actuation points, but SteelSeries did push out a firmware update that unlocked a wider actuation range and added a Rapid Trigger option. The Apex Pro Mini Wireless comes with a slew of preset secondary keybinds, which are conveniently printed on the sides of the keycaps and are relatively intuitive. And if you don't find them to be particularly intuitive, you can also remap almost every key (both primary and secondary keybinds). You can also set each key's actuation point and RGB lighting individually (if you want).
+
+Image 1 of 5
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+The Apex Pro Mini Wireless features an aluminum alloy top plate and double-shot PBT keycaps, and is otherwise pretty straightforward. It measures 11.53 x 4.02 x 1.59 inches (293 x 103 x 40.3mm) which is about the same size as other 60-percent keyboards (such as the Razer Huntsman Mini). It weighs 1.2 pounds (543g), which is heavy enough to feel premium, but lightweight enough to be travel-friendly. The keyboard offers both 2.4GHz wireless and Bluetooth 5.0 connectivity (as well as wired via USB-C), and gets around 30 hours of battery life over its low-latency 2.4GHz wireless connection.
+
+SteelSeries also offers a wired version, which is identical minus the battery; the Apex Pro Mini Wireless currently costs $190 (MSRP $240), while the wired version is quite a bit cheaper at $140 (MSRP $180). The company also recently dropped the limited-edition Apex Pro Mini Prebuilt: White Gold Edition (wired), which features a white aluminum chassis, white double-shot PBT keycaps, and a brass top plate. This edition is built more like a keyboard enthusiast's keyboard, with a hefty brass weight plate that added an extra pound and half to the build for a total weight of 2.75 pounds (1,242g) and no height adjustment. It's otherwise no different from the regular Apex Pro Mini, however — same actuation-adjustable switches, gamer-friendly customization options, and per-key RGB lighting.
+
+Image 1 of 4
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+I'm not the biggest fan of peripheral software, but customization is so critical to mini keyboards that this may be the one place where overly-ambitious, bloated gaming peripheral software is actually... not the worst option. SteelSeries' GG software has its issues, but it lets you customize the Apex Pro Mini Wireless to suit your typing/playstyle by remapping keys and adjusting actuation (actuation point, dual actuation, and Rapid Trigger), and you can store up to five profiles on the keyboard's hardware.
+
+Read: SteelSeries Apex Pro Mini Review
+
+BEST BUDGET GAMING KEYBOARD
+
+(Image credit: Tom's Hardware)
+5. Keychron V5 Ultra 8K
+Best Budget Gaming Keyboard
+SPECIFICATIONS
+Switches: Keychron Silk POM (Red, Brown, Banana)Backlight: YesType: 96-percentSize: 15.41 x 5.85 x 1.17 inches / 391.5 x 148.7 x 29.6mmWeight: 2.17lbs / 983g
+TODAY'S BEST DEALS
+View at Amazon
+Red
+View at Amazon
+View at Best Buy
+Black
+View at Best Buy
+Black
+REASONS TO BUY
++Great battery life
++8K polling rate
++Comfortable to type on
+REASONS TO AVOID
+-All plastic build
+-96-percent layout might feel cramped
+
+As long as you're not looking for magnetic switches, the Keychron V5 Ultra 8K is an impressive wireless mechanical keyboard with a hot-swappable PCB, a programmable rotary knob, up to an 8,000 Hz polling rate, and an unbelievable 660 hours of battery life while using that 8,000 Hz polling rate. If you need that extra-fast report rate to give you an advantage in gaming, this is the keyboard you should be looking at.
+
+The V5 Ultra 8K is a solidly-built mechanical keyboard, though it does have an all-plastic build. It sports a 96-percent layout, which means it's practically a full-size keyboard, but not quite. It has a full function row, a 10-key numberpad, and a row of navigation keys, as well as a rotary knob. The numberpad is squashed up next to the alphanumeric keys, and the arrow keys are somewhere in between those, so if you're not used to a 96-percent layout this will probably take some getting used to. But as long as you can adapt to the layout, it's a great option as it gives you plenty of extra keys without taking up too much desk space.
+
+While it's not explicitly marketed as a gaming keyboard, it's got most of the features gamers are looking for, including N-key rollover, a (very) high polling rate, and bright per-key RGB lighting. It comes with your choice of Keychron's Silk POM switches in red (linear), brown (tactile), or banana (tactile), and it also has a hot-swappable PCB so you can swap any mechanical switches of your choosing. It offers a very pleasant typing experience, thanks to a flexible gasket mount and slightly lower-than-average profile keycaps, and it's a solid choice for gamers who want the extra keys of a full-size board without having to give up their ability to make big, sweeping mouse gestures. It's also fairly affordable at $120 — not quite low enough for our list of best budget mechanical keyboards, but close.
+
+Read: Keychron V5 Ultra 8K Review
+
+MOST VERSATILE GAMING KEYBOARD
+
+(Image credit: Tom's Hardware)
+6. Corsair Galleon 100 SD
+Most Versatile Gaming Keyboard
+SPECIFICATIONS
+Switches: MLX Pulse (linear)Backlight: YesType: TKL without Stream Deck, Full-size if you count the Stream DeckSize: 17.64 x 6.26 x 1.65 inches / 448 x 159 x 42 mmWeight: 3.07lbs / 1.392kg
+TODAY'S BEST DEALS
+View at Amazon
+Black
+View at Best Buy
+Black
+View at CORSAIR
+View at Newegg
+REASONS TO BUY
++Sounds great
++Stream Deck is handy
++Premium build
++Stream Deck software is good
+REASONS TO AVOID
+-I would rather have a numberpad than a Stream Deck
+-Keyboard software is not great
+-Why not just buy a keyboard and Stream Deck separately?
+
+What's better than a keyboard with a rotary knob, dedicated media controls, and programmable macro keys? A keyboard with multiple rotary knobs, media controls, and programmable macro keys — or, a keyboard with a built-in Stream Deck. Corsair's Galleon 100 SD is the first of its kind: a mechanical gaming keyboard with a TKL layout and a built-in Stream Deck — complete with two rotary knobs, a full-color (non-touch) screen, and 12 customizable LCD keys — where its numberpad would be (well, if it were a full-size keyboard).
+
+The Galleon 100 SD is more than just a gimmick (though it is, admittedly, a little gimmicky) — it's a nice-looking keyboard, with bright, per-key RGB lighting and an aluminum top case with beveled edges and a fairly sleek profile. It comes with several accessories in the box, including a padded, soft-touch detachable magnetic wrist rest. It also sounds and feels very good as a keyboard, thanks to the six layers of sound-dampening foam included in the case. It has a hot-swappable PCB but it only comes in one switch option — Corsair's MLX Pulse (purple) switches, which are "thocky and linear" with an actuation force of 45g and a total travel of 3.6mm. It's very impressive for a mainstream gaming keyboard, and the only real downside is that the switches aren't magnetic. Well, that's not a downside for me, but it might be for you if you're looking for the hottest, speediest, most gamer-y gaming keyboard technology right now. The Galleon 100 SD doesn't support magnetic switch features like RapidTrigger or SOCD, though Corsair does allow you to set up a FlashTap (a software-side version of SOCD). It does offer up to an 8,000 Hz polling rate, though.
+
+Of course, this isn't just a keyboard — it's also a Stream Deck. The Stream Deck side of the board is nicely set up, with two programmable rotary knobs at the top, a 2.5 x 1.25 inch color LCD screen, and 12 LCD keys arranged in a 3 x 4 grid. While I definitely miss my 10-key numberpad (you can set up the LCD keys to display most of the numberpad, but it's absolutely not the same), I will also grudgingly admit that as someone who primarily uses the numberpad for macro keys and to enter the alt-code for the em dash every other sentence, a Stream Deck is more useful (if not easier to use). While the LCD keys can't replace the ease of a numberpad in muscle memory (if you do use your numberpad for data entry, the Stream Deck is not a suitable replacement), its programmability is much more useful for everything else. The screen at the top is divided into four sections, and each rotary knob controls the two sections directly below it (long-press the knob to switch between the two). While you will need to take some time to actually think through and set up the Stream Deck side of things, once you do it's a very handy tool.
+
+Now, you could always just get a keyboard and a Stream Deck... separately. I don't think having the Stream Deck attached to your keyboard is significantly more convenient than just having a Stream Deck right next to your keyboard, but I guess the main benefit here is that you only have to make one purchase — though you will have to set up the keyboard and Stream Deck separately, as the keyboard is set up through Corsair's Web Hub app, while the Stream Deck works through Elgato's Stream Deck software.
+
+Also, it's not a cheap purchase: the Galleon 100 SD retails for $350, which is pricier than just about every other mainstream gaming keyboard you can think of, save for Asus's $500, carbon fiber-wrapped Azoth Extreme. The Stream Deck+, which has four dials, eight LCD keys, and a touchscreen, currently costs around $160 right now, which would leave you almost $200 to spend on a separate keyboard. Don't get me wrong — the Galleon 100 SD is impressive enough on the keyboard side to be premium-priced, it's just not your only option for a keyboard-and-Stream-Deck combo.
+
+Read: Corsair Galleon 100 SD Review
+
+BEST MAGNETIC SWITCH GAMING KEYBOARD
+
+(Image credit: Tom's Hardware)
+7. Keychron Q1 HE
+Best Magnetic Switch Gaming Keyboard
+SPECIFICATIONS
+Switches: Gateron Double-Rail Magnetic Nebula SwitchBacklight: YesType: 75-percentSize: 12.89 x 5.71 x 1.41 inches/ 327.5 x 145 x 35.8mmWeight: 3.75lbs / 1700g
+TODAY'S BEST DEALS
+View at Best Buy
+Black
+View at Amazon
+View at Amazon
+White
+View at Newegg
+REASONS TO BUY
++Solid, full-metal build
++2.4GHz wireless connectivity (1,000 Hz polling rate)
++HE magnetic switches
+REASONS TO AVOID
+-Hot-swappable but switch options are limited
+-Some larger key rattle
+-Not cheap
+
+While it's not strictly marketed as a gaming keyboard, the wireless Keychron Q1 HE has magnetic Hall Effect switches and a 1,000 Hz polling rate — which means it's pretty solidly within gaming keyboard standards. This 75-percent keyboard features Gateron 2.0 double-rail magnetic Nebula switches, which are linear switches with an actuation range of 0.5- 3.8 mm and a bottom-out force of 60g. It sports a solid aluminum chassis with a double gasket-mounted, hot-swappable PCB, double-shot PBT keycaps, and a programmable knob. It's a solid, hefty keyboard (3.75lbs / 1,700g), but its 75-percent layout keeps it fairly compact.
+
+The switches it comes with are pre-lubed and have a smooth, stable linear keypress with no audible or tactile bump. While it does have a hot-swappable PCB, it can only take compatible magnetic switches (this is typical of most magnetic switch keyboards — there still isn't really a standard across companies). The keyboard offers a nice-sounding typing experience thanks to its sound-dampened case (there's some stabilizer rattle, but it's still leagues ahead of most mainstream gaming keyboards. The magnetic switches give you the same options as other magnetic switches: adjustable actuation, Rapid Trigger, and the ability to program multiple inputs on a single key — all features that are most useful in the context of gaming.
+
+The Q1 HE connects wirelessly via both low-latency 2.4GHz wireless and the more convenient Bluetooth 5.1, and it has a switch for switching between Windows and Mac modes. While it doesn't have dedicated media controls, the programmable rotary knob is more than you'll get on a lot of similarly-sized boards.
+
+Read: Keychron Q1 HE
+
+OTHER GAMING KEYBOARDS WE TESTED
+
+◼️ Asus ROG Strix Morph 96 Wireless
+
+Asus' ROG Strix Morph 96 Wireless is sort of a successor to our top pick, the Asus ROG Strix Scope II 96 Wireless. It's wireless, hot-swappable, and has a 96-percent layout, with a gasket-mount design and three forms of connectivity. It also features a customizable multi-function knob and it works with Asus new Gear Link web app — which you can use to customize the keyboard wirelessly. It's cheaper and comes with fewer accessories than the Strix Scope II 96 Wireless, however, and it's not the best option if you can find the former on sale.
+
+Read: Asus ROG Strix Morph 96 Wireless Review
+
+◼️ Asus ROG Azoth X
+
+The latest board in Asus' Azoth lineup has a brand-new aesthetic — it's much more colorful and unique than the original Azoth — and a brand new price tag of $300. That's $50 more than the original and just $200 less than the extreme version. It features a hot-swappable PCB, Asus' second-gen "refined" linear or clicky switches, a gasket-mount design, and five layers of sound-dampening foam, but the typing experience is just okay thanks to a thunky extra-dampened spacebar. It offers tri-mode connectivity and up to 1,600 hours of battery life, plus a web-based Armoury Crate that I have yet to find. For a gaming keyboard, it's good. But not for $300.
+
+Read: Asus ROG Azoth X Review
+
+◼️HyperX Origins 2 65
+
+This wired 65-percent gaming keyboard features an o-ring mount, which is designed to provide a more responsive typing experience. In other words, HyperX is paying at least some attention to the enthusiast side of keyboards. Unfortunately, our reviewer didn't feel much (or, well, any) of a difference in typing, so while the thought was there, the implementation was not. Ambitious mounting aside, this keyboard is compact and easy to customize, with light linear switches and up to an 8,000 Hz polling rate — it's a pretty solid gaming keyboard, but it doesn't have the enthusiast feel HyperX was going for.
+
+Read: HyperX Origins 2 65 Review
+
+◼️ Glorious GMMK 3 Pro
+
+Glorious' newest GMMK 3 lineup is fancy, and the flagship feature is the brand's custom keyboard builder: the GMMK Boardsmith. The Boardsmith lets you build your own keyboard: wired or wireless; 65-percent, 75-percent, or full-size; MX mechanical or magnetic switches; with a custom case, accents, and keycaps. It's a one-stop shop for those who want a custom-built gaming keyboard, and it's fairly unique in the world of mainstream gaming keyboards. But it's just so... expensive.
+
+The cheapest pre-built (non-customized) GMMK 3 starts at $119 for a wired, 65-percent mechanical keyboard with a plastic case, while the priciest GMMK 3 is $409 for a wireless, full-size magnetic switch keyboard with an aluminum case. If you decide to build your own board, that price can go all the way up to $608, which is pretty crazy for mechanical keyboard from a mainstream gaming company. While the GMMK 3 is very well built and is highly customizable... it's still a mainstream gaming keyboard.
+
+Read: Glorious GMMK 3 Pro Review
+
+◼️ Asus ROG Azoth Extreme
+
+The Asus ROG Azoth Extreme is the anticipated "extreme" version of Asus' flagship premium gaming keyboard, the ROG Azoth. The Azoth Extreme takes the already-pretty-extreme Azoth to the next level with a full aluminum alloy chassis, a carbon fiber positioning plate, refined sound dampening and stabilizers, a full-color, customizable, touch-gesture-enabled OLED screen, an adjustable gasket mount, and a wrist rest. But all this doesn't come cheap: the Azoth Extreme is a whopping $500 — twice the price of the already-expensive $250 Azoth.
+
+The Azoth Extreme is a well-built 75-percent mechanical gaming keyboard with a meticulously machined case, per-key RGB backlighting, double-shot PBT keycaps, and Asus' linear or clicky switches. It also has a hot-swappable PCB, a carbon fiber positioning plate, and a gasket mount that can be adjusted via a switch on the back for a softer or firmer typing feel. Out of the box, the Azoth Extreme sounds and feels even better than the original Azoth (which already sounded and felt fantastic).
+
+The Azoth Extreme is definitely... extreme. And it's so well-built that it arguably earns its high price — but that doesn't necessarily mean it's worth buying. The Azoth Extreme is highly customizable, but most of that customizability will likely go unused by the majority of gamers — you're not paying $500 for a keyboard you then have to turn around and customize.
+
+Read: Asus ROG Azoth Extreme Review
+
+◼️ Logitech G515 Lightspeed TKL
+
+The new G515 Lightspeed TKL features the same general design as the rest of the GX15 lineup, but with updated switches, access to Logitech's KEYCONTROL, and a budget-friendly price of $140.
+
+The G515 Lightspeed TKL is a wireless mechanical gaming keyboard with Logitech's low-profile GL switches (linear or tactile), which now have a POM cross-style stem for reduced wobble and a better typing experience. It sports a slim, all-plastic build with premium-feeling double-shot PBT keycaps and bright per-key RGB backlighting. While it's not quite as satisfying to type on as a similarly-equipped full-height gaming keyboard, the G515 Lightspeed TKL offers a very pleasant typing experience with consistent tactile feedback and solid (if not perfect) gaming performance.
+
+It features both 2.4GHz wireless and Bluetooth connectivity and gets 36 hours of battery life over 2.4GHz wireless with the brightness turned up all the way — and up to 600 hours with the backlighting turned off.
+
+Read: Logitech G515 Lightspeed TKL Review
+
+HOW WE TEST GAMING KEYBOARDS
+
+Peripherals are as much about comfort, usability, and aesthetics are they are about performance. First, we inspect each keyboard's built quality, taking note of premium materials such as double-shot PBT keycaps and aluminum alloy backplates. We look at keycap profiles and legends, top and bottom case materials, default typing angle and angle adjustment options, and included accessories such as wrist rests and cables.
+
+We then spend a couple of weeks using each keyboard as our primary input source for work and play — we use it for writing, gaming, and everything in between. We take a typing test at the beginning of our time with each keyboard and several throughout our testing. While typing tests are not terribly useful as objective measures of anything, they give our reviewers a handle on how well the keyboard's elements fit together (and how easily one can adapt to the keyboard — especially if it sports an unusual size or layout).
+
+We test the keyboard's gaming performance by playing a variety of games, including fast-paced first-person shooters and battle royale type games such as Overwatch 2 and Apex Legends, as well as more endurance-based open world RPGs such as The Elder Scrolls Online and Baldur's Gate 3. We want to see how well the keyboard performs in a competitive environment where speed is essential, but we also want to see how comfortable it is to use if you're planning on doing marathon runs in MMORPGs.
+
+If the keyboard is hot-swappable, we swap in our favorite switches and see how that changes the typing experience — though we also test and review the included switches, as many people don't want to make another purchase immediately after buying a keyboard. And if the keyboard is wireless, we test the strength, consistency, and latency of the wireless connection, as well as the keyboard's battery life and how well performance holds up at low battery levels.
+
+Finally, customization is an important factor in gaming keyboards, so we test each keyboard's customizability using any included companion software. While customization and key remapping isn't as absolutely necessary on a keyboard as it is on, say, a mouse, it can be critical on mini/ultra-compact keyboards.
+
+QUICK SHOPPING TIPS
+
+Size/layout: There are myriad keyboard layout options — from full-size with extra macro keys to ultra-compact 60-percent layouts without arrow keys. While a 10-key numberpad and extra macro keys can be useful for MMOs and games with a lot of keyboard shortcuts, most gamers will probably prefer a smaller layout and more desk space. Here's a quick breakdown of the sizes you're likely to come across:
+
+⌨ Full-size: Has between 104 and 108 keys, including a 10-key number pad, arrow keys, a full function row, and a 9-key navigation cluster. Often has extra keys, such as dedicated macro keys, as well as dedicated media keys that can usually be remapped.
+⌨ 96-percent: Usually drops some or all of the navigation keys but keeps the 10-key number pad. A compact (read: squashed) full-size layout.
+⌨ TKL: Tenkeyless, or TKL, refers to the fact that this layout drops the 10-key number pad. That's the only key cluster it drops, however — it still has function keys, arrow keys, and nine navigation keys.
+⌨ 75-percent: A more compact TKL layout that also drops some of the navigation keys. Instead of the standard 3 x 3 navigation cluster, a 75-percent layout usually has a single column of 3 - 5 navigation keys and/or a rotary dial.
+⌨ 70-percent: The 75-percent layout minus the function row.
+⌨ 65-percent: Here's where it starts to get muddled. 65-percent keyboards are usually as ultra-compact as you can get without dropping the arrow keys, but we've seen '65-percent' used to refer to keyboards with both arrow keys and a function row (technically a 70-percent layout), as well as keyboards with arrow keys, a function row, and a column of navigation keys (technically a 75-percent layout).
+⌨ 60-percent: The most compact you can get — no number pad, navigation cluster, function row, or arrow keys. 60-percent is sometimes used to describe keyboards with arrow keys (technically a 65-percent layout).
+
+Switches: The best gaming keyboards use a number of different mechanical, optical, and magnetic switch types, which determine the feel and sound of each key press. The type of switch you choose depends on your personal preferences for typing and gaming — for more on the ins and outs of mechanical switches, check out our guide to mechanical switch spec ranges.
+
+☑ Clicky (audible click, bump): Blue, Green, White
+☑ Tactile (no audible click, bump): Brown, Clear
+☑ Linear (quiet, no audible click or bump): Red, Silver
+
+If you aren't ready to commit, a hot-swappable keyboard will let you swap switches out easily.
+
+Customization: Customization is a big feature of gaming keyboards, but not everyone does a lot of remapping or macro recording, or needs multiple profiles for different games. If you're looking at an ultra-compact keyboard you'll be using this feature a lot — the apps that are too complicated for most peripherals can actually be a big help here, especially if they have presets for popular games. If you're looking at a roomier layout, however, you may not need to remap anything.
+
+RGB: Not all RGB is created equal — per-key RGB lets you program each key's color individually, while zone lighting limits your customization to just a few areas of the board. You can usually save a little money by picking up a keyboard with a single-color backlight (but you'll miss out on a spectacular light show). You can also forgo lighting altogether if you're a touch-typist (or gaming in a well-lit area). But if you're looking for the best lighting option, look for something that's bright, colorful, and immersive — many gaming peripherals companies team up with games to create immersive lighting presets for their peripherals.
+
+Connectivity: If you're looking for something reliable, low-latency, and budget-friendly, a wired connection is still your best bet. But wireless peripherals have come a long way in the last few years, and are solid enough that even professional gamers will use them — especially keyboards, where latency is less of an issue than it is with, say, mice. Gamers will need a 2.4GHz wireless connection with a minimum 1,000 Hz polling rate, however — keyboards and peripherals with lower polling rates or Bluetooth-only connectivity are just not designed for gaming and will have a noticeable lag. While you will see Bluetooth built into many gaming keyboards, that's to make those keyboards more appealing in a non-game context — it's not for gaming.
+
+As for polling rates, anything higher than 1,000 Hz (1ms) is going to be very difficult for even competitive gamers to discern — high polling rates make more sense in mice, which are constantly moving, but keyboards aren't outputting continuous movement and so won't benefit significantly from polling rates that are speedier by fractions of milliseconds.
+
+How To Choose A Gaming Keyboard
+How to choose a gaming keyboard - Whether you’re playing fast-moving esports games or chatting with friends on Discord, your keyboard is key. A great keyboard will make you a better player and typist. Consider these 5 things when choosing a gaming keyboard...
+0 seconds of 2 minutes, 47 secondsVolume 0%
+ 
+Round up of today's best deals
+Asus ROG Strix Scope II 96 Wireless
+$139.99
+$109.45
+VIEW
+See all prices
+Razer BlackWidow V4 Pro
+$249.99
+$179.99
+VIEW
+See all prices
+Turtle Beach Vulcan II TKL
+$99.99
+VIEW
+See all prices
+SteelSeries Apex Pro Mini
+$221.36
+VIEW
+See all prices
+SteelSeries Apex Pro Mini (Gen 3)
+$219.99
+$158.39
+VIEW
+See all prices
+Keychron V5 Ultra 8K
+$119.99
+VIEW
+See all prices
+Corsair Galleon 100 SD
+$349.99
+$299.99
+VIEW
+See all prices
+Keychron Q1 HE
+$239.99
+VIEW
+See all prices
+We check over 250 million products every day for the best prices
+POWERED BY
+Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+TOPICS
+Gaming
+ SEE ALL COMMENTS (5)
+Sarah Jacobsson Purewal
+Senior Editor, Peripherals
+
+Sarah Jacobsson Purewal is a senior editor at Tom's Hardware covering peripherals, software, and custom builds. You can find more of her work in PCWorld, Macworld, TechHive, CNET, Gizmodo, Tom's Guide, PC Gamer, Men's Health, Men's Fitness, SHAPE, Cosmopolitan, and just about everywhere else.
+
+BACK TO TOP
+READ MORE
+Gaming Mice
+Best Gaming Mouse 2026: Tested for Every Grip Style
+ 
+ 
+Gaming Headsets
+Best Gaming Headsets 2026: Tested for Comfort, Connectivity, and Communication
+ 
+ 
+Gaming Keyboards
+Glorious GMMK Eternal Review: Fits anywhere, sounds great
+ 
+ 
+Gaming Mice
+Best Mouse Pads 2026: Tested for Performance and Pretty Lights
+ 
+ 
+PC Components
+Grab a SteelSeries Apex Pro keyboard at up to 50% off — save up to $120 on one of the best gaming keyboards you can buy today
+ 
+ 
+Mechanical Keyboards
+IQUNIX MQ80 low profile mechanical keyboard review
+ 
+ 
+LATEST IN GAMING KEYBOARDS
+Gaming Keyboards
+Save 40% on a new budget gaming keyboard
+ 
+ 
+Gaming Keyboards
+Glorious GMMK Eternal Review: Fits anywhere, sounds great
+ 
+ 
+Gaming Keyboards
+Need a wired keyboard for PC gaming? Logitech G has the answer
+ 
+ 
+Gaming Keyboards
+Logitech G's mechanical keyboard is a competitive gamer's dream
+ 
+ 
+Gaming Keyboards
+Logitech G's latest gaming keyboard gives you options
+ 
+ 
+Gaming Keyboards
+Upgrade to a premium wireless low-profile gaming keyboard for just $42
+ 
+ 
+LATEST IN BEST PICKS
+3D Scanning
+The Best 3D Scanners 2026
+ 
+ 
+Docking Stations and Hubs
+The Best Thunderbolt and USB-C Docks in 2026: Up to 140W power delivery, 10 GbE, and even internal M.2 SSD slots
+ 
+ 
+USB
+Best USB Chargers 2026
+ 
+ 
+Gaming Laptops
+Best budget gaming laptops of 2026: The best cheap laptops we've tested and benchmarked
+ 
+ 
+Laptops
+Best Laptops 2026: Our benchmarked picks for productivity, portability, and battery life
+ 
+ 
+Case Fans
+Best PC case fans tested 2026: Improve your airflow, silence your system, or add more RGB glow
+ 
+ 
+
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+Add as a preferred source on Google
+Terms and conditions
+Contact Future's experts
+Privacy policy
+Cookies policy
+Accessibility Statement
+Advertise with us
+About us
+Coupons
+Careers
+Do not sell or share my personal information
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.

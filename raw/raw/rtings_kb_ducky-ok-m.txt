@@ -1,0 +1,677 @@
+URL: https://www.rtings.com/keyboard/reviews/ducky/ok-m
+TITLE: Ducky OK-M Review - RTINGS.com
+SAVED: 2026-11-18T23:02:18.019Z
+
+Products
+Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Keyboards Mechanical Wireless Ergonomic Budget Gaming Typing iPad Mac Office Budget And Cheap Programming Logitech Budget Mechanical 75% Keychron Low-Profile Razer 60% Quiet
+TOOLS
+Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Wooting 80HE Keychron Q6 [Q1, Q3, etc.] Ultra 8K Logitech MX Keys S NuPhy Air75 V3 [Air65 V3, Air100 V3] Corsair K70 CORE AULA F99/F75 NuPhy WH80 Lemokey P1 HE Ducky OK-M NuPhy Node Series Keychron K5 Max [K1 Max, K3 Max, etc.] Keychron K2 [K4, K8, K10, etc.] Ultra 8K MonsGeek FUN60 Ultra MonsGeek M1 V5 TMR Razer Huntsman V3 Pro 8KHz Wooting 60HE v2 Lofree Flow 2 Logitech G316 X Keychron B33/B36 Logitech Signature K650
+303 KEYBOARDS BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Keyboard  Reviews  Ducky  OK-M  Review
+Notice: We've revamped our membership program.
+Ducky OK-M  Keyboard Review
+By Sophie Arsenault, Gregory Vodden, John Peroramas
+Reviewed May 13, 2026 at 12:34pm
+Writing modified Jun 23, 2026 at 10:05am
+Tested using Methodology v1.4.3 
+Size
+Compact (75%)
+Hot-Swappable Switches
+Yes
+Connectivity
+Wireless
+Switch Type
+Mechanical
+Output Type
+Non-Adjustable
+N/A
+Gaming 
+N/A
+Office 
+N/A
+Mobile/Tablet 
+N/A
+Programming 
+N/A
+Entertainment / HTPC 
+N/A
+Raw Performance 
+CREATE YOUR OWN 
+SEE PRICE
+Amazon
+
+TRACK
+
+GIFT THIS REVIEW
+
+ SHARE
+ 0
+Intro
+Our Verdict
+Changelog
+Differences
+Popular Comparisons
+Design
+Dimensions
+Build Quality
+Ergonomics
+Hardware Customizability
+Backlight Features
+Backlight Clarity
+Cable & Connector
+Wireless Versatility
+Macro Keys And Programming
+Extra Features
+In The Box
+Typing Experience
+Typing Quality
+Typing Noise
+Keystrokes
+Adjustable Input Granularity
+Switches
+Performance
+Single-Key Latency
+Multi-Key Latency
+Data Transmission
+Chord Split
+Software and Operating System
+Configuration Software
+Computer Compatibility
+Wireless Mobile Compatibility
+Retailers
+Comments
+Recommended in:
+KEYBOARDS
+MECHANICAL
+MAC
+BUDGET AND CHEAP
+BUDGET MECHANICAL
+75%
+RGB
+DUCKY
+
+The Ducky OK-M series is a lineup of budget mechanical keyboards with plastic chassis and gasket-mounted designs. They come with pre-lubed KTT switches, have per-key RGB backlighting, and support wireless connectivity using a 2.4GHz USB receiver or Bluetooth. They're also compatible with the VIA configurator, a popular web-based tool for remapping keys and customizing keyboard settings.
+
+We bought the compact 75% Ducky OK-M 75 for this review, but a smaller 65% and larger "980 layout" variants are also available. See our Differences Between Variants section for details.
+
+Our Verdict
+N/AOffice 
+
+The Ducky OK-M boards are very good for office work. Despite their all-plastic build, they have decent overall build quality without any standout issues. They offer excellent typing quality, with pre-lubed switches that have only minor wobble that isn’t particularly noticeable when typing, as well as very consistent stabilizers. Their gasket-mounted design also provides a soft, somewhat springy typing feel, and they connect wirelessly with a 2.4GHz dongle or via Bluetooth, with support for multi-device pairing. Unfortunately, they don't include a wrist rest, which can improve ergonomics by reducing the need to angle your wrists to reach all the keys and helping limit strain over long typing periods.
+
+Pros
+
+Excellent typing quality.
+
+Connects wirelessly with 2.4GHz receiver or Bluetooth.
+
+Quiet typing noise.
+
+Cons
+
+No advertised battery life expectations.
+
+SEE PRICEAmazon
+SEE OUR OFFICE RECOMMENDATIONS 
+N/A
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+ CREATE YOUR OWN
+Changelog
+ Updated Jun 23, 2026: 
+
+We've added a link to the GravaStar Mercury K1 to the Typing Quality section.
+
+ Updated May 19, 2026: 
+
+We've corrected a small typo in the Dimensions section: we previously listed the keyboard's height as 16.1" (40.9 cm). The correct height is 1.6" (4.1 cm).
+
+ Updated May 13, 2026: Review published.
+ Updated May 06, 2026: Early access published.
+Show more 
+Check Price
+BlackOK-M 98
+SEE PRICEAmazon
+Black and BlueOK-M 65
+SEE PRICEAmazon
+Black and BlueOK-M 75
+SEE PRICEAmazon
+Black and BlueOK-M 98
+SEE PRICEAmazon
+Differences Between Sizes And Variants
+
+The Ducky OK-M keyboards are available in three sizes, two colorways, and two KTT switch options. See the Dimensions box for more details about how these size options compare.
+
+Name	Size	Colorways *	Switch Options
+Ducky OK-M 65	Compact 65%	Black, Black and Blue	KTT Red Wine (linear), KTT Baby Blue (tactile)
+Ducky OK-M 75	Compact 75%
+Ducky OK-M 98 	Compact 98% ('980' Layout')
+
+*According to the listing for these keyboards on Mechanicalkeyboards.com, the Black and Blue colorway has non-backlit black keycaps and blue accent keys, while the Black colorway has a solid black frame, backlit black keycaps, and purple accent keys. See Backlight Clarity for more details.
+
+We bought the 75% Ducky OK-M 75 in Black and Blue, but we expect our test results to be representative across all size variants in this series. See a photo of our unit's label.
+
+Popular Keyboard Comparisons
+
+The Ducky OK-M series is a lineup of budget mechanical keyboards that represent something of a return to form for Ducky. The brand used to be one of the most popular names in mechanical keyboards, with standout models like the Ducky One 3, but it has since fallen behind competitors with more robust feature sets and better typing quality. The OK-M boards help close that gap by incorporating many features that have become common across the keyboard market, including wireless connectivity, pre-lubed switches and stabilizers, gasket mounting for a softer and more consistent typing feel, hot-swappable PCBs, and support for a standardized web-based configurator.
+
+These keyboards are a good option if you're buying your first mechanical keyboard or just want a straightforward wireless model with a high-quality typing experience. They're similar in many ways to options like the AULA F99/F75, but they offer a more straightforward buying experience and much simpler, easier-to-use software. They also deliver roughly the same high-quality typing experience, and they approach the same build quality as popular mid-range options like the Keychron V Max or Keychron K Max series. However, those Keychron lineups are available in more size options. Compared to more premium options, such as the Lofree Flow 2 or Keychron Q Ultra 8K series keyboards, the biggest differences are typically fit and finish, case materials, and occasionally raw gaming performance, which only really matters if you primarily play competitive games.
+
+For more recommendations, see our picks for the best budget and cheap keyboards, the best wireless keyboards, and the best mechanical keyboards.
+
+Epomaker TH80 Pro
+SEE PRICEWalmart.com
+
+The Epomaker TH80 Pro and the Ducky OK-M 75 are wireless mechanical keyboards with similar 75% layouts and rotary knobs, though the Epomaker has two fewer keys. The Epomaker has slightly more robust-feeling build quality overall, but the Ducky has better typing quality, with much more consistent stabilizers and a gasket-mounted design that lends typing a soft, slightly springy quality.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Keychron K8 Max [K2 Max, K10 Max, etc.]
+SEE PRICEAmazon
+
+The Ducky OK-M and Keychron K Max series are lineups of wireless mechanical keyboards. The Ducky boards are available in 65%, 75%, and 98% sizes, with both linear and tactile switch options. The Keychron boards are available in many more size options, as well as one linear and two tactile switch options. Both lineups have excellent typing quality, but the Ducky boards have a comparatively softer, almost springy typing feel due to their gasket-mounted design. By contrast, the Keychron boards have a more traditional tray mount and steel plate, making them comparatively stiffer. The Keychron boards also have more robust overall build quality and raw gaming performance.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+NuPhy Node Series
+SEE PRICEAmazon
+
+Both the NuPhy Node Series and Ducky OK-M series are lineups of wireless mechanical keyboards. The NuPhy boards are available in standard-profile and low-profile versions, with 75% and 100% sizes and linear, tactile, or silent linear switch options. They also have more robust build quality, better gaming performance, and more extensive software options. The Ducky boards, on the other hand, are only available as standard-profile models, in 65%, 75%, and 98% sizes, with either tactile or linear switches.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+Logitech Alto Keys K98M
+SEE PRICEAmazon
+
+The Logitech Alto Keys K98M and the Ducky OK-M 98 are wireless mechanical keyboards with similar compact 98% sizes. They have nearly all the same keys as a full-size keyboard, but in a more compact package. The Logitech is designed more purely as an everyday browsing and productivity board. It has better build quality, and while it only has white backlighting, it has shine-through legends, unlike the Ducky. On the other hand, the Ducky is designed for everyday browsing, productivity, and gaming. It also has a control knob, which the Logitech lacks, as well as full RGB backlighting. The Ducky is also available in two smaller variants, 65% and 75% sizes, and with either linear or tactile switches, while the Logitech is only available in one size and with linear switches.
+
+ COMPARE SIDE-BY-SIDE
+SEE OUR REVIEW 
+SHOW MORE 
+Test Results
+Sort:
+RATINGS
+Category:
+All
+DESIGN
+11 TESTS
+HIDE TEST DETAILS
+Dimensions
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Size
+LockedCompact (75%)
+Height
+LockedLock" (Lock cm)
+WidthLockedLock" (Lock cm)
+Depth
+LockedLock" (Lock cm)
+Depth With Wrist Rest
+LockedN/A
+Weight
+LockedLock lbs (Lock kg)
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Build Quality
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Keycap MaterialLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Ergonomics
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Curved/Angled
+LockedLocked
+Split Keyboard
+LockedLocked
+Key Alignment
+LockedLocked
+Minimum Incline
+LockedLock°
+Medium Incline
+LockedLock°
+Maximum Incline
+LockedLock°
+Home Row Height
+LockedLock mm (Lock")
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Hardware Customizability
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Replaceable Cherry Stabilizers
+LockedLocked
+Stabilizer Fixation
+LockedLocked
+Spacebar Stabilizer Size
+LockedLocked
+Size Of Right Mod Keys
+LockedLocked
+Hot-Swappable Switches
+LockedYes
+Switch Stem Shape
+LockedLocked
+Mechanical Switch Compatibility
+LockedLocked
+Magnetic Switch Compatibility
+LockedLocked
+North-Facing Cherry MX Interference
+LockedLocked
+N/A
+Backlight Features
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+SAMPLE
+Join Now
+
+for pictures & test results
+
+BacklightingLockedLocked
+RGB
+LockedLocked
+Per-Key Backlighting
+LockedLocked
+Effects
+LockedLocked
+Software Controllable
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Backlight Clarity
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Cable & Connector
+ConnectivityLockedWireless
+Detachable
+LockedLocked
+LengthLockedLock ft (Lock m)
+Connector (Keyboard side)
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Wireless Versatility
+Bluetooth
+LockedLocked
+Bluetooth Multi-Device Pairing
+LockedLocked
+Proprietary Receiver
+LockedLocked
+Battery Type
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Macro Keys And Programming
+Dedicated Macro Keys CountLockedLock
+Onboard Macro Programming
+LockedLocked
+Macro Programming With Software
+LockedLocked
+Extra Features
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Media Keys
+LockedLocked
+Trackpad / TrackballLockedLocked
+Scroll Wheel
+LockedLocked
+Control Knob
+LockedLocked
+USB Passthrough
+LockedLocked
+NumpadLockedLocked
+Windows Key Lock
+LockedLocked
+Lock IndicatorLockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+In The Box
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+TYPING EXPERIENCE
+5 TESTS
+HIDE TEST DETAILS
+N/A
+Typing Quality
+Key Spacing
+LockedLock mm (Lock")
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT TYPING QUALITY 
+N/A
+Typing Noise
+SAMPLE
+Join Now
+
+for videos & test results
+
+Average Loudness
+LockedLock dBA
+High Pitch Clicks
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT TYPING NOISE 
+Keystrokes
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Initial Force
+LockedLock gf
+Peak Tactile Force
+LockedN/A
+Actuation Force
+LockedLock gf
+Bottom-Out Force
+LockedLock gf
+Pre-Travel Distance
+LockedLock mm
+Total Travel Distance
+LockedLock mm
+LEARN ABOUT KEYSTROKES 
+N/A
+Adjustable Input Granularity
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Top Deadzone
+LockedN/A
+Bottom Deadzone
+LockedN/A
+Detection Ratio
+LockedN/A
+Minimum Step Depth
+LockedN/A
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+Switches
+SAMPLE
+Join Now
+
+for videos & test results
+
+Switch Name
+LockedLocked
+Switch Type
+LockedMechanical
+Feel
+LockedLocked
+Output Type
+LockedNon-Adjustable
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+PERFORMANCE
+4 TESTS
+HIDE TEST DETAILS
+N/A
+Single-Key Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Best Connection
+LockedLock ms
+Best Connection Std DevLocked±Lock ms
+Wired
+LockedLock ms
+Receiver
+LockedLock ms
+Bluetooth
+LockedLock ms
+PCB (Estimated)
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+LEARN ABOUT SINGLE-KEY LATENCY 
+N/A
+Multi-Key Latency
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Connection EvaluatedLockedLocked
+Key Press
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Data Transmission
+SAMPLE
+Join Now
+
+for pictures & test results
+
+Connection EvaluatedLockedLocked
+USB Polling Rate
+LockedLock Hz
+Effective Update Rate
+LockedLock Hz
+N-Key Rollover (NKRO)
+LockedLocked
+Multiple Keys Per USB Report
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Chord Split
+SAMPLE
+Join Now
+
+for pictures & test results
+
+4 Chord Split Delay
+LockedLock ms
+8 Chord Split Delay
+LockedLock ms
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+SOFTWARE AND OPERATING SYSTEM
+3 TESTS
+HIDE TEST DETAILS
+Configuration Software
+SAMPLE
+Join Now
+
+for videos & test results
+
+Software NameLockedLocked
+Software Windows Compatible
+LockedLocked
+Software macOS Compatible
+LockedLocked
+Onboard Memory
+LockedLocked
+Profiles
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Computer Compatibility
+Windows
+LockedLocked
+macOS
+LockedLocked
+Linux
+LockedLocked
+Media Key Compatibility
+LockedLocked
+
+Become a member to view the full test results and text of the reviews, as well as extra website features and tools with no ads.
+
+N/A
+Wireless Mobile Compatibility
+Android
+LockedLocked
+iOS
+LockedLocked
+iPadOS
+LockedLocked
+Media Key Compatibility
+LockedLocked
+Missing something for your decision? Tell us!
+Newsletters
+Stay up-to-date on the latest product reviews and deals, delivered straight to your inbox.
+SIGN UP
+By signing up for this newsletter, you consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletter at any time.
+The Essential
+A quick roundup of our latest reviews, and key product updates.
+RTINGS Deals
+Handpicked discounts on top-rated products across every category.
+R&D Newsletter
+Behind-the-scenes testing insights and deep-dive findings from our lab.
+Computers
+Updates on the best laptops, monitors, keyboards, mice, and more.
+Recommended Articles
+The 6 Best Gaming Keyboards
+The 5 Best Keyboards
+The 5 Best Mechanical Keyboards
+The 6 Best Wireless Keyboards
+The 6 Best Ergonomic Keyboards
+The 4 Best Budget Gaming Keyboards
+The 5 Best Keyboards For Typing
+The 5 Best iPad And iPad Pro Keyboards
+The 6 Best Keyboards For Mac
+The 5 Best Office Keyboards
+The 6 Best Budget And Cheap Keyboards
+The 5 Best Keyboards For Programming
+The 5 Best Logitech Keyboards
+The 4 Best Budget Mechanical Keyboards
+The 6 Best 75% Keyboards
+The 4 Best Keychron Keyboards
+The 5 Best Low-Profile Keyboards
+The 4 Best Razer Keyboards
+The 4 Best 60% Keyboards
+The 6 Best Quiet Keyboards
+The 5 Best TKL Keyboards
+The 5 Best RGB Keyboards
+The 4 Best Corsair Keyboards
+The 3 Best Ducky Keyboards
+Comments
+PRODUCT
+ACTIVE 10 MONTHS AGO · 
+ • POSTED 10 MONTHS AGO
+Ducky OK-M: Main Discussion  
+
+Let us know why you want us to review the product here, or encourage others to vote for this product. Comments transferred from merged discussions are also included.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+0 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+ • POSTED 4 MONTHS AGO
+
+Update: We’ve added a link to the GravaStar Mercury K1 to the Typing Quality section.
+
+Show More Updates
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Privacy Options
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.

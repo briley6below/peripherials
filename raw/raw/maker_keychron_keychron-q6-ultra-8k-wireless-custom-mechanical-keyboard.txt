@@ -1,0 +1,419 @@
+URL: https://www.keychron.com/products/keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard (Shopify product JSON)
+SAVED: 2026-11-18T23:02:57.066Z
+
+{
+ "id": 8078475526233,
+ "title": "Keychron Q6 Ultra 8K Wireless Custom Mechanical Keyboard",
+ "body_html": "<p>Keychron Q6 Ultra 8K is a full size layout full-metal wireless custom mechanical keyboard. Featuring advanced elements such as an 8K Polling rate and 256KHz single-key scanning rate, Keychron Silk POM Switch, and advanced acoustic foam, the Q6 Ultra 8K enhances your typing experience and elevates your performance.</p>\n<p><strong>Key specs</strong></p>\n<ul>\n<li>Layout: 100% full size, ANSI, with knob</li>\n<li>Connectivity: 2.4 GHz, Bluetooth, wired; 8000 Hz polling rate</li>\n<li>Switches: Keychron Silk POM Switch Brown / Red / Banana; hot-swappable</li>\n<li>Build: CNC Aluminum, gasket mount, PC plate</li>\n<li>Keycaps: KSA double-shot PBT keycaps</li>\n<li>Battery: 4000 mAh, up to 660 hours</li>\n<li>Software: ZMK firmware; Keychron Launcher web app for key remapping and macros; works with macOS, Windows, Linux</li>\n<li>Backlight: South-facing RGB LED</li>\n<li>Weight: 2238g ± 10g</li>\n<li>Dimensions: 137 x 446mm</li>\n<li>N-key rollover: Yes (wireless &amp; wired)</li>\n</ul>\n<p><strong>What's in the box</strong></p>\n<p class=\"okr-block-clipboard\">The Fully Assembled version includes:</p>\n<ul>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; min-height: 15px;\">The keyboard PCB, the case, and the PC plate.</span></li>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; min-height: 15px;\">Keycaps (including Mac &amp; Windows keycaps).</span></li>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; min-height: 15px;\">Keychron Silk POM Switches.</span></li>\n</ul>\n",
+ "vendor": "Q Ultra 8K series",
+ "product_type": "Custom Keyboards",
+ "created_at": "2025-11-13T11:33:25+08:00",
+ "handle": "keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard",
+ "updated_at": "2026-11-19T07:02:54+08:00",
+ "published_at": "2026-01-06T16:15:23+08:00",
+ "template_suffix": "q6-ultra",
+ "published_scope": "global",
+ "tags": "100% Layout, CaseMaterial:All-metal, Connectivity:wireless, Custom Keyboard, Hot Products, Keyboard, KeycapsType:Double-shot PBT, KnobSupport:Yes, LayoutSize:100% | Full Size, MMO Keyboards, MountStyle:Gasket Mount, NP-100%, ProductType:Fully Assembled, Profile:Normal Profile, Standard:ANSI, SwitchFacing:South-face, SwitchMount:Hot-swappable, Wired Keyboard, Wireless Mechanical Keyboard",
+ "variants": [
+  {
+   "id": 42833162600537,
+   "product_id": 8078475526233,
+   "title": "Fully Assembled Knob / Black / Keychron Silk POM Switch - Brown",
+   "price": "239.99",
+   "sku": "Q6U-M3",
+   "position": 1,
+   "compare_at_price": "239.99",
+   "fulfillment_service": "manual",
+   "inventory_management": "shopify",
+   "option1": "Fully Assembled Knob",
+   "option2": "Black",
+   "option3": "Keychron Silk POM Switch - Brown",
+   "created_at": "2025-11-13T11:46:13+08:00",
+   "updated_at": "2026-11-19T07:02:54+08:00",
+   "taxable": true,
+   "barcode": "4894979048615",
+   "grams": 2963,
+   "image_id": 34975042895961,
+   "weight": 2.9633,
+   "weight_unit": "kg",
+   "requires_shipping": true,
+   "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+   },
+   "price_currency": "USD",
+   "compare_at_price_currency": "USD",
+   "quantity_price_breaks": []
+  },
+  {
+   "id": 42833147396185,
+   "product_id": 8078475526233,
+   "title": "Fully Assembled Knob / Black / Keychron Silk POM Switch - Red",
+   "price": "239.99",
+   "sku": "Q6U-M1",
+   "position": 2,
+   "compare_at_price": "239.99",
+   "fulfillment_service": "manual",
+   "inventory_management": "shopify",
+   "option1": "Fully Assembled Knob",
+   "option2": "Black",
+   "option3": "Keychron Silk POM Switch - Red",
+   "created_at": "2025-11-13T11:33:25+08:00",
+   "updated_at": "2026-11-19T07:02:54+08:00",
+   "taxable": true,
+   "barcode": "4894979048608",
+   "grams": 2963,
+   "image_id": 34975042863193,
+   "weight": 2.9633,
+   "weight_unit": "kg",
+   "requires_shipping": true,
+   "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+   },
+   "price_currency": "USD",
+   "compare_at_price_currency": "USD",
+   "quantity_price_breaks": []
+  },
+  {
+   "id": 42833162633305,
+   "product_id": 8078475526233,
+   "title": "Fully Assembled Knob / Black / Keychron Silk POM Switch - Banana",
+   "price": "239.99",
+   "sku": "Q6U-M4",
+   "position": 3,
+   "compare_at_price": "239.99",
+   "fulfillment_service": "manual",
+   "inventory_management": "shopify",
+   "option1": "Fully Assembled Knob",
+   "option2": "Black",
+   "option3": "Keychron Silk POM Switch - Banana",
+   "created_at": "2025-11-13T11:46:13+08:00",
+   "updated_at": "2026-11-19T07:02:54+08:00",
+   "taxable": true,
+   "barcode": "4894979048622",
+   "grams": 2963,
+   "image_id": 34975042797657,
+   "weight": 2.9633,
+   "weight_unit": "kg",
+   "requires_shipping": true,
+   "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+   },
+   "price_currency": "USD",
+   "compare_at_price_currency": "USD",
+   "quantity_price_breaks": []
+  },
+  {
+   "id": 42833162666073,
+   "product_id": 8078475526233,
+   "title": "Fully Assembled Knob / White / Keychron Silk POM Switch - Brown",
+   "price": "239.99",
+   "sku": "Q6U-P3",
+   "position": 4,
+   "compare_at_price": "239.99",
+   "fulfillment_service": "manual",
+   "inventory_management": "shopify",
+   "option1": "Fully Assembled Knob",
+   "option2": "White",
+   "option3": "Keychron Silk POM Switch - Brown",
+   "created_at": "2025-11-13T11:46:13+08:00",
+   "updated_at": "2026-11-19T07:02:54+08:00",
+   "taxable": true,
+   "barcode": "4894979048646",
+   "grams": 2963,
+   "image_id": 34975042764889,
+   "weight": 2.9633,
+   "weight_unit": "kg",
+   "requires_shipping": true,
+   "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+   },
+   "price_currency": "USD",
+   "compare_at_price_currency": "USD",
+   "quantity_price_breaks": []
+  },
+  {
+   "id": 42833147428953,
+   "product_id": 8078475526233,
+   "title": "Fully Assembled Knob / White / Keychron Silk POM Switch - Red",
+   "price": "239.99",
+   "sku": "Q6U-P1",
+   "position": 5,
+   "compare_at_price": "239.99",
+   "fulfillment_service": "manual",
+   "inventory_management": "shopify",
+   "option1": "Fully Assembled Knob",
+   "option2": "White",
+   "option3": "Keychron Silk POM Switch - Red",
+   "created_at": "2025-11-13T11:33:25+08:00",
+   "updated_at": "2026-11-19T07:02:54+08:00",
+   "taxable": true,
+   "barcode": "4894979048639",
+   "grams": 2963,
+   "image_id": 34975042928729,
+   "weight": 2.9633,
+   "weight_unit": "kg",
+   "requires_shipping": true,
+   "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+   },
+   "price_currency": "USD",
+   "compare_at_price_currency": "USD",
+   "quantity_price_breaks": []
+  },
+  {
+   "id": 42833162698841,
+   "product_id": 8078475526233,
+   "title": "Fully Assembled Knob / White / Keychron Silk POM Switch - Banana",
+   "price": "239.99",
+   "sku": "Q6U-P4",
+   "position": 6,
+   "compare_at_price": "239.99",
+   "fulfillment_service": "manual",
+   "inventory_management": "shopify",
+   "option1": "Fully Assembled Knob",
+   "option2": "White",
+   "option3": "Keychron Silk POM Switch - Banana",
+   "created_at": "2025-11-13T11:46:13+08:00",
+   "updated_at": "2026-11-19T07:02:54+08:00",
+   "taxable": true,
+   "barcode": "4894979048653",
+   "grams": 2963,
+   "image_id": 34975042830425,
+   "weight": 2.9633,
+   "weight_unit": "kg",
+   "requires_shipping": true,
+   "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+   },
+   "price_currency": "USD",
+   "compare_at_price_currency": "USD",
+   "quantity_price_breaks": []
+  }
+ ],
+ "options": [
+  {
+   "id": 10338546483289,
+   "product_id": 8078475526233,
+   "name": "Type",
+   "position": 1,
+   "values": [
+    "Fully Assembled Knob"
+   ]
+  },
+  {
+   "id": 10338546516057,
+   "product_id": 8078475526233,
+   "name": "Color",
+   "position": 2,
+   "values": [
+    "Black",
+    "White"
+   ]
+  },
+  {
+   "id": 10338546548825,
+   "product_id": 8078475526233,
+   "name": "Switches",
+   "position": 3,
+   "values": [
+    "Keychron Silk POM Switch - Brown",
+    "Keychron Silk POM Switch - Red",
+    "Keychron Silk POM Switch - Banana"
+   ]
+  }
+ ],
+ "images": [
+  {
+   "id": 35203541041241,
+   "product_id": 8078475526233,
+   "position": 1,
+   "created_at": "2026-01-05T16:10:10+08:00",
+   "updated_at": "2026-01-05T16:11:22+08:00",
+   "alt": "Keychron-Q6-Ultra-Features",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Features.jpg?v=1767600682",
+   "variant_ids": []
+  },
+  {
+   "id": 34958678065241,
+   "product_id": 8078475526233,
+   "position": 2,
+   "created_at": "2025-11-25T16:03:30+08:00",
+   "updated_at": "2026-01-05T16:11:22+08:00",
+   "alt": "Keychron-Q6-Ultra-Keychron-Silk-POM-Switch",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-Keychron-Silk-POM-Switch.jpg?v=1767600682",
+   "variant_ids": []
+  },
+  {
+   "id": 34958678098009,
+   "product_id": 8078475526233,
+   "position": 3,
+   "created_at": "2025-11-25T16:03:30+08:00",
+   "updated_at": "2026-01-05T16:11:22+08:00",
+   "alt": "Keychron-Q6-Ultra-Refined-Detailing",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-Refined-Detailing.jpg?v=1767600682",
+   "variant_ids": []
+  },
+  {
+   "id": 34958677966937,
+   "product_id": 8078475526233,
+   "position": 4,
+   "created_at": "2025-11-25T16:03:30+08:00",
+   "updated_at": "2026-01-05T16:11:22+08:00",
+   "alt": "Keychron-Q6-Ultra-8KHz-Polling-Rate",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8KHz-Polling-Rate.jpg?v=1767600682",
+   "variant_ids": []
+  },
+  {
+   "id": 35257104072793,
+   "product_id": 8078475526233,
+   "position": 5,
+   "created_at": "2026-01-14T16:04:54+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-Triple-Connection-Modes",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/KeychronQ6Ultra-TripleConnectionModes.jpg?v=1768377923",
+   "variant_ids": []
+  },
+  {
+   "id": 34958677999705,
+   "product_id": 8078475526233,
+   "position": 6,
+   "created_at": "2025-11-25T16:03:30+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-Each-KeyIs-Customizable-Online",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-Each-KeyIs-Customizable-Online.jpg?v=1768377923",
+   "variant_ids": []
+  },
+  {
+   "id": 34991004581977,
+   "product_id": 8078475526233,
+   "position": 7,
+   "created_at": "2025-12-01T09:46:24+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": null,
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Q6-Ultra-Battery-Performance.jpg?v=1768377923",
+   "variant_ids": []
+  },
+  {
+   "id": 34975042863193,
+   "product_id": 8078475526233,
+   "position": 8,
+   "created_at": "2025-11-27T14:16:47+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Red",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Red.jpg?v=1768377923",
+   "variant_ids": [
+    42833147396185
+   ]
+  },
+  {
+   "id": 34975042895961,
+   "product_id": 8078475526233,
+   "position": 9,
+   "created_at": "2025-11-27T14:16:47+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Brown",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Brown.jpg?v=1768377923",
+   "variant_ids": [
+    42833162600537
+   ]
+  },
+  {
+   "id": 34975042797657,
+   "product_id": 8078475526233,
+   "position": 10,
+   "created_at": "2025-11-27T14:16:47+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Banana",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-Black-Keychron-Silk-POM-Switch-Banana.jpg?v=1768377923",
+   "variant_ids": [
+    42833162633305
+   ]
+  },
+  {
+   "id": 34975042928729,
+   "product_id": 8078475526233,
+   "position": 11,
+   "created_at": "2025-11-27T14:16:47+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-White-Keychron-Silk-POM-Switch-Red",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-White-Keychron-Silk-POM-Switch-Red.jpg?v=1768377923",
+   "variant_ids": [
+    42833147428953
+   ]
+  },
+  {
+   "id": 34975042764889,
+   "product_id": 8078475526233,
+   "position": 12,
+   "created_at": "2025-11-27T14:16:47+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-White-Keychron-Silk-POM-Switch-Brown",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-White-Keychron-Silk-POM-Switch-Brown.jpg?v=1768377923",
+   "variant_ids": [
+    42833162666073
+   ]
+  },
+  {
+   "id": 34975042830425,
+   "product_id": 8078475526233,
+   "position": 13,
+   "created_at": "2025-11-27T14:16:47+08:00",
+   "updated_at": "2026-01-14T16:05:23+08:00",
+   "alt": "Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-White-Keychron-Silk-POM-Switch-Banana",
+   "width": 2000,
+   "height": 2000,
+   "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Wireless-Custom-Mechanical-Keyboard-White-Keychron-Silk-POM-Switch-Banana.jpg?v=1768377923",
+   "variant_ids": [
+    42833162698841
+   ]
+  }
+ ],
+ "image": {
+  "id": 35203541041241,
+  "product_id": 8078475526233,
+  "position": 1,
+  "created_at": "2026-01-05T16:10:10+08:00",
+  "updated_at": "2026-01-05T16:11:22+08:00",
+  "alt": "Keychron-Q6-Ultra-Features",
+  "width": 2000,
+  "height": 2000,
+  "src": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q6-Ultra-8K-Features.jpg?v=1767600682",
+  "variant_ids": []
+ }
+}

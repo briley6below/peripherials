@@ -1,0 +1,466 @@
+URL: https://wooting.io/wooting-80he#tech-specifications
+TITLE: Wooting 80HE - Our most competitive keyboard yet | Wooting
+SAVED: 2026-11-20T00:27:46.663Z
+
+Wooting 80HE
+
+Low-latency 80% Keyboard
+
+4.8
+(4886)
+
+A low latency, analog keyboard in an 80% layout, packed with cutting edge features like True 8kHz polling, Rapid Trigger and our latest innovation: Rappy Snappy.
+
+Price range
+
+$249.99
+
+Configure and order
+Also available in Wooting Outlet
+4-year warranty* · Worldwide Shipping · 30-Day Return
+
+We ship from the US! State sales tax applies.
+
+Learn more
+Overview
+Buy now
+Meet the 80HE
+
+We've applied everything we've learned so far, making the 80HE our most complete keyboard yet. With several new elements improving the sound, adding new features that enhance your gaming performance and implementing true 8kHz polling to make it our fastest keyboard to date.
+
+Performance, properly.
+
+True 8kHz polling, with scanning locked in perfect sync. The result: 0.125ms input speed, on every key.
+
+More about 8K Polling
+The power of analog
+
+Instead of treating every key-press as simply on or off, your keyboard tracks the entire movement, unlocking faster input, finer control, and a growing range of gaming features.
+
+More about Analog Input
+Rapid Trigger
+
+The feature Wooting pioneered that changed the peripheral landscape. It resets and activates keys the instant you move, for faster, more responsive input.
+
+Learn more
+Adjustable Actuation
+
+Fine-tune each key's actuation point with 0.1mm precision. Your keys respond at the exact depth you want them to.
+
+Learn more
+An LED Bar
+
+One bar, ten squares, a thousand ways to communicate with you. This is your 80HE talking in abstract about what you need to know. From profiles to active Rappy Snappy, or just let it blend, and give your 80HE character.
+
+Case Styles
+
+The 80HE is available in a variety of case materials and colors.
+
+PCR ABS Ghost
+PCR ABS Black
+PCR ABS Frost
+Zinc Alloy Black
+Zinc Alloy Raw
+Zinc Alloy White
+Sound & Feel
+
+To refine the sound and feel, we've built the Wooting 80HE with a silicone gasket mount, a PC switch plate and screw-in stabilizers.
+
+Silicone Gasket Mount
+
+The PCBA and switch plate are held together by a silicone gasket. This absorbs impact, resulting in less noise and a softer feel when you type.
+
+PC Switch Plate
+
+The Polycarbonate (PC) switch plate softens the overall typing experience by muting more of the higher frequencies and placing an emphasis on "thock".
+
+Screw-in Stabilizers
+
+The Wooting 80HE is equipped with screw-in stabilizers to eliminate rattle. They're also replaceable with most 3rd party screw-in and clip-in stabilizers.
+
+Ergonomics
+
+We design our keyboards to have the lowest possible front height with the lowest possible angle to help reduce strain and slow down muscle fatigue. Depending on your hand size, you can change the angle to your preference using the interchangeable silicone feet.
+
+2.8° Angle
+6° Angle
+10° Angle
+Pro player’s choice
+
+More professional players use Wooting than any other keyboard brand, according to ProSettings.net.
+
+VALORANT
+
+41.92%
+
+of tracked pros use Wooting
+
+288 of 687 tracked pros
+
+CS2
+
+38.72%
+
+of tracked pros use Wooting
+
+362 of 935 tracked pros
+
+FORTNITE
+
+30.77%
+
+of tracked pros use Wooting
+
+104 of 338 tracked pros
+
+Based on ProSettings public data as of September 2026.
+
+The full feature set
+
+A quick tour of the other features Wootility unlocks
+
+SOCD
+
+Decide what happens when opposite keys are pressed.
+
+Learn more
+Dynamic Keystroke
+
+Map multiple actions to a single key. Assign different inputs to a half-press, full press, half release, and full release.
+
+Learn more
+Remap
+
+You can remap any key on your keyboard to perfectly match your preferred layout. You can also remap function layers which are accessible by pressing the designated modifier key.
+
+Learn more
+Mod Tap
+
+Add a secondary action to any key: tap for Action A, or hold for Action B.
+
+Learn more
+Controller Input
+
+Activate analog movement for variable input. Feather the throttle, control your speed, play the way you want.
+
+Learn more
+Toggle Key
+
+Tap to toggle any action on or off, hold for normal input. Perfect for toggling crouch in-game.
+
+Learn more
+Build your own
+
+You want the power of a Wooting, but you'd rather choose the other parts of the keyboard yourself. We've got you! The Wooting 80HE Module includes just the PCB and a few essentials, without the keycaps, switches, or case.
+
+What makes a Wooting
+
+Six things every Wooting delivers.
+
+Reliable performance
+
+Fast, consistent input speed
+
+Analog advantage
+
+Full range of analog features
+
+Best-in-class software
+
+Easy setup, deep control
+
+Continuous updates
+
+Your keyboard keeps getting better
+
+Extended warranty
+
+4-year warranty (2 on LEDs)
+
+Lifetime support
+
+We’re there when you need us
+
+Wootility
+
+Good software shouldn’t get in your way. Wootility makes it easy to get started with presets and profiles, while giving you complete control when you’re ready.
+
+Desktop or web
+
+Use Wootility in your browser or install the desktop app.
+
+Tweak and go
+
+Save your settings directly to the keyboard. No need to keep Wootility open.
+
+Get started in seconds
+
+Start with premade profiles and advanced key presets.
+
+Onboard profiles
+
+Store up to four profiles directly on your keyboard and switch between them anytime. No need to open Wootility.
+
+App Linking
+
+Assign profiles to your favorite games and apps. Wootility automatically activates the right profile when they’re in focus.
+
+Per-key RGB
+
+Set the color of every individual key.
+
+Lighting effects
+
+Pick from a wide range of effects and customize how they look and behave.
+
+LED bar
+
+Adjust the LED bar separately to match your keyboard’s lighting.
+
+Per-key settings
+
+Customize features for individual keys instead of applying the same settings to your entire keyboard.
+
+Adjustable Actuation
+
+Set the actuation point of each key from 0.1 to 4.0 mm in precise 0.1 mm increments.
+
+Rapid Trigger
+
+Fine-tune press and release sensitivity independently, enable Continuous Rapid Trigger, and configure every key individually.
+
+Automatic calibration
+
+Select your switches and spacers. Wootility calibrates your keyboard to keep key detection accurate and consistent.
+
+Mix & match
+
+Wootility supports over 70 different switches, including colour variations.
+
+Request your switch
+
+Don’t see your favourite switch? Request it! We add the top voted switches regularly.
+
+Overview
+Profiles
+RGB Settings
+Fine-tuning
+Switch Selector
+Specifications
+
+The practical details, all in one place.
+
+Technical Specifications
+Switches	Lekker L60 V2 switches
+Keycaps	PBT, ABS and Dye-sub options available
+Case	PCR ABS or Zinc Alloy
+Stabilisers	Screw-in stabilisers
+Switch Plate	Polycarbonate (PC)
+PCBA	Wooting 80HE
+Cable	2 meter USB-C to C nylon braided cable
+Dimensions	346 x 142mm | 13.6 x 5.6 inch
+19.4mm (H) front case height, no keycap
+28.4mm (H) front height with OEM keycap
+Weight	PCR ABS: 790 grams / 1.74 pounds
+Zinc alloy: 2160 grams / 4.76 pounds
+What's in the box?
+Customer Reviews
+ 4.79 out of 5
+Based on 4886 reviews
+4249
+421
+98
+41
+77
+See all reviews
+Customer photos & videos
+Reviews (4886)Questions (21)
+Sort by
+Most Recent
+Highest Rating
+Lowest Rating
+Only Pictures
+Pictures First
+Videos First
+Most Helpful
+Yesterday
+Alexander U. 
+
+Hel... Read more
+
+00
+Yesterday
+Bryan N. 
+Great product!
+
+I... Read more
+
+00
+2 days ago
+runar T. 
+
+awe... Read more
+
+Review written in Shop App
+00
+2 days ago
+Davin R. 
+Ghost Wooting 80 HE+
+
+It'... Read more
+
+00
+2 days ago
+Benson W. 
+🤤
+
+I... Read more
+
+10
+123
+FAQ
+
+Straight answers to your questions.
+
+What switches will be available and what aftermarket switches can I use?
+Will 8k polling increase CPU load, or cause performance issues?
+What are the USB requirements to run the Wooting 80HE at 8kHz?
+Can I install other screw-in stabilizers?
+Can I configure the polling rate & device speed?
+What keycap languages will be available?
+What is your warranty policy?
+What's your return policy?
+What payment methods are available?
+Does it feature individual RGB?
+Can I get a version without the light bar or remove it somehow?
+Does it feature additional LEDs under the spacebar like the 60HE?
+Wooting 80HE Founders campaign
+
+The Wooting 80HE Founders' Campaign has come to an end, and we are blown away by the sheer amount of founders that supported the Wooting 80HE! We will continue to do everything we can to make impactful products together with you.
+
+A special thanks to all 23355 founders who supported the Wooting 80HE from the start and raised €7,452,597 during the founders' campaign that ran for 32 days.
+
+Meet the Wooting 80HE founders
+From Wooting.
+With love.
+
+Product updates, news, and launches.
+
+Subscribe
+
+Keyboards
+
+Wooting 80HE+
+
+Wooting 80HE
+
+Wooting 60HE v2
+
+Wooting 60HE+
+
+Wooting 60HE+ Module
+
+Wooting Two HE
+
+Wooting Outlet
+
+Other Products
+
+Wooting UwU
+
+Switches
+
+Cases
+
+Wrist Rests
+
+Accessories
+
+Project Optimum
+
+Software
+
+Wootility Web
+
+Download Wootility
+
+Our GitHub
+
+Wooting Awesomeness
+
+Analog SDK
+
+RGB SDK
+
+Company
+
+About Wooting
+
+Wooting Blog
+
+Careers
+
+Hiring
+
+Authorised Resellers
+
+Press & Marketing
+
+Legal Notice
+
+Intellectual Property
+
+Resources
+
+Knowledge Base
+
+Technical Guides
+
+Quickstart Guides
+
+Batch Updates
+
+Wootabase
+
+Wooting Design Files
+
+Help & Account
+
+Your Account
+
+Your Orders
+
+Order Status Checker
+
+Warranty Policy
+
+Return & Cancellation Policy
+
+Shipping Policy
+
+Cancel Order
+
+Return Order
+
+Support
+
+Get Help
+Wooting
+
+Challenge the industry with us
+
+Champaign, IL, United States
+
+English
+English
+日本語
+中文（中国）
+Manage Cookies
+
+© 2015 - 2026 Wooting. All rights reserved.
+
+Terms of Service
+
+Privacy Policy
+
+Cookie Policy

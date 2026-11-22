@@ -1,0 +1,509 @@
+URL: https://www.rtings.com/keyboard/reviews/best/keyboard
+TITLE: The 5 Best Keyboards - Black Friday 2026 - RTINGS.com
+SAVED: 2026-11-18T22:53:18.474Z
+
+Products
+Lab
+Community
+Deals
+LOGIN
+JOIN NOW
+$2.65/mo
+BEST
+Gaming Keyboards Mechanical Wireless Ergonomic Budget Gaming Typing iPad Mac Office Budget And Cheap Programming Logitech Budget Mechanical 75% Keychron Low-Profile Razer 60% Quiet
+TOOLS
+Compare Results Table Tool Review List Review Index Graph Review Pipeline Vote Custom Ratings
+POPULAR
+Wooting 80HE Keychron Q6 [Q1, Q3, etc.] Ultra 8K Logitech MX Keys S NuPhy Air75 V3 [Air65 V3, Air100 V3] Corsair K70 CORE AULA F99/F75 NuPhy WH80 Lemokey P1 HE Ducky OK-M NuPhy Node Series Keychron K5 Max [K1 Max, K3 Max, etc.] Keychron K2 [K4, K8, K10, etc.] Ultra 8K MonsGeek FUN60 Ultra MonsGeek M1 V5 TMR Razer Huntsman V3 Pro 8KHz Wooting 60HE v2 Lofree Flow 2 Logitech G316 X Keychron B33/B36 Logitech Signature K650
+303 KEYBOARDS BOUGHT AND TESTED
+Supported by you via membership, and when you purchase through links on our site, we may earn an affiliate commission.
+Home  Keyboard  Best  Keyboards
+Notice: We've revamped our membership program.
+The 5 Best Keyboards - Black Friday 2026  
+By Gregory Vodden
+Updated Nov 04, 2026 at 10:19 am
+ SHARE
+ 19
+Intro
+Best Keyboard
+Best Mid-Range
+Best Budget
+Best Office
+Best Gaming
+Notable Mentions
+Recent Updates
+All Reviews
+Comments
+
+When choosing the best keyboard for your needs, consider whether you want quiet, familiar typing for everyday work, more control over typing feel and customization, or low latency and adjustable inputs for competitive gaming.
+
+There are a few basic terms and questions you may have, so here's a brief overview below. For more detailed explanations, read the buyer's guide at the bottom of this page.
+
+Full-size vs. TKL (or 60%, etc.): Full-size keyboards have a numpad on the right-hand side and all the usual navigation keys. TKL (TenKeyLess) keyboards are smaller and take up less space, but they lack a numpad. Smaller keyboards, like 60% models, lose the numpad and some other keys. Generally speaking, the % number gives you a rough idea of how small the board is compared to a standard full-size keyboard.
+Mechanical vs. membrane or scissor switches: Mechanical keyboards use individual mechanical switch mechanisms under each key, while membrane and scissor-switch keyboards typically feel softer and often have a shorter travel distance, especially laptop-style scissor-switch keyboards.
+Low profile: Low-profile mechanical switches have shorter housings and shallower travel than standard mechanical switches.
+Hall effect: Hall effect switches use magnets and sensors to detect key position, allowing you to adjust the actuation point of individual switches. This technology has become much more common on keyboards for competitive gamers.
+
+We've tested over 300 keyboards, and below are our recommendations for the best options for different needs and budgets.
+
+How We Test Keyboards
+
+We test dozens of keyboards each year, and to maintain independence, we buy every unit ourselves. Our reviews go beyond subjective typing impressions or quick gaming sessions. Each keyboard is put through the same standardized test bench, so you can directly compare our results. We use specialized tools like a Mecmesin force tester to measure switch force curves and a Beagle 480 USB analyzer to capture input data for latency testing. Multiple teams contribute to each review in a process that can take days or even weeks from start to finish.
+
+Learn more
+Best Keyboard
+Keychron Q6 [Q1, Q3, etc.] Ultra 8K
+4 
+SEE PRICEAmazon
+SEE PRICEBestBuy.com
+SEE PRICEWalmart.com
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+N/A
+Size: 
+Full-size (100%)
+Connectivity: 
+Wireless
+Bluetooth Multi-Device Pairing: 
+Locked
+See all our test results 
+
+The best keyboard we've tested is the Keychron Q6 Ultra 8K. It's a mechanical keyboard that offers a refined typing feel, sturdy construction, and extensive customization options. It's a premium option best suited to a permanent desk setup, as its heavy aluminum case does much to make it feel premium but also makes it inconvenient to carry around. Note that its fairly tall profile also means it's most comfortable to use with a wrist rest, but it doesn't include one.
+
+Its double gasket-mounted design gives keystrokes a soft, slightly cushioned feel without a harsh bottom-out. Layers of sound-dampening foam help round out the sound and minimize case ping. You can connect using the included cable, Bluetooth, or a 2.4GHz connection (with a USB dongle); Bluetooth supports multi-device pairing and provides longer battery life, while the receiver delivers lower latency for competitive gaming. Keychron rates battery life at up to 660 hours, depending on your connection and backlighting settings, which is impressive for a keyboard with this feature set.
+
+The Keychron Q6 Ultra 8K is the full-size model in Keychron's wider Q Ultra 8K series, which also includes smaller layouts if you don't need a numpad or want more room on your desk for mouse movements. They all share the same core construction, and web-based software provides key remapping, macros, and backlighting customization. They're also all hot-swappable, so you can easily change the switches to customize your typing experience if you like.
+
+If you're interested in more mechanical keyboard options at lower price points, see our full best mechanical keyboards article.
+
+See our review 
+Best Mid-Range Keyboard
+Keychron K2 [K4, K8, K10, etc.] Ultra 8K
+0 
+SEE PRICEAmazon
+SEARCHB&H
+SEARCHBestBuy.com
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+N/A
+Size: 
+Compact (75%)
+Connectivity: 
+Wireless
+Bluetooth Multi-Device Pairing: 
+Locked
+See all our test results 
+
+For a less expensive option, we recommend the Keychron K2 Ultra 8K. We tested a compact 75% model pictured above, but the series includes other size variants, such as the Keychron K10 Ultra 8K if you want a standard full-size layout with a numpad. Compared with the more expensive Keychron Q6 Ultra 8K above, this keyboard actually offers nearly all the same features and similarly outstanding performance. Spending more on the Keychron Q6 Ultra 8K primarily gets you a more premium solid aluminum case and a slightly softer typing feel from its double gasket mount. The K2 Ultra 8K still feels extremely sturdy, with a thick aluminum frame, but it has a plastic underside, and while typing is very smooth and consistent, it uses a comparatively simpler single-gasket mount design, which lends a bit of softness to the feeling of bottoming out.
+
+Like the top pick, it's also available with linear or tactile switches and has a hot-swappable PCB if you want to try different switches without soldering. An included toolkit also lets you disassemble the keyboard for further hardware customization. It delivers outstanding latency performance and supports 8000Hz polling over both wired and 2.4GHz wireless connections, making it well-suited for competitive gaming as well as everyday use. Bluetooth connectivity also lets you pair with up to three devices and switch between them, while web-based software provides key remapping, macros, and backlighting customization. Keychron advertises battery life of over 700 hours, depending on your connection and backlighting settings.
+
+See our review 
+Best Budget Keyboard
+Ducky OK-M
+0 
+SEE PRICEAmazon
+SEARCHB&H
+SEARCHBestBuy.com
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+N/A
+Size: 
+Compact (75%)
+Connectivity: 
+Wireless
+Bluetooth Multi-Device Pairing: 
+Locked
+See all our test results 
+
+We recommend the Ducky OK-M to anyone who wants a mechanical keyboard at a budget price. It stands out for offering a surprisingly satisfying typing quality that comes close to matching the Keychron K2 Ultra 8K above. The downside by comparison is that it doesn't quite have the same caliber of build quality. It still feels good and reasonably sturdy overall, but it has a much less premium-feeling plastic case and doesn't quite match the Keychron in fit and finish or overall material quality.
+
+Like the Keychron, it's available in several sizes at purchase: a compact 65% size that doesn't have a numpad or function row but has arrow keys, a 75% size, which is the model we tested pictured above, that has a function row and arrow keys but no numpad, and a 98% size, which keeps the numpad but removes a couple of navigation keys and packs everything more tightly together. Admittedly, the size options may sound a bit confusing, but as always, when choosing keyboard size, it's best to ask yourself which keys you use most often and make sure the size you choose includes them.
+
+Take a look at our complete best budget and cheap mechanical keyboard article if you'd like to see more options in this price range.
+
+See our review 
+Best Office Keyboard
+Logitech MX Keys S
+12 
+SEE PRICEAmazon
+SEE PRICEBestBuy.com
+SEE PRICEWalmart.com
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+N/A
+Size: 
+Full-size (100%)
+Connectivity: 
+Wireless
+Bluetooth Multi-Device Pairing: 
+Locked
+See all our test results 
+
+We recommend the Logitech MX Keys S as the best office keyboard. Its slim design and scissor switches feel familiar if you're used to typing on a laptop. Small indents in the keycaps help keep your fingertips centered and reduce accidental presses on neighboring keys. If you want something more compact for travel or a smaller desk, Logitech also makes the Logitech MX Keys Mini, which removes the numpad.
+
+The MX Keys S has great build quality and very quiet switches, making it well-suited for shared workspaces. It connects wirelessly with a USB dongle or Bluetooth and lets you switch between multiple devices. White backlighting and clear shine-through legends make the keys easy to read in dim lighting. Logitech advertises that you can get up to 10 days with default backlighting, or up to five months with it off. However, its customization options are limited, as you can't remap every key. 
+
+If you're interested in seeing more options, see our complete list of recommendations for the best office keyboards.
+
+See our review 
+Best Gaming Keyboard
+Wooting 80HE
+31 
+SEE PRICEWooting
+SEARCHAmazon
+SEARCHB&H
+Gaming
+N/A
+Office
+N/A
+Mobile/Tablet
+N/A
+Programming
+N/A
+Entertainment / HTPC
+N/A
+Raw Performance
+N/A
+Size: 
+TenKeyLess (80%)
+Connectivity: 
+Wired
+Bluetooth Multi-Device Pairing: 
+Locked
+See all our test results 
+
+The Wooting 80HE is the best gaming keyboard we've tested. Its defining feature is its magnetic Hall effect switches, which allow you to adjust how far each key needs to travel before registering, so you can set sensitive inputs for competitive gaming or deeper actuation points to reduce accidental presses. This customizability, combined with some of the lowest latency we've measured to date, makes this board the strongest choice for competitive gamers who prioritize performance and input customization.
+
+Performance aside, the Wooting has several other standout advantages. Available as a web-based client or a downloadable local app, Wooting's software is intuitive, easy to navigate, and offers extensive customization. Advanced features include Rapid Trigger, which lets keys reset after moving upward only a short distance, helping you make faster follow-up inputs. Wooting's strong track record for long-term product support is another highlight, with frequent performance tweaks and new features for older models. Its four-year warranty is longer than those offered by competing gaming keyboard manufacturers.
+
+The main trade-offs are its premium price and wired-only connectivity, though it's worth noting that it comes in two case options: a less expensive plastic case and a more premium zinc alloy case. It also has a gasket-mount design, though Wooting's implementation is on the stiffer side, resulting in a less cushioned typing feel compared to our top pick, the Keychron Q6 Ultra 8K above. Its TKL layout also includes dedicated arrow keys and a function row, but no numpad.
+
+If you're interested in comparing more gaming keyboards, including lower-priced or wireless alternatives, see our best gaming keyboard article.
+
+See our review 
+Notable Mentions
+NuPhy Node Series: 
+
+The NuPhy Node Series keyboards are a slightly less expensive alternative to the Keychron K2 Ultra 8K. The series includes keyboards with either standard or low-profile designs and two size options. All models offer excellent typing quality and optional silent switches, though they have somewhat cheaper-feeling all-plastic cases.
+
+ See our review
+Keychron B1/B6 Pro: 
+
+The Keychron B1/B6 Pro keyboards are less expensive but very similar alternatives to the Logitech MX Keys S. We tested the full-size B6 Pro; the B1 Pro has a compact layout without a numpad. Their trade-offs are cheaper-feeling construction, no backlighting, less refined typing quality, and flatter keycaps.
+
+ See our review
+Lemokey P1 HE: 
+
+The Lemokey P1 HE is a less expensive alternative to the Wooting 80HE. It has adjustable magnetic switches just like the Wooting, but surprisingly for its price, it has a premium-feeling aluminum case, better typing quality, and wireless connectivity. However, its latency performance isn't as low, its software offers fewer advanced customization options, and its warranty is shorter.
+
+ See our review
+Recent Updates
+
+ Nov 04, 2026: 
+
+We've simplified and rearranged some of our categories and added the Keychron K2 Ultra 8K to a new 'Best Mid-Range Keyboard' category.
+
+ Oct 06, 2026: 
+
+To maintain consistency with our other articles, we've replaced our previous picks with the Logitech Signature K650 as our 'Best Budget' keyboard, the Keychron Q6 Ultra 8K as our 'Best Mechanical Keyboard', and the Wooting 80HE as our 'Best Gaming' pick. We've moved the former picks, the Keychron B1/B6 Pro, NuPhy Node Series, and Lemokey P1 HE, into the Notable Mentions section.
+
+ Jul 24, 2026: 
+
+We haven't changed our recommendations in this update, but have verified our picks for pricing and availability. We've also added a few more experiential notes to give readers a deeper understanding of what it's like to use each keyboard.
+
+ May 22, 2026: 
+
+We've overhauled the structure of this recommendation article to make it more approachable, with clearer categories and more explicit trade-offs between our picks. We've also added a short buyer's guide to help you better understand the main differences between keyboards and choose the right one for your needs.
+
+ Mar 03, 2026: 
+
+We made a few changes to the list. We moved the AULA F99/F75 from the mid-range to the budget pick, with the Logitech Signature K650 as an alternative. We added the Keychron V5 Max as our mid-range pick and the Logitech Alto Keys K98M as an alternative. We also added the Keychron B33/B36 as alternatives to our cheap pick, the Logitech Pebble Keys 2 K380.
+
+How To Choose The Right Keyboard For Your Needs
+
+If you feel a bit lost or aren't sure where to start, this quick guide will walk you through the main things to consider.
+
+WHAT ARE YOU USING YOUR KEYBOARD FOR?
+
+It's a simplification, but most keyboards fall into two broad groups:
+
+Everyday keyboards for desktop use, work, and casual gaming:
+
+Unless we specifically identify a keyboard as a "gaming keyboard," all the keyboards we discuss in this list fall into the category of an everyday-use keyboard. Nearly every keyboard available today has what most people need for office work, web browsing, and playing single-player or social multiplayer games. Mechanical keyboards can fall into this category or the next, depending on their design.
+
+Dedicated gaming keyboards:
+
+Keyboards for dedicated gaming often have flashy RGB lighting, but above all else, they prioritize latency performance. This really only matters if you play competitive games, especially shooters like Counter-Strike 2, Valorant, or Call of Duty. For most people, though, all modern gaming keyboards are fast enough that raw latency numbers simply don't matter as much as they did several years ago.
+
+WHAT SIZE KEYBOARD DO YOU WANT?
+
+Keyboards come in a lot of different sizes, but choosing between them mostly comes down to which keys you use regularly. The main advantage of a full-size keyboard is that you get all the keys you'd expect, including dedicated arrow keys and a numpad.
+
+If you don't need a numpad, you may want to consider a smaller keyboard, like a compact 75% model. It's partly an aesthetic choice, but some people also prefer smaller keyboards because they leave more space for mouse movement on desks. Some compact models are also designed for on-the-go use, like on trains or in cafes, so they're easier to slip into a bag and carry around. The real trick in deciding is asking yourself which keys you'd actually miss if you didn't have them. We have a guide on the difference between keyboard sizes if you'd like more help.
+
+WHAT ABOUT SWITCHES?
+
+Should you get a more basic keyboard with scissor or membrane switches, or a mechanical keyboard, which has individual mechanical switches under each key? Ultimately, it's all a matter of preference.
+
+Membrane switches are found on many basic office keyboards. They're usually very quiet, but some people find that they feel a little mushy.
+Scissor switches are technically a kind of membrane switch. These are what you find on most laptop keyboards. They're stable and often very quiet, so they're common on everyday and office keyboards. If you like typing on a laptop, you'll probably like scissor switches.
+Mechanical switches offer the greatest variety in typing feel. Depending on the switch, they can feel light, heavy, smooth, tactile, quiet, or loud. They're the best choice if you care most about typing feel or customization. If you're unsure whether a mechanical keyboard is right for you, we recommend visiting a local store with mechanical keyboards on display so you can try them yourself. If you still aren't sure what switch type is right for you, we have a more in-depth guide on choosing between membrane and mechanical keyboards to help.
+
+You may also hear about other switch types, like magnetic or Hall effect switches, which have become very popular on gaming keyboards because they let you adjust how sensitive each keypress is. If you're curious for more information, we also have a primer on what Hall effect keyboards are.
+
+WHAT ABOUT WIRELESS KEYBOARDS?
+
+We don't specifically have a category for best wireless keyboards in this article because most of the keyboards we recommend here are already wireless. If wireless connectivity is important to you, consider the following:
+
+Bluetooth is convenient if you want to connect without a USB receiver or switch between a computer, tablet, and phone. It's also more power-efficient.
+
+A dedicated USB receiver typically provides lower latency, making it the better choice for competitive gaming. Check which connections a keyboard supports, whether it can pair with multiple devices, and check our reviews for advertised battery life to see how often you'll need to recharge it, especially if you keep your backlighting on. If you'd like to see a wider variety of wireless options, see our best wireless keyboard recommendations.
+
+All Reviews
+
+Our recommendations above are what we think are currently the best computer keyboards for most people. We factor in the price, feedback from our visitors, and availability.
+
+If you would like to do the work of choosing yourself, here's the list of all our keyboard reviews. Be careful not to get too caught up in the details. While no keyboard is perfect for every use, most are good enough to please almost everyone, and the differences are often not noticeable unless you really look for them.
+
+Recommended Articles
+The 6 Best Gaming Keyboards
+The 5 Best Mechanical Keyboards
+The 6 Best Wireless Keyboards
+The 6 Best Ergonomic Keyboards
+The 4 Best Budget Gaming Keyboards
+The 5 Best Keyboards For Typing
+The 5 Best iPad And iPad Pro Keyboards
+The 6 Best Keyboards For Mac
+The 5 Best Office Keyboards
+The 6 Best Budget And Cheap Keyboards
+The 5 Best Keyboards For Programming
+The 5 Best Logitech Keyboards
+The 4 Best Budget Mechanical Keyboards
+The 6 Best 75% Keyboards
+The 4 Best Keychron Keyboards
+The 5 Best Low-Profile Keyboards
+The 4 Best Razer Keyboards
+The 4 Best 60% Keyboards
+The 6 Best Quiet Keyboards
+The 5 Best TKL Keyboards
+The 5 Best RGB Keyboards
+The 4 Best Corsair Keyboards
+The 3 Best Ducky Keyboards
+Comments
+RECOMMENDATION
+ACTIVE 1 MONTH AGO · 
+ • POSTED 6 YEARS AGO
+Best Keyboards: Main Discussion
+
+What do you think of our picks? Let us know below.
+
+
+
+
+Looking for a personalized buying recommendation from the RTINGS.com experts? Members have direct access to buying advice on our member forum.
+
+FOLLOW DISCUSSION
+See All Computer Discussions
+ Share
+19 
+To post a comment you need to Log in
+POST COMMENT
+Sort by:
+newest first
+2
+1
+0
+ Gregory Vodden
+ • POSTED 1 MONTH AGO
+SEP 14, 2026 04:57 PM BY RtingsUser8441564  2
+
+I’m surprised you don’t mention the Kinesis. Advantage2 anywhere in your discussion of ergonomic keyboards. I’ve used it for years and find it wonderful. Very comfortable. Of course, I also don’t think you should have “ergonomic keyboards” as a category. I think you should have “keyboards” and “non-ergonomic keyboards” as categories. That is, I don’t see why people accept physically harmful devices that cause permanent damage to their users as “normal” and consider ones made with the user in mind to be “exceptional.”
+
+Hi there. Thanks for reaching out.
+
+I can report that we’re aware of the Kinesis Advantage 2, but haven’t tested it yet. You can cast a vote for it, and if it garners enough interest we’ll buy and test it. At that point, you may see it appear in our discussions or possibly as a pick within our recommendation articles.
+
+To your point regarding classifying ergonomic keyboards, I definitely understand where you’re coming from. However, in our experience, many people are intimidated by the fairly steep learning curve that some ergonomic keyboards introduce, and the overwhelming preference at this time is for more conventional, albeit less ergonomic designs. We try to respect that with our recommendations. That’s the primary reason why we cover ergonomic keyboards in a separate article and occasionally include dedicated ergonomic picks.
+
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 1 MONTH AGO
+SEP 15, 2026 03:15 AM BY  SCheng  16
+
+I don’t think the upper limits have been correctly removed for release year and price. For example Apple Magic Keyboard, MoErgo Go60 and Nuphy Gem80 are still not showing in the table.
+https://www.rtings.com/keyboard/tools/table?c=general:product,test:3408,test:3348,test:3378,usage:9048,usage:9049,usage:9050,usage:9051,usage:12136,general:test_bench,general:year,general:price&f=general:test_bench=recent&o=test:3408=desc&s=normal fixes the table
+
+You’re right, thank you!
+
+The changes were mistakenly applied to a different recommendation article. I’ve now applied them to our ‘Best Quiet Keyboards’ article, and the table should be displaying correctly.
+
+Reply
+Copy link
+2
+1
+0
+Keebio 1
+ • POSTED 2 MONTHS AGO
+
+Disclosure: I run Keebio, so weigh this accordingly. For anyone looking at true splits beyond what’s reviewed here, we make both columnar and row-staggered options. The Iris SE/LM/CE is our line of columnar boards if you want to go that route, and if you’d rather keep a familiar layout, the Quefrency LM and Sinc LM are low-profile staggered splits. They’re available fully built, not just as DIY kits, and all are hotswap and run QMK/VIA. Happy to answer questions. I’d also love to see RTINGS review a few more enthusiast splits like these alongside the mainstream picks.
+
+Reply
+Copy link
+2
+1
+0
+ 
+SCheng 16
+ • UPDATED 2 MONTHS AGO • POSTED 2 MONTHS AGO
+SEP 09, 2026 05:13 PM BY   Gregory Vodden
+
+Hey SCheng,
+Thanks for pointing this out to us. I’ve just made a modification to the table. While I’ve kept both filters so the information is still visible in the table for those who want it, I’ve removed removed their upper limits, which didn’t need to be defined.
+
+I don’t think the upper limits have been correctly removed for release year and price. For example Apple Magic Keyboard, MoErgo Go60 and Nuphy Gem80 are still not showing in the table.
+
+https://www.rtings.com/keyboard/tools/table?c=general:product,test:3408,test:3348,test:3378,usage:9048,usage:9049,usage:9050,usage:9051,usage:12136,general:test_bench,general:year,general:price&f=general:test_bench=recent&o=test:3408=desc&s=normal fixes the table
+
+Edited 2 months ago: Added URL for the fixed table
+Reply
+Copy link
+3
+2
+1
+RtingsUser8441564 2
+ • UPDATED 2 MONTHS AGO • POSTED 2 MONTHS AGO
+
+I’m surprised you don’t mention the Kinesis. Advantage2 anywhere in your discussion of ergonomic keyboards. I’ve used it for years and find it wonderful. Very comfortable. Of course, I also don’t think you should have “ergonomic keyboards” as a category. I think you should have “keyboards” and “non-ergonomic keyboards” as categories. That is, I don’t see why people accept physically harmful devices that cause permanent damage to their users as “normal” and consider ones made with the user in mind to be “exceptional.”
+
+Edited 2 months ago: because I decided to say more on the subject.
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 2 MONTHS AGO
+SEP 09, 2026 12:48 AM BY  SCheng  16
+
+https://www.rtings.com/keyboard/reviews/best/work 
+I am a bit suprised that the Office scores of the selected “Best Office Keyboards” picks are generally relatively low - with 8.1, 8.0, 7.8, 8.0 and 8.4. Except for LoFree Flow 2 pick (8.4), the Office scores of these picks are nowhere near the top of the Office scoring table with plenty of other keyboards scoring significantly higher. 
+Is this a reflection of an issue of the Office scoring criteria, or a reflection of an issue with these picks for “Best Office Keyboards”?
+
+Hey there SCheng,
+
+I think it’s most helpful to present our Office score as a weighted assessment of specific aspects of performance associated with a good office keyboard, not necessarily a definitive ranking of the keyboards that we think will suit the greatest number of people for office use.
+
+Our Office score is an interesting one as 65% of the score comes from Typing Quality (50%) and Ergonomics (15%). This can push some highly adjustable ergonomic boards and mechanical models with excellent typing experiences above some of the more conventional options currently included on this list. Our score tries to capture some of those advantages, although some of the keyboards that score above these more conventional models may involve a learning curve that not everyone is interested in confronting. One thing our experience has taught us is that most people visiting this article favor more familiar, conventional keyboards, often with low-profile scissor switches similar to those found on laptops. Ultimately, our office score also doesn’t factor in every aspect that influences our recommendations, including layout, appearance, and learning curve as well as other aspects like availability and price, so we rely on our own editorial judgement along those lines.
+
+Referencing our table for an example, the GravaStar Mercury K1 receives an 8.5 Office score, higher than any of our current picks. However, its lack of a numpad, relatively loud typing noise, and unconventional appearance make it unlikely to be the best office keyboard for most people.
+
+All that to say, our scores aim to provide an overview of specific aspects of performance, but they won’t automatically determine our recommendations.
+
+Thanks for reaching out with your question and best wishes.
+
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • UPDATED 2 MONTHS AGO • POSTED 2 MONTHS AGO
+SEP 06, 2026 06:42 AM BY  SCheng  16
+
+Given how important comfort is for office work, why is Best Ergonomic Office Keyboard removed from https://www.rtings.com/keyboard/reviews/best/work ?
+There are plenty of overlaps between the various “Best of” categories. For example, “Best keyboard for typing” & “Best office keyboards”, or “Best Budget Gaming Keyboards” & Best Budget Mechanical Keyboard For Gaming in “Best Budget Mechanical Keyboards”.
+
+Hi SCheng,
+
+It’s a great question.
+
+You’re absolutely right that there’s already some overlap between our various “Best Of” articles, and the existence of a separate ergonomic keyboard article isn’t, by itself, a reason to exclude a dedicated ergonomic pick here. We don’t avoid overlap as a rule and may retain it when we believe it serves a meaningful portion of an article’s audience. In this case, our decision to remove it was based on our understanding that most readers visiting the office article are primarily looking for familiar, conventional designs that don’t involve the learning curve associated with many ergonomic keyboards.
+
+We recognize that this may be disappointing for anyone who favors ergonomic designs and reasonably expects them to appear in an article recommending office keyboards. However, we hope to direct those readers to our Best Ergonomic Keyboard article, where we can better showcase a broader variety of ergonomic options.
+
+I hope that answers your question. 
+Best wishes,
+
+Edited 2 months ago: Clarity.
+Reply
+Copy link
+2
+1
+0
+ Gregory Vodden
+ • POSTED 2 MONTHS AGO
+SEP 07, 2026 12:59 AM BY  SCheng  16
+
+The table at https://www.rtings.com/keyboard/reviews/best/quiet seems to include 2 unintended/unnecessary filters: price and year of release. As such, some quiet keyboards are missing from the table.
+
+Hey SCheng,
+
+Thanks for pointing this out to us. I’ve just made a modification to the table. While I’ve kept both filters so the information is still visible in the table for those who want it, I’ve removed removed their upper limits, which didn’t need to be defined.
+
+Reply
+Copy link
+LOAD MORE
+We make money directly from you via Membership (which gives you access to extra features), when you buy RTINGS.com Merch, and when you buy a product after clicking a link to a retailer. Learn more about how we work.
+We buy our own products, just like you, mostly from the United States. When a product is discontinued or no longer popular, we sell the review units locally. See what products we currently have for sale.
+About us
+How We Make Money
+Membership
+Careers
+Review Unit Resale
+Out of Spec
+Forum Guidelines
+Contact us
+Privacy Policy
+Privacy Options
+Terms of Use
+Corporate Site
+  Newsletters
+  YouTube
+  R&D on YouTube
+  RSS
+  Discord
+  Facebook
+  X
+  Instagram
+© 2026 9298-5266 Quebec Inc. All Rights Reserved.
