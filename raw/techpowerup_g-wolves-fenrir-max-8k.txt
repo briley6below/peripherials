@@ -1,0 +1,33 @@
+Source: https://www.techpowerup.com/review/g-wolves-fenrir-max-8k/8.html
+Title: G-Wolves Fenrir Max 8K Review
+Published: 2025-11-10
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz wireless polling
++ Very low click latency
++ Very good sensor performance
++ High button quality
++ Good scroll wheel
++ Good choice of components
++ Lightweight
++ Nicely gliding mouse feet
++ Full software customizability
++ Sets of replacement feet included
++ Set of grip tape included
+
+CONS (-)
+- Pricey
+- Minor polling instability
+- CPI deviation
+- Included cables are either too short or too stiff
+- Web driver not available as standalone app
+
+SPEC TABLE
+Size:75 mm x 61 mm x 31 mm
+Size (inches):2.95" x 2.40" x 1.22"
+Weight:23 g
+Sensor:PixArt PAW3950
+Polling Rate:125/250/500/1000 Hz (wired)125/250/500/1000/2000/4000/8000 Hz (wireless)
+Price:$159.00

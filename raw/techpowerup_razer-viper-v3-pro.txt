@@ -1,0 +1,31 @@
+Source: https://www.techpowerup.com/review/razer-viper-v3-pro/8.html
+Title: Razer Viper V3 Pro Review
+Published: 2024-08-09
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz wireless polling
++ Very good sensor performance
++ Very low click latency
++ High button quality
++ Very good scroll wheel
++ Good choice of components
++ Lightweight
++ Nicely gliding mouse feet
++ Full software customizability
++ Set of grip tape included
+
+CONS (-)
+- Pricey
+- Resource-heavy software
+- Stiff charging cable
+- Charging could be faster
+
+SPEC TABLE
+Size:127.1 mm x 63.9 mm x 39.9 mm
+Size (inches):5.00" x 2.52" x 1.57"
+Weight:54 g
+Sensor:Focus Pro 35K Optical Sensor Gen-2
+Polling Rate:125/500/1000 Hz (wired)125/500/1000/2000/4000/8000 Hz (wireless)
+Price:$159.99

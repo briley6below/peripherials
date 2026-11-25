@@ -1,0 +1,14 @@
+Source: https://www.techradar.com/computing/keyboards/frankly-absurd-i-reviewed-the-keychron-v1-ultra-8k-and-loved-its-ridiculously-epic-660-hour-battery-life-and-sky-high-8-000hz-max-polling-rate
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Impressive dual RGB lighting system with deep customization
++ Feature-rich web app requires no downloads
++ Lovely sound and key feel
++ Ridiculous wireless battery life on ZMK firmware
+
+CONS
+- Tall profile and sculpted keycaps may not suit heavy typing
+- No shine-through keycaps despite strong RGB
+- Noticeable flex in the plastic case

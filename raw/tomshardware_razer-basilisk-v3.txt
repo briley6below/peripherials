@@ -1,0 +1,5 @@
+Source: https://www.tomshardware.com/reviews/razer-basilisk-v3-review-above-and-beyond
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+Spec table: 'Polling Rates 125, 500 or 1,000 Hz'

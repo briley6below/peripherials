@@ -1,0 +1,31 @@
+Source: https://www.techpowerup.com/review/arye-rcc-1/8.html
+Title: ARYE RCC-1 Review
+Published: 2026-02-24
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz polling
++ Good sensor performance
++ Very low click latency
++ Mostly high button quality
++ Very good scroll wheel
++ Good choice of components
++ Lightweight
++ Nicely gliding mouse feet
++ Full software customizability
++ Set of replacement mouse feet included
+
+CONS (-)
+- Very pricey
+- Somewhat mushy and muted main buttons
+- Minor polling instability in wireless operation
+- Stiff charging cable
+
+SPEC TABLE
+Size:117 mm × 61.6 mm × 35 mm
+Size (inches):4.61" × 2.43" × 1.38"
+Weight:48 g
+Sensor:PixArt PAW3950
+Polling Rate:1000 Hz (wired)1000/2000/4000/8000 Hz (wireless)
+Price:$1299.00 HKD

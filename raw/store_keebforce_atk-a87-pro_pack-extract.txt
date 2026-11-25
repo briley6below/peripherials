@@ -1,0 +1,6 @@
+Source: https://keebforce.com/atk-a87-pro/
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+'Connectivity: USB-C, Bluetooth 5.0, 2.4 GHz' | 'Latency: 1 ms (wired), 1 ms (2.4 GHz), 7 ms (Bluetooth)'
+Weight / polling rate: not on page.

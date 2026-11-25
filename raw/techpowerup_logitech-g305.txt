@@ -1,0 +1,26 @@
+Source: https://www.techpowerup.com/review/logitech-g305/7.html
+Title: Logitech G305 Review
+Published: 2018-09-20
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ Great sensor
++ Main buttons and scroll wheel feel nice and crisp
++ Exceptional Lightspeed wireless technology
++ Safe, widely usable shape
++ Up to 250 hours of battery life
++ Excellent build quality
++ Great software
+
+CONS (-)
+- Main switches only rated for 10 million clicks
+- Side buttons have a lot of travel
+- Mouse feet could be better
+- Heavy and sluggish with the default battery
+
+SPEC TABLE
+Sensor:HERO™
+Size:116.6 mm x 62.15 mm x 38.2 mm
+Weight:99 g with one AA battery
+Polling Rate:125–1000 Hz

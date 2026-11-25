@@ -1,0 +1,30 @@
+Source: https://www.techpowerup.com/review/endgame-gear-op1-8k-v2/8.html
+Title: Endgame Gear OP1 8K V2 Review
+Published: 2026-01-23
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz polling
++ Excellent sensor performance
++ Ultra-low click latency
++ Very high button quality
++ Good scroll wheel
++ Great choice of components
++ Lightweight
++ Flexible cable
++ Nicely gliding mouse feet
++ Full software customizability
++ Set of replacement feet included
++ Set of grip tape included
+
+CONS (-)
+- Somewhat pricey (US only)
+
+SPEC TABLE
+Size:118.2 mm × 60.5 mm × 37.2 mm
+Size (inches):4.66" × 2.38" × 1.46"
+Weight:50 g
+Sensor:PixArt PAW3950
+Polling Rate:1000/2000/4000/8000 Hz
+Price:$89.99 (US)/$79.99 (non-US)

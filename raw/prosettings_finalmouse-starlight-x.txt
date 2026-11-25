@@ -1,0 +1,7 @@
+Source: https://prosettings.net/reviews/finalmouse-starlight-x/
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+Spec table: Sensor Finalmouse F1 | Polling Rate 8000 Hz | Length 12.4 | Width 5.9 | Height 3.9 | Weight 38 (no units printed)
+'Finalmouse advertises 38 grams. On my scale, the mouse weighs 41 grams.'
+'Battery life isn't clearly indicated in terms of hours by Finalmouse'

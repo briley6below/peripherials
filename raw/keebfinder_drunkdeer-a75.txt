@@ -1,0 +1,7 @@
+Source: https://keeb-finder.com/keyboards/drunkdeer-a75
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+Spec grid: 'Weight (differs)' and 'polling rate (differs)' across listings; listings show 'Weighs about 720 g' and 'Weighs about 1066.5 g'.
+Description: 'Compact and lightweight design at 715g supports portability without sacrificing stability.'
+DrunkDeer's own page (checked in Chrome) shows no weight or polling text. RTINGS: weight and polling are Locked.

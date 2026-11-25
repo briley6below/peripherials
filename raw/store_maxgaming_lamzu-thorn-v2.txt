@@ -1,0 +1,6 @@
+Source: https://us.maxgaming.com/us/wireless-mouses/lamzu-thorn-v2-8k-wireless-gaming-mouse-black
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+Width 66 mm | Depth 124 mm | Height 42 mm | Weight 55 g | Polling Rate 8000 Hz | Sensor PAW NEXT I
+'With a 300 mAh battery, Thorn V2 offers long usage time.' (no hours given)

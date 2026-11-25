@@ -1,0 +1,13 @@
+Source: https://www.pcgamer.com/hardware/gaming-keyboards/corsair-k70-core-review/
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Tangle-free cable
+
+CONS
+- Dial is rough, not smooth
+- Only minor adjustability
+- iCUE is complex
+
+Note: PC Gamer likes the cable ('Tangle-free'); Tom's dislikes it ('Rubber, non-detachable'). Both lines are added, each labelled with its outlet.

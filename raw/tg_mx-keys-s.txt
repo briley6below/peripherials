@@ -1,0 +1,15 @@
+Source: https://www.tomsguide.com/computing/peripherals/logitech-mx-keys-s-review
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Lovely to type on
++ Great for productivity
++ Intuitive companion software
++ Good battery life
++ Lovely to type on
+
+CONS
+- Limited backlighting
+- No onboard dongle storage
+- Expensive

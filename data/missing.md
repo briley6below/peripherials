@@ -33,37 +33,55 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - **'vxw'**: taken to mean VXE (site owner confirmed on 2026-11-21); the VXE V3 Pro was added.
 - **No product photo** (card shows a plain picture instead): skypad-glass-3.
 
+## Why some facts are still empty (data pack, read 2026-11-22)
+
+From the data pack's own research. Each note says what its sources do and do not list.
+
+- **LAMZU THORN V2** (battery hours): No hours from LAMZU for the V2; stores list a 300 mAh battery only (MaxGaming). The 80 h figure online is the original Thorn.
+- **Finalmouse Starlight X (SLX)** (battery hours): Finalmouse gives no hours (ProSettings: 'Battery life isn't clearly indicated in terms of hours').
+- **Finalmouse Starlight X (SLX)** (polling hz note): Finalmouse does not state a polling rate ('PerfectPolling'); ProSettings lists 8000 Hz. Your RTINGS 1000 Hz note stands.
+- **G-Wolves Fenrir Max** (battery hours): G-Wolves publishes no battery hours for the Fenrir/Fenris Max 8K.
+- **ARYE RCC-1** (battery hours): No hours from ARYE or stores; one store lists 300 mAh only.
+- **ATK A87 Pro** (polling hz): ATK lists no polling rate. KeebForce gives latency only: '1 ms (wired), 1 ms (2.4 GHz), 7 ms (Bluetooth)'. Weight figures online conflict.
+- **Logitech MX Keys S** (polling hz): Logitech publishes no report rate for the MX Keys S.
+- **Cooler Master MP511** (price): No US list price from Cooler Master (its US page is the 30th Anniversary Edition, out of stock). Newegg shows the MP511 Large at $43.99 from a third-party seller (Corn Electronics), which is a marketplace price, not a list price.
+- **SkyPAD Glass 3.0** (price): No US retailer found on 2026-11-22. Online listings are resellers (eBay, desertcart) in other currencies or for other editions.
+- **X-raypad Obsidian Pro** (price): Only the Obsidian PRO Air (a different product) is listed at JP Gaming USA ($13.99). No listing for the non-Air Obsidian Pro was found.
+- **Wired In Protagonist HE** (reviews): No written review and no YouTube review from your reviewer list found on 2026-11-22.
+- **ATK A87 Pro** (reviews): No English written review found; one Chinese hands-on (sspai.com/post/100145). No video from your reviewer list.
+- **Everglide SU66 Max** (reviews): No written review and no video from your reviewer list found on 2026-11-22.
+
 ## Per item
 
 ### Razer Viper V4 Pro (`razer-viper-v4-pro`)
-- 8 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 15 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Logitech G PRO X3 SUPERSTRIKE (`logitech-g-pro-x3-superstrike`)
 - 9 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Razer DeathAdder V4 Pro (`razer-deathadder-v4-pro`)
-- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 12 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Logitech G PRO X SUPERLIGHT 2 (`logitech-g-pro-x-superlight-2`)
 - Unverified: `specs.dpi`
-- 3 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 10 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Logitech G502 X PLUS (`logitech-g502-x-plus`)
 - 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Razer Basilisk V3 (`razer-basilisk-v3`)
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 8 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Logitech G305 LIGHTSPEED (`logitech-g305-lightspeed`)
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 15 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Corsair KATAR PRO XT (`corsair-katar-pro-xt`)
 - 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Logitech MX Master 4 (`logitech-mx-master-4`)
-- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### VXE R1 Pro (Dragonfly R1 Pro) (`vxe-r1-pro`)
@@ -72,19 +90,17 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Razer Viper V3 Pro (`razer-viper-v3-pro`)
-- Missing: cons (no sourced cons found)
-- Missing: spec: dimensions_mm
-- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 13 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### WLmouse HUAN (`wlmouse-huan`)
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### ARYE RCC-1 (`arye-rcc-1`)
-- Missing: cons (no sourced cons found)
 - Missing: lab test data (no lab review found)
 - Missing: spec: battery_hours
+- 11 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Pulsar X2 CrazyLight (Medium) (`pulsar-x2-crazylight`)
 - Missing: spec: battery_hours
@@ -92,13 +108,11 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Endgame Gear OP1 8k v2 (`endgame-gear-op1-8k-v2`)
-- 3 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 11 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Finalmouse Starlight X (SLX) (`finalmouse-starlight-x`)
-- Missing: spec: dimensions_mm
 - Missing: spec: battery_hours
-- Missing: spec: sensor
 - 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
@@ -107,14 +121,13 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Missing: lab test data (no lab review found)
 
 ### LAMZU THORN V2 (`lamzu-thorn-v2`)
-- Missing: spec: dimensions_mm
 - Missing: spec: battery_hours
-- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 8 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### G-Wolves Fenrir Max (`g-wolves-fenrir-max`)
 - Missing: spec: battery_hours
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 14 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Pulsar Xlite v4 eS Mini (`pulsar-xlite-v4-es-mini`)
@@ -126,51 +139,49 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Missing: lab test data (no lab review found)
 
 ### Wooting 80HE (`wooting-80he`)
-- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### ASUS ROG Strix Scope II 96 Wireless (`asus-rog-strix-scope-ii-96-wireless`)
 - 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Keychron K2 Ultra 8K (`keychron-k2-ultra-8k`)
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Keychron Q6 Ultra 8K (`keychron-q6-ultra-8k`)
-- Missing: cons (no sourced cons found)
-- 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Lemokey P1 HE (`lemokey-p1-he`)
-- 3 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 7 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Logitech MX Keys S (`logitech-mx-keys-s`)
-- Missing: cons (no sourced cons found)
 - Missing: spec: polling_hz
-- 3 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 8 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Ducky OK-M (`ducky-ok-m`)
-- 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 7 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Corsair K70 CORE (`corsair-k70-core`)
-- 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 10 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Keychron V1 Ultra 8K (`keychron-v1-ultra-8k`)
 - Missing: lab test data (no lab review found)
 - Unverified: `specs.switch_model`
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: Tom's Guide).
 
 ### MonsGeek FUN60 Ultra (`monsgeek-fun60-ultra`)
-- 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 6 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### DrunkDeer A75 (`drunkdeer-a75`)
 - Missing: spec: weight_g
-- 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
+- 7 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Wired In Protagonist HE (`wired-in-protagonist-he`)
@@ -234,7 +245,6 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Verdict rests on one reviewer (opinion: DiamondLobby).
 
 ### Corsair MM350 (`corsair-mm350`)
-- Missing: US list price
 - Missing: lab test data (no lab source tests this category)
 - Unverified: `price_note`
 - 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").

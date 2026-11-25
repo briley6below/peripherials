@@ -1,0 +1,13 @@
+Source: https://www.techradar.com/computing/keyboards/monsgeek-fun60-ultra-review
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Fantastic snappy performance
++ Very well priced
++ Great build quality
+
+CONS
+- Clunky device switching
+- Not the easiest software to use
+- Bizarre connectivity switch placement

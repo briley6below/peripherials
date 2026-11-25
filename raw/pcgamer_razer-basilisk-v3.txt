@@ -1,0 +1,9 @@
+Source: https://www.pcgamer.com/razer-basilisk-v3-gaming-mouse-review/
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+Spec box: 'Polling rate: 1,000Hz'
+Score: 90
+FOR: Ergonomic design | Still the best sensor | 4-way HyperScroll wheel | New RGB lighting
+AGAINST: Smart-Reel is overly aggressive | Razer Software is getting bloated
+Verdict line: 'The new Basilisk V3 plays it safe by not messing with a good thing, and instead adds a few neat new tricks at a lower price.'

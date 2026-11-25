@@ -1,0 +1,6 @@
+Source: https://www.techpowerup.com/349335/finalmouse-reveals-38-g-starlight-x-wireless-gaming-mouse-tmr-switches-exclusive-sensor-and-nordic-mcu-for-usd-179
+Read in Chrome / fetched: 2026-11-22
+Extract (not the full page):
+
+'The SLX is built around a custom Finalmouse F1 sensor, built in collaboration with PixArt, and a Nordic nRF54LM20 MCU, although Finalmouse has deliberately not quoted common specs'
+'Finalmouse has also neglected to specify the Starlight X's polling rate'

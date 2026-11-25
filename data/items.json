@@ -162,7 +162,16 @@
           "status": "agreed (PC Gamer, RTINGS)"
         },
         {
-          "text": "Very low click and sensor delay.",
+          "text": "Very low click delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v4-pro",
+            "tpu_razer-viper-v4-pro"
+          ],
+          "status": "agreed (RTINGS, TechPowerUp)"
+        },
+        {
+          "text": "Very low sensor delay.",
           "kind": "opinion",
           "sources": [
             "rt_viper-v4-pro"
@@ -173,9 +182,10 @@
           "text": "Top-of-the-line sensor.",
           "kind": "opinion",
           "sources": [
-            "pcg_best_mouse"
+            "pcg_best_mouse",
+            "tpu_razer-viper-v4-pro"
           ],
-          "status": "opinion: PC Gamer"
+          "status": "agreed (PC Gamer, TechPowerUp)"
         },
         {
           "text": "Its shape suits a wide range of hand sizes and grip types.",
@@ -200,6 +210,51 @@
             "bz_v4_balance"
           ],
           "status": "opinion: boardzy"
+        },
+        {
+          "text": "True 8000 Hz polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very high button quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Nicely gliding mouse feet.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Full software customizability, either through application or web driver.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "cons": [
@@ -226,9 +281,10 @@
           "text": "Expensive.",
           "kind": "opinion",
           "sources": [
-            "pcg_best_mouse"
+            "pcg_best_mouse",
+            "tpu_razer-viper-v4-pro"
           ],
-          "status": "opinion: PC Gamer"
+          "status": "agreed (PC Gamer, TechPowerUp)"
         },
         {
           "text": "No RGB lighting.",
@@ -254,6 +310,42 @@
             "bz_v4_value"
           ],
           "status": "opinion: boardzy"
+        },
+        {
+          "text": "Wireless polling instability.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Sensor counts are constrained to 12-bit in wireless operation.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "CPI deviation.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Stiff charging cable.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "sources": [
@@ -358,6 +450,17 @@
           "published": "2026-04-24",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tpu_razer-viper-v4-pro",
+          "label": "TechPowerUp review - Razer Viper V4 Pro (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/razer-viper-v4-pro/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_razer-viper-v4-pro.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-09-23"
         }
       ]
     },
@@ -778,7 +881,16 @@
           "status": "verified"
         },
         {
-          "text": "Very low click and sensor delay.",
+          "text": "Very low click delay.",
+          "kind": "opinion",
+          "sources": [
+            "rt_deathadder-v4-pro",
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "status": "agreed (RTINGS, TechPowerUp)"
+        },
+        {
+          "text": "Very low sensor delay.",
           "kind": "opinion",
           "sources": [
             "rt_deathadder-v4-pro"
@@ -792,6 +904,51 @@
             "th_best_mouse"
           ],
           "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "True 8000 Hz polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Excellent sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "High button quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Nicely gliding mouse feet.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "cons": [
@@ -815,9 +972,10 @@
           "text": "Expensive.",
           "kind": "opinion",
           "sources": [
-            "th_best_mouse"
+            "th_best_mouse",
+            "tpu_razer-deathadder-v4-pro"
           ],
-          "status": "opinion: Tom's Hardware"
+          "status": "agreed (TechPowerUp, Tom's Hardware)"
         },
         {
           "text": "Not much better than the V3 Pro.",
@@ -826,6 +984,24 @@
             "th_best_mouse"
           ],
           "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Resource-heavy software.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Stiff charging cable.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-deathadder-v4-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "sources": [
@@ -876,6 +1052,17 @@
           "published": "2026-10-08",
           "outlet": "Tom's Hardware",
           "type": "best-of list"
+        },
+        {
+          "id": "tpu_razer-deathadder-v4-pro",
+          "label": "TechPowerUp review - Razer DeathAdder V4 Pro (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/razer-deathadder-v4-pro/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_razer-deathadder-v4-pro.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2025-08-06"
         }
       ]
     },
@@ -905,8 +1092,9 @@
           "sources": [
             "mk_sl2"
           ],
-          "note": "RTINGS measured 59.4 g.",
-          "basis": "maker's figure"
+          "note": "RTINGS measured 59.4 g. Sources disagree: TechPowerUp's review lists 58 g. We keep the maker's 60 g.",
+          "basis": "maker's figure",
+          "conflict": true
         },
         "switches": {
           "value": "LIGHTFORCE hybrid optical-mechanical",
@@ -1036,6 +1224,51 @@
             "th_best_mouse"
           ],
           "status": "agreed (RTINGS, Tom's Hardware)"
+        },
+        {
+          "text": "True 8000 Hz wireless polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very low click latency.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Decent scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Wireless extender included.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "cons": [
@@ -1043,9 +1276,10 @@
           "text": "Feet do not glide as smoothly as many rivals.",
           "kind": "opinion",
           "sources": [
-            "rt_g-pro-x-superlight-2"
+            "rt_g-pro-x-superlight-2",
+            "tpu_logitech-g-pro-x-superlight-2"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, TechPowerUp)"
         },
         {
           "text": "No DPI button on the mouse.",
@@ -1059,9 +1293,46 @@
           "text": "Expensive.",
           "kind": "opinion",
           "sources": [
-            "th_best_mouse"
+            "th_best_mouse",
+            "tpu_logitech-g-pro-x-superlight-2"
           ],
-          "status": "opinion: Tom's Hardware"
+          "status": "agreed (TechPowerUp, Tom's Hardware)"
+        },
+        {
+          "text": "Main buttons can be hit or miss.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Lackluster side buttons.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Excessive jitter levels at higher CPI steps on certain surfaces.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Stiff charging cable.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g-pro-x-superlight-2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "compatible_skates": [
@@ -1106,6 +1377,17 @@
           "published": "2026-10-08",
           "outlet": "Tom's Hardware",
           "type": "best-of list"
+        },
+        {
+          "id": "tpu_logitech-g-pro-x-superlight-2",
+          "label": "TechPowerUp review - Logitech G Pro X Superlight 2 - Updated with 8000 Hz Tested (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/logitech-g-pro-x-superlight-2/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_logitech-g-pro-x-superlight-2.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2024-10-15"
         }
       ]
     },
@@ -1482,9 +1764,37 @@
           "text": "Comfortable right-handed shape for most hands.",
           "kind": "opinion",
           "sources": [
-            "rt_basilisk-v3"
+            "rt_basilisk-v3",
+            "pcg_basilisk-v3"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (PC Gamer, RTINGS)"
+        },
+        {
+          "text": "Still the best sensor.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_basilisk-v3"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "4-way HyperScroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_basilisk-v3"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "New RGB lighting.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_basilisk-v3"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
         }
       ],
       "cons": [
@@ -1504,6 +1814,24 @@
             "rt_basilisk-v3"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Smart-Reel is overly aggressive.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_basilisk-v3"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Razer Software is getting bloated.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_basilisk-v3"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
         }
       ],
       "sources": [
@@ -1524,6 +1852,17 @@
           "raw_file": "data/raw/maker_razer_basilisk-v3-specs2.txt",
           "outlet": "Razer",
           "type": "maker page"
+        },
+        {
+          "id": "pcg_basilisk-v3",
+          "label": "PC Gamer review - Razer Basilisk V3 - text extract from the data pack",
+          "url": "https://www.pcgamer.com/razer-basilisk-v3-gaming-mouse-review/",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/pcgamer_razer-basilisk-v3.txt",
+          "outlet": "PC Gamer",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2021-09-09"
         },
         {
           "id": "pcgr_basilisk",
@@ -1693,6 +2032,69 @@
             "rt_g305-lightspeed"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Great sensor.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Main buttons and scroll wheel feel nice and crisp.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Exceptional Lightspeed wireless technology.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Safe, widely usable shape.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Up to 250 hours of battery life.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Excellent build quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Great software.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "cons": [
@@ -1711,6 +2113,42 @@
             "rt_g305-lightspeed"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Main switches only rated for 10 million clicks.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Side buttons have a lot of travel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Mouse feet could be better.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Heavy and sluggish with the default battery.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_logitech-g305"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "sources": [
@@ -1741,6 +2179,17 @@
           "raw_file": "data/raw/rtings_logitech-g305-lightspeed.txt",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tpu_logitech-g305",
+          "label": "TechPowerUp review - Logitech G305 (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/logitech-g305/7.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_logitech-g305.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2018-09-20"
         }
       ]
     },
@@ -2144,6 +2593,15 @@
             "rt_best_mouse"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Still 125 Hz polling, even with the dongle; Switch and Click says this alone makes it a no for most people.",
+          "kind": "opinion",
+          "sources": [
+            "yt_sc_mxm4@716"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Switch and Click"
         }
       ],
       "sources": [
@@ -2175,6 +2633,18 @@
           "published": "2025-10-29",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "yt_sc_mxm4@716",
+          "label": "Switch and Click video - Logitech MX Master 4 review (I've Waited 3 Years for This Mouse) (11:56) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=_L5BpSMCgr4&t=716s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_sc_mxm4.txt",
+          "outlet": "Switch and Click",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2025-10-10",
+          "timestamp": "11:56"
         }
       ]
     },
@@ -2303,9 +2773,10 @@
           "text": "Comfortable symmetrical shape that suits a wide range of hand sizes and grip types.",
           "kind": "opinion",
           "sources": [
-            "rt_r1-pro"
+            "rt_r1-pro",
+            "yt_bz_r1-pro@475"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, boardzy)"
         },
         {
           "text": "Excellent build quality.",
@@ -2314,6 +2785,15 @@
             "rt_r1-pro"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "boardzy calls it 'the greatest budget mouse of all time' and recommends the Pro over the Pro Max and SE.",
+          "kind": "opinion",
+          "sources": [
+            "yt_bz_r1-pro@6"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: boardzy"
         }
       ],
       "cons": [],
@@ -2348,6 +2828,30 @@
           "published": "2025-07-18",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "yt_bz_r1-pro@475",
+          "label": "boardzy video - VXE R1 PRO Mouse Review! KING of Budget Mice (7:55) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=Q5xOTbFwbUs&t=475s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_bz_r1-pro.txt",
+          "outlet": "boardzy",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2024-03-07",
+          "timestamp": "7:55"
+        },
+        {
+          "id": "yt_bz_r1-pro@6",
+          "label": "boardzy video - VXE R1 PRO Mouse Review! KING of Budget Mice (0:06) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=Q5xOTbFwbUs&t=6s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_bz_r1-pro.txt",
+          "outlet": "boardzy",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2024-03-07",
+          "timestamp": "0:06"
         }
       ]
     },
@@ -2456,6 +2960,17 @@
           ],
           "note": "The maker words it 'right-handed symmetrical'. RTINGS calls it symmetrical.",
           "basis": "maker and RTINGS"
+        },
+        "dimensions_mm": {
+          "value": "127.1 x 63.9 x 39.9",
+          "status": "reported",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "note": "TechPowerUp's base length (without overhang) is 115 mm; 127.1 mm is overall length.",
+          "reported_by": [
+            "TechPowerUp"
+          ]
         }
       },
       "verdict": {
@@ -2468,7 +2983,16 @@
       },
       "pros": [
         {
-          "text": "Exceptional click latency and outstanding sensor latency (very low delay).",
+          "text": "Exceptional click latency (very low delay).",
+          "kind": "opinion",
+          "sources": [
+            "rt_viper-v3-pro",
+            "tpu_razer-viper-v3-pro"
+          ],
+          "status": "agreed (RTINGS, TechPowerUp)"
+        },
+        {
+          "text": "Outstanding sensor latency.",
           "kind": "opinion",
           "sources": [
             "rt_viper-v3-pro"
@@ -2479,9 +3003,10 @@
           "text": "Extremely lightweight.",
           "kind": "opinion",
           "sources": [
-            "rt_viper-v3-pro"
+            "rt_viper-v3-pro",
+            "tpu_razer-viper-v3-pro"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, TechPowerUp)"
         },
         {
           "text": "Excellent build quality.",
@@ -2506,9 +3031,91 @@
             "bz_v4_value"
           ],
           "status": "opinion: boardzy"
+        },
+        {
+          "text": "True 8000 Hz wireless polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "High button quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Nicely gliding mouse feet.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
-      "cons": [],
+      "cons": [
+        {
+          "text": "Pricey.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Resource-heavy software.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Stiff charging cable.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Charging could be faster.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_razer-viper-v3-pro"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        }
+      ],
       "sources": [
         {
           "id": "bz_v4_value",
@@ -2549,6 +3156,17 @@
           "published": "2024-05-21",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tpu_razer-viper-v3-pro",
+          "label": "TechPowerUp review - Razer Viper V3 Pro (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/razer-viper-v3-pro/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_razer-viper-v3-pro.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2024-08-09"
         }
       ]
     },
@@ -2668,9 +3286,10 @@
           "text": "Exceptional build quality.",
           "kind": "opinion",
           "sources": [
-            "rt_huan"
+            "rt_huan",
+            "yt_bz_huan@351"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, boardzy)"
         },
         {
           "text": "Very lightweight.",
@@ -2697,6 +3316,33 @@
             "rt_huan"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "The hump locks your grip in, which some people may find uncomfortable over long sessions.",
+          "kind": "opinion",
+          "sources": [
+            "yt_ws_huan@609"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Wasabi"
+        },
+        {
+          "text": "Heavy for its size; a tough sell when budget mice cost under $80.",
+          "kind": "opinion",
+          "sources": [
+            "yt_bz_huan@351"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "The bottom shell has a bit of flex.",
+          "kind": "opinion",
+          "sources": [
+            "yt_bz_huan@351"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: boardzy"
         }
       ],
       "sources": [
@@ -2718,6 +3364,30 @@
           "published": "2026-05-05",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "yt_bz_huan@351",
+          "label": "boardzy video - WLMOUSE HUAN Mouse Review! THE FUTURE? (5:51) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=-jExbEo8Y8k&t=351s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_bz_huan.txt",
+          "outlet": "boardzy",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2025-12-20",
+          "timestamp": "5:51"
+        },
+        {
+          "id": "yt_ws_huan@609",
+          "label": "Wasabi video - WLMOUSE HUAN Review | Before You Buy (10:09) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=278AkNidAv4&t=609s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_ws_huan.txt",
+          "outlet": "Wasabi",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2026-07-04",
+          "timestamp": "10:09"
         }
       ]
     },
@@ -2745,7 +3415,9 @@
             "lgg_rcc1",
             "maxg_rcc1"
           ],
-          "basis": "maker's figure"
+          "note": "Sources disagree: TechPowerUp's review lists 48 g. We keep the maker's 46 g.",
+          "basis": "maker's figure",
+          "conflict": true
         },
         "dimensions_mm": {
           "value": "117 x 61.6 x 35",
@@ -2840,9 +3512,109 @@
             "maxg_rcc1"
           ],
           "status": "verified"
+        },
+        {
+          "text": "True 8000 Hz polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Good sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very low click latency.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Mostly high button quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Nicely gliding mouse feet.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Set of replacement mouse feet included.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
-      "cons": [],
+      "cons": [
+        {
+          "text": "Very pricey.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Somewhat mushy and muted main buttons.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Minor polling instability in wireless operation.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Stiff charging cable.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_arye-rcc-1"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        }
+      ],
       "sources": [
         {
           "id": "lgg_rcc1",
@@ -2870,6 +3642,17 @@
           "raw_file": "data/raw/maker_arye_rcc-1.txt",
           "outlet": "ARYE",
           "type": "maker page"
+        },
+        {
+          "id": "tpu_arye-rcc-1",
+          "label": "TechPowerUp review - ARYE RCC-1 (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/arye-rcc-1/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_arye-rcc-1.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-02-24"
         }
       ]
     },
@@ -3160,7 +3943,16 @@
           "status": "opinion: RTINGS"
         },
         {
-          "text": "Incredible click latency and exceptional sensor latency.",
+          "text": "Incredible click latency.",
+          "kind": "opinion",
+          "sources": [
+            "rt_op1-8k-v2",
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "status": "agreed (RTINGS, TechPowerUp)"
+        },
+        {
+          "text": "Exceptional sensor latency.",
           "kind": "opinion",
           "sources": [
             "rt_op1-8k-v2"
@@ -3174,6 +3966,69 @@
             "rt_op1-8k-v2"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "True 8000 Hz polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Excellent sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very high button quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Good scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Flexible cable.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Nicely gliding mouse feet.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Set of replacement feet included.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "cons": [
@@ -3185,6 +4040,15 @@
             "mk_op1v2"
           ],
           "status": "verified"
+        },
+        {
+          "text": "Somewhat pricey (US only).",
+          "kind": "opinion",
+          "sources": [
+            "tpu_endgame-gear-op1-8k-v2"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "sources": [
@@ -3206,6 +4070,17 @@
           "published": "2025-10-24",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tpu_endgame-gear-op1-8k-v2",
+          "label": "TechPowerUp review - Endgame Gear OP1 8K V2 (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/endgame-gear-op1-8k-v2/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_endgame-gear-op1-8k-v2.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-01-23"
         }
       ]
     },
@@ -3265,6 +4140,29 @@
             "rt_starlight-x"
           ],
           "basis": "RTINGS review"
+        },
+        "sensor": {
+          "value": "Finalmouse F1 (custom, made with PixArt)",
+          "status": "reported",
+          "sources": [
+            "ps_starlight-x",
+            "tpunews_starlight-x"
+          ],
+          "reported_by": [
+            "ProSettings.net",
+            "TechPowerUp"
+          ]
+        },
+        "dimensions_mm": {
+          "value": "124 x 59 x 39",
+          "status": "reported",
+          "sources": [
+            "ps_starlight-x"
+          ],
+          "note": "ProSettings prints 12.4 / 5.9 / 3.9 with no unit (cm).",
+          "reported_by": [
+            "ProSettings.net"
+          ]
         }
       },
       "verdict": {
@@ -3330,6 +4228,17 @@
           "type": "maker page"
         },
         {
+          "id": "ps_starlight-x",
+          "label": "ProSettings.net review - Finalmouse Starlight X - text extract from the data pack",
+          "url": "https://prosettings.net/reviews/finalmouse-starlight-x/",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/prosettings_finalmouse-starlight-x.txt",
+          "outlet": "ProSettings.net",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-11-05"
+        },
+        {
           "id": "rt_starlight-x",
           "label": "RTINGS review - Finalmouse Starlight X (free sections)",
           "url": "https://www.rtings.com/mouse/reviews/finalmouse/starlight-x",
@@ -3338,6 +4247,16 @@
           "published": "2026-10-22",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tpunews_starlight-x",
+          "label": "TechPowerUp news - Finalmouse reveals Starlight X - text extract from the data pack",
+          "url": "https://www.techpowerup.com/349335/finalmouse-reveals-38-g-starlight-x-wireless-gaming-mouse-tmr-switches-exclusive-sensor-and-nordic-mcu-for-usd-179",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_news_starlight-x.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22"
         }
       ]
     },
@@ -3545,6 +4464,17 @@
             "rt_thorn-v2"
           ],
           "basis": "RTINGS review"
+        },
+        "dimensions_mm": {
+          "value": "124 x 66 x 42",
+          "status": "reported",
+          "sources": [
+            "mg_thorn-v2"
+          ],
+          "note": "LAMZU shows specs only as pictures. Caseking lists the same 124 x 66 x 42 (not opened by us).",
+          "reported_by": [
+            "MaxGaming"
+          ]
         }
       },
       "verdict": {
@@ -3579,6 +4509,15 @@
             "rt_thorn-v2"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Good stock skates and a scroll wheel with nothing to critique.",
+          "kind": "opinion",
+          "sources": [
+            "yt_bz_thorn-v2@283"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: boardzy"
         }
       ],
       "cons": [
@@ -3597,9 +4536,37 @@
             "rt_thorn-v2"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Battery life is 'kind of flawed'.",
+          "kind": "opinion",
+          "sources": [
+            "yt_bz_thorn-v2@283"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: boardzy"
+        },
+        {
+          "text": "Brings nothing new to the ergo market in 2026.",
+          "kind": "opinion",
+          "sources": [
+            "yt_bz_thorn-v2@283"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: boardzy"
         }
       ],
       "sources": [
+        {
+          "id": "mg_thorn-v2",
+          "label": "MaxGaming US - LAMZU Thorn V2 8K (spec table) - text extract from the data pack",
+          "url": "https://us.maxgaming.com/us/wireless-mouses/lamzu-thorn-v2-8k-wireless-gaming-mouse-black",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/store_maxgaming_lamzu-thorn-v2.txt",
+          "outlet": "MaxGaming",
+          "type": "store page",
+          "pack": "2026-11-22"
+        },
         {
           "id": "mk_thorn2",
           "label": "LAMZU - THORN V2 product page",
@@ -3618,6 +4585,18 @@
           "published": "2026-10-09",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "yt_bz_thorn-v2@283",
+          "label": "boardzy video - LAMZU Thorn v2 Review! (4:43) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=6SOI49MkmtU&t=283s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_bz_thorn-v2.txt",
+          "outlet": "boardzy",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2026-06-17",
+          "timestamp": "4:43"
         }
       ]
     },
@@ -3736,12 +4715,22 @@
           "text": "Astonishingly lightweight.",
           "kind": "opinion",
           "sources": [
-            "rt_fenris-max-wireless"
+            "rt_fenris-max-wireless",
+            "tpu_g-wolves-fenrir-max-8k"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, TechPowerUp)"
         },
         {
-          "text": "Exceptionally low click latency and exceptional sensor latency.",
+          "text": "Exceptionally low click latency.",
+          "kind": "opinion",
+          "sources": [
+            "rt_fenris-max-wireless",
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "status": "agreed (RTINGS, TechPowerUp)"
+        },
+        {
+          "text": "Exceptional sensor latency.",
           "kind": "opinion",
           "sources": [
             "rt_fenris-max-wireless"
@@ -3755,6 +4744,60 @@
             "rt_fenris-max-wireless"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "True 8000 Hz wireless polling.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Very good sensor performance.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "High button quality.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Good scroll wheel.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Nicely gliding mouse feet.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Sets of replacement feet included.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "cons": [
@@ -3773,6 +4816,51 @@
             "rt_fenris-max-wireless"
           ],
           "status": "verified"
+        },
+        {
+          "text": "Pricey.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Minor polling instability.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "CPI deviation.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Included cables are either too short or too stiff.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
+        },
+        {
+          "text": "Web driver not available as standalone app.",
+          "kind": "opinion",
+          "sources": [
+            "tpu_g-wolves-fenrir-max-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechPowerUp"
         }
       ],
       "sources": [
@@ -3794,6 +4882,17 @@
           "published": "2025-11-10",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tpu_g-wolves-fenrir-max-8k",
+          "label": "TechPowerUp review - G-Wolves Fenrir Max 8K (Value & Conclusion) - text extract from the data pack",
+          "url": "https://www.techpowerup.com/review/g-wolves-fenrir-max-8k/8.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/techpowerup_g-wolves-fenrir-max-8k.txt",
+          "outlet": "TechPowerUp",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2025-11-10"
         }
       ]
     },
@@ -4194,6 +5293,15 @@
             "rtk_80he"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Migss finds the typing sound excellent and calls it top of the magnetic keyboard list.",
+          "kind": "opinion",
+          "sources": [
+            "yt_mg_80he@1057"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Migss"
         }
       ],
       "cons": [
@@ -4280,6 +5388,18 @@
           "published": "2024-12-13",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "yt_mg_80he@1057",
+          "label": "Migss video - WORTH IT?! (Wooting 80HE Review) (17:37) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=qXqVgccLUY8&t=1057s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_mg_80he.txt",
+          "outlet": "Migss",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2024-09-27",
+          "timestamp": "17:37"
         }
       ]
     },
@@ -4594,9 +5714,10 @@
           "text": "Outstanding build quality.",
           "kind": "opinion",
           "sources": [
-            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+            "rtk_k2-k4-k8-k10-etc-ultra-8k",
+            "tr_k2-ultra-8k"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, TechRadar)"
         },
         {
           "text": "Excellent typing feel.",
@@ -4605,6 +5726,24 @@
             "rtk_k2-k4-k8-k10-etc-ultra-8k"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Hot-swappable hardware.",
+          "kind": "opinion",
+          "sources": [
+            "tr_k2-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "Good value.",
+          "kind": "opinion",
+          "sources": [
+            "tr_k2-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
         }
       ],
       "cons": [
@@ -4612,9 +5751,10 @@
           "text": "Tall. A wrist rest helps, but none is included.",
           "kind": "opinion",
           "sources": [
-            "rtk_k2-k4-k8-k10-etc-ultra-8k"
+            "rtk_k2-k4-k8-k10-etc-ultra-8k",
+            "tr_k2-ultra-8k"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, TechRadar)"
         },
         {
           "text": "Somewhat loud typing.",
@@ -4623,6 +5763,24 @@
             "rtk_k2-k4-k8-k10-etc-ultra-8k"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Red switches require heavy touch.",
+          "kind": "opinion",
+          "sources": [
+            "tr_k2-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "Stock keycaps aren't shine-through.",
+          "kind": "opinion",
+          "sources": [
+            "tr_k2-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
         }
       ],
       "sources": [
@@ -4664,6 +5822,17 @@
           "published": "2026-10-16",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tr_k2-ultra-8k",
+          "label": "TechRadar review - Keychron K2 Ultra 8K - text extract from the data pack",
+          "url": "https://www.techradar.com/computing/keyboards/keychron-k2-ultra-8k-review",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/tr_k2-ultra-8k.txt",
+          "outlet": "TechRadar",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-07-23"
         }
       ]
     },
@@ -4764,9 +5933,10 @@
           "text": "Outstanding build quality.",
           "kind": "opinion",
           "sources": [
-            "rtk_q6-q1-q3-etc-ultra-8k"
+            "rtk_q6-q1-q3-etc-ultra-8k",
+            "th_q6-ultra-8k"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, Tom's Hardware)"
         },
         {
           "text": "Quiet typing.",
@@ -4775,9 +5945,55 @@
             "rtk_q6-q1-q3-etc-ultra-8k"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Full-size.",
+          "kind": "opinion",
+          "sources": [
+            "th_q6-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Fantastic 8 KHz battery life.",
+          "kind": "opinion",
+          "sources": [
+            "th_q6-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
         }
       ],
-      "cons": [],
+      "cons": [
+        {
+          "text": "High-profile keycaps with smaller tops.",
+          "kind": "opinion",
+          "sources": [
+            "th_q6-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Switches are heavy and not as tactile.",
+          "kind": "opinion",
+          "sources": [
+            "th_q6-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Large and heavy.",
+          "kind": "opinion",
+          "sources": [
+            "th_q6-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        }
+      ],
       "sources": [
         {
           "id": "mk_q6u",
@@ -4807,6 +6023,17 @@
           "published": "2026-04-16",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "th_q6-ultra-8k",
+          "label": "Tom's Hardware review - Keychron Q6 Ultra 8K - text extract from the data pack",
+          "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/keychron-q6-ultra-8k-review",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/th_q6-ultra-8k.txt",
+          "outlet": "Tom's Hardware",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-04-12"
         }
       ]
     },
@@ -4913,9 +6140,10 @@
           "text": "Outstanding build quality.",
           "kind": "opinion",
           "sources": [
-            "rtk_p1-he"
+            "rtk_p1-he",
+            "tg_p1-he"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, Tom's Guide)"
         },
         {
           "text": "Bright backlight with easy-to-read keys.",
@@ -4924,6 +6152,42 @@
             "rtk_p1-he"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Stupidly good for typing.",
+          "kind": "opinion",
+          "sources": [
+            "tg_p1-he"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Magnetic gaming features.",
+          "kind": "opinion",
+          "sources": [
+            "tg_p1-he"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Quad-actuation.",
+          "kind": "opinion",
+          "sources": [
+            "tg_p1-he"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Web-based software.",
+          "kind": "opinion",
+          "sources": [
+            "tg_p1-he"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
         }
       ],
       "cons": [
@@ -4943,6 +6207,15 @@
             "rtk_p1-he"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "No Mac keycaps included.",
+          "kind": "opinion",
+          "sources": [
+            "tg_p1-he"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
         }
       ],
       "sources": [
@@ -4982,6 +6255,17 @@
           "raw_file": "data/raw/rtings_kb_lemokey-p1-he.txt",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tg_p1-he",
+          "label": "Tom's Guide review - Lemokey P1 HE - text extract from the data pack",
+          "url": "https://www.tomsguide.com/computing/peripherals/lemokey-p1-he-review",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/tg_p1-he.txt",
+          "outlet": "Tom's Guide",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2025-03-21"
         }
       ]
     },
@@ -5089,12 +6373,68 @@
           "text": "Great typing feel.",
           "kind": "opinion",
           "sources": [
-            "rtk_mx-keys-s"
+            "rtk_mx-keys-s",
+            "tg_mx-keys-s"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, Tom's Guide)"
+        },
+        {
+          "text": "Great for productivity.",
+          "kind": "opinion",
+          "sources": [
+            "tg_mx-keys-s"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Intuitive companion software.",
+          "kind": "opinion",
+          "sources": [
+            "tg_mx-keys-s"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Good battery life.",
+          "kind": "opinion",
+          "sources": [
+            "tg_mx-keys-s"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
         }
       ],
-      "cons": [],
+      "cons": [
+        {
+          "text": "Limited backlighting.",
+          "kind": "opinion",
+          "sources": [
+            "tg_mx-keys-s"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "No onboard dongle storage.",
+          "kind": "opinion",
+          "sources": [
+            "tg_mx-keys-s"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        },
+        {
+          "text": "Expensive.",
+          "kind": "opinion",
+          "sources": [
+            "tg_mx-keys-s"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Guide"
+        }
+      ],
       "sources": [
         {
           "id": "mk_mxks",
@@ -5124,6 +6464,17 @@
           "published": "2023-07-05",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tg_mx-keys-s",
+          "label": "Tom's Guide review - Logitech MX Keys S - text extract from the data pack",
+          "url": "https://www.tomsguide.com/computing/peripherals/logitech-mx-keys-s-review",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/tg_mx-keys-s.txt",
+          "outlet": "Tom's Guide",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2024-07-25"
         }
       ]
     },
@@ -5255,6 +6606,33 @@
             "rtk_ok-m"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Long list of features.",
+          "kind": "opinion",
+          "sources": [
+            "pcw_ok-m"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PCWorld"
+        },
+        {
+          "text": "Incredible value.",
+          "kind": "opinion",
+          "sources": [
+            "pcw_ok-m"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PCWorld"
+        },
+        {
+          "text": "VIA programming.",
+          "kind": "opinion",
+          "sources": [
+            "pcw_ok-m"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PCWorld"
         }
       ],
       "cons": [
@@ -5265,6 +6643,24 @@
             "rtk_ok-m"
           ],
           "status": "verified"
+        },
+        {
+          "text": "TTC switches.",
+          "kind": "opinion",
+          "sources": [
+            "pcw_ok-m"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PCWorld"
+        },
+        {
+          "text": "Short battery life (on the smaller model).",
+          "kind": "opinion",
+          "sources": [
+            "pcw_ok-m"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PCWorld"
         }
       ],
       "sources": [
@@ -5295,6 +6691,16 @@
           "published": "2026-08-21",
           "outlet": "PC Guide",
           "type": "review site"
+        },
+        {
+          "id": "pcw_ok-m",
+          "label": "PCWorld review - Ducky OK-M (65% model) - text extract from the data pack",
+          "url": "https://www.pcworld.com/article/3063899/ducky-ok-m-keyboard-review.html",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/pcw_ok-m.txt",
+          "outlet": "PCWorld",
+          "type": "review site",
+          "pack": "2026-11-22"
         },
         {
           "id": "pcw_okm",
@@ -5411,6 +6817,33 @@
             "rtk_k70-core"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Zero case ping.",
+          "kind": "opinion",
+          "sources": [
+            "th_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Double-shot ABS keycaps.",
+          "kind": "opinion",
+          "sources": [
+            "th_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Tangle-free cable.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
         }
       ],
       "cons": [
@@ -5421,6 +6854,51 @@
             "rtk_k70-core"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Rubber, non-detachable USB cable.",
+          "kind": "opinion",
+          "sources": [
+            "th_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Sweaty wrist rest.",
+          "kind": "opinion",
+          "sources": [
+            "th_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Tom's Hardware"
+        },
+        {
+          "text": "Dial is rough, not smooth.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Only minor adjustability.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "iCUE is complex.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_k70-core"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
         }
       ],
       "sources": [
@@ -5432,6 +6910,17 @@
           "raw_file": "data/raw/maker_corsair_k70-core.txt",
           "outlet": "Corsair",
           "type": "maker page"
+        },
+        {
+          "id": "pcg_k70-core",
+          "label": "PC Gamer review - Corsair K70 Core - text extract from the data pack",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/corsair-k70-core-review/",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/pcg_k70-core.txt",
+          "outlet": "PC Gamer",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2024-12-26"
         },
         {
           "id": "rt_best_gaming_kb",
@@ -5452,6 +6941,17 @@
           "published": "2024-02-14",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "th_k70-core",
+          "label": "Tom's Hardware review - Corsair K70 Core RGB - text extract from the data pack",
+          "url": "https://www.tomshardware.com/reviews/corsair-k70-core-rgb",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/th_k70-core.txt",
+          "outlet": "Tom's Hardware",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2023-10-19"
         }
       ]
     },
@@ -5568,17 +7068,37 @@
           "text": "Excellent typing sound and feel.",
           "kind": "opinion",
           "sources": [
-            "tg_best_kb"
+            "tg_best_kb",
+            "tr_v1-ultra-8k"
           ],
-          "status": "opinion: Tom's Guide"
+          "status": "agreed (TechRadar, Tom's Guide)"
         },
         {
           "text": "Long battery life.",
           "kind": "opinion",
           "sources": [
-            "tg_best_kb"
+            "tg_best_kb",
+            "tr_v1-ultra-8k"
           ],
-          "status": "opinion: Tom's Guide"
+          "status": "agreed (TechRadar, Tom's Guide)"
+        },
+        {
+          "text": "Impressive dual RGB lighting system with deep customization.",
+          "kind": "opinion",
+          "sources": [
+            "tr_v1-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "Feature-rich web app requires no downloads.",
+          "kind": "opinion",
+          "sources": [
+            "tr_v1-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
         }
       ],
       "cons": [
@@ -5586,9 +7106,28 @@
           "text": "Some flex.",
           "kind": "opinion",
           "sources": [
-            "tg_best_kb"
+            "tg_best_kb",
+            "tr_v1-ultra-8k"
           ],
-          "status": "opinion: Tom's Guide"
+          "status": "agreed (TechRadar, Tom's Guide)"
+        },
+        {
+          "text": "Tall profile and sculpted keycaps may not suit heavy typing.",
+          "kind": "opinion",
+          "sources": [
+            "tr_v1-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "No shine-through keycaps despite strong RGB.",
+          "kind": "opinion",
+          "sources": [
+            "tr_v1-ultra-8k"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
         }
       ],
       "sources": [
@@ -5610,6 +7149,17 @@
           "published": "2026-11-16",
           "outlet": "Tom's Guide",
           "type": "best-of list"
+        },
+        {
+          "id": "tr_v1-ultra-8k",
+          "label": "TechRadar review - Keychron V1 Ultra 8K - text extract from the data pack",
+          "url": "https://www.techradar.com/computing/keyboards/frankly-absurd-i-reviewed-the-keychron-v1-ultra-8k-and-loved-its-ridiculously-epic-660-hour-battery-life-and-sky-high-8-000hz-max-polling-rate",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/tr_v1-ultra-8k.txt",
+          "outlet": "TechRadar",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2026-05-05"
         }
       ]
     },
@@ -5715,9 +7265,10 @@
           "text": "Excellent build quality.",
           "kind": "opinion",
           "sources": [
-            "rtk_fun60-ultra"
+            "rtk_fun60-ultra",
+            "tr_fun60-ultra"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (RTINGS, TechRadar)"
         },
         {
           "text": "Software has Rapid Trigger, SOCD and DKS.",
@@ -5726,6 +7277,24 @@
             "rtk_fun60-ultra"
           ],
           "status": "verified"
+        },
+        {
+          "text": "Fantastic snappy performance.",
+          "kind": "opinion",
+          "sources": [
+            "tr_fun60-ultra"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "Very well priced.",
+          "kind": "opinion",
+          "sources": [
+            "tr_fun60-ultra"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
         }
       ],
       "cons": [
@@ -5736,6 +7305,33 @@
             "rtk_fun60-ultra"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Clunky device switching.",
+          "kind": "opinion",
+          "sources": [
+            "tr_fun60-ultra"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "Not the easiest software to use.",
+          "kind": "opinion",
+          "sources": [
+            "tr_fun60-ultra"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
+        },
+        {
+          "text": "Bizarre connectivity switch placement.",
+          "kind": "opinion",
+          "sources": [
+            "tr_fun60-ultra"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: TechRadar"
         }
       ],
       "sources": [
@@ -5777,6 +7373,17 @@
           "published": "2025-06-04",
           "outlet": "RTINGS",
           "type": "lab review"
+        },
+        {
+          "id": "tr_fun60-ultra",
+          "label": "TechRadar review - MonsGeek FUN60 Ultra - text extract from the data pack",
+          "url": "https://www.techradar.com/computing/keyboards/monsgeek-fun60-ultra-review",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/tr_fun60-ultra.txt",
+          "outlet": "TechRadar",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2025-05-12"
         }
       ]
     },
@@ -5874,9 +7481,10 @@
           "text": "Outstanding low latency.",
           "kind": "opinion",
           "sources": [
-            "rtk_a75"
+            "rtk_a75",
+            "pcg_a75"
           ],
-          "status": "opinion: RTINGS"
+          "status": "agreed (PC Gamer, RTINGS)"
         },
         {
           "text": "You can set how far each key travels before it registers, with key combinations or the web software.",
@@ -5893,6 +7501,24 @@
             "rtk_a75"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Great typing feel.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_a75"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Physical volume wheel.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_a75"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
         }
       ],
       "cons": [
@@ -5911,6 +7537,24 @@
             "rtk_a75"
           ],
           "status": "opinion: RTINGS"
+        },
+        {
+          "text": "Dreadful software.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_a75"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
+        },
+        {
+          "text": "Missing functionality.",
+          "kind": "opinion",
+          "sources": [
+            "pcg_a75"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: PC Gamer"
         }
       ],
       "sources": [
@@ -5931,6 +7575,17 @@
           "raw_file": "data/raw/store_mechkeys_drunkdeer-a75.txt",
           "outlet": "Mechkeys",
           "type": "store page"
+        },
+        {
+          "id": "pcg_a75",
+          "label": "PC Gamer review - DrunkDeer A75 (71/100) - text extract from the data pack",
+          "url": "https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review/",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/pcg_a75.txt",
+          "outlet": "PC Gamer",
+          "type": "review site",
+          "pack": "2026-11-22",
+          "published": "2023-06-08"
         },
         {
           "id": "pcgr_a75",
@@ -7545,7 +9200,15 @@
       "picked_by": [
         "th_best_pads"
       ],
-      "price": null,
+      "price": {
+        "usd": 39.99,
+        "type": "US list price",
+        "status": "verified",
+        "sources": [
+          "cor_mm350pro"
+        ],
+        "note": "List price of the MM350 PRO Extended XL (the version your photo shows). On sale for $24.99 on 2026-11-22."
+      },
       "price_note": {
         "value": "Corsair's comparison table now lists the MM350 in Medium only. The extended size is sold as the MM350 PRO Extended XL: list US$39.99, on sale for US$24.99 on 2026-11-19.",
         "status": "unverified",
@@ -7611,6 +9274,16 @@
         }
       ],
       "sources": [
+        {
+          "id": "cor_mm350pro",
+          "label": "Corsair US store - MM350 PRO Extended XL (CH-9413770-WW) - text extract from the data pack",
+          "url": "https://www.corsair.com/us/en/p/mousepads/ch-9413770-ww/mm350-pro-premium-spill-proof-cloth-gaming-mouse-pad-extended-xl-black-ch-9413770-ww",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/cor_mm350pro.txt",
+          "outlet": "Corsair",
+          "type": "maker page",
+          "pack": "2026-11-22"
+        },
         {
           "id": "mk_mm350",
           "label": "Corsair - MM350 PRO Extended XL page (with mouse pad comparison table)",
@@ -8907,9 +10580,19 @@
           "kind": "opinion",
           "sources": [
             "bz_sk_obsair",
-            "bz_sk_obsair2"
+            "bz_sk_obsair2",
+            "yt_ws_obsair@466"
           ],
-          "status": "opinion: boardzy"
+          "status": "agreed (Wasabi, boardzy)"
+        },
+        {
+          "text": "Reduces glide and impact noise on glass pads.",
+          "kind": "opinion",
+          "sources": [
+            "yt_ws_obsair@466"
+          ],
+          "pack": "2026-11-22",
+          "status": "opinion: Wasabi"
         }
       ],
       "cons": [],
@@ -8944,6 +10627,18 @@
           "raw_file": "data/raw/reseller_jpgaming_xraypad-skates.txt",
           "outlet": "JP Gaming USA",
           "type": "store page"
+        },
+        {
+          "id": "yt_ws_obsair@466",
+          "label": "Wasabi video - \"Quiet\" Skates for Glass - X-raypad Obsidian AIR Review (7:46) - text extract from the data pack",
+          "url": "https://www.youtube.com/watch?v=IgyRM-Ba5zU&t=466s",
+          "date_checked": "2026-11-22",
+          "raw_file": "data/raw/yt_ws_obsair.txt",
+          "outlet": "Wasabi",
+          "type": "video",
+          "pack": "2026-11-22",
+          "published": "2024-07-08",
+          "timestamp": "7:46"
         }
       ]
     },

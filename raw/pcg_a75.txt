@@ -1,0 +1,12 @@
+Source: https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review/
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Great typing feel
++ Physical volume wheel
++ Super responsive
+
+CONS
+- Dreadful software
+- Missing functionality

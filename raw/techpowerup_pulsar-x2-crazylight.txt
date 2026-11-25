@@ -1,0 +1,31 @@
+Source: https://www.techpowerup.com/review/pulsar-x2-crazylight/8.html
+Title: Pulsar X2 Crazylight Review
+Published: 2025-07-16
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz wireless polling
++ Very good sensor performance
++ Very low click latency
++ Very high button quality
++ Good scroll wheel
++ Good choice of components
++ Lightweight
++ Nicely gliding mouse feet
++ Full software customizability
++ Set of replacement mouse feet included
+
+CONS (-)
+- Pricey
+- Lackluster battery life
+- 4000 and 8000 Hz show large off-period polls
+- Stiff charging cable
+
+SPEC TABLE
+Size:115.6 mm x 61 mm x 36.6 mm
+Size (inches):4.55" x 2.40" x 1.44"
+Weight:37 g
+Sensor:Pulsar XS-1 (PixArt PAW3950)
+Polling Rate:125/250/500/1000 Hz (wired)125/250/500/1000/2000/4000/8000 Hz (wireless)
+Price:$129.95

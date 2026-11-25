@@ -1,0 +1,32 @@
+Source: https://www.techpowerup.com/review/logitech-g-pro-x-superlight-2/8.html
+Title: Logitech G Pro X Superlight 2 Review - Updated with 8000 Hz Tested
+Published: 2024-10-15
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz wireless polling
++ Very good sensor performance
++ Very low click latency
++ Decent scroll wheel
++ Good choice of components
++ Lightweight
++ Full software customizability
++ Wireless extender included
++ Set of grip tape included
+
+CONS (-)
+- Main buttons can be hit or miss
+- Lackluster side buttons
+- Excessive jitter levels at higher CPI steps on certain surfaces
+- Stiff charging cable
+- Feet aren't exactly premium
+- Pricey
+
+SPEC TABLE
+Size:125.0 mm x 63.5 mm x 40.0 mm
+Size (inches):4.92" x 2.5" x 1.57"
+Weight:58 g
+Sensor:HERO 2
+Polling Rate:125/250/500/1000 Hz (wired)125/250/500/1000/2000/4000/8000 Hz (wireless)
+Price:$159.00

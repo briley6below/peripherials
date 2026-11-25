@@ -1,0 +1,14 @@
+Source: https://www.tomsguide.com/computing/peripherals/lemokey-p1-he-review
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Stupidly good for typing
++ Sturdy, all-metal build
++ Magnetic gaming features
++ Quad-actuation
++ Web-based software
++ Sturdy, all-metal build
+
+CONS
+- No Mac keycaps included

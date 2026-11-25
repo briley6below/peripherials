@@ -1,0 +1,15 @@
+Source: https://www.techradar.com/computing/keyboards/keychron-k2-ultra-8k-review
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ High build quality
++ Hot-swappable hardware
++ Good value
++ High build quality
+
+CONS
+- Very thick with no wrist support
+- Red switches require heavy touch
+- Stock keycaps aren't shine-through
+- Very thick with no wrist support

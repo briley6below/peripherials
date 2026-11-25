@@ -1,0 +1,14 @@
+Source: https://www.pcworld.com/article/3063899/ducky-ok-m-keyboard-review.html
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Long list of features
++ Incredible value
++ VIA programming
+
+CONS
+- TTC switches
+- Short battery life (on the smaller model)
+
+Note: PCWorld reviewed the 65% OK-M. Its verdict: 'an absolutely incredible value in a mechanical keyboard'.

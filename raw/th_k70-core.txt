@@ -1,0 +1,13 @@
+Source: https://www.tomshardware.com/reviews/corsair-k70-core-rgb
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Zero case ping
++ Double-shot ABS keycaps
+
+CONS
+- Rubber, non-detachable USB cable
+- Sweaty wrist rest
+
+Note: Tom's calls the double-shot ABS keycaps a plus; RTINGS calls the ABS keycaps cheap-feeling. That is a disagreement, so your RTINGS con stays as it is.

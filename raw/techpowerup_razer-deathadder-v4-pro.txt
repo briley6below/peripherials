@@ -1,0 +1,30 @@
+Source: https://www.techpowerup.com/review/razer-deathadder-v4-pro/8.html
+Title: Razer DeathAdder V4 Pro Review
+Published: 2025-08-06
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's '+' and '-' lists and the spec table on page 1.
+
+PROS (+)
++ True 8000 Hz polling
++ Excellent sensor performance
++ Very low click latency
++ High button quality
++ Very good scroll wheel
++ Good choice of components
++ Lightweight
++ Nicely gliding mouse feet
++ Full software customizability
++ Set of grip tape included
+
+CONS (-)
+- Very pricey
+- Resource-heavy software
+- Stiff charging cable
+
+SPEC TABLE
+Size:128 mm x 68 mm x 44 mm
+Size (inches):5.00" x 2.67" x 1.73"
+Weight:56 g
+Sensor:Focus Pro 45K Optical Sensor Gen-2
+Polling Rate:125/500/1000/2000/4000/8000 Hz
+Price:$169.99

@@ -61,7 +61,25 @@
   },
   {
    "item": "razer-viper-v4-pro",
-   "line": "Very low click and sensor delay.",
+   "line": "Very low click delay.",
+   "source": "rt_viper-v4-pro",
+   "quotes": [
+    "incredibly low click and sensor latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Very low click delay.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Very low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Very low sensor delay.",
    "source": "rt_viper-v4-pro",
    "quotes": [
     "incredibly low click and sensor latency"
@@ -74,6 +92,15 @@
    "source": "pcg_best_mouse",
    "quotes": [
     "This mouse has an absolute top-of-the-line sensor"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Top-of-the-line sensor.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Very good sensor performance"
    ],
    "at": null
   },
@@ -104,6 +131,51 @@
     "The stock skates are better as well"
    ],
    "at": "0:43"
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "True 8000 Hz polling.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "True 8000 Hz polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Very high button quality.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Very high button quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Very good scroll wheel.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Very good scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Nicely gliding mouse feet.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Nicely gliding mouse feet"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Full software customizability, either through application or web driver.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Full software customizability, either through application or web driver"
+   ],
+   "at": null
   },
   {
    "item": "razer-viper-v4-pro",
@@ -161,6 +233,15 @@
   },
   {
    "item": "razer-viper-v4-pro",
+   "line": "Expensive.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Pricey"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
    "line": "No RGB lighting.",
    "source": "mk_viper2",
    "quotes": [
@@ -194,6 +275,42 @@
     "for most people, I do think honestly the Viper V3 Pro is going to be a better buy"
    ],
    "at": "8:35"
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Wireless polling instability.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Wireless polling instability"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Sensor counts are constrained to 12-bit in wireless operation.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Sensor counts are constrained to 12-bit in wireless operation"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "CPI deviation.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "CPI deviation"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v4-pro",
+   "line": "Stiff charging cable.",
+   "source": "tpu_razer-viper-v4-pro",
+   "quotes": [
+    "Stiff charging cable"
+   ],
+   "at": null
   },
   {
    "item": "logitech-g-pro-x3-superstrike",
@@ -380,7 +497,25 @@
   },
   {
    "item": "razer-deathadder-v4-pro",
-   "line": "Very low click and sensor delay.",
+   "line": "Very low click delay.",
+   "source": "rt_deathadder-v4-pro",
+   "quotes": [
+    "offers exceptionally low click and sensor latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Very low click delay.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Very low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Very low sensor delay.",
    "source": "rt_deathadder-v4-pro",
    "quotes": [
     "offers exceptionally low click and sensor latency"
@@ -393,6 +528,51 @@
    "source": "th_best_mouse",
    "quotes": [
     "+Great shape (BEST MOUSE SHAPE EVER)"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "True 8000 Hz polling.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "True 8000 Hz polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Excellent sensor performance.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Excellent sensor performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "High button quality.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "High button quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Very good scroll wheel.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Very good scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Nicely gliding mouse feet.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Nicely gliding mouse feet"
    ],
    "at": null
   },
@@ -425,10 +605,37 @@
   },
   {
    "item": "razer-deathadder-v4-pro",
+   "line": "Expensive.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Very pricey"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
    "line": "Not much better than the V3 Pro.",
    "source": "th_best_mouse",
    "quotes": [
     "-It's not THAT much better than the V3 Pro"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Resource-heavy software.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Resource-heavy software"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-deathadder-v4-pro",
+   "line": "Stiff charging cable.",
+   "source": "tpu_razer-deathadder-v4-pro",
+   "quotes": [
+    "Stiff charging cable"
    ],
    "at": null
   },
@@ -517,10 +724,64 @@
   },
   {
    "item": "logitech-g-pro-x-superlight-2",
+   "line": "True 8000 Hz wireless polling.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "True 8000 Hz wireless polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Very good sensor performance.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Very good sensor performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Very low click latency.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Very low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Decent scroll wheel.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Decent scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Wireless extender included.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Wireless extender included"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
    "line": "Feet do not glide as smoothly as many rivals.",
    "source": "rt_g-pro-x-superlight-2",
    "quotes": [
     "its mouse feet don't glide as smoothly as many competing gaming mice"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Feet do not glide as smoothly as many rivals.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Feet aren't exactly premium"
    ],
    "at": null
   },
@@ -539,6 +800,51 @@
    "source": "th_best_mouse",
    "quotes": [
     "-No DPI switch\n-Expensive"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Expensive.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Pricey"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Main buttons can be hit or miss.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Main buttons can be hit or miss"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Lackluster side buttons.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Lackluster side buttons"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Excessive jitter levels at higher CPI steps on certain surfaces.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Excessive jitter levels at higher CPI steps on certain surfaces"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g-pro-x-superlight-2",
+   "line": "Stiff charging cable.",
+   "source": "tpu_logitech-g-pro-x-superlight-2",
+   "quotes": [
+    "Stiff charging cable"
    ],
    "at": null
   },
@@ -700,6 +1006,42 @@
   },
   {
    "item": "razer-basilisk-v3",
+   "line": "Comfortable right-handed shape for most hands.",
+   "source": "pcg_basilisk-v3",
+   "quotes": [
+    "FOR: Ergonomic design | Still the best sensor | 4-way HyperScroll wheel | New RGB lighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Still the best sensor.",
+   "source": "pcg_basilisk-v3",
+   "quotes": [
+    "FOR: Ergonomic design | Still the best sensor | 4-way HyperScroll wheel | New RGB lighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "4-way HyperScroll wheel.",
+   "source": "pcg_basilisk-v3",
+   "quotes": [
+    "FOR: Ergonomic design | Still the best sensor | 4-way HyperScroll wheel | New RGB lighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "New RGB lighting.",
+   "source": "pcg_basilisk-v3",
+   "quotes": [
+    "FOR: Ergonomic design | Still the best sensor | 4-way HyperScroll wheel | New RGB lighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
    "line": "Heavy.",
    "source": "rt_basilisk-v3",
    "quotes": [
@@ -722,6 +1064,24 @@
    "source": "rt_basilisk-v3",
    "quotes": [
     "Quite bulky"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Smart-Reel is overly aggressive.",
+   "source": "pcg_basilisk-v3",
+   "quotes": [
+    "AGAINST: Smart-Reel is overly aggressive | Razer Software is getting bloated"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-basilisk-v3",
+   "line": "Razer Software is getting bloated.",
+   "source": "pcg_basilisk-v3",
+   "quotes": [
+    "AGAINST: Smart-Reel is overly aggressive | Razer Software is getting bloated"
    ],
    "at": null
   },
@@ -754,6 +1114,69 @@
   },
   {
    "item": "logitech-g305-lightspeed",
+   "line": "Great sensor.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Great sensor"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Main buttons and scroll wheel feel nice and crisp.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Main buttons and scroll wheel feel nice and crisp"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Exceptional Lightspeed wireless technology.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Exceptional Lightspeed wireless technology"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Safe, widely usable shape.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Safe, widely usable shape"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Up to 250 hours of battery life.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Up to 250 hours of battery life"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Excellent build quality.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Excellent build quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Great software.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Great software"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
    "line": "Heavy for a gaming mouse.",
    "source": "rt_g305-lightspeed",
    "quotes": [
@@ -767,6 +1190,42 @@
    "source": "rt_g305-lightspeed",
    "quotes": [
     "Due to its small size, it isn't an ideal choice for larger hands."
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Main switches only rated for 10 million clicks.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Main switches only rated for 10 million clicks"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Side buttons have a lot of travel.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Side buttons have a lot of travel"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Mouse feet could be better.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Mouse feet could be better"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-g305-lightspeed",
+   "line": "Heavy and sluggish with the default battery.",
+   "source": "tpu_logitech-g305",
+   "quotes": [
+    "Heavy and sluggish with the default battery"
    ],
    "at": null
   },
@@ -944,6 +1403,17 @@
    "at": null
   },
   {
+   "item": "logitech-mx-master-4",
+   "line": "Still 125 Hz polling, even with the dongle; Switch and Click says this alone makes it a no for most people.",
+   "source": "yt_sc_mxm4@716",
+   "quotes": [
+    "They still kept it at 125 Hz",
+    "even with a dongle, it's at 125 Hz",
+    "this one feature alone will make it a no for most people"
+   ],
+   "at": "11:56"
+  },
+  {
    "item": "vxe-r1-pro",
    "line": "A very light wireless mouse that RTINGS rates highly for FPS games.",
    "source": "rt_r1-pro",
@@ -973,12 +1443,30 @@
   },
   {
    "item": "vxe-r1-pro",
+   "line": "Comfortable symmetrical shape that suits a wide range of hand sizes and grip types.",
+   "source": "yt_bz_r1-pro@475",
+   "quotes": [
+    "I think that these are actually safe for the vast majority of people"
+   ],
+   "at": "7:55"
+  },
+  {
+   "item": "vxe-r1-pro",
    "line": "Excellent build quality.",
    "source": "rt_r1-pro",
    "quotes": [
     "Excellent build quality."
    ],
    "at": null
+  },
+  {
+   "item": "vxe-r1-pro",
+   "line": "boardzy calls it 'the greatest budget mouse of all time' and recommends the Pro over the Pro Max and SE.",
+   "source": "yt_bz_r1-pro@6",
+   "quotes": [
+    "greatest budget mouse of all time the vxe r1 pro"
+   ],
+   "at": "0:06"
   },
   {
    "item": "razer-viper-v3-pro",
@@ -994,7 +1482,26 @@
   },
   {
    "item": "razer-viper-v3-pro",
-   "line": "Exceptional click latency and outstanding sensor latency (very low delay).",
+   "line": "Exceptional click latency (very low delay).",
+   "source": "rt_viper-v3-pro",
+   "quotes": [
+    "Exceptional click latency.",
+    "Outstanding sensor latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Exceptional click latency (very low delay).",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Very low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Outstanding sensor latency.",
    "source": "rt_viper-v3-pro",
    "quotes": [
     "Exceptional click latency.",
@@ -1008,6 +1515,15 @@
    "source": "rt_viper-v3-pro",
    "quotes": [
     "Extremely lightweight."
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Extremely lightweight.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Lightweight"
    ],
    "at": null
   },
@@ -1040,6 +1556,87 @@
    "at": "8:35"
   },
   {
+   "item": "razer-viper-v3-pro",
+   "line": "True 8000 Hz wireless polling.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "True 8000 Hz wireless polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Very good sensor performance.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Very good sensor performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "High button quality.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "High button quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Very good scroll wheel.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Very good scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Nicely gliding mouse feet.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Nicely gliding mouse feet"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Pricey.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Pricey"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Resource-heavy software.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Resource-heavy software"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Stiff charging cable.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Stiff charging cable"
+   ],
+   "at": null
+  },
+  {
+   "item": "razer-viper-v3-pro",
+   "line": "Charging could be faster.",
+   "source": "tpu_razer-viper-v3-pro",
+   "quotes": [
+    "Charging could be faster"
+   ],
+   "at": null
+  },
+  {
    "item": "wlmouse-huan",
    "line": "A small, very light magnesium mouse that RTINGS rates outstanding for FPS games.",
    "source": "rt_huan",
@@ -1058,6 +1655,15 @@
     "Exceptional build quality."
    ],
    "at": null
+  },
+  {
+   "item": "wlmouse-huan",
+   "line": "Exceptional build quality.",
+   "source": "yt_bz_huan@351",
+   "quotes": [
+    "No issues with any of the uh like button quality, the shell"
+   ],
+   "at": "5:51"
   },
   {
    "item": "wlmouse-huan",
@@ -1085,6 +1691,33 @@
     "making it best suited for claw and fingertip grips for most hand sizes"
    ],
    "at": null
+  },
+  {
+   "item": "wlmouse-huan",
+   "line": "The hump locks your grip in, which some people may find uncomfortable over long sessions.",
+   "source": "yt_ws_huan@609",
+   "quotes": [
+    "this shape makes your grip feel rather locked in and to some people that can get uncomfortable"
+   ],
+   "at": "10:09"
+  },
+  {
+   "item": "wlmouse-huan",
+   "line": "Heavy for its size; a tough sell when budget mice cost under $80.",
+   "source": "yt_bz_huan@351",
+   "quotes": [
+    "when you can get like budget stuff for under 80, it's a tough sell,"
+   ],
+   "at": "5:51"
+  },
+  {
+   "item": "wlmouse-huan",
+   "line": "The bottom shell has a bit of flex.",
+   "source": "yt_bz_huan@351",
+   "quotes": [
+    "The bottom does have a bit of flex."
+   ],
+   "at": "5:51"
   },
   {
    "item": "arye-rcc-1",
@@ -1121,6 +1754,105 @@
    "source": "maxg_rcc1",
    "quotes": [
     "optimal for claw and fingertip grip"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "True 8000 Hz polling.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "True 8000 Hz polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Good sensor performance.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Good sensor performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Very low click latency.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Very low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Mostly high button quality.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Mostly high button quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Very good scroll wheel.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Very good scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Nicely gliding mouse feet.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Nicely gliding mouse feet"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Set of replacement mouse feet included.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Set of replacement mouse feet included"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Very pricey.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Very pricey"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Somewhat mushy and muted main buttons.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Somewhat mushy and muted main buttons"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Minor polling instability in wireless operation.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Minor polling instability in wireless operation"
+   ],
+   "at": null
+  },
+  {
+   "item": "arye-rcc-1",
+   "line": "Stiff charging cable.",
+   "source": "tpu_arye-rcc-1",
+   "quotes": [
+    "Stiff charging cable"
    ],
    "at": null
   },
@@ -1213,7 +1945,26 @@
   },
   {
    "item": "endgame-gear-op1-8k-v2",
-   "line": "Incredible click latency and exceptional sensor latency.",
+   "line": "Incredible click latency.",
+   "source": "rt_op1-8k-v2",
+   "quotes": [
+    "Incredible click latency.",
+    "Exceptional sensor latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Incredible click latency.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Ultra-low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Exceptional sensor latency.",
    "source": "rt_op1-8k-v2",
    "quotes": [
     "Incredible click latency.",
@@ -1232,6 +1983,69 @@
   },
   {
    "item": "endgame-gear-op1-8k-v2",
+   "line": "True 8000 Hz polling.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "True 8000 Hz polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Excellent sensor performance.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Excellent sensor performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Very high button quality.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Very high button quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Good scroll wheel.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Good scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Flexible cable.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Flexible cable"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Nicely gliding mouse feet.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Nicely gliding mouse feet"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Set of replacement feet included.",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Set of replacement feet included"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
    "line": "Wired only.",
    "source": "rt_op1-8k-v2",
    "quotes": [
@@ -1245,6 +2059,15 @@
    "source": "mk_op1v2",
    "quotes": [
     "OP1 8k v2 Wired Gaming Mouse"
+   ],
+   "at": null
+  },
+  {
+   "item": "endgame-gear-op1-8k-v2",
+   "line": "Somewhat pricey (US only).",
+   "source": "tpu_endgame-gear-op1-8k-v2",
+   "quotes": [
+    "Somewhat pricey (US only)"
    ],
    "at": null
   },
@@ -1384,6 +2207,15 @@
   },
   {
    "item": "lamzu-thorn-v2",
+   "line": "Good stock skates and a scroll wheel with nothing to critique.",
+   "source": "yt_bz_thorn-v2@283",
+   "quotes": [
+    "flawed. Stock skates are good. Um scroll wheel, really nothing to critique."
+   ],
+   "at": "4:43"
+  },
+  {
+   "item": "lamzu-thorn-v2",
    "line": "The finish scratches easily or shows fingerprints, depending on the color.",
    "source": "rt_thorn-v2",
    "quotes": [
@@ -1399,6 +2231,24 @@
     "More speed-related tracking variation than usual."
    ],
    "at": null
+  },
+  {
+   "item": "lamzu-thorn-v2",
+   "line": "Battery life is 'kind of flawed'.",
+   "source": "yt_bz_thorn-v2@283",
+   "quotes": [
+    "good, not great. Battery life, kind of flawed."
+   ],
+   "at": "4:43"
+  },
+  {
+   "item": "lamzu-thorn-v2",
+   "line": "Brings nothing new to the ergo market in 2026.",
+   "source": "yt_bz_thorn-v2@283",
+   "quotes": [
+    "I can't say it's like it brings anything new to the table as an ergo"
+   ],
+   "at": "4:43"
   },
   {
    "item": "g-wolves-fenrir-max",
@@ -1421,7 +2271,35 @@
   },
   {
    "item": "g-wolves-fenrir-max",
-   "line": "Exceptionally low click latency and exceptional sensor latency.",
+   "line": "Astonishingly lightweight.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Lightweight"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Exceptionally low click latency.",
+   "source": "rt_fenris-max-wireless",
+   "quotes": [
+    "Exceptionally low click latency",
+    "Exceptional sensor latency."
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Exceptionally low click latency.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Very low click latency"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Exceptional sensor latency.",
    "source": "rt_fenris-max-wireless",
    "quotes": [
     "Exceptionally low click latency",
@@ -1440,6 +2318,60 @@
   },
   {
    "item": "g-wolves-fenrir-max",
+   "line": "True 8000 Hz wireless polling.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "True 8000 Hz wireless polling"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Very good sensor performance.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Very good sensor performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "High button quality.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "High button quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Good scroll wheel.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Good scroll wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Nicely gliding mouse feet.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Nicely gliding mouse feet"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Sets of replacement feet included.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Sets of replacement feet included"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
    "line": "The open baseplate lets dust and debris collect inside.",
    "source": "rt_fenris-max-wireless",
    "quotes": [
@@ -1453,6 +2385,51 @@
    "source": "rt_fenris-max-wireless",
    "quotes": [
     "designed exclusively for fingertip grip"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Pricey.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Pricey"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Minor polling instability.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Minor polling instability"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "CPI deviation.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "CPI deviation"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Included cables are either too short or too stiff.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Included cables are either too short or too stiff"
+   ],
+   "at": null
+  },
+  {
+   "item": "g-wolves-fenrir-max",
+   "line": "Web driver not available as standalone app.",
+   "source": "tpu_g-wolves-fenrir-max-8k",
+   "quotes": [
+    "Web driver not available as standalone app"
    ],
    "at": null
   },
@@ -1592,6 +2569,16 @@
     "Outstanding build quality."
    ],
    "at": null
+  },
+  {
+   "item": "wooting-80he",
+   "line": "Migss finds the typing sound excellent and calls it top of the magnetic keyboard list.",
+   "source": "yt_mg_80he@1057",
+   "quotes": [
+    "I'll admit the sound of this keyboard is amazing",
+    "at the top of the magnetic keyboard list"
+   ],
+   "at": "17:37"
   },
   {
    "item": "wooting-80he",
@@ -1740,10 +2727,37 @@
   },
   {
    "item": "keychron-k2-ultra-8k",
+   "line": "Outstanding build quality.",
+   "source": "tr_k2-ultra-8k",
+   "quotes": [
+    "High build quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
    "line": "Excellent typing feel.",
    "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
    "quotes": [
     "Excellent typing quality."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Hot-swappable hardware.",
+   "source": "tr_k2-ultra-8k",
+   "quotes": [
+    "Hot-swappable hardware"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Good value.",
+   "source": "tr_k2-ultra-8k",
+   "quotes": [
+    "Good value"
    ],
    "at": null
   },
@@ -1758,10 +2772,37 @@
   },
   {
    "item": "keychron-k2-ultra-8k",
+   "line": "Tall. A wrist rest helps, but none is included.",
+   "source": "tr_k2-ultra-8k",
+   "quotes": [
+    "Very thick with no wrist support"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
    "line": "Somewhat loud typing.",
    "source": "rtk_k2-k4-k8-k10-etc-ultra-8k",
    "quotes": [
     "Somewhat loud typing noise."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Red switches require heavy touch.",
+   "source": "tr_k2-ultra-8k",
+   "quotes": [
+    "Red switches require heavy touch"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-k2-ultra-8k",
+   "line": "Stock keycaps aren't shine-through.",
+   "source": "tr_k2-ultra-8k",
+   "quotes": [
+    "Stock keycaps aren't shine-through"
    ],
    "at": null
   },
@@ -1785,10 +2826,64 @@
   },
   {
    "item": "keychron-q6-ultra-8k",
+   "line": "Outstanding build quality.",
+   "source": "th_q6-ultra-8k",
+   "quotes": [
+    "Super solid build"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
    "line": "Quiet typing.",
    "source": "rtk_q6-q1-q3-etc-ultra-8k",
    "quotes": [
     "Quiet typing noise."
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "Full-size.",
+   "source": "th_q6-ultra-8k",
+   "quotes": [
+    "Full-size"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "Fantastic 8 KHz battery life.",
+   "source": "th_q6-ultra-8k",
+   "quotes": [
+    "Fantastic 8 KHz battery life"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "High-profile keycaps with smaller tops.",
+   "source": "th_q6-ultra-8k",
+   "quotes": [
+    "High-profile keycaps with smaller tops"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "Switches are heavy and not as tactile.",
+   "source": "th_q6-ultra-8k",
+   "quotes": [
+    "Switches are heavy and not as tactile"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-q6-ultra-8k",
+   "line": "Large and heavy.",
+   "source": "th_q6-ultra-8k",
+   "quotes": [
+    "Large and heavy"
    ],
    "at": null
   },
@@ -1813,10 +2908,55 @@
   },
   {
    "item": "lemokey-p1-he",
+   "line": "Outstanding build quality.",
+   "source": "tg_p1-he",
+   "quotes": [
+    "Sturdy, all-metal build"
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
    "line": "Bright backlight with easy-to-read keys.",
    "source": "rtk_p1-he",
    "quotes": [
     "Bright backlighting and clear shine-through keycaps make legends easy to read in dark rooms."
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Stupidly good for typing.",
+   "source": "tg_p1-he",
+   "quotes": [
+    "Stupidly good for typing"
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Magnetic gaming features.",
+   "source": "tg_p1-he",
+   "quotes": [
+    "Magnetic gaming features"
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Quad-actuation.",
+   "source": "tg_p1-he",
+   "quotes": [
+    "Quad-actuation"
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "Web-based software.",
+   "source": "tg_p1-he",
+   "quotes": [
+    "Web-based software"
    ],
    "at": null
   },
@@ -1844,6 +2984,15 @@
    "source": "rtk_p1-he",
    "quotes": [
     "True analog output doesn't work as expected."
+   ],
+   "at": null
+  },
+  {
+   "item": "lemokey-p1-he",
+   "line": "No Mac keycaps included.",
+   "source": "tg_p1-he",
+   "quotes": [
+    "No Mac keycaps included"
    ],
    "at": null
   },
@@ -1884,6 +3033,69 @@
    "at": null
   },
   {
+   "item": "logitech-mx-keys-s",
+   "line": "Great typing feel.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "Lovely to type on"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Great for productivity.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "Great for productivity"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Intuitive companion software.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "Intuitive companion software"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Good battery life.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "Good battery life"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Limited backlighting.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "Limited backlighting"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "No onboard dongle storage.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "No onboard dongle storage"
+   ],
+   "at": null
+  },
+  {
+   "item": "logitech-mx-keys-s",
+   "line": "Expensive.",
+   "source": "tg_mx-keys-s",
+   "quotes": [
+    "Expensive"
+   ],
+   "at": null
+  },
+  {
    "item": "ducky-ok-m",
    "line": "RTINGS' \"Best Budget Keyboard\".",
    "source": "rt_best_kb",
@@ -1912,10 +3124,55 @@
   },
   {
    "item": "ducky-ok-m",
+   "line": "Long list of features.",
+   "source": "pcw_ok-m",
+   "quotes": [
+    "Long list of features"
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "Incredible value.",
+   "source": "pcw_ok-m",
+   "quotes": [
+    "Incredible value"
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "VIA programming.",
+   "source": "pcw_ok-m",
+   "quotes": [
+    "VIA programming"
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
    "line": "No advertised battery life.",
    "source": "rtk_ok-m",
    "quotes": [
     "No advertised battery life expectations."
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "TTC switches.",
+   "source": "pcw_ok-m",
+   "quotes": [
+    "TTC switches"
+   ],
+   "at": null
+  },
+  {
+   "item": "ducky-ok-m",
+   "line": "Short battery life (on the smaller model).",
+   "source": "pcw_ok-m",
+   "quotes": [
+    "Short battery life (on the smaller model)"
    ],
    "at": null
   },
@@ -1939,10 +3196,82 @@
   },
   {
    "item": "corsair-k70-core",
+   "line": "Zero case ping.",
+   "source": "th_k70-core",
+   "quotes": [
+    "Zero case ping"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Double-shot ABS keycaps.",
+   "source": "th_k70-core",
+   "quotes": [
+    "Double-shot ABS keycaps"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Tangle-free cable.",
+   "source": "pcg_k70-core",
+   "quotes": [
+    "Tangle-free cable"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
    "line": "Plastic body and ABS keycaps feel a bit cheap.",
    "source": "rtk_k70-core",
    "quotes": [
     "Plastic material that makes up most of the keyboard, including the ABS keycaps, is somewhat cheap feeling."
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Rubber, non-detachable USB cable.",
+   "source": "th_k70-core",
+   "quotes": [
+    "Rubber, non-detachable USB cable"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Sweaty wrist rest.",
+   "source": "th_k70-core",
+   "quotes": [
+    "Sweaty wrist rest"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Dial is rough, not smooth.",
+   "source": "pcg_k70-core",
+   "quotes": [
+    "Dial is rough, not smooth"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "Only minor adjustability.",
+   "source": "pcg_k70-core",
+   "quotes": [
+    "Only minor adjustability"
+   ],
+   "at": null
+  },
+  {
+   "item": "corsair-k70-core",
+   "line": "iCUE is complex.",
+   "source": "pcg_k70-core",
+   "quotes": [
+    "iCUE is complex"
    ],
    "at": null
   },
@@ -1977,6 +3306,15 @@
   },
   {
    "item": "keychron-v1-ultra-8k",
+   "line": "Excellent typing sound and feel.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "Lovely sound and key feel"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
    "line": "Long battery life.",
    "source": "tg_best_kb",
    "quotes": [
@@ -1986,10 +3324,64 @@
   },
   {
    "item": "keychron-v1-ultra-8k",
+   "line": "Long battery life.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "Ridiculous wireless battery life on ZMK firmware"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Impressive dual RGB lighting system with deep customization.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "Impressive dual RGB lighting system with deep customization"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Feature-rich web app requires no downloads.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "Feature-rich web app requires no downloads"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
    "line": "Some flex.",
    "source": "tg_best_kb",
    "quotes": [
     "+Dual RGB lighting systems\nREASONS TO AVOID\n-Some flex"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Some flex.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "Noticeable flex in the plastic case"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "Tall profile and sculpted keycaps may not suit heavy typing.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "Tall profile and sculpted keycaps may not suit heavy typing"
+   ],
+   "at": null
+  },
+  {
+   "item": "keychron-v1-ultra-8k",
+   "line": "No shine-through keycaps despite strong RGB.",
+   "source": "tr_v1-ultra-8k",
+   "quotes": [
+    "No shine-through keycaps despite strong RGB"
    ],
    "at": null
   },
@@ -2013,6 +3405,15 @@
   },
   {
    "item": "monsgeek-fun60-ultra",
+   "line": "Excellent build quality.",
+   "source": "tr_fun60-ultra",
+   "quotes": [
+    "Great build quality"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
    "line": "Software has Rapid Trigger, SOCD and DKS.",
    "source": "rtk_fun60-ultra",
    "quotes": [
@@ -2022,10 +3423,55 @@
   },
   {
    "item": "monsgeek-fun60-ultra",
+   "line": "Fantastic snappy performance.",
+   "source": "tr_fun60-ultra",
+   "quotes": [
+    "Fantastic snappy performance"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Very well priced.",
+   "source": "tr_fun60-ultra",
+   "quotes": [
+    "Very well priced"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
    "line": "Tray mount feels somewhat stiff.",
    "source": "rtk_fun60-ultra",
    "quotes": [
     "Somewhat stiff-feeling tray mount."
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Clunky device switching.",
+   "source": "tr_fun60-ultra",
+   "quotes": [
+    "Clunky device switching"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Not the easiest software to use.",
+   "source": "tr_fun60-ultra",
+   "quotes": [
+    "Not the easiest software to use"
+   ],
+   "at": null
+  },
+  {
+   "item": "monsgeek-fun60-ultra",
+   "line": "Bizarre connectivity switch placement.",
+   "source": "tr_fun60-ultra",
+   "quotes": [
+    "Bizarre connectivity switch placement"
    ],
    "at": null
   },
@@ -2049,6 +3495,15 @@
   },
   {
    "item": "drunkdeer-a75",
+   "line": "Outstanding low latency.",
+   "source": "pcg_a75",
+   "quotes": [
+    "Super responsive"
+   ],
+   "at": null
+  },
+  {
+   "item": "drunkdeer-a75",
    "line": "You can set how far each key travels before it registers, with key combinations or the web software.",
    "source": "rtk_a75",
    "quotes": [
@@ -2067,6 +3522,24 @@
   },
   {
    "item": "drunkdeer-a75",
+   "line": "Great typing feel.",
+   "source": "pcg_a75",
+   "quotes": [
+    "Great typing feel"
+   ],
+   "at": null
+  },
+  {
+   "item": "drunkdeer-a75",
+   "line": "Physical volume wheel.",
+   "source": "pcg_a75",
+   "quotes": [
+    "Physical volume wheel"
+   ],
+   "at": null
+  },
+  {
+   "item": "drunkdeer-a75",
    "line": "High profile: it can be tiring to use for long periods without a wrist rest.",
    "source": "rtk_a75",
    "quotes": [
@@ -2080,6 +3553,24 @@
    "source": "rtk_a75",
    "quotes": [
     "the plastic chassis feels a bit cheap"
+   ],
+   "at": null
+  },
+  {
+   "item": "drunkdeer-a75",
+   "line": "Dreadful software.",
+   "source": "pcg_a75",
+   "quotes": [
+    "Dreadful software"
+   ],
+   "at": null
+  },
+  {
+   "item": "drunkdeer-a75",
+   "line": "Missing functionality.",
+   "source": "pcg_a75",
+   "quotes": [
+    "Missing functionality"
    ],
    "at": null
   },
@@ -3177,6 +4668,25 @@
     "the obsidian airs are more of a um Best of Both Worlds"
    ],
    "at": "23:45"
+  },
+  {
+   "item": "xraypad-obsidian-air",
+   "line": "Best all-rounder between glass and cloth.",
+   "source": "yt_ws_obsair@466",
+   "quotes": [
+    "I alternate between cloth and glass",
+    "this feels pretty good on both surfaces"
+   ],
+   "at": "7:46"
+  },
+  {
+   "item": "xraypad-obsidian-air",
+   "line": "Reduces glide and impact noise on glass pads.",
+   "source": "yt_ws_obsair@466",
+   "quotes": [
+    "job at reducing the Glide and impact noise"
+   ],
+   "at": "7:46"
   },
   {
    "item": "xraypad-obsidian-pro",

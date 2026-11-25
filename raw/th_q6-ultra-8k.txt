@@ -1,0 +1,14 @@
+Source: https://www.tomshardware.com/peripherals/gaming-keyboards/keychron-q6-ultra-8k-review
+Read in Chrome: 2026-11-22
+Extract (not the full page): the review's pros/cons box.
+
+PROS
++ Full-size
++ Super solid build
++ Fantastic 8 KHz battery life
++ Super solid build
+
+CONS
+- High-profile keycaps with smaller tops
+- Switches are heavy and not as tactile
+- Large and heavy
