@@ -1,0 +1,282 @@
+URL: https://www.pcgamer.com/razer-basilisk-v3-gaming-mouse-review/
+TITLE: Razer Basilisk V3 gaming mouse review | PC Gamer
+SAVED: 2026-11-25T07:39:52.689Z
+
+Skip to main content
+Join the community
+- Join our community
+JOIN NOW
+Commenting
+Join the discussion
+Trending conversations
+Keep up with hot threads
+Newsletters
+Get PC Gamer in your inbox
+Member badges
+Earn badges and track your stats
+Article recommendations
+News and opinions relevant to you
+Find deals
+Quick access to our curated hardware deals
+BECOME A MEMBER
+For the quickest way to join, simply enter your email below and get access. We will send a confirmation and sign you up to our newsletter to keep you updated on all your gaming news.
+By submitting your information, you confirm you are aged 16 or over, have read our Privacy Policy and agree to the Terms & Conditions. Geographical rules apply. You also agree to receive marketing emails from us that may include promotions from our trusted partners and sponsors, which you can unsubscribe from at any time.
+PC Gamer
+THE GLOBAL AUTHORITY ON PC GAMES
+US Edition
+SUBSCRIBE
+Sign in
+Games
+Hardware
+News & Opinion
+Reviews & Advice
+Guides
+More
+POPULAR
+GTA 6
+Black Friday deals
+Top 100
+Game Awards
+Clips
+Quizzes
+HARDWARE
+GAMING MICE
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+90
+RAZER BASILISK V3 GAMING MOUSE REVIEW
+Razer makes some subtle, and some hyper changes to the classic Basilisk for yet another winning rodent.
+Reviews
+By Kizito Katawonga
+Published September 9, 2021
+ 
+ 
+ 
+ 
+ 
+(Image: © Razer)
+FOR
+Ergonomic design
+Still the best sensor
+4-way HyperScroll wheel
+New RGB lighting
+	
+AGAINST
+Smart-Reel is overly aggressive
+Razer Software is getting bloated
+
+PC Gamer's got your back  Our experienced team dedicates many hours to every review, to really get to the heart of what matters most to you. Find out more about how we evaluate games and hardware.
+
+BLACK FRIDAY ENDS IN
+06
+DAYS
+15
+HRS
+09
+MINS
+58
+SECS
+$69.99
+$32.99
+VIEW
+Check out Black Friday at
+We check over 250 million products every day for the best prices
+
+The new Razer Basilisk V3 is, as the name suggests, the third iteration of the iconic wired rodent. Initially introduced way back in the wonderful year 2018 B.C. (Before Covid) the Basilisk quickly earned its name as one of the best gaming mice. We loved the follow-up Basilisk V2 and the many improvements it brought. On to this version three mouse, and the improvements aren't as immediately obvious. 
+
+The Basilisk V3 looks and feels practically identical to the V2, which admittedly isn't a bad thing at all. Designed for right-handers, the $70 Basilisk V3 retains the same flared and textured thumb rest, iconic thumb paddle, and split mouse button design of the V2. 
+
+It's extremely comfortable to hold on to for hours on end and reminds me why the Basilisk Ultimate was my own favorite mouse. However, coming from using the Steelseries Prime Wireless mouse, I can't help but notice the V3's extra heft. 
+
+Latest Videos From
+PC Gamer
+
+Mind you, it's still only 101g all told, but the 20g difference might as well be a kilo to some, though that never affected my enjoyment of using the V3 for over 10 hours each day. The 100% PTFE feet make the Basilisk glide effortlessly, and even the braided cord disappeared from my consciousness as it never came close to hindering my movements. 
+
+You won't miss the most obvious design change — a blinding, 9-zone Razer Chroma lighting strip on the base. This new strip makes the V3 look like an otherworldly visitor ship on your desk. In addition to the scroll wheel and hump logo, lighting is customisable to your heart's content, via the Razer Chroma studio. Should you really want to engage with Razer's software.
+
+Also changed is the iconic thumb paddle, which is now shorter and non-removable unlike the v2. It feels reassuringly solid and able to take more punishment than the last generation. Oh, and you don't have to worry about losing it either (mine is gone forever - Ed). 
+
+By default, the paddle shifts down your DPI for better sniping though you can easily set it to do whatever you want in Razer Synapse. The same applies to the 10 other buttons and you can save different profiles to the internal memory. You will need to flip the V3 to hit the switch that cycles the profiles, however. 
+
+Get the best curated deals in your inbox every week
+
+The PC Gamer Circuit Breaker newsletter breaks down the latest PC gaming tech, and finds you the best deals on the best products
+
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+
+(Image credit: Future)
+BASILISK V3 SPECS
+
+Sensor: Razer Focus+ Optical
+Sensitivity: 26,000 dpi
+Polling rate: 1,000Hz
+Programmable buttons: 11
+Lighting: 11 customisable RGB zones
+Cable length: 6 feet
+Weight: 101g
+Price: $70
+
+Razer is touting the new HyperScroll Tilt Wheel on the V3 as one of its most stand out features, and for good reason. It brings two modes of use; Tactile for clicky, measured scrolls, and Free Spin which removes any resistance to scrolling. Smart Reel is an automatic mode that switches between the two modes. Spin the wheel faster and the mouse releases the wheel into Free Spin that is wonderful for long web pages and documents. 
+
+You get an audible click when the mouse switches modes like a gear shift. Sadly, Smart Reel is far too enthusiastic and would kick in way too often—much to my irritation. Thankfully, you can manually switch modes by pressing the button just behind the scroll wheel. I work alot in design programs and, while the free spin makes moving around large canvases faster, it quickly becomes a problem when zooming in and out for details. 
+
+This is also exacerbated by the V3's scroll acceleration which increases the scroll speed the faster you spin the wheel. Your mileage will vary but it's one of those things that's likely to be an acquired taste. As cool as this new scroll wheel is, I failed to find any practical use for it in games, though some of you clever folk will undoubtedly create some smart hacks. 
+
+Personally, I feel the HyperScroll is more of a productivity enhancement that aims the Basilisk V3 straight at mice like the Logitech MX Master 3.
+
+Image 1 of 3
+(Image credit: Future)
+(Image credit: Razer)
+(Image credit: Future)
+
+Thankfully the few real improvements aren't centered around the scroll wheel. Razer has also updated the Focus+ optical sensor, raising it from an already absurd 20,000 DPI to 26,000 DPI. But it has maintained the 650 IPS. 
+
+I don't know anyone who actually games at such high DPI, but the Basilisk V3 is certainly smooth, precise, and responsive and the extra granularity the high DPI allows helps its smooth tracking. Razer has also included some AI smart tracking to help the mouse automatically calibrate itself to whatever surface you are using it on. 
+
+The main mouse buttons get second-gen Razer Optical mechanical switches and they have crispy clicks, are fast, and just as responsive as the sensor itself. I love the gentle button grooves and the subtle texture, so that your fingers don't slip. I also noticed the buttons are less wobbly than previous Basilisks, but we'll have to see how they hold up after several thousand clicks. 
+
+The Razer Basilisk V3 is a solid iteration on an already great mouse, improving on elements without detracting from others. Those improvements are welcome, too, and I honestly can't get over how good the added Chroma lighting looks. The HyperScroll Tilt Wheel is fun, though ultimately not as useful in gaming as it is in productivity work, but overall I love this new Basilisk, and it certainly leaves me excited for a wireless Basilisk V3 Ultimate. Now that's going to be some mouse.
+
+Razer Basilisk V3: Price Comparison
+BLACK FRIDAY ENDS IN
+06
+DAYS
+15
+HRS
+09
+MINS
+58
+SECS
+$69.99
+$32.99
+VIEW
+$69.99
+$32.99
+VIEW
+$34.99
+VIEW
+$49.99
+$39.98
+VIEW
+$79.99
+VIEW
+Check out Black Friday at
+We check over 250 million products every day for the best prices
+POWERED BY
+THE VERDICT 
+90
+Read our review policy
+RAZER BASILISK V3
+
+The new Basilisk V3 plays it safe by not messing with a good thing, and instead adds a few neat new tricks at a lower price.
+
+Kizito Katawonga
+
+ Kizzy is the consummate geek, with black turtleneck design sensibilities, always on the hunt for the latest, greatest, and sexiest tech. He's played Doom on the OG Pentium and still remembers how to hack a dial-a-phone. After four decades of being crazy about tech, he's literally just getting started. It's the age of the geek, baby! 
+
+READ MORE
+Gaming Mice
+New Razer Basilisk V4 executes perfect 180 degree turns at the click of a button, all while looking like a Power Ranger's foot
+ 
+ 
+Controllers
+Razer Wolverine V4 Pro wireless gaming controller review
+ 
+ 
+Gaming Mice
+Corsair Sabre V3 Pro PureVector Ergo review
+ 
+ 
+Gaming Mice
+SteelSeries Rival Pro gaming mouse review
+ 
+ 
+Gaming Keyboards
+Razer Reclusa X Mini 65% gaming keyboard review
+ 
+ 
+Gaming Mice
+Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch
+ 
+ 
+LATEST IN GAMING MICE
+Gaming Mice
+Corsair Sabre V3 Pro PureVector Ergo review
+ 
+ 
+Gaming Mice
+Our favorite ultralight gaming mouse has dropped to its lowest ever price on Amazon
+ 
+ 
+Gaming Mice
+Turtle Beach Command Series MC7 review
+ 
+ 
+Gaming Mice
+Black Friday gaming mouse deals
+ 
+ 
+Gaming Mice
+Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one
+ 
+ 
+Gaming Mice
+79% of you think Razer's new gaming mouse feature counts as cheating
+ 
+ 
+LATEST IN REVIEWS
+World of Warcraft
+World of Warcraft: Forever review: The first proper MMO adventure I've been on in years
+ 
+ 
+Sports
+Football Manager 27 review: Back on form, but not without its wayward touches
+ 
+ 
+Gaming Mice
+Corsair Sabre V3 Pro PureVector Ergo review
+ 
+ 
+RTS
+Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI
+ 
+ 
+Controllers
+8BitDo Ultimate 3E wireless controller review
+ 
+ 
+PC Cases
+Antec C6 Curve Air review
+ 
+ 
+HARDWARE BUYING GUIDES
+LATEST GAME REVIEWS
+1
+The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free
+2
+Best gaming laptops 2026: We've reviewed the best gaming laptops of this generation and these are our favorites
+3
+Best graphics cards in 2026: These are the GPUs worth spending money in right now
+4
+Best gaming laptop 2026: I've tested the best laptops for gaming of this generation and here are the ones I recommend.
+5
+Best handheld gaming PC in 2026: my recommendations for the best portable powerhouses.
+
+PC Gamer is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+Add as a preferred source on Google
+About Us
+Contact Future's experts
+Terms and conditions
+Privacy policy
+Cookies policy
+Advertise with us
+Accessibility Statement
+Careers
+Do not sell or share my personal information
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.

@@ -1,0 +1,155 @@
+URL: https://torontokeyboardman.ca/products/everglide-su66-pcb-module
+TITLE: Everglide SU66 Max PCB Module – Toronto KeyboardMan
+SAVED: 2026-11-25T07:40:42.909Z
+
+Skip to content
+
+Free shipping in North America over $179
+
+Fedex 2 Days delivery to the U.S available
+
+Site navigation
+Toronto KeyboardMan
+Search
+Cart
+Everglide
+ 
+SU66
+ 
+Max
+ 
+PCB
+ 
+Module
+$119.00 USD
+Plate
+Plate:
+Silver Carbon Fibre
+Silver Carbon Fibre
+Black Gold FR4
+Aluminum
+Keyboard Specifications
+Layout
+60%
+Connection Type
+Wired
+In stock, ready to ship
+Quantity
+Add to cart
+More payment options
+
+Pickup available at Toronto KeyboardMan Showroom
+
+Usually ready in 24 hours
+View store information
+
+Free Shipping Over $179 
+
+Order within the next 14hrs 20mins 16secs for dispatch today, and you'll receive your package between Nov 26 and Dec 02 
+
+
+Share:
+
+Share on Facebook
+Share on X
+Pin on Pinterest
+Share by Email
+Need help?
+Description
+EVERGLIDE · SU66 MAX
+A 600 MHz magnetic keyboard PCB for the GH60 platform.
+
+Everglide's flagship magnetic keyboard PCB module for the GH60 form factor — Hall Effect (magnetic) switch support, 600 MHz high-frequency MCU, 32,000 Hz scan rate, 8000 Hz polling, and 0.001 mm Rapid Trigger precision. Split spacebar layout, surround underglow lighting, and a complete tray-mount stack-up included in the box.
+
+Magnetic / Hall Effect
+600 MHz MCU
+8000 Hz Polling
+32,000 Hz Scan
+0.001 mm RT
+GH60 Compatible
+600 MHZ MCU
+High-frequency chip. Sub-millisecond response.
+
+The SU66 MAX runs on a 600 MHz high-frequency MCU paired with a high-speed scan matrix — driving a 0.06 ms input latency, 32 kHz scan rate, and 8 kHz polling end-to-end. That's the headroom magnetic switches need for Rapid Trigger to actually behave like Rapid Trigger.
+
+SURROUND UNDERGLOW
+Full RGB top, ring of light below.
+
+136 per-key RGB LEDs on top, 38 underglow LEDs wrapping the rear of the PCB, plus 10 dedicated LEDs behind the spacebar. Bright, consistent, fully addressable through the driver.
+
+SPLIT SPACEBAR
+Split-space layout, GH60-compatible.
+
+Split spacebar for the player who wants a dedicated layer trigger under the right thumb. Drops directly into any GH60-compatible case — no custom plate work, no daughterboard relocation, no rewiring. Build the magnetic keyboard you actually want.
+
+FUNCTION DEMO
+See it in action.
+WEB DRIVER
+Browser-based. No installer.
+
+Configure Rapid Trigger, per-key actuation point, magnetic-switch calibration, lighting, and macros through the web driver at xsyd.top — open the page, plug in, configure. No installer, no system service.
+
+SPECIFICATIONS
+Spec sheet.
+PLATFORM	Hall Effect / magnetic switch PCB
+MCU	600 MHz high-frequency chip
+SCAN RATE	32,000 Hz
+POLLING RATE	8000 Hz
+INPUT LATENCY	0.06 ms (high-speed matrix)
+RAPID TRIGGER PRECISION	0.001 mm
+PER-KEY LEDS	136 RGB
+SPACEBAR LEDS	10 RGB
+UNDERGLOW LEDS	38 RGB
+LAYOUT	Split spacebar · GH60 compatible
+CASE COMPATIBILITY	GH60 cases
+PLATE OPTIONS	Aluminum · Carbon Fiber · FR4
+SANDWICH FOAM	Poron · Cork fill
+INCLUDED IN BOX	PCB, plate, sandwich foam, switch pads, PET sound pad, bottom cotton
+DRIVER	xsyd.top — web-based, no installer
+BRAND	Everglide
+FAQ
+Common questions.
+What's a magnetic keyboard / Hall Effect PCB?
+Does this PCB include switches?
+Which magnetic switches does it support?
+Will this fit my existing GH60 case?
+What does 0.001 mm Rapid Trigger precision mean?
+Why both 32,000 Hz scan and 8000 Hz polling?
+Do I need to install a driver?
+Refund & Return Policy
+Shipping with Protection
+More Info
+Search
+Contact
+About Us
+Order tracking
+Business Enquiry
+EU Right of Withdrawal
+Policy
+Privacy Policy
+Refund & Return Policy
+Shipping Policy
+Terms of Service
+
+Toronto KeyboardMan
+
+Stay In Touch
+
+Enter your email
+
+Store Address: 160 Gibson Dr Unit 9, Markham, ON L3R 3K1, Canada
+Email: contact@torontokeyboardman.ca
+
+Instagram
+YouTube
+TikTok
+Discord
+© 2026 Toronto KeyboardMan. Powered by Shopify
+Terms of service
+Privacy policy
+Contact information
+Refund policy
+Shipping policy
+Country/region
+United States (USD $)
+United States (USD $)

@@ -1,0 +1,246 @@
+URL: https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review/
+TITLE: DrunkDeer A75 gaming keyboard review | PC Gamer
+SAVED: 2026-11-25T07:37:02.150Z
+
+Skip to main content
+Join the community
+- Join our community
+JOIN NOW
+Commenting
+Join the discussion
+Trending conversations
+Keep up with hot threads
+Newsletters
+Get PC Gamer in your inbox
+Member badges
+Earn badges and track your stats
+Article recommendations
+News and opinions relevant to you
+Find deals
+Quick access to our curated hardware deals
+BECOME A MEMBER
+For the quickest way to join, simply enter your email below and get access. We will send a confirmation and sign you up to our newsletter to keep you updated on all your gaming news.
+Contact me with news and offers from pcgamer and other Future brands.
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+PC Gamer
+THE GLOBAL AUTHORITY ON PC GAMES
+US Edition
+SUBSCRIBE
+Sign in
+Games
+Hardware
+News & Opinion
+Reviews & Advice
+Guides
+Videos
+Newsletter
+Explore
+POPULAR
+GTA 6
+Early Black Friday deals
+Top 100
+Game Awards
+Clips
+Quizzes
+HARDWARE
+GAMING KEYBOARDS
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+71
+DRUNKDEER A75
+A lovely piece of hardware hugely let down by its frustratingly limited software.
+Reviews
+By Dave James
+Published June 8, 2023
+ 
+ 
+ 
+ 
+ 
+(Image: © Future)
+OUR VERDICT 
+
+The typing experience delivered by the super-smooth Hall effect magnetic key switches is excellent, and the manual adjustments can make it incredibly responsive, too. But without a robust piece of software to accompany it you're never going to be able to make full use of its versatile switches. And that makes the DrunkDeer A75 feel like half a product right now.
+
+FOR
+Great typing feel
+Super responsive
+Physical volume wheel
+	
+AGAINST
+Dreadful software
+Missing functionality
+
+PC Gamer's got your back  Our experienced team dedicates many hours to every review, to really get to the heart of what matters most to you. Find out more about how we evaluate games and hardware.
+
+The DrunkDeer A75 is a lovely gaming keyboard but also one of the most classic examples of when software and hardware just don't marry up. And you know which one of that pairing is going to be dragging the other down, it's always the software. 
+
+It's why the biggest hardware companies spend an absolute fortune on the developers working on their software, because without the right driver package even the most powerful chip is hardly worth the silicon it's printed on.
+
+And it's a shame because otherwise the impression this beautiful-feeling keyboard gives off is one of absolute quality. The typing experience feels, dare I say, a little luxurious and that's all down to the smooth switches, rock solid stabilisers, and sound dampening material that's been used.
+
+Latest Videos From
+PC Gamer
+
+The feel of the keyboard is buttery smooth, comes with a solid, reassuring clack, with none of the hollowness you'd get from a cheaper mechanical switch keyboard.
+
+Size: 75%
+Switch: Raesha linear magnetic switch
+Stem: Box / MX
+Hot-swappable: No
+Keycaps:  ABS
+Actuation: 0.4 - 3.6mm
+Polling rate: 1000Hz
+Media keys: Physical volume, F-keys
+Connectivity: Wired USB Type-C
+RGB lighting: Per-key illumination
+Software: Urgh
+Price: $130
+
+Yet, this is not really a mechanical switch keyboard, because the DrunkDeer A75 is one of the few keebs around to use a magnetic Hall effect switch. It's the same as the type used in the Wooting Two HE or Wooting 60HE, two of our favourite gaming keyboards around right now. That means there's no actual mechanism inside the switch itself; so there's no leaf, or pin, or even the optics you'll find in other analogue switches.
+
+Basically, there is no 'switch'.
+
+What there is, is a magnet. And a Hall effect sensor in the keyboard that measures the magnetic force and uses that data to measure the switch's actuation point. This is what allows us to choose an actuation point for the keyboard between 0.4mm and 3.6mm, and the difference is quite stark.
+
+Get the best curated deals in your inbox every week
+
+The PC Gamer Circuit Breaker newsletter breaks down the latest PC gaming tech, and finds you the best deals on the best products
+
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+
+Too light and the merest breath on your keyboard can set of a keystroke, while at its most heavy you really have to hammer each key to get a sentence written. And that is not welcome in even a sparsely populated office, let me tell you. As ever, the middle-ground is the safest space to operate in during general use.
+
+Image 1 of 2
+(Image credit: Future)
+(Image credit: Future)
+
+The utility of the Wootility puts Wooting's board way above where the DrunkDeer sits.
+
+With this analogue actuation point there ought to be myriad ways for you to configure your gaming keyboard, and many different ways for it to enhance your PC gaming experience, too. But that is where the software comes in, and where the utility of the Wootility puts Wooting's board way above where the DrunkDeer sits.
+
+DrunkDeer has put a lot of effort into the hardware, and it shows. The switches should be versatile and offer an unrivalled level of gaming responsiveness.
+
+But it's all buried beneath a layer of ugly, borderline unusable software. The Keyboard OEM Driver application (for yes, that is its name) you use to configure this keyboard is horrendous, and either hides the extended functionality from the user, or it just isn't available.
+
+Image 1 of 3
+(Image credit: Future)
+(Image credit: Future)
+(Image credit: Future)
+BUY IF...
+
+✅ You want a smooth typing experience: Ignoring the driver problems you can just use the keyboard itself without worrying about the software. And in that it's a lovely board to use.
+
+✅ You have patience: The software is still only in beta despite the board being available now, but that should mean in the future it will gain the functionality it currently lacks.
+
+DON'T BUY IF...
+
+❌ You want to get the most out of the magnetic switches: There is so much potential in the analogue switches in the DrunkDeer board, but without an effective and accessible driver you're better off with a Wooting.
+
+You should also be able to add a secondary function to a keypress, given the secondary actuation point you can enable on an individual switch. But while you do seem to have the option to enable secondary sensitivity—to enable a rapid reset— there's no indication of how to add a secondary function, or even what that secondary sensitivity does.  
+
+And what about the physical dial switch? That doesn't even appear in the software. As standard it operates the system volume, but it has a press button functionality which doesn't always seem to work. It should pause/play your media, but sometimes… it doesn't.
+
+This is all a huge shame, because the beauty of the analogue Hall effect switch is its versatility. It's not like the keyboard doesn't function without the software—you can vary the actuation point and RGB lighting manually using key combos—but without some serious work put into the software for this otherwise excellent wee board, it's just going to be a nice typing experience and little more. 
+
+I mean, it's not a super-expensive board to deliver that nice typing experience, and it's relatively affordable for a magnetic board, but it has so much more potential baked inside it that right now you can't easily access and that feels like a terrible waste.
+
+DrunkDeer A75: Price Comparison
+No price information
+CHECK AMAZON
+No price information
+CHECK BEST BUY
+We check over 250 million products every day for the best prices
+POWERED BY
+The Verdict
+71
+Read our review policy
+DrunkDeer A75
+
+The typing experience delivered by the super-smooth Hall effect magnetic key switches is excellent, and the manual adjustments can make it incredibly responsive, too. But without a robust piece of software to accompany it you're never going to be able to make full use of its versatile switches. And that makes the DrunkDeer A75 feel like half a product right now.
+
+Dave James
+Editor-in-Chief, Hardware
+
+Dave has been gaming since the days of Zaxxon and Lady Bug on the Colecovision, and code books for the Commodore Vic 20 (Death Race 2000!). He built his first gaming PC at the tender age of 16, and finally finished bug-fixing the Cyrix-based system around a year later. When he dropped it out of the window. He first started writing for Official PlayStation Magazine and Xbox World many decades ago, then moved onto PC Format full-time, then PC Gamer, TechRadar, and T3 among others. Now he's back, writing about the nightmarish graphics card market, CPUs with more cores than sense, gaming laptops hotter than the sun, and SSDs more capacious than a Cybertruck.
+
+LATEST IN GAMING KEYBOARDS
+Gaming Keyboards
+Wooting admits 'We found an issue with the Large Knob…'
+ 
+ 
+Gaming Keyboards
+Glorious GMMK Eternal review
+ 
+ 
+Gaming Keyboards
+Epomaker HE75 V2 TMR review
+ 
+ 
+Gaming Keyboards
+This sound library catalogues 100 different keyboard switches, is dangerous for my wallet, and also has… live service game mechanics?
+ 
+ 
+Gaming Keyboards
+Button mashers rejoice: Gaming keyboard deals are plentiful this Prime Day, and here are my absolute favorites
+ 
+ 
+Gaming Keyboards
+Google Japan's conveyor belt keyboard is a sad reminder of the sense of humour the whole company used to have long, long ago
+ 
+ 
+LATEST IN REVIEWS
+Sports
+Football Manager 27 review: Back on form, but not without its wayward touches
+ 
+ 
+Gaming Mice
+Corsair Sabre V3 Pro PureVector Ergo review
+ 
+ 
+RTS
+Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI
+ 
+ 
+Controllers
+8BitDo Ultimate 3E wireless controller review
+ 
+ 
+PC Cases
+Antec C6 Curve Air review
+ 
+ 
+Gaming Keyboards
+Glorious GMMK Eternal review
+ 
+ 
+HARDWARE BUYING GUIDES
+LATEST GAME REVIEWS
+1
+The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free
+2
+Best gaming laptops 2026: We've reviewed the best gaming laptops of this generation and these are our favorites
+3
+Best graphics cards in 2026: These are the GPUs worth spending money in right now
+4
+Best gaming laptop 2026: I've tested the best laptops for gaming of this generation and here are the ones I recommend.
+5
+Best handheld gaming PC in 2026: my recommendations for the best portable powerhouses.
+
+PC Gamer is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+Add as a preferred source on Google
+About Us
+Contact Future's experts
+Terms and conditions
+Privacy policy
+Cookies policy
+Advertise with us
+Accessibility Statement
+Careers
+Do not sell or share my personal information
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.

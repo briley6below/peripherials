@@ -1,0 +1,317 @@
+URL: https://www.pcguide.com/keyboard/review/ducky-ok-m-98/
+TITLE: Ducky OK-M-98 review: budget-friendly yet quality-feeling mechanical keyboard - PC Guide
+SAVED: 2026-11-25T07:41:00.774Z
+
+👋
+NEWSLETTERS
+
+PC Guide
+
+Game deals
+Search
+Computing
+Components
+Networking & Peripherals
+Electronics
+Software
+AI
+News
+Deals
+Tools
+🔥 Black Friday 2026: early deals are starting to appear
+See the best Black Friday deals →
+Home > Keyboard > Keyboard Reviews
+Ducky OK-M-98 review: budget-friendly yet quality-feeling mechanical keyboard
+Ducky has a budget board for the masses with plenty of features to enjoy
+Sebastian KozlowskiStaff writer
+LAST UPDATED ON AUGUST 21, 2026
+Follow us
+Add us on
+PC Guide is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Read More
+TABLE OF CONTENTS
+
+It was back at CES this year that Ducky showcased its OK-M series of mechanical keyboards. A range of keyboards that come with various form factors, with everyday use in mind. But even then, they’re not skimping on the features and design, still featuring hot-swappable switches, gasket mount, and plenty of acoustic dampening. Along with three connection methods and flexibility between iOS and Windows modes, it’s a versatile design.
+
+I got hands-on with the OK-M-98 model of the keyboard. A near full-size board that brings a lot at a sub-$100 price point. With a great typing experience, quality, and features, the keyboard has a lot going for it. So I put it through its paces and saw just how quiet it can be and how well it performed in our keyboard review.
+
+Ducky OK-M-98
+5 /5
+Editor’s Rating
+How We Review
+SPECIFICATIONS
+Form factor: 98%/75%​/65%​
+Key switches: KTT Linear/KTT Tactile​
+Key caps: PBT Doubleshot (Cherry Profile​)
+Connectivity: Tri-mode (USB-C, Bluetooth, 2.4GHz) w/ IOS & Windows mode
+Dimensions (LxWxH): 394x143x41.5mm
+Weight: 1069g w/ cable and receiver (1031g without)
+WHAT WE THINK
+
+The Ducky OK-M-98 is a great budget mechanical keyboard. Coming in at under $100, it offers a top typing experience with strong build quality underneath. The board’s multi-layer design gives it a premium sound when using it, and the many connection types mean it has flexible usability too. There are some drawbacks, such as the rather basic TTK switches and basic cable, but those can easily be replaced. Overall, the keyboard offers a great experience for the price.
+
+REASONS TO BUY
+Great typing feel and build quality
+Long list of features out of the box
+Plenty of connectivity to use
+Uses VIA programming
+Comes at a strong value
+Hot swappable switches
+REASONS TO AVOID
+Comes with basic budget switches
+No shine-through keycaps make it harder to see
+Have to reference the booklet to see the shortcuts
+Can’t tell battery life from the board
+Comes with a basic cable
+SHOP ON AMAZON 
+SHOP ON NEWEGG US 
+Design and features
+
+The packaging is rather playful for a gaming keyboard. It features a picture of the OK-M-98 on the front, alongside marketing material around the board’s main features. A blue background contrasts well with a black band brandishing the Ducky logo. When opening it up, the keyboard is presented in a foam cover along with a separate cardboard pocket beside it.
+
+Video Muted
+Latest tech deals.
+AMD Ryzen™ 9 9900X 12-Core - was $499 now $331
+Sony INZONE M10S 27-inch - was $899 now $748
+Thermaltake LCGS View i1470S-170 - was $2,399 now $2,099
+Apple 2026 MacBook Air - was $1,999 now $1,891
+Bose QuietComfort Headphones - was $359 now $169
+LG 77-inch OLED C6 - was $2,499 now $1,999
+MSI Prestige 16 Flip - was $2,149 now $1,870
+Hisense 85-inch U6 Pro Series - was $1,999 now $997
+
+Prices correct as of November 5th, 2026.
+
+Ducky OK-M-98 box, Image by PC Guide
+
+Ducky OK-M-98 box back, Image by PC Guide
+
+Ducky OK-M-98 open box, Image by PC Guide
+
+Previous
+Next
+
+Inside, you can find a selection of accessories beside the board itself. That includes a double-sided keycap tool (one side for pulling keycaps, one for pulling switches), a rather basic rubber USB-C cable, a Ducko brush, and a user manual booklet. All this gives you a great selection of extras for keeping your board clean and dust-free, while offering the necessary tools for replacing parts if anything were to break.
+
+Ducky OK-M-98 box contents, Image by PC Guide
+
+Ducky OK-M-98 accessories, Image by PC Guide
+
+Ducky OK-M-98 brush, Image by PC Guide
+
+Previous
+Next
+
+Picking up the keyboard, the first thing that stands out is its quality of construction and overall design. I got this impression as soon as I took it out of the box, thanks in part to its reassuring heft. On the scales, the keyboard weighs 1.069 kg with the USB cable and receiver attached, and 1.031 kg on its own. Despite using a plastic shell and body, the gasket mount and five-layer sound-dampening system give the keyboard a surprisingly solid structure. There is some flexibility and movement when applying pressure, as you would expect from a gasket-mounted design, but it still feels sturdy and well put together in the hand.
+
+Ducky OK-M-98 front edge, Image by PC Guide
+
+Ducky OK-M-98 back edge, Image by PC Guide
+
+Previous
+Next
+
+As for the overall design, I have the black and blue version of the 980 layout. The keyboard combines a predominantly black finish with dark blue accents around the edging, arrow keys, and other key areas. These subtle highlights give the board a more distinctive look than the standard all-black colourway, although I have to admit, it isn’t quite as striking as the blue and yellow colour scheme featured on the front of the box.
+
+Ducky OK-M-98 right side, Image by PC Guide
+
+Ducky OK-M-98 laid down, Image by PC Guide
+
+Previous
+Next
+
+Being a near full-size board, the OK-M-98 comes with a numpad on the right side – a helpful addition I really appreciate with the variety of work I do.
+
+While the keycaps are positioned closer together, the board still manages to reduce its overall footprint by reworking the area around the navigation keys and removing some of them entirely. Unlike the removable daughterboard design used by the Dark Mount, this approach helps keep the 980 layout compact without adding unnecessary width. Crucially, the Home key has been removed, which threw me off on multiple occasions.
+
+The keyboard also features a cross-hatched volume dial with the Ducky logo, along with the status indicator lights positioned to the left of the numpad.
+
+Ducky OK-M-98 status lights, Image by PC Guide
+
+Ducky OK-M-98 keypad, Image by PC Guide
+
+Ducky OK-M-98 volume knob, Image by PC Guide
+
+Previous
+Next
+
+The underside of the OK-M is fairly simple in terms of features, which is something I’m perfectly happy with. At each corner, you’ll find rubber feet for added grip, while adjustable feet on the left and right allow you to choose between three different typing angles: 6°, 9°, and 12°.
+
+Between the feet is a raised geometric pattern with recessed sections, one of which houses the keyboard’s nameplate. It’s a relatively understated design overall, but it fits well with the rest of the board and keeps the underside from feeling completely plain.
+
+Ducky OK-M-98 underside, Image by PC Guide
+
+Ducky OK-M-98 adjustable foot, Image by PC Guide
+
+Ducky OK-M-98 rubber foot, Image by PC Guide
+
+Ducky OK-M-98 raised foot, Image by PC Guide
+
+Previous
+Next
+
+As for the top and bottom edges, the latter has very little going for it, with the blue trim featuring a shiny metal plate and the Ducky logo. As for the back, the left-side ingress has the USB dongle tucked away, beside the two slide switches for its connection modes, and then the Type-C port.
+
+Ducky OK-M-98 back ports and switches, Image by PC Guide
+
+Ducky OK-M-98 front logo, Image by PC Guide
+
+Previous
+Next
+
+As for the main board, the keycaps are rather thick and sturdy, offering a great, solid feel to the switches. It comes with either KTT Linear or Tactile​ switches. Being hot-swappable with the budget switches, it does allow for great repairability and customization of the keyboard.
+
+Ducky OK-M-98 switches installed (4), Image by PC Guide
+
+Ducky OK-M-98 switches installed (3), Image by PC Guide
+
+Ducky OK-M-98 switches installed (2), Image by PC Guide
+
+Ducky OK-M-98 switches installed (1), Image by PC Guide
+
+Ducky OK-M-98 switch (4), Image by PC Guide
+
+Ducky OK-M-98 switch (3), Image by PC Guide
+
+Ducky OK-M-98 switch (2), Image by PC Guide
+
+Ducky OK-M-98 switch (1), Image by PC Guide
+
+Ducky OK-M-98 keycaps (2), Image by PC Guide
+
+Ducky OK-M-98 keycaps (1), Image by PC Guide
+
+Previous
+Next
+Pricing
+
+When it comes to the price of the Ducky OK-M, it is very much a budget keyboard. Coming in at under $100, the wireless mechanical keyboard offers a lot for the price. Specifically, you can get the models at a price of $89.99 for the 98, $79.99 for the 75, and $69.99 for the 65.
+
+That puts it in a rather strong position on the market, even as a full-sized keyboard. Even if it might not have the latest magnetic switches, its price makes it a very appealing choice. When comparing it to others, such as the 8BitDo Retro at $95.98 or MSI Forge GK600 at $99.99, it offers great value at this price point.
+
+Performance
+
+After going over the various features and overall design of the keyboard, I put it to the test. Using it for over a week at work, with plenty of typing and gaming, I did get to put it through its paces.
+
+Starting with the setup, the OK-M is essentially plug-and-play. Connect it via USB cable or switch to wireless mode using the included USB dongle, and the keyboard is ready to go. It booted up instantly, making for a straightforward and hassle-free setup experience.
+
+The RGB lighting immediately caught my attention, with a rainbow effect illuminating both the keyboard and its side lighting. The underglow looks particularly impressive, although the effect is more subtle than you might expect, as the keycaps themselves aren’t translucent and don’t allow the RGB to shine through. In fact, the side lighting is subtle enough that I only really noticed it when looking back at the images I’d taken.
+
+Ducky OK-M-98 setup (6), Image by PC Guide
+
+Ducky OK-M-98 setup (5), Image by PC Guide
+
+Ducky OK-M-98 setup (4), Image by PC Guide
+
+Ducky OK-M-98 setup (3), Image by PC Guide
+
+Ducky OK-M-98 setup (1), Image by PC Guide
+
+Ducky OK-M-98 setup (2), Image by PC Guide
+
+Previous
+Next
+
+As for using it, it was a responsive and seemingly flawless experience. With a report rate of 1,000 Hz and a 2.4 GHz dongle, it meant the OK-M offered a near-instantaneous reaction. The red linear switches do have a rather high actuation point at a 43g force, so they’re not the top-of-the-line options like magnetic switches that can be even faster, but they’re very decent for everyday usage.
+
+The size of the OK-M proved to be a real strength, offering a near-full range of features while keeping the overall footprint relatively compact. However, the condensed layout did take some getting used to.
+
+I found myself reaching for the Home key on several occasions, only to hit the numpad instead, before remembering that it had been removed from the layout. What made this slightly more frustrating was that Delete, Insert, and End are still present, making the absence of Home feel somewhat inconsistent. It’s a relatively minor issue, but it did catch me out several times during everyday use.
+
+Ducky OK-M-98 in use (1), Image by PC Guide
+
+Ducky OK-M-98 in use (5), Image by PC Guide
+
+Ducky OK-M-98 in use (4), Image by PC Guide
+
+Ducky OK-M-98 in use (2), Image by PC Guide
+
+Ducky OK-M-98 in use (3), Image by PC Guide
+
+Previous
+Next
+
+Being battery-powered, I was concerned by the lack of a direct battery indicator, but I was surprised when the keyboard lights turned off and the indicator started flashing to warn me of a low level so I could charge it. But it was very sudden, and it would be good to have some indicator to check its level beforehand.
+
+The OK-M delivers impressive sound and feel straight out of the box. The pre-lubed switches, combined with the keyboard’s multiple layers of sound dampening, give it a satisfying acoustic profile with a deep, punchy thock and a noticeable amount of resonance. It has a distinctly mechanical character without sounding overly hollow.
+
+The larger keys, particularly the spacebar, are noticeably louder than the rest of the board, with a more metallic tone that can become slightly distracting. As a result, it isn’t the quietest keyboard around, especially compared with some of the more heavily dampened options available today.
+
+You can hear a recording of the keyboard below to get a better idea of how it sounds in practice.
+
+The keyboard doesn’t come with any software to adjust its settings; there are some preloaded options onboard that you can access via shortcuts. To access those, however, you’ll have to look them up in the manual, as they’re not noted on the keycaps like some other keyboards. But it does keep a clean look while not losing out on any functionality.
+
+There is also the VIA app website that lets you make your own customization for the board. The open-source project offers a rather effective option for creating your own lighting and shortcuts. Although it might take a few more steps than its own app, there is a load of personalization available to it as a rather in-depth configurator.
+
+Ducky OK-M-98 VIA, Image by PC Guide
+
+Ducky OK-M-98 VIA authorize, Image by PC Guide
+
+Ducky OK-M-98 VIA config, Image by PC Guide
+
+Ducky OK-M-98 VIA design, Image by PC Guide
+
+Previous
+Next
+Ducky OK-M-98
+5 /5
+Editor’s Rating
+How We Review
+SPECIFICATIONS
+Form factor: 98%/75%​/65%​
+Key switches: KTT Linear/KTT Tactile​
+Key caps: PBT Doubleshot (Cherry Profile​)
+Connectivity: Tri-mode (USB-C, Bluetooth, 2.4GHz) w/ IOS & Windows mode
+Dimensions (LxWxH): 394x143x41.5mm
+Weight: 1069g w/ cable and receiver (1031g without)
+SHOP ON AMAZON 
+SHOP ON NEWEGG US 
+Conclusion
+
+Overall, the Ducky OK-M-98 leaves quite an impression for its price. With a durable, well-damped build, a great sound and feel straight out of the box, and plenty of features packed into its compact layout, it makes for a great everyday keyboard. The multiple connection options, RGB lighting, gasket mount, and pre-lubed switches all add to what is a very complete package for the price.
+
+There are a few drawbacks, such as limited hardware customisation and the removal of a few keys from the layout, but these are relatively minor compromises. Overall, the OK-M-98 offers strong value for its size and price, with everything you need for day-to-day use and a few extras that make it feel like a more premium keyboard than its price tag suggests.
+
+WRITTEN BY
+Sebastian Kozlowski
+
+With a fascination for technology and games, Seb is a tech writer with a focus on hardware, news, and deals. He is also a tester and reviewer for the site. Contact him @ sebastian.kozlowski@bgfg.co.uk
+
+More from Sebastian →
+
+PRODUCT IN THIS REVIEW
+
+Ducky OK-M-98
+
+5/5
+
+Form factor
+98%/75%​/65%​
+Key switches
+KTT Linear/KTT Tactile​
+Key caps
+PBT Doubleshot (Cherry Profile​)
+Check price on Amazon
+YOU CAN TRUST PC GUIDE
+
+Our team of experts use a combination of independent consumer research, in-depth testing where appropriate - which will be flagged as such, and market analysis when recommending products, software and services. Find out how we test here.
+
+RELATED ARTICLES
+Acer Predator Atlas 8: a quality and versatile Windows handheld with performance to match
+LAST UPDATED NOV 10, 2026· BY SEBASTIAN KOZLOWSKI
+Xerox C255a: a great quality and design with an expensive resupply
+LAST UPDATED NOV 5, 2026· BY SEBASTIAN KOZLOWSKI
+Xerox C305ae review: a very high-cost office printer, but with plenty of quality and speed
+LAST UPDATED NOV 5, 2026· BY SEBASTIAN KOZLOWSKI
+HyperX Omen 15 review: entry-level but not quite budget-friendly
+LAST UPDATED NOV 5, 2026· BY SEBASTIAN KOZLOWSKI
+ABOUT US
+EDITORIAL POLICY
+HOW WE TEST
+CONTACT
+EARNINGS DISCLAIMER
+PRIVACY POLICY
+SITEMAP
+
+COPYRIGHT © 2026 PC GUIDE. ALL RIGHTS RESERVED.
+
+Terms of Content Use

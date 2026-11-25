@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-25",
   "currency": "USD",
   "rules": [
     "A spec needs at least one source.",
@@ -1346,9 +1346,6 @@
     },
     {
       "id": "razer-basilisk-v3",
-      "spec_gaps": {
-        "Polling rate": "Razer's product and spec pages list none"
-      },
       "name": "Razer Basilisk V3",
       "category": "mouse",
       "brand": "Razer",
@@ -1448,6 +1445,19 @@
             "rt_basilisk-v3"
           ],
           "basis": "maker and RTINGS"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "reported",
+          "sources": [
+            "thr_basilisk",
+            "pcgr_basilisk"
+          ],
+          "note": "Not from the maker: Razer's product page, spec page and support spec table list no polling rate. Tom's Hardware lists 125, 500 or 1,000 Hz; PC Gamer lists 1,000Hz.",
+          "reported_by": [
+            "PC Gamer",
+            "Tom's Hardware"
+          ]
         }
       },
       "verdict": {
@@ -1516,6 +1526,16 @@
           "type": "maker page"
         },
         {
+          "id": "pcgr_basilisk",
+          "label": "PC Gamer - Razer Basilisk V3 review",
+          "url": "https://www.pcgamer.com/razer-basilisk-v3-gaming-mouse-review/",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/review_pcgamer_razer-basilisk-v3.txt",
+          "published": "2021-09-09",
+          "outlet": "PC Gamer",
+          "type": "review site"
+        },
+        {
           "id": "rt_basilisk-v3",
           "label": "RTINGS review - Razer Basilisk V3 (free sections)",
           "url": "https://www.rtings.com/mouse/reviews/razer/basilisk-v3",
@@ -1544,6 +1564,16 @@
           "published": "2026-10-05",
           "outlet": "RTINGS",
           "type": "best-of list"
+        },
+        {
+          "id": "thr_basilisk",
+          "label": "Tom's Hardware - Razer Basilisk V3 review",
+          "url": "https://www.tomshardware.com/reviews/razer-basilisk-v3-review-above-and-beyond",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/review_tomshardware_razer-basilisk-v3.txt",
+          "published": "2021-09-08",
+          "outlet": "Tom's Hardware",
+          "type": "review site"
         }
       ]
     },
@@ -5187,13 +5217,18 @@
           "basis": "maker's figure"
         },
         "polling_hz": {
-          "value": 8000,
-          "status": "unverified",
+          "value": 1000,
+          "status": "reported",
           "sources": [
-            "mk_okm2"
+            "pcw_okm",
+            "pcgd_okm"
           ],
-          "why_unverified": "the maker's page contradicts itself",
-          "note": "The maker's spec table lists 'Report Rate 8000 Hz', but the same table says 'Connectivity: Wired only' while the page also lists wireless modes. It does not say which mode reaches 8000 Hz, so we do not rank by it."
+          "note": "Sources disagree. Ducky's spec table lists 'Report Rate 8000 Hz', but the same table says 'Connectivity: Wired only' although the board is wireless, so we do not use it. PCWorld says its 2.4 GHz dongle handles 1,000Hz, and PC Guide says it has a 1,000 Hz report rate. We rank on 1,000 Hz (site owner's choice, 2026-11-25).",
+          "reported_by": [
+            "PC Guide",
+            "PCWorld"
+          ],
+          "conflict": true
         }
       },
       "verdict": {
@@ -5250,6 +5285,25 @@
           "raw_file": "data/raw/maker_ducky_ok-m-page.txt",
           "outlet": "Ducky",
           "type": "maker page"
+        },
+        {
+          "id": "pcgd_okm",
+          "label": "PC Guide - Ducky OK-M-98 review",
+          "url": "https://www.pcguide.com/keyboard/review/ducky-ok-m-98/",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/review_pcguide_ducky-ok-m-98.txt",
+          "published": "2026-08-21",
+          "outlet": "PC Guide",
+          "type": "review site"
+        },
+        {
+          "id": "pcw_okm",
+          "label": "PCWorld - Ducky OK-M review",
+          "url": "https://www.pcworld.com/article/3063899/ducky-ok-m-keyboard-review.html",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/review_pcworld_ducky-ok-m.txt",
+          "outlet": "PCWorld",
+          "type": "review site"
         },
         {
           "id": "rt_best_kb",
@@ -5780,7 +5834,9 @@
           "sources": [
             "rtk_a75"
           ],
-          "basis": "RTINGS review"
+          "note": "Sources disagree. RTINGS' lab test says yes. PC Gamer's 2023 review lists 'Hot-swappable: No'. We use RTINGS' test result, as the ladder rule says (site owner's choice, 2026-11-25).",
+          "basis": "RTINGS review",
+          "conflict": true
         },
         "connectivity": {
           "value": "wired",
@@ -5790,6 +5846,19 @@
             "mk_a75"
           ],
           "basis": "maker and RTINGS"
+        },
+        "polling_hz": {
+          "value": 1000,
+          "status": "reported",
+          "sources": [
+            "pcgr_a75",
+            "mkeys_a75"
+          ],
+          "note": "Not from the maker: DrunkDeer's product page lists no polling rate. PC Gamer's review lists 1000Hz, and the Mechkeys store lists 'Polling Rate in HZ: 1000'. RTINGS keeps its measured figure for members.",
+          "reported_by": [
+            "Mechkeys",
+            "PC Gamer"
+          ]
         }
       },
       "verdict": {
@@ -5853,6 +5922,25 @@
           "raw_file": "data/raw/maker_drunkdeer_a75.txt",
           "outlet": "DrunkDeer",
           "type": "maker page"
+        },
+        {
+          "id": "mkeys_a75",
+          "label": "Mechkeys store - DrunkDeer A75",
+          "url": "https://mechkeys.com/products/drunkdeer-a75?variant=46575903768799",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/store_mechkeys_drunkdeer-a75.txt",
+          "outlet": "Mechkeys",
+          "type": "store page"
+        },
+        {
+          "id": "pcgr_a75",
+          "label": "PC Gamer - DrunkDeer A75 review",
+          "url": "https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review/",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/review_pcgamer_drunkdeer-a75.txt",
+          "published": "2023-06-08",
+          "outlet": "PC Gamer",
+          "type": "review site"
         },
         {
           "id": "rtk_a75",
@@ -6000,6 +6088,9 @@
     },
     {
       "id": "atk-a87-pro",
+      "spec_gaps": {
+        "Polling rate": "ATK's page gives only '1ms' latency, and no store or review we could open lists a rate"
+      },
       "name": "ATK A87 Pro",
       "category": "keyboard",
       "brand": "ATK",
@@ -6253,6 +6344,30 @@
           "reported_by": [
             "KeebForce"
           ]
+        },
+        "polling_hz": {
+          "value": 8000,
+          "status": "reported",
+          "sources": [
+            "kf_su66rev",
+            "tkm_su66"
+          ],
+          "note": "Not from the maker: Everglide has no product page we could find. KeebForce's own review article lists 'Polling Rate 8000Hz', and Toronto KeyboardMan lists 8000 Hz for the SU66 Max PCB module (the board inside this keyboard).",
+          "reported_by": [
+            "KeebForce",
+            "Toronto KeyboardMan"
+          ]
+        },
+        "hot_swap": {
+          "value": true,
+          "status": "reported",
+          "sources": [
+            "kf_su66rev"
+          ],
+          "note": "Not from the maker: KeebForce's review article says it works with most mainstream magnetic switches, and that Everglide warns switches with a magnetic flux above 680 gs may leave a dead zone. Only one source says this.",
+          "reported_by": [
+            "KeebForce"
+          ]
         }
       },
       "verdict": {
@@ -6263,7 +6378,7 @@
         ],
         "status": "reported (unknown)"
       },
-      "picked_by_note": "Only KeebForce's store page was found for this keyboard (KeebForce sells it as a joint KeebForce and Everglide board). No review or second store listed it, so its facts are not checked against a second source.",
+      "picked_by_note": "No maker page or independent review was found. Its facts come from KeebForce (which sells it as a joint KeebForce and Everglide board) and, for the polling rate, a second store (Toronto KeyboardMan). Hot-swap support has only KeebForce as a source.",
       "pros": [],
       "cons": [],
       "sources": [
@@ -6274,6 +6389,24 @@
           "date_checked": "2026-11-21",
           "raw_file": "data/raw/store_keebforce_everglide-su66-max.txt",
           "outlet": "KeebForce",
+          "type": "store page"
+        },
+        {
+          "id": "kf_su66rev",
+          "label": "KeebForce store - Everglide SU66 Max review article",
+          "url": "https://keebforce.com/everglide-su66-max-review/",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/store_keebforce_everglide-su66-max-review.txt",
+          "outlet": "KeebForce",
+          "type": "store page"
+        },
+        {
+          "id": "tkm_su66",
+          "label": "Toronto KeyboardMan store - Everglide SU66 Max PCB Module",
+          "url": "https://torontokeyboardman.ca/products/everglide-su66-pcb-module",
+          "date_checked": "2026-11-25",
+          "raw_file": "data/raw/store_torontokeyboardman_everglide-su66-max-pcb.txt",
+          "outlet": "Toronto KeyboardMan",
           "type": "store page"
         }
       ]

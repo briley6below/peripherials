@@ -1,0 +1,215 @@
+URL: https://www.pcworld.com/article/3063899/ducky-ok-m-keyboard-review.html
+TITLE: Ducky OK-M keyboard review: A new budget champ | PCWorld
+SAVED: 2026-11-25T07:40:06.938Z
+
+CONSUMER AI
+HOME ROBOTICS
+Search
+Menu
+HOT TOPICS
+Black Friday Deals
+Best laptops
+Best VPNs
+Laptop deals
+Desktop PC deals
+Mini PC deals
+NEWSLETTERS
+Back
+Close
+Search
+CONSUMER AI
+HOME ROBOTICS
+PERFORMANCE
+PRIVACY
+PRODUCTIVITY
+BY PRODUCT CATEGORY
+BY STORY TYPE
+BLOGS
+EVENTS
+NEWSLETTERS
+DIGITAL MAGAZINE
+SMART ANSWERS
+CLIENT CONTENT
+
+When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence.
+
+Home
+Accessories
+Keyboards
+by Michael Crider
+Staff Writer
+Ducky OK-M keyboard review: A new budget champ
+Reviews
+Feb 23, 2026
+This keyboard comes with hot-swap sockets, dual wireless, and VIA programming, all for just $65. It's unbeatable at that price.
+
+Credit: Michael Crider/Foundry
+At a glance
+Expert's Rating
+Pros
+Long list of features
+Incredible value
+VIA programming
+Cons
+TTC switches
+Short battery life
+Our Verdict
+
+Ducky’s OK-M is an absolutely incredible value in a mechanical keyboard, starting at just $65 $69. Hot-swap sockets, VIA programming, and dual-mode wireless make it an easy recommendation, even with cheap switches and short battery life on the smaller model.
+
+Price When Reviewed
+
+$69
+
+Best Prices Today: Ducky OK-M 65 keyboard
+RETAILER
+PRICE
+Black Friday Deals Are Here
+Ends November 30
+Don't Miss Out
+MechanicalKeyboards.com
+$69
+View Deal
+$69.99
+View Deal
+Price comparison from over 24,000 stores worldwide
+
+It’s been almost three years since I reviewed the G.Skill KM250, and declared it the gold standard in mechanical keyboard value. Ever since then I’ve been on the lookout for something that might dethrone that design. And I think Ducky has done that with the OK-M. 
+
+Ducky is a brand that keyboard nuts like me are probably familiar with, but it doesn’t have the same clout as Razer, Corsair, or even Keychron. That might change very soon. The OK-M is a fantastic budget design, offering everything you need (and want), nothing you don’t, and a few other creature comforts besides. All in a $65 $69 package, with wireless. It’s simply the best deal you can find in a keyboard right now. 
+
+A long list of features
+
+The OK-M comes in three different sizes, 65%, 75%, and a very-nearly-full size (1800 layout). Because I was most interested in the budget angle for the board, I opted for the smallest and cheapest. But for the sake of completeness, you should know that OK-M 75 costs just $69, while the OK-M 98 costs $79. Those are incredible prices for wireless boards from a known brand — compare them to Keychron’s V Max series with approximately the same features, starting at $50 more. 
+
+Update: Shortly after finishing this review, Ducky informed me that the prices would be rising, to $69/79/89. That’s a shame…but this is still the best budget keyboard around.
+
+Michael Crider/Foundry
+
+Here’s a quick hit list of the notable features in this design, and why you should care: 
+
+Wireless — the big missing piece of my last budget pick; the OK-M features both Bluetooth and a 2.4GHz USB dongle, which can handle 1,000Hz polling. 
+Programming — the other missing feature from the G.Skill; the OK-M can handle standard VIA programming. Hell yeah. 
+Hot-swap switch sockets — one of my must-have features for any mechanical keyboard, which lets you try out different switches compatible with the Cherry MX standard.
+PBT doubleshot keycaps — more premium plastic than standard ABS, with legends that will never wear or fade. 
+RGB lighting — yes, you can do the whole disco light show on this thing if you want. It even has a couple of RGB lighting strips on the side for some extra bling. 
+Gasket mounting and layers of dampening — these are more common these days, but still nice to see in a budget build. 
+Aluminium volume knob — ditto.
+
+At first glance, the OK-M looks like a pretty standard 65% design, and it is. But there are a few notes of distinction that make it a little more appealing. The ABS black plastic casing gets a bit of flare from a bit of blue trim, highlighted by the same hue on the space bar, Escape, Backspace, Enter, and arrow keys. 
+
+A few goofy touches
+
+You also get a Ducky gamer logo on the volume knob, which I think looks a little goofy. (That’s supposed to be a cartoon duck wearing a Roman centurion helmet, if you’re wondering.) I think that’s the one downside of the keyboard from an aesthetic representation, but all of this is pretty subjective. A more typical Ducky logo, with a different cartoon duck, is engraved on a small metal plate on the front edge. 
+
+On the subject of those logos: This thing was included in the box, next to a USB-C cable and keycap puller. Cute, but basically useless as an actual brush. I get the feeling that Ducky is really trying to establish itself as a brand, maybe hoping this squishy little guy will show up in some desktop “battlestation” photos on social media. 
+
+Michael Crider/Foundry
+
+Underneath you find more black plastic and a bit of moulding. But you also find dual-stage plastic keyboard feet, something that is often left out even on premium designs. Good on ya, Ducky. You don’t see any exposed screws or bolts. So between that and the lack of any mention of it in the manual, I’m going to assume that it is not intended to be disassembled by the end user. And that’s fine for a budget board. 
+
+All in all it’s a functional but not especially eye-catching design…at least until you turn on the lights. Every key gets RGB lighting, though somewhat muted since the keycaps are not shine-through. The board makes up for it with extra flair on the sides, literally: two RGB strips that can illuminate the side of your desk. I like the way they follow the angles of the case, a little bit of extra distinction. Fun, but I turn all the RGB stuff off whenever I’m using it, in favor of battery life. 
+
+You’d struggle to find the same set of features in any keyboard from a major supplier under $100. 
+
+Michael Crider/Foundry
+
+On the top edge of the board you find all the control elements: a three-way switch for power and wireless, and a “WIN/IOS” switch for quickly shifting between the semi-standard layouts. You also get a little hollow in the case where you can stow the USB-A dongle, a thoughtful addition. 
+
+Typing and gaming
+
+Typing on the OK-M is a solid, if not amazing experience. The PBT keycaps are in a standard profile and a little more slick than this material usually is — without a bit of scratchy texture I usually get from more premium designs, I had to check the spec sheet to make sure they weren’t ABS. Between the gasket mounting, plastic (not metal) plate, and multiple layers of foam or silicone padding, the keys have a lot of give and bounce. If you prefer stiff typing, you won’t like it, but I think most users will be okay. 
+
+Michael Crider/Foundry
+
+If the keyboard has a weakness, it’s the switches. Ducky went with KTT for this board, the same brand of switches you’ll generally find in the bottom rung of budget designs. The tactile (“baby blue”) switches I spent most of my time typing on were fine, and surprisingly quiet, suitable for using in the coffee shop where I’m banging out this review.
+
+But the switches are definitely a bit rougher than comparable switches from Kailh or Gateron. They also lack a tunnel in the stem for more stable typing, and are considerably more wobbly than the excellent Kailh switches in the KM250. 
+
+It’s a good thing, then, that this keyboard offers tons of customization options. You get a semi-standard 65% layout, where only the right-shift, Alt, Fn, and Ctrl keys differ from ANSI (and even those are included in most keycap sets these days). And hot-swap switches will let you try out any other set you want with the puller included in the box. 
+
+Michael Crider/Foundry
+
+The OK-M also has programming options, something that was sorely lacking in the last Ducky keyboard I reviewed. And not just any programming, VIA programming. This system is browser-based so doesn’t need any extra software on your machine, and it’s standardized across hundreds (maybe thousands?) of different boards now. All you need to do is track down the JSON file and you’re good to completely program any layout you want, including macros, lighting, and wireless controls. I immediately changed the PgDn button to screenshot (as it’s something I need constantly for work), and had no issues. 
+
+VIA programming (or any kind of programming or remapping) is something that the KM250 went without. And at its price I didn’t complain — to be frank, even at $65 it’s a bit of a shock that programming is included. This is freakin’ fantastic to see on a budget keyboard, and I hope other brands are watching. 
+
+VIA
+
+There is a drawback in the VIA system: Because it relies on a web app, there’s no way to automatically switch layouts when launching different games. (I suppose you could set one of the two layout modes, Windows or iOS, as a single alternative layout.) But importantly, Ducky is advertising the OK-M as an “entry-level mechanical keyboard designed for everyday use.” Even with the RGB bling and 1,000Hz polling, it’s not being positioned as a dedicated gaming keyboard. So the lack of per-game profiles is acceptable. 
+
+Battery is a little…little
+
+I also found the battery life on the OK-M a little weak. Even with all those RGB lights turned off, it only lasted a couple of weeks of daily typing and gaming before the warning light started blinking. That’s pretty low for a modern design — even cheap boards can go months on a charge. Considering how light this plastic board is (.7 kilograms, about a pound and a half), you might be tempted to throw it in a bag for travel…just make sure you have a USB charger in there too. 
+
+Fn+Tab shows a battery readout on the number row — it’s at 80 percent. 
+
+Michael Crider/Foundry
+
+Smartly, you can check the battery life by pressing Fn+Tab by default, at which point you’ll get a readout via the LEDs on the number row. The smallest OK-M 65 has a 1,000mAh battery — the spec sheets for the larger 75 and 98 models say they have 4,000mAh, which should, obviously, last about four times as long.
+
+Is the Ducky OK-M worth it?
+
+That being said, at $65, all of these issues are more than forgivable. For just $20 more than the G.Skill, and with only a bit of compromise on the switches, you get all the same features plus dual-mode wireless support and VIA programming. (And a metal volume knob, a nice little bonus.)
+
+Michael Crider/Foundry
+
+The battery life could be longer, and I wish the switches were a bit better. But you’d struggle to find the same set of features in any keyboard from a major supplier under $100. Yeah, there are plenty of alphabet soup brands on Amazon that can match that price, but I would hesitate to trust them for materials or service. 
+
+The OK-M is an amazing value, and my new budget champion. Pick it up in this 65% size or the two larger options…and maybe use the savings to get a set of Kailh switches for an upgrade. 
+
+Best Prices Today: Ducky OK-M 65 keyboard
+RETAILER
+PRICE
+Black Friday Deals Are Here
+Ends November 30
+Don't Miss Out
+MechanicalKeyboards.com
+$69
+View Deal
+$69.99
+View Deal
+Price comparison from over 24,000 stores worldwide
+
+by Michael Crider
+
+Staff Writer
+
+Michael is a 15-year veteran of technology journalism, covering everything from Apple to ZTE. On PCWorld he's the resident keyboard nut, always using a new one for a review and… Read full bio
+
+More from this author
+ABOUT
+About Us
+Advertise
+Ad Choices
+Contact Us
+Foundry Careers
+Smart Answers
+Annual Awards
+POLICIES
+Editorial Ethics Policy
+Privacy Policy
+Cookie Policy
+Terms of Service
+Copyright Notice
+Privacy Settings
+European Privacy Settings
+California: Do Not Sell My Personal Info
+Reader Preferences
+Licensing & Eprints
+PCWORLD CATEGORIES
+Consumer AI
+Home Robotics
+Performance
+Privacy
+Productivity
+SUBSCRIBE
+Digital Magazine - Subscribe
+Digital Magazine - Info
+Gift Subscription
+Newsletters
+Facebook
+X
+YouTube
+LinkedIn
+© 2026 FoundryCo, Inc. All Rights Reserved.

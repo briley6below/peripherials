@@ -143,8 +143,9 @@
       if (it._parts.length) why += '<div class="specs">' + it._parts.map(function (p) {
         var word = p.better === "lower" ? "lower" : p.better === "yes" ? "better" : "higher";
         var how = (p.better === "yes" ? "Yes beats limited, and limited beats no. " : "") + "Same as or " + word + " than " + p.beat + " of the " + p.of + " other ranked " + esc(D.catName[it.category].toLowerCase()) + ", so it gets " + p.beat + "/" + p.of + " for this spec";
-        return '<div class="k">' + gloss(p.name) + "</div><div>" + esc(p.value) + '<span class="note">' + how + (p.tie ? ". " + esc(p.tie) : "") + "</span></div>";
+        return '<div class="k">' + gloss(p.name) + "</div><div>" + esc(p.value) + (p.origin ? (/Not from the maker/.test(p.origin) ? ' <span class="chip opinion">Not from maker</span>' : ' <span class="chip">Maker\'s figure</span>') : "") + '<span class="note">' + (p.origin ? esc(p.origin) + ". " : "") + how + (p.tie ? ". " + esc(p.tie) : "") + "</span></div>";
       }).join("") + "</div>";
+      if (it._nonmaker && it._nonmaker.length && it._score !== null) why += '<p class="note"><b>Ranked partly on figures not from the maker:</b> ' + it._nonmaker.map(function (x) { return esc(x.name.toLowerCase()) + " (from " + esc(x.outlets.join(", ")) + ")"; }).join("; ") + ". The maker does not list these, so we used a store page or review instead.</p>";
       if (it._skipped.length) why += '<p class="note">' + (it._score === null ? "Why it is not ranked: " : "Not counted: ") + it._skipped.map(function (x) { return esc(x.name) + " (" + esc(x.why.toLowerCase()) + ")"; }).join(", ") + ".</p>";
       var un = (D.rules[it.category] || []).filter(function (r) { return !r.keys.length; });
       if (un.length) why += '<p class="note">' + un.map(function (r) { return esc(r.name) + ": " + esc(r.unavailable); }).join(" ") + "</p>";
@@ -170,7 +171,7 @@
       return '<div class="k">' + gloss(label(k)) + "</div><div>" + specVal(f) + specChips(f) +
         (f.note ? '<span class="note">' + esc(f.note) + "</span>" : "") + srcLine(it, f.sources) + "</div>";
     }).join("") + "</div>" : '<p class="dash">No sourced specs yet.</p>';
-    if (it.specs.weight_g && it.specs.weight_measured_g) sp += '<p class="note">Why two weights? Makers weigh their own mice in their own way. RTINGS weighs every mouse the same way, so the ladder uses the RTINGS weight to compare them fairly.</p>';
+    if (it.specs.weight_g && it.specs.weight_measured_g) sp += '<p class="note">Why two weights? Makers weigh their own mice in their own way. RTINGS weighs every mouse the same way, so the ladder uses the RTINGS weight when there is one, and the maker’s weight only when RTINGS has not weighed the mouse.</p>';
     if (it.fits) sp += '<p>Fits: ' + val(it.fits.value) + (it.fits.note ? '<span class="note">' + esc(it.fits.note) + "</span>" : "") + "</p>" + srcLine(it, it.fits.sources);
     if (it.compatible_skates) sp += "<p>Skates that fit it: " + val(it.compatible_skates) + "</p>";
     if (it.use) sp += "<p>" + esc(it.use.note || "") + "</p>" + srcLine(it, it.use.sources);

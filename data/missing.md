@@ -12,9 +12,11 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - **X-raypad's own site** is a parked domain. X-raypad prices come from JP Gaming USA, a US store. Magic Ice comes from MaxGaming US. Corepad's price is in euros on the maker's store.
 - **Micro Center** showed a bot check, which we do not bypass, so its Pulsar skate pages were not used.
 - **Galaxus and Digitec** (SkyPAD stores) showed a bot check and **Amazon** blocks automated access, so the SkyPAD Glass 3.0 has no store price or photo. SkyPAD's old site (skypad.eu) is a parked domain, and on 2026-11-21 skypad.gg sent us to another store (wallhack.com) whose product list has no Glass 3.0, so no photo could be taken from a maker page.
-- **Only one source** (2026-11-21 additions): Everglide SU66 Max (KeebForce store page only; a KeebFinder link for it opened the SU75 page instead), ATK A87 Pro specs (maker page; KeebForce confirms the price only), SkyPAD Glass 3.0 (Tom's Hardware review only), Tekkusai Kohaku and MITSUKI Kokū specs (stores only; no maker store found).
-- **No reviews yet**: the Pulsar Xlite v4 eS Mini and WLmouse Beast X Mini Pro have no RTINGS review, so they have no measured weight and are not ranked. Their facts come from the maker page and Lethal Gaming Gear's store page. The Wired In Protagonist HE has no hands-on review; its second source is a Greenkeys news article.
+- **Only one source** (2026-11-21 additions): Everglide SU66 Max (KeebForce only, except its polling rate, which a second store also lists; a KeebFinder link for it opened the SU75 page instead), ATK A87 Pro specs (maker page; KeebForce confirms the price only), SkyPAD Glass 3.0 (Tom's Hardware review only), Tekkusai Kohaku and MITSUKI Kokū specs (stores only; no maker store found).
+- **No reviews yet**: the Pulsar Xlite v4 eS Mini and WLmouse Beast X Mini Pro have no RTINGS review. Their facts come from the maker page and Lethal Gaming Gear's store page. The Wired In Protagonist HE has no hands-on review; its second source is a Greenkeys news article.
 - **ARTISAN reviewers**: ProSettings.net reviews the Zero (4.5/5) and Type-99 (5/5) and both carry its Staff's Choice award, so both count as picks. Tom's Hardware, PCGamesN, DiamondLobby and Wasabi (saved lists and transcripts) do not pick an ARTISAN pad. Other web results were SEO pages that say they did not test the pads, so they are not used.
+- **Ranking with missing data** (2026-11-25, site owner's request): when RTINGS has not weighed a mouse, the ladder now uses the maker's listed weight (ARYE RCC-1, KATAR PRO XT, VXE V3 Pro, Xlite v4 eS Mini, Beast X Mini Pro), labelled "Maker's figure". When the maker lists no polling rate, it comes from reviews or stores and the ladder entry says "Not from the maker": Basilisk V3 (Tom's Hardware, PC Gamer), DrunkDeer A75 (PC Gamer, Mechkeys), Ducky OK-M (PCWorld, PC Guide), Everglide SU66 Max (KeebForce, Toronto KeyboardMan; its hot-swap is from KeebForce only).
+- **Still not ranked**: ATK A87 Pro. ATK's page gives only '1ms' latency, not a polling rate. The PB Tech, Newegg and AliExpress listings that showed a rate in search results no longer open, and we do not turn 1 ms into a polling rate ourselves.
 - **Older videos**: the pad and skate tier lists are from 2024 (boardzy Jul 2024 and Dec 2024; DiamondLobby Oct 2024; Wasabi Jun 2024). Newer models may be missing.
 
 ## Open questions from the 2026-11-18 review
@@ -24,6 +26,8 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - **Pulsar glass pad**: resolved on 2026-11-21 (site owner's choice). The price and photo are of the newer Superglide3 Type S at Lethal Gaming Gear, labelled as v3.
 - **ARTISAN NINJA FX ZERO**: resolved on 2026-11-22 (site owner's choice). boardzy calls it a control pad; ProSettings.net calls it a control-leaning all-rounder. Both views are shown, each labelled with its source.
 - **Wired In Protagonist HE price**: resolved on 2026-11-22 (site owner's choice). The maker's feature page and Greenkeys both say the US$189 is a kit without switches, stabilizers or keycaps; the card says so.
+- **Ducky OK-M polling rate**: resolved on 2026-11-25 (site owner's choice). Ducky's spec table says 8000 Hz but also 'wired only' on a wireless board; PCWorld and PC Guide both say 1,000 Hz. It is ranked on 1,000 Hz, with a Sources disagree note.
+- **DrunkDeer A75 hot-swap**: resolved on 2026-11-25 (site owner's choice). RTINGS' test says yes; PC Gamer's 2023 review says no. RTINGS' result is kept, with a Sources disagree note.
 - **Corepad PRO MAX price**: resolved on 2026-11-21 (site owner's choice). US$9.99 at Lethal Gaming Gear is shown; the maker's 9.49 EUR price is kept in the note.
 - **Photos of a close relative** (site owner's choice, 2026-11-21): X-raypad Obsidian Pro (photo is the Obsidian PRO Air), Cooler Master MP511 (photo is the 30th Anniversary Edition) and Corsair MM350 (photo is the MM350 PRO Extended XL). Each caption names the version shown.
 - **'vxw'**: taken to mean VXE (site owner confirmed on 2026-11-21); the VXE V3 Pro was added.
@@ -48,7 +52,6 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - 5 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 
 ### Razer Basilisk V3 (`razer-basilisk-v3`)
-- Missing: spec: polling_hz
 - 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
@@ -148,7 +151,6 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Verdict rests on one reviewer (opinion: RTINGS).
 
 ### Ducky OK-M (`ducky-ok-m`)
-- Unverified: `specs.polling_hz`
 - 2 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
@@ -168,7 +170,6 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 
 ### DrunkDeer A75 (`drunkdeer-a75`)
 - Missing: spec: weight_g
-- Missing: spec: polling_hz
 - 4 pro/con line(s) rest on one outlet only (labelled "opinion: NAME").
 - Verdict rests on one reviewer (opinion: RTINGS).
 
@@ -197,7 +198,6 @@ Checked: 2026-11-18, 2026-11-19 and 2026-11-21
 - Missing: cons (no sourced cons found)
 - Missing: lab test data (no lab review found)
 - Missing: spec: weight_g
-- Missing: spec: polling_hz
 - Missing: spec: connectivity
 - Unverified: `price`
 

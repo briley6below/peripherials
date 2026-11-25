@@ -1,23 +1,25 @@
 {
   "about": "How the Ladder is ranked. Change the rules here and run build.py again.",
   "status": "Our own ranking, not a reviewer's. Mice and keyboards are ranked on a few gaming specs we have numbers for. It does not count shape, feel or click delay, because we have no shared numbers for them. Reviewers do weigh these.",
-  "how_specs_count": "For each spec, we look at the other ranked items and count how many this one matches or beats. Beating or matching all of them gives full marks for that spec; half of them gives half marks. The spec score is the average of those marks, shown out of 100. For yes/no specs, yes beats no. An item is only ranked if we have every spec we compare. Missing specs are never guessed. When a maker page and a review site disagree on a figure, we use the maker's figure and show a \"Sources disagree\" tag. When a maker's own page contradicts itself, we mark the figure Unverified and do not rank on it.",
+  "how_specs_count": "For each spec, we look at the other ranked items and count how many this one matches or beats. Beating or matching all of them gives full marks for that spec; half of them gives half marks. The spec score is the average of those marks, shown out of 100. For yes/no specs, yes beats no. An item is only ranked if we have every spec we compare. Missing specs are never guessed. When the maker does not list a spec, we take it from a store page or a review, and the item's ladder entry says which figures are not from the maker. When a maker page and a review site disagree on a figure, we use the maker's figure and show a \"Sources disagree\" tag. When a maker's own page contradicts itself, we mark the figure Unverified and do not rank on it.",
   "min_items_per_spec": 3,
   "spec_rules": {
     "mouse": [
       {
-        "name": "Weight (measured by RTINGS)",
+        "name": "Weight",
         "keys": [
-          "weight_measured_g"
+          "weight_measured_g",
+          "weight_g"
         ],
         "better": "lower",
         "unit": "g",
-        "why": "Lighter counts as better here, which is our choice. RTINGS says a very light mouse is easy to move quickly and accurately (in its VXE R1 Pro review). We use RTINGS' lab weight for every mouse so the numbers are measured the same way. Mice within 1 g of each other count as the same weight. That 1 g cut-off is our own choice; no source tells us how small a weight gap matters. It changes results: with a 2 g cut-off, the X3 SUPERSTRIKE and SUPERLIGHT 2 (1.2 g apart) would tie.",
+        "why": "Lighter counts as better here, which is our choice. RTINGS says a very light mouse is easy to move quickly and accurately (in its VXE R1 Pro review). We use RTINGS' lab weight when RTINGS has weighed the mouse, because it weighs every mouse the same way. When it has not, we use the weight the maker lists, and the mouse's ladder entry says so. Makers' figures can differ a little from RTINGS' scale (by up to about 3 g in our data), so treat close calls between a measured and a listed weight with care. Mice within 1 g of each other count as the same weight. That 1 g cut-off is our own choice; no source tells us how small a weight gap matters. It changes results: with a 2 g cut-off, the X3 SUPERSTRIKE and SUPERLIGHT 2 (1.2 g apart) would tie.",
         "tie_within": 1,
         "tie_note": "Our choice: weights within 1 g count as a tie (no source sets this cut-off).",
         "why_sources": [
           "rt_r1-pro"
-        ]
+        ],
+        "fallback_note": "The maker's listed weight: RTINGS has not weighed this mouse"
       },
       {
         "name": "Polling rate",
@@ -187,7 +189,7 @@
     "spec": "Spec score",
     "backing": ""
   },
-  "our_choices": "These are our choices, not measured facts: which specs count, which way is better (lighter, higher polling rate, magnetic switches and hot-swap count as better), that mice within 1 g count as the same weight, and where the groups start (80 or more, 60 to 79, 40 to 59, under 40). We picked specs our sources link to fast games: RTINGS says a very light mouse is easy to move quickly, and that Rapid Trigger (a magnetic-switch feature) helps in FPS games. Polling rate is our own pick, and some sources disagree. Comfort, shape and features are not counted, so a low score does not mean a bad product.",
+  "our_choices": "These are our choices, not measured facts: which specs count, which way is better (lighter, higher polling rate, magnetic switches and hot-swap count as better), that a maker's listed weight stands in when RTINGS has not weighed a mouse, that mice within 1 g count as the same weight, and where the groups start (80 or more, 60 to 79, 40 to 59, under 40). We picked specs our sources link to fast games: RTINGS says a very light mouse is easy to move quickly, and that Rapid Trigger (a magnetic-switch feature) helps in FPS games. Polling rate is our own pick, and some sources disagree. Comfort, shape and features are not counted, so a low score does not mean a bad product.",
   "source_tiers": {
     "about": "Mousepads and skates are grouped by how many different outlets recommend them. Pros and cons do not change the group.",
     "by_count": [

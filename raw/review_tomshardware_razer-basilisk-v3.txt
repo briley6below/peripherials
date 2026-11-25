@@ -1,0 +1,332 @@
+URL: https://www.tomshardware.com/reviews/razer-basilisk-v3-review-above-and-beyond
+TITLE: Razer Basilisk V3 Review: Above and Beyond | Tom's Hardware
+SAVED: 2026-11-25T07:39:47.237Z
+
+Skip to main content
+Join Tom’s Hardware today
+EXPLORE
+Choose how you want to join Tom’s Hardware
+MEMBER
+
+Get started with free access to reviews, badges and discussions.
+
+BECOME A MEMBER
+PREMIUM MEMBER
+
+Unlock exclusive tools and insights for enthusiasts who want more.
+
+Bench Database
+Exclusive Features
+Roadmaps
+Deep Analysis
+BECOME A PREMIUM MEMBER
+Tom's Hardware
+US Edition
+Sign in
+Best Picks
+CPUs
+GPUs
+PC Components
+News
+Laptops
+More
+Premium
+Forums
+TRENDING
+Ad-free THP
+Black Friday
+Gift Guides
+RTX Spark Deals
+AI Data Centers
+TH App
+AMD Venice
+Nova Lake
+Vera Rubin
+RAM Shortage
+Tom's 30th Anniversary
+RAM Combo Deals
+Peripherals
+Mice
+Gaming Mice
+Razer Basilisk V3 Review: Above and Beyond
+A do-it-all gaming mouse with premium comfort and versatility
+Reviews
+By Scharon Harding
+Published September 8, 2021
+ 
+ 
+ 
+ 
+ 
+ Comments (7)
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+Editor's Choice
+(Image credit: © Tom's Hardware)
+Tom's Hardware Verdict
+
+The Razer Basilisk V3 stands out above other gaming mice with its premium textured finish and shape, plus an advanced scroll wheel with multiple modes and high programmability. There are similar alternatives that are priced less, but the Basilisk V3 is unquestionably excellent.
+
+Black Friday ends in 05 days, 15 hrs, 03 mins, 10 secs
+$32.99 at Amazon
+Black
+$32.99 at Best Buy
+Black
+$34.99 at Newegg
+$39.98 at Walmart
+White
+Check out Black Friday at
+Reasons to buy
++
+
++ Premium textured finish and shape
+
++
+
++ Many well-placed, programmable buttons
+
++
+
++ Multiple scroll wheel inputs with adjustable modes
+
++
+
++ 11 bright, customizable RGB zones
+
+Reasons to avoid
+-
+
+Scroll wheel can be clunky and loud
+
+Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+
+PC gamers often go the extra mile with their peripherals, opting for a so-called gaming mouse that should be more comfortable, helpful and fun to play with than a non-gaming mouse. A lot of rodents carry the gaming mouse moniker, but not all go above and beyond to prove their prowess and justify their high price. Razer’s Basilisk line presents a range of mice meant to cater to a variety of gaming genres, thanks to a right-handed ergonomic shape fit for palm and claw grippers and a large number of programmable buttons. But the Razer Basilisk V3 ($70 as of writing) takes things to a new level.
+
+Compared to the now discontinued Razer Basilisk V2, the new Basilisk V3 is $10 cheaper upon release and has greater programmability, a sniper button that instantly drops the mouse’s sensitivity and a more textured grip than the lightweight Razer DeathAdder V2. It proves its versatility from MMORPGs to FPS titles and, simply, getting work done. Razer added more tactile optical mechanical switches and a scroll wheel that can automatically switch from a  tactile scroll to a free spin, without opening software or pressing a button. This is just the start of what pushes the Basilisk V3 above and beyond and right onto our Best Gaming Mouse page. 
+
+Razer Basilisk V3 Specs
+Sensor Model	Razer Focus+
+Max Sensitivity 	20,000 native or 26,000 via software
+Polling Rates	125, 500 or 1,000 Hz 
+Programmable Buttons	13, including 5x scroll wheel 
+LED Zones	11
+Cable	6 feet (1.8m) braided
+Connectivity 	USB Type-A cable 
+Measurements (LxWxH)	5.11 x 2.36 x 1.65 inches (129.79 x 59.94 x 41.91mm) 
+Weight (excluding cable) 	3.3 ounces (93.55g) 
+Scroll Wheel on the Razer Basilisk V3 
+
+(Image credit: Tom's Hardware)
+
+If you’re wondering how the Basilisk V3 differs from the pile of other gaming mice Razer peddles to extreme and even eSports-level gamers, a lot of the magic here is in the scroll wheel. 
+
+Latest Videos From
+Tom's Hardware
+Razer Basilisk V3 (Black) at Amazon for $32.99
+
+Called the HyperScroll Tilt wheel, the wheel can scroll freely (Free-Spin mode) or with notched movements (Tactile mode), where it scrolls line by line. Tactile mode proved helpful for tasks like cycling through weapons in-game, while Free-Spin was handy for getting through a long spreadsheet, helping the Basilisk V3 potentially slither into your productivity setup as well. 
+
+Out of the box, a button south of the wheel toggles between the two modes and, in a feature new with the V3, Smart-Reel Mode makes the wheel automatically scroll freely if scroll rapidly, before going back into its tactile scroll mode. With the Basilisk V2, you had to press a button on the mouse's underside (or reprogram that function to a different button) to change the scroll feel. But with the V3, this can happen more intuitively. 
+
+The Free-Spin scroll is so smooth that it’s like slipping through a water slide. RGB adds to the vibe, with color flowing around the wheel. But while the buttery scroll feels premium, controlling it is hard. For example, sometimes when I scrolled through a long document, instead of stopping on point, I’d stop a little higher up on the page. This was only occasional but not something I deal with when spinning freely with the MX Master 3. 
+
+In Tactile mode, every scroll results in a soft clicking noise that’s exacerbated when scrolling a lot. When I flicked the wheel in this mode, I also felt minor rattling. And when the wheel switches from Tactile to Free-Scroll mode, there’s a loud click you can also feel as internal mechanics work within. Naturally, the wheel is even noisier if you activate Smart-Reel Mode.  
+
+Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+By signing up, you agree to our Terms of services and acknowledge that you have read our Privacy Notice. You also agree to receive marketing emails from us that may include promotions from our trusted partners and sponsors, which you can unsubscribe from at any time.
+
+Overall, the wheel’s noisiness wasn’t enough to mess up my gameplay, despite being audible over game audio. If you’re a pro-level gamer, however, who focuses heavily on sounds, you’ll either want something quieter or need to tap into your best gaming headset to block out noise. It’s common for mice to make noise when switching scroll wheel modes (the HP Spectre Rechargeable Mouse 700 I’ve tested does this too). However, the Logitech MX Master 3 changes wheel modes with a much quieter thud.
+
+(Image credit: Tom's Hardware)
+
+Via Razer’s Synapse software, you can also turn on Scroll Acceleration, which the app says will “increase the scroll speed the faster you scroll.” In Tactile mode I’d only scroll a couple lines per flick unless I turned Scroll Acceleration on, but then it became hard to stop on a dime, and the scroll was very fast.  Scroll Acceleration seemed to make less of a difference when in Free-Spin mode only. 
+
+The Basilisk V3’s wheel also has more mobility than most gaming mice wheels that we’ve tested. Not only are its scroll up, down and click in programmable, but you can program actions for when you push the wheel to the left and right, too. Programming is somewhat limited, but with keyboard functions and macros available, it’s leagues beyond what most competitors offer. 
+
+But all this functionality weighs heavy on the Basilisk V3’s scroll wheel -- meaning the wheel is generally clunky, large and, occasionally, wobbly. The wheel can jiggle from side to side without activating an actuation, but this wasn’t really noticeable unless I was trying to move the scroll wheel like that purposely or moving the mouse rapidly from side to side.
+
+Design and Comfort
+Image 1 of 5
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+Some Razer mice don’t look or feel as expensive as they are when you first try them, but the Basilisk V3 is a more immediate taste. The chassis is the same as that of the V2 -- mostly a textured, matte black that feels more built to last and easier to grip than some lighter, slightly smoother mice, like the DeathAdder V2. Smooth plastic dissects the texture for an armor-like look. And, of course, it’s hard not to look fancy when you have 9 RGB zones running along the bottom edge, plus one outlining the scroll wheel and another bringing the snake logo on the palm area to life. The RGB added a wonderful glow to my mouse pad, even when testing in a sunny room. With its positioning and luminosity, this is the kind of RGB you can see when gaming. 
+
+Standing out from the left and right click buttons and palm area are the injection molded grips on the left and right sides. Tiny indentations add more resistance to the rubber-like textures and feel nice too. After about 30 minutes of intense gaming the grips got warmer but not slippery, and after 2 hours the rest of the mouse wasn’t slippery or overly clammy either.
+
+The thumb paddle is also a cozy touch. Razer says it’s supposed to fight finger drag and help create smoother flicks. Of course, my thumb can’t drag on my mouse pad with the paddle in the way and my pinky rarely did either, but I contribute the latter more to the mouse’s large hump. In terms of smoother flicks, the thumb groove on the paddle and in the mouse’s left side provide a place for anchoring the thumb and applying force.  Mostly though, I found the thumb paddle to be a general comfort improvement, rather than a blatant gaming advantage.  
+
+The thumb area has 3 programmable buttons. Out of the box they’re the web browser’s back and forward buttons, plus a sniper button that drops the mouse’s sensitivity to a low 400 counts per inch (CPI), or whatever you choose. The scroll wheel also has 5 programmable functions, and there are 5 more: the left and right click buttons, two buttons south of the scroll wheel and the profile switch button on the mouse’s underside. 
+
+According to Razer, the Basilisk V3 is best for gamers who use a palm grip, where your palm touches the mouse and wrist touches the mouse pad, or claw grip, where your palm doesn’t touch the mouse and your wrist touches the mouse pad. I usually use a claw grip for gaming but love the opportunity to use a palm grip for other tasks. I often find mice don’t have a big enough hump for me to palm grip comfortably, but the Basilisk V3 is different. I could palm grip it while avoiding finger drag or repositioning my fingers to reach the forward and back buttons and only shifting a little to hit the sniper button. Getting a reliable hold in a claw grip was also easy, thanks to the textured sides and grooves in the left and right click buttons. A lighter mouse would be easier to fling about, but PTFE feet helped movements feel fluid.
+
+With a thumb paddle, ergonomic shape targeting righties and button layout, the Basilisk V3 is very much the successor to the V3, and the mice have the same dimensions and weight (5.11 x 2.36 x 1.65 inches and 3.30 ounces). For comparison to similar, right-handed ergonomic wired gaming mice, the Corsair Nightsword RGB is similar but notably wider and heavier (5.08 x 3.38 x 1.72 inches, 4.2-4.97 ounces), while the Logitech G502 Hero is similar in dimensions but heavier (5.2 x 2.95 x 1.57 inches, 4.3-4.93 ounces).
+
+As of now, there’s only a wired version of the Basilisk V3, and that wire is the fabric-braided cable that Razer calls Speedflex and includes with its premium peripherals. It’s malleable and won’t slow you down. As of writing, the closest thing to a cable-free Basilisk V3 is the Razer Basilisk Ultimate, which is more a wireless version of the V2, just like the Razer Basilisk X HyperSpeed, which has a lesser sensor and price than the V3.
+
+Gaming Experience
+
+(Image credit: Tom's Hardware)
+
+The Basilisk V3 comes with Razer’s most high-end sensor, the Focus+, the same optical sensor used in the Basilisk V2 and Razer’s most elite gaming mice. It has a max sensitivity of 20,000 CPI via hardware or 26,000 CPI with software and a max velocity is 650 IPS (inches per second), and it can handle a max velocity of 50g. That’s as good as it gets in terms of gaming specs; however, many won’t need a super high CPI like that. Even Razer itself has told us that other factors, like polling rate and the button’s switches can have a greater effect on your success. One difference the Basilisk V3 has from Razer’s most eSports-oriented option is it’s polling rate can’t top 1,000 Hz, while Razer has started playing with 8,000 Hz mice (see: the Razer Viper 8K Hz).
+
+That said, the Focus+ is a reliable sensor that gives you the range to play with and see what you like. Whether flinging the mouse rapidly or slowly at the highest or lower CPIs, the cursor moved in tune with my movements and proved a reliable tool. 
+
+The sniper button reduces the CPI to 400 (you can make it higher or lower via Razer’s software) in a blink, allowing for quick headshots. This could become a helpful tactic but is an acquired skill. Currently, using the sensitivity clutch requires too many thoughts to be advantageous for me, but if you train to make the movement intuitive, it could change the way you play. 
+
+Of course, the easier it is to access the sensitivity clutch, the easier it is to leverage. I have long hands for a female (about 7.25 inches from wrist to middle fingertip) and found the sniper button accessible with both a palm and claw grip. After a small amount of practice, I could use it without accidentally hitting any other buttons. That’s better than I fared than with the AOC Agon AGM700, where I’d accidentally hit other side buttons because the sensitivity clutch is directly south of the forward button. A man with slightly larger hands than me also found the Basilisk V3’s sniper button easy enough to reach mid-game by shifting his hand forward a small, non-distracting amount. 
+
+We both found the back and forward side buttons opportunely placed. It’s easy to keep the thumb in the groove carved below them or resting across the middle of both and hti either one without activating another.
+
+My focus was on smashing the left and right click buttons when I played Borderlands 3, putting the Basilisk V3’s optical mechanical switches to the test. The subtle, but long, grooves in the buttons guided my fingers to the perfect spots to fire or aim a shot without having to readjust or actuate at an imprecise angle that would make input slower.
+
+(Image credit: Razer)
+
+The Basilisk V3 uses an updated version of the optical mechanical mouse switches in the Basilisk V2. The second generation mouse switches were noticeably more tactile in side-by-side comparison with the Razer DeathAdder V2 Mini, which uses the same switches as the Basilisk V2. However, the DeathAdder V2 Mini’s felt lighter to press and were less work to hit repeatedly. This points to another reason you may want to consider other mice if you’re after a very competitive FPS mouse. Of course, how fast you’re able to shoot a Calypso follower in Borderlands 3 isn’t only about specs but also how comfortable and easy the mouse makes it to fire a shot.
+
+I tried the Basilisk V3 in the Human Benchmark reaction time test, where you have to click as soon as the screen turns from the color red to green. My best time was 154ms, and I averaged 171.7ms. I don’t have a Basilisk V2 on hand, but my best time with the DeathAdder V2 Mini was 152ms and my average 155.8ms. But again, this isn’t an apples-to-apples comparison of the different generations of optical switches. 
+
+Because these switches rely on something passing through an infrared light beam to represent actuation rather than moving parts, Razer says they’ll last for up to 70 millions clicks and avoid issues like unintended double-clicking, an issue we’ve seen with even expensive gaming mice. 
+
+Easy movements and reliable, enjoyable clicks make the Basilisk V3 good for FPS titles, but its many programmable buttons makes it great for MMORPGs too. The buttons don’t get in the way either. I never hit the buttons south of the scroll wheel or shifted said wheel accidentally. Plus, if you program a button on the mouse -- or even a different Razer peripheral as I did with a Razer keyboard -- as the HyperShift key in Razer Synapse, every other key will have a second programmable function when you press HyperShift. There’s a lot of programmability here, and with custom profiles that can auto-launch with apps, you can get game-specific performance without much thinking. 
+
+If you want an ultralight mouse, perhaps for flinging about an FPS title, that’s not the Basilisk V3’s style. It looks chunkier thanks to its comfy hump, and in today’s world of hole-filled mice, the Basilisk V3’s 3.50 ounces is on the heavier end (the Cooler Master MM720 is a mere 1.72 ounces, for example). But featherweight mice aren’t everyone’s jive, and the Basilisk V3’s PTFE feet and a solid, thumb-paddle-anchored grip ensured large, quick and aggressive swipes glide smoothly. I did notice, however, the occasional nuisance of the scroll wheel gently wobbling.
+
+Features and Software
+Image 1 of 4
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+(Image credit: Tom's Hardware)
+
+One of the biggest benefits of the Basilisk V3 is its customization potential. You’ll really want to download Razer Synapse to get the most out of the mouse and its numerous buttons, onboard profiles and RGB zones. 
+
+Synapse makes it easy to assign different functions to the 9 programmable buttons -- 13 if you count the scroll wheel’s scroll up, down, left, right and in separately. You can assign a wide variety of tasks, like changing the CPI or RGB, keyboard functions and macros. As mentioned, HyperShift gives every button (except the HyperShift one) an extra function as well. 
+
+The Basilisk V3 has 5 onboard profiles: the most recently used one, plus 4 you store. That means you can take key bindings and sensor settings to another PC without downloading software. However, some features, including RGB and macros, won’t work without Synapse.
+
+Synapse stores all the preset RGB effects and lets you make your own RGB profiles that can sync with other peripherals that support Razer Synapse, (which includes offerings from other brands, like Thermaltake). RGB can even sync with the audio of supported games; 150 titles are currently supported, including Apex Legends and Fortnite. 
+
+As Razer’s most advanced proprietary sensor, the Focus+ has extra features that sound nice but are nearly impossible to notice for most. Smart Tracking ensures the mouse is tracked when lifted your choice of 1, 2 or 3mm off your mouse pad, while asymmetric cutoff allows for different lift-off and landing distances, or the distance at which the mouse starts tracking again (the lower the better for avoiding cursor drift, according to Razer). A manual calibration lets you tweak settings for specific Razer mouse pads and offers a greater customization range of 2-10mm for lift-off distance. You’d have to be a very precise player to notice the differences here, but do play around with the feature to see what works best for you.
+
+Bottom Line
+
+Gaming mice can be more expensive than expected, especially Razer rodents. When a wired mouse costs over $50, it better have a justification for its price.  The Razer Basilisk V3 makes its $70 MSRP more than understandable. For one, it’s a mouse with more heft and differing textures that all make it feel more premium than some lighter mice, like the Razer DeathAdder V2. You also get more programmable buttons than with the DeathAdder V2 and other gaming mice. That includes a scroll wheel that can switch how it feels with a flick and has 5 programmable inputs. 
+
+But the scroll wheel is a bit clunky, and occasionally you can feel its wobble. Plus, its whizzing noise can be annoying. For eSports-level gamers who rely heavily on in-game audio cues and need silence otherwise, the wheel’s too loud and, in terms of playing competitively, the mouse is potentially too heavy. The scroll wheel isn’t equal to what’s on the Logitech MX Master 3, a productivity powerhouse, or even the smaller Logitech MX Anywhere 3. But it’s interesting to see similar technology become more attainable for gamers.
+
+Additionally, if you’re a lefty or want something symmetrical, perhaps for a fingertip grip, the Basilisk V3 doesn’t fit. 
+
+And the Basilisk V3 is mildly pricier than some great alternatives. The Corsair RGB Nightsword and Logitech G502 Hero have very similar designs, are cheaper (as of writing) and have adjustable weights. But those mice are heavier than the Basilisk V3. 
+
+You’re edging out a small drop of extra oomph with the Basilisk V3. And for many, opting for the cheaper Logitech or Corsair will make more sense. But for those seeking more from their gaming mouse, with features that push it to being the best of the best, the Basilisk V3 delivers, from its extra onboard profiles and programmability compared to rivals, to its admirable texture and excessively vibrant RGB zones.
+
+Razer Basilisk V3: Price Comparison
+BLACK FRIDAY ENDS IN
+05
+DAYS
+15
+HRS
+03
+MINS
+10
+SECS
+$69.99
+$32.99
+VIEW
+$69.99
+$32.99
+VIEW
+$34.99
+VIEW
+$49.99
+$39.98
+VIEW
+$79.99
+VIEW
+Check out Black Friday at
+We check over 250 million products every day for the best prices
+POWERED BY
+TOPICS
+Science
+Hardware
+Gaming
+razer
+ SEE ALL COMMENTS (7)
+Scharon Harding
+
+Scharon Harding has over a decade of experience reporting on technology with a special affinity for gaming peripherals (especially monitors), laptops, and virtual reality. Previously, she covered business technology, including hardware, software, cyber security, cloud, and other IT happenings, at Channelnomics, with bylines at CRN UK.
+
+LATEST IN GAMING MICE
+Gaming Mice
+Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal
+ 
+ 
+Gaming Mice
+Razer's MMO mouse hits all-time low price at under $60 at Amazon in Black Friday deal — Naga V2 Hyperspeed price craters by 42% in stellar gaming mouse offer
+ 
+ 
+Gaming Mice
+Razer's lightweight DeathAdder V3 Pro price is slashed 57% at Amazon
+ 
+ 
+Gaming Mice
+Logitech G502 X Lightspeed Review: No lights, same price
+ 
+ 
+Gaming Mice
+Logitech G Pro X3 Superstrike Review: $200 for the illusion of a click
+ 
+ 
+Gaming Mice
+Former esports commentator builds his own custom mouse shell generator for 3D printing that doesn’t use AI
+ 
+ 
+LATEST IN REVIEWS
+3D Printing
+Bambu Lab P3C Review: A more affordable tool changer
+ 
+ 
+Laptops
+Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis
+ 
+ 
+Mini PCs
+MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs
+ 
+ 
+Gaming Monitors
+Samsung Odyssey G8 G80SH 32-inch 4K OLED gaming monitor review: Color, performance and style
+ 
+ 
+Wearable Tech
+Xreal Aura Review: Android XR combined with lightweight glasses delivers a true next-gen spatial computing experience
+ 
+ 
+SSDs
+Phison Pascari X201P 15.36TB SSD Review: Fast PCIe 5.0 write performance for AI and ingest servers
+ 
+ 
+
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+Add as a preferred source on Google
+Terms and conditions
+Contact Future's experts
+Privacy policy
+Cookies policy
+Accessibility Statement
+Advertise with us
+About us
+Coupons
+Careers
+Do not sell or share my personal information
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
